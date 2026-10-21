@@ -32,7 +32,7 @@ https://ownly-network.github.io/china-news-feed-samples/ lists hot-list topics t
 ## Related links
 
 - Hugging Face dataset (same sample, loadable with `datasets`): https://huggingface.co/datasets/freedom-press/china-news-feed-sample
-- MCP server for Claude Desktop, Cursor and other MCP clients: https://github.com/joydai2026-del/china-news-feed-mcp
+- MCP server for Claude Desktop, Cursor and other MCP clients: https://github.com/Ownly-Network/china-news-feed-mcp
 - Apify actor (full feed, $8 per 1,000 rows): https://apify.com/china.unofficial/china-news-feed
 
 ## License
