@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-21 10:12 ET",
+ "generated_at_et": "2026-10-21 11:20 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,14 +7,14 @@
  "cut": {
   "flagged": 79,
   "came back once before": 1,
-  "gone under 60 min": 9,
-  "not in the top 10 when it left": 20,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 21,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 29,
+  "on the list a normal length of time": 34,
   "inside the list's normal rotation": 2,
   "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 7,
-  "retitled": 3,
+  "left with other flagged topics (batch drop)": 8,
+  "retitled": 2,
   "topic still on the list": 2,
   "same story as a kept item": 0,
   "kept": 4
@@ -117,13 +117,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 20, 9:50 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 20, 10:34 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "The Witness 法庭線",
-     "url": "https://thewitnesshk.com/%e6%8c%81%e7%ba%8c%e6%9b%b4%e6%96%b0-%e8%94%a1%e5%a4%a9%e9%b3%b3%e6%a1%88day19-%e8%94%a1%e5%a4%a9%e9%b3%b3%e5%89%8d/",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 20, 10:34 PM ET"
    ]
   }
  ]
