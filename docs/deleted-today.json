@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-21 16:37 ET",
+ "generated_at_et": "2026-10-21 17:44 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -89,12 +89,6 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 1:09 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 2:00 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/lifestyle/starbucks-china-seating-rule/",
-     "published": null
-    },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Ming Pao 明報",
@@ -215,7 +209,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 20, 9:50 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 20, 10:34 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 20, 10:34 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "The Witness 法庭線",
+     "url": "https://thewitnesshk.com/%e6%8c%81%e7%ba%8c%e6%9b%b4%e6%96%b0-%e8%94%a1%e5%a4%a9%e9%b3%b3%e6%a1%88day19-%e8%94%a1%e5%a4%a9%e9%b3%b3%e5%89%8d/",
+     "published": null
+    }
    ]
   }
  ]
