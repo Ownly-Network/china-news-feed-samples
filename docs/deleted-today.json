@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-21 17:44 ET",
+ "generated_at_et": "2026-10-21 18:51 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -34,8 +34,13 @@
    "first_missing_et": "Oct 21, 11:35 AM ET",
    "minutes_on_list": 97,
    "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%BA%8B%E4%BB%B6",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "栗正杰痛批“精日”留学生：作为南京人却明知故犯，对得起你的家乡吗",
+    "url": "https://new.qq.com/rain/a/20261022V00MH500",
+    "published": "2026-10-22 04:30:01"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 11:47 AM ET",
@@ -79,10 +84,10 @@
    "minutes_on_list": 102,
    "url": "https://www.toutiao.com/trending/7698471371961122857/",
    "official_line": {
-    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "“消费入座”，没毛病",
-    "url": "https://www.peopleapp.com/column/30053394044-500007751411",
-    "published": "2026-10-21T12:20:26Z"
+    "source": "Tencent News 腾讯网",
+    "title": "星巴克“消费入座”，曾经包容所有人的第三空间，要关门了？",
+    "url": "https://new.qq.com/rain/a/20261022A01YV700",
+    "published": "2026-10-22 06:02:21"
    },
    "official_line_zh": null,
    "evidence": [
@@ -165,7 +170,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #18 → #6 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 1:09 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 2:00 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 2:00 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/international/china-news-1021/",
+     "published": null
+    }
    ]
   },
   {
