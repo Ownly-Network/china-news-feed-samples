@@ -1,14 +1,14 @@
 {
- "generated_at_et": "2026-10-22 13:21 ET",
+ "generated_at_et": "2026-10-22 14:27 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 9,
  "cut": {
-  "flagged": 104,
+  "flagged": 103,
   "came back once before": 3,
   "gone under 60 min": 1,
-  "not in the top 10 when it left": 40,
+  "not in the top 10 when it left": 38,
   "slid down before leaving": 1,
   "on the list a normal length of time": 31,
   "inside the list's normal rotation": 5,
@@ -17,7 +17,7 @@
   "retitled": 1,
   "topic still on the list": 2,
   "same story as a kept item": 1,
-  "kept": 8
+  "kept": 9
  },
  "items": [
   {
@@ -58,9 +58,9 @@
    "url": "https://www.toutiao.com/trending/7698305997529628713/",
    "official_line": {
     "source": "Tencent News 腾讯网",
-    "title": "72岁董明珠被学生喊奶奶，直言：我听了很不开心，你怎么能喊我奶奶呢，我还很年轻",
-    "url": "https://new.qq.com/rain/a/20261022A0E1FQ00",
-    "published": "2026-10-22 22:42:04"
+    "title": "72岁董明珠被喊“奶奶”很不开心：“我还很年轻啊”！",
+    "url": "https://new.qq.com/rain/a/20261023V00J0N00",
+    "published": "2026-10-23 00:40:24"
    },
    "official_line_zh": null,
    "evidence": [
@@ -89,6 +89,28 @@
     "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #4 → #6 → #6 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 8:57 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 9:48 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "高市早苗疑因醉酒缺席G7线上峰会",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Oct 22, 8:30 AM ET",
+   "last_seen_et": "Oct 22, 9:42 AM ET",
+   "first_missing_et": "Oct 22, 9:47 AM ET",
+   "minutes_on_list": 72,
+   "url": "https://www.toutiao.com/trending/7698582031202238515/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 9:59 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 10:51 AM ET"
    ]
   },
   {
@@ -154,7 +176,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #47 → #43 → #40 → #42 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:10 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:56 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:56 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E5%A4%BA%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%AC%AC26%E5%86%A0%23&t=31&band_rank=4&Refer=top",
+     "published": "2026-10-23"
+    }
    ]
   },
   {
