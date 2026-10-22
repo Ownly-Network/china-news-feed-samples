@@ -1,56 +1,45 @@
 {
- "generated_at_et": "2026-10-22 01:50 ET",
+ "generated_at_et": "2026-10-22 04:09 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 8,
  "cut": {
-  "flagged": 104,
-  "came back once before": 0,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 33,
-  "slid down before leaving": 2,
-  "on the list a normal length of time": 39,
-  "inside the list's normal rotation": 1,
-  "still on another hot list": 8,
-  "left with other flagged topics (batch drop)": 11,
-  "retitled": 1,
+  "flagged": 114,
+  "came back once before": 3,
+  "gone under 60 min": 7,
+  "not in the top 10 when it left": 34,
+  "slid down before leaving": 1,
+  "on the list a normal length of time": 37,
+  "inside the list's normal rotation": 3,
+  "still on another hot list": 9,
+  "left with other flagged topics (batch drop)": 10,
+  "retitled": 0,
   "topic still on the list": 1,
-  "same story as a kept item": 0,
-  "kept": 7
+  "same story as a kept item": 1,
+  "kept": 8
  },
  "items": [
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "警方回应“留学生在国外身披旭日旗”",
-   "title_en": "Police Respond to \"International Student Wearing the Rising Sun Flag Abroad\"",
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "南京警方回应留学生披旭日旗事件",
+   "title_en": "Nanjing Police Respond to Incident Involving International Student Wearing the Rising Sun Flag",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
    "peak_rank": 1,
-   "first_seen_et": "Oct 21, 9:49 AM ET",
+   "first_seen_et": "Oct 21, 9:54 AM ET",
    "last_seen_et": "Oct 21, 11:31 AM ET",
    "first_missing_et": "Oct 21, 11:35 AM ET",
-   "minutes_on_list": 102,
-   "url": "https://www.toutiao.com/trending/7699114472975109670/",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "70名中国留学生在泰国被骗近200万元 媒体披露新骗局",
-    "url": "https://www.163.com/dy/article/L9R14HK305345ARG.html",
-    "published": "2026-10-22 10:58:41"
-   },
-   "official_line_zh": null,
+   "minutes_on_list": 97,
+   "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%BA%8B%E4%BB%B6",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 11:47 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:43 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sydney Today 今日悉尼",
-     "url": "https://www.sydneytoday.com/content-1026607152508001",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:43 PM ET"
    ]
   },
   {
@@ -111,13 +100,8 @@
    "first_missing_et": "Oct 21, 12:42 PM ET",
    "minutes_on_list": 166,
    "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%8F%8D%E6%AD%BB%E4%BA%A1%E7%94%B7%E5%AD%90%E5%AE%B6%E4%BA%BA%EF%BC%9A%E4%BB%8E%E6%9C%AA%E8%A6%81%E6%B1%82%E5%85%8D%E8%B4%B9%E6%95%91%E6%8F%B4",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "21岁男子稻城亚丁高反死亡 其姐与报警人聊天记录披露",
-    "url": "https://www.163.com/dy/article/L9PUORNA051492T3.html",
-    "published": "2026-10-21 23:26:58"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:53 PM ET",
@@ -144,6 +128,28 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 21, 5:29 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 6:22 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "A股千元股仅剩两只",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Oct 21, 11:02 PM ET",
+   "last_seen_et": "Oct 22, 12:25 AM ET",
+   "first_missing_et": "Oct 22, 12:30 AM ET",
+   "minutes_on_list": 83,
+   "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%83%E5%85%83%E8%82%A1%E4%BB%85%E5%89%A9%E4%B8%A4%E5%8F%AA",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 12:51 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 1:47 AM ET"
    ]
   },
   {
