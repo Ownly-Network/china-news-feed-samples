@@ -1,16 +1,16 @@
 {
- "generated_at_et": "2026-10-21 18:51 ET",
+ "generated_at_et": "2026-10-21 19:58 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 8,
  "cut": {
-  "flagged": 78,
+  "flagged": 83,
   "came back once before": 1,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 20,
+  "gone under 60 min": 10,
+  "not in the top 10 when it left": 18,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 32,
+  "on the list a normal length of time": 29,
   "inside the list's normal rotation": 2,
   "still on another hot list": 2,
   "left with other flagged topics (batch drop)": 7,
@@ -35,10 +35,10 @@
    "minutes_on_list": 97,
    "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%BA%8B%E4%BB%B6",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "栗正杰痛批“精日”留学生：作为南京人却明知故犯，对得起你的家乡吗",
-    "url": "https://new.qq.com/rain/a/20261022V00MH500",
-    "published": "2026-10-22 04:30:01"
+    "source": "NetEase News 网易新闻",
+    "title": "南京警方回应＂留学生在国外身披旭日旗＂：这不是小事",
+    "url": "https://www.163.com/dy/article/L9Q3R2TD05561G0D.html",
+    "published": "2026-10-22 07:45:12"
    },
    "official_line_zh": null,
    "evidence": [
