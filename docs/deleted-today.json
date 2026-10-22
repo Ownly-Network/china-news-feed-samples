@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-22 09:58 ET",
+ "generated_at_et": "2026-10-22 11:04 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 10,
  "cut": {
   "flagged": 108,
   "came back once before": 3,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 41,
-  "slid down before leaving": 2,
-  "on the list a normal length of time": 26,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 39,
+  "slid down before leaving": 1,
+  "on the list a normal length of time": 29,
   "inside the list's normal rotation": 5,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 9,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 8,
   "retitled": 1,
   "topic still on the list": 1,
-  "same story as a kept item": 1,
-  "kept": 9
+  "same story as a kept item": 2,
+  "kept": 10
  },
  "items": [
   {
@@ -111,6 +111,28 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
+   "title_zh": "高市早苗疑因醉酒缺席G7线上峰会",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Oct 22, 8:30 AM ET",
+   "last_seen_et": "Oct 22, 9:42 AM ET",
+   "first_missing_et": "Oct 22, 9:47 AM ET",
+   "minutes_on_list": 72,
+   "url": "https://www.toutiao.com/trending/7698582031202238515/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 9:59 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 10:51 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
    "title_zh": "创业板失守2600点",
    "title_en": "",
    "label": "Dropped off",
@@ -133,23 +155,23 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "高反死亡男子家人：从未要求免费救援",
-   "title_en": "Family of Man Who Died from Altitude Sickness: We Never Asked for Free Rescue Services",
+   "title_zh": "国乒男团0比1中国台北",
+   "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Oct 21, 9:49 AM ET",
-   "last_seen_et": "Oct 21, 12:35 PM ET",
-   "first_missing_et": "Oct 21, 12:42 PM ET",
-   "minutes_on_list": 166,
-   "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%8F%8D%E6%AD%BB%E4%BA%A1%E7%94%B7%E5%AD%90%E5%AE%B6%E4%BA%BA%EF%BC%9A%E4%BB%8E%E6%9C%AA%E8%A6%81%E6%B1%82%E5%85%8D%E8%B4%B9%E6%95%91%E6%8F%B4",
+   "peak_rank": 6,
+   "first_seen_et": "Oct 22, 3:15 AM ET",
+   "last_seen_et": "Oct 22, 3:50 AM ET",
+   "first_missing_et": "Oct 22, 3:52 AM ET",
+   "minutes_on_list": 35,
+   "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A20%E6%AF%941%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:53 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 1:42 PM ET"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #47 → #43 → #40 → #42 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:10 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:56 AM ET"
    ]
   },
   {
