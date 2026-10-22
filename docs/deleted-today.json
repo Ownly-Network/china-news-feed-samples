@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-22 11:04 ET",
+ "generated_at_et": "2026-10-22 12:16 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 8,
  "cut": {
-  "flagged": 108,
+  "flagged": 105,
   "came back once before": 3,
-  "gone under 60 min": 5,
+  "gone under 60 min": 3,
   "not in the top 10 when it left": 39,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 29,
+  "on the list a normal length of time": 30,
   "inside the list's normal rotation": 5,
-  "still on another hot list": 4,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 8,
   "retitled": 1,
   "topic still on the list": 1,
-  "same story as a kept item": 2,
-  "kept": 10
+  "same story as a kept item": 1,
+  "kept": 8
  },
  "items": [
   {
@@ -40,28 +40,6 @@
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #5 → #8 → #5 → #4 → #5 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 6:10 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 6:55 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "南京警方回应留学生披旭日旗事件",
-   "title_en": "Nanjing Police Respond to Incident Involving International Student Wearing the Rising Sun Flag",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 21, 9:54 AM ET",
-   "last_seen_et": "Oct 21, 11:31 AM ET",
-   "first_missing_et": "Oct 21, 11:35 AM ET",
-   "minutes_on_list": 97,
-   "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%BA%8B%E4%BB%B6",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 11:47 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:43 PM ET"
    ]
   },
   {
@@ -111,28 +89,6 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "高市早苗疑因醉酒缺席G7线上峰会",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Oct 22, 8:30 AM ET",
-   "last_seen_et": "Oct 22, 9:42 AM ET",
-   "first_missing_et": "Oct 22, 9:47 AM ET",
-   "minutes_on_list": 72,
-   "url": "https://www.toutiao.com/trending/7698582031202238515/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 9:59 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 10:51 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
    "title_zh": "创业板失守2600点",
    "title_en": "",
    "label": "Dropped off",
@@ -150,6 +106,28 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 3:48 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:31 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "我军为何在黄海南部进行长时间演习",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Oct 22, 8:41 AM ET",
+   "last_seen_et": "Oct 22, 10:39 AM ET",
+   "first_missing_et": "Oct 22, 10:44 AM ET",
+   "minutes_on_list": 119,
+   "url": "https://www.toutiao.com/trending/7699434913203752458/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #8 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 10:56 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 11:48 AM ET"
    ]
   },
   {
@@ -194,28 +172,6 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 11:31 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 12:16 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "A股科技牛市结束了吗",
-   "title_en": "Has the A-share tech bull market come to an end?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 9,
-   "first_seen_et": "Oct 21, 10:55 AM ET",
-   "last_seen_et": "Oct 21, 12:06 PM ET",
-   "first_missing_et": "Oct 21, 12:11 PM ET",
-   "minutes_on_list": 71,
-   "url": "https://www.toutiao.com/trending/7699106175337369124/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #34 → #23 → #24 → #27 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:24 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 1:12 PM ET"
    ]
   },
   {
