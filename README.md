@@ -31,8 +31,8 @@ https://ownly-network.github.io/china-news-feed-samples/ lists hot-list topics t
 
 ## Related links
 
-- Hugging Face dataset (weekly Deletion Watch snapshots, loadable with `datasets`): https://huggingface.co/datasets/freedom-press/china-news-feed-sample
-- Hugging Face Space, *What vanished from China's hot lists this week*: https://huggingface.co/spaces/JJ-77/china-deletion-watch
+- Hugging Face dataset (weekly Deletion Watch snapshots, loadable with `datasets`): https://huggingface.co/datasets/ownly-network/china-news-feed-sample
+- Hugging Face Space, *What vanished from China's hot lists this week*: https://huggingface.co/spaces/ownly-network/china-deletion-watch
 - MCP server for Claude Desktop, Cursor and other MCP clients: https://github.com/Ownly-Network/china-news-feed-mcp
 - Apify actor (full feed, $8 per 1,000 rows): https://apify.com/china.unofficial/china-news-feed
 
