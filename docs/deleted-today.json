@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-22 08:50 ET",
+ "generated_at_et": "2026-10-22 09:58 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 9,
  "cut": {
-  "flagged": 110,
+  "flagged": 108,
   "came back once before": 3,
-  "gone under 60 min": 5,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 41,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 29,
-  "inside the list's normal rotation": 4,
-  "still on another hot list": 5,
+  "on the list a normal length of time": 26,
+  "inside the list's normal rotation": 5,
+  "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 9,
   "retitled": 1,
   "topic still on the list": 1,
-  "same story as a kept item": 2,
-  "kept": 8
+  "same story as a kept item": 1,
+  "kept": 9
  },
  "items": [
   {
@@ -56,13 +56,8 @@
    "first_missing_et": "Oct 21, 11:35 AM ET",
    "minutes_on_list": 97,
    "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%BA%8B%E4%BB%B6",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "南京警方回应＂留学生在国外身披旭日旗＂：这不是小事",
-    "url": "https://www.163.com/dy/article/L9Q3R2TD05561G0D.html",
-    "published": "2026-10-22 07:45:12"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 11:47 AM ET",
@@ -89,6 +84,28 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 11:31 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 12:16 AM ET"
+   ]
+  },
+  {
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "title_zh": "戴锦华毛尖滕威合体聊电影",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 3,
+   "first_seen_et": "Oct 22, 7:14 AM ET",
+   "last_seen_et": "Oct 22, 8:41 AM ET",
+   "first_missing_et": "Oct 22, 8:46 AM ET",
+   "minutes_on_list": 86,
+   "url": "https://search.bilibili.com/all?keyword=%E6%88%B4%E9%94%A6%E5%8D%8E%E6%AF%9B%E5%B0%96%E6%BB%95%E5%A8%81%E5%90%88%E4%BD%93%E8%81%8A%E7%94%B5%E5%BD%B1",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #4 → #6 → #6 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 8:57 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 9:48 AM ET"
    ]
   },
   {
