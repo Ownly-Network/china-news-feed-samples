@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-22 00:44 ET",
+ "generated_at_et": "2026-10-22 01:50 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 7,
  "cut": {
-  "flagged": 107,
+  "flagged": 104,
   "came back once before": 0,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 32,
-  "slid down before leaving": 1,
-  "on the list a normal length of time": 38,
-  "inside the list's normal rotation": 2,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 9,
+  "gone under 60 min": 1,
+  "not in the top 10 when it left": 33,
+  "slid down before leaving": 2,
+  "on the list a normal length of time": 39,
+  "inside the list's normal rotation": 1,
+  "still on another hot list": 8,
+  "left with other flagged topics (batch drop)": 11,
   "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 7
  },
  "items": [
   {
@@ -98,39 +98,6 @@
    ]
   },
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "星巴克在中国施行消费入座",
-   "title_en": "Starbucks Implements a \"Pay-to-Sit\" Policy in China",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Oct 20, 11:05 PM ET",
-   "last_seen_et": "Oct 21, 12:48 AM ET",
-   "first_missing_et": "Oct 21, 12:53 AM ET",
-   "minutes_on_list": 102,
-   "url": "https://www.toutiao.com/trending/7698471371961122857/",
-   "official_line": {
-    "source": "Jiemian 界面新闻",
-    "title": "投资3亿改造、明确“消费入座”，星巴克新打法能否找到新节奏？",
-    "url": "https://www.jiemian.com/article/15222067.html",
-    "published": "2026-10-22 11:26:00"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 1:09 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 2:00 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Ming Pao 明報",
-     "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOQkl2WXRVcGRTaFZ1bDc0blY3TmVmOGZpcG9vWGNwNmJOejFnSUJnUXVYZVNVbE5YYU5VcGxaRnJHckJwVUJMNi1nX3ZYOS1meDFzMVUtUGFMcFN0WlZhbzRGNFRQWGE0R0J2Sjk4dUlTRUJVUVZOZkprWFJhV3J1S3NIZ0doaFBwR3ctSWswWnFvZGIwY3ozSHp6X0JSSTZlZ2dQc0lrVC1leHk5NDVyS2NZNWdSM0I4T2g5cGxVVVFLV3FlTW9Kd29kVi1BQkg4d284ZkU5NGdLdElSU0kzREprRW5KbWk1Rko1VHFIYk1nVVVIQ0t0S1Myd2x4Y24xbUx1X3lnYzlMbVdiWVhqUTNMckM4ZEpmRDJvWkw1bEJaNzlORXVLWVE3UmZ1MmprdU9rSE0xTGZ1YXZFbnUxd3k0RFEtcWhrSVZYMjNXZW9jREp4WFRGVWhRbVk1ekZ3THkxV21nVFloUzExVmlJWFR3d2xvTHFLOXBLUV9vSkl3MDhJUGJwU1VPOWNMQ0s2N00teC1tSFpLM3VJVjQ3X2tXcklWX0dEMFpjWnNIc0FmcWxrWHVPc3JtVUdLQWd2Qk5kOTdsdkQtU2tNRVRtT0s1eU1yVDA?oc=5",
-     "published": null
-    }
-   ]
-  },
-  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "高反死亡男子家人：从未要求免费救援",
@@ -177,28 +144,6 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 21, 5:29 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 6:22 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "重庆坠亡幼童父亲称已将狗处理",
-   "title_en": "Father of Toddler Who Fell to His Death in Chongqing Says He Has Had the Dog Euthanized",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Oct 21, 12:10 AM ET",
-   "last_seen_et": "Oct 21, 12:55 AM ET",
-   "first_missing_et": "Oct 21, 12:58 AM ET",
-   "minutes_on_list": 45,
-   "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%9D%A0%E4%BA%A1%E5%B9%BC%E7%AB%A5%E7%88%B6%E4%BA%B2%E7%A7%B0%E5%B7%B2%E5%B0%86%E7%8B%97%E5%A4%84%E7%90%86",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #18 → #6 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 1:09 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 2:00 AM ET"
    ]
   },
   {
