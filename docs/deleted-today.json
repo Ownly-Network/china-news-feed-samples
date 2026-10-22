@@ -1,50 +1,56 @@
 {
- "generated_at_et": "2026-10-21 21:10 ET",
+ "generated_at_et": "2026-10-21 22:15 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 7,
  "cut": {
-  "flagged": 84,
+  "flagged": 95,
   "came back once before": 1,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 26,
+  "gone under 60 min": 11,
+  "not in the top 10 when it left": 29,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 30,
+  "on the list a normal length of time": 31,
   "inside the list's normal rotation": 2,
   "still on another hot list": 4,
-  "left with other flagged topics (batch drop)": 4,
+  "left with other flagged topics (batch drop)": 5,
   "retitled": 2,
-  "topic still on the list": 1,
-  "same story as a kept item": 1,
-  "kept": 8
+  "topic still on the list": 2,
+  "same story as a kept item": 0,
+  "kept": 7
  },
  "items": [
   {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "南京警方回应留学生披旭日旗事件",
-   "title_en": "Nanjing Police Respond to Incident Involving International Student Wearing the Rising Sun Flag",
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "警方回应“留学生在国外身披旭日旗”",
+   "title_en": "Police Respond to \"International Student Wearing the Rising Sun Flag Abroad\"",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
    "peak_rank": 1,
-   "first_seen_et": "Oct 21, 9:54 AM ET",
+   "first_seen_et": "Oct 21, 9:49 AM ET",
    "last_seen_et": "Oct 21, 11:31 AM ET",
    "first_missing_et": "Oct 21, 11:35 AM ET",
-   "minutes_on_list": 97,
-   "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%BA%8B%E4%BB%B6",
+   "minutes_on_list": 102,
+   "url": "https://www.toutiao.com/trending/7699114472975109670/",
    "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "南京警方回应＂留学生在国外身披旭日旗＂：这不是小事",
-    "url": "https://www.163.com/dy/article/L9Q3R2TD05561G0D.html",
-    "published": "2026-10-22 07:45:12"
+    "source": "YouTube: 中国新闻社 China News Service",
+    "title": "#披旭日旗中国留学生已被遣返 #莫大联名信发起者称历史学家有祖国 ！",
+    "url": "https://www.youtube.com/shorts/Xpj5GvSn5Ow",
+    "published": "2026-10-21T08:35:29+00:00"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 11:47 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:43 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:43 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sydney Today 今日悉尼",
+     "url": "https://www.sydneytoday.com/content-1026607152508001",
+     "published": null
+    }
    ]
   },
   {
@@ -199,34 +205,6 @@
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #34 → #23 → #24 → #27 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:24 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 1:12 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "蔡天凤前公公买绞肉机监控曝光",
-   "title_en": "Surveillance Footage Shows Cai Tianfeng’s Former Father-in-Law Buying a Meat Grinder",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 9,
-   "first_seen_et": "Oct 20, 8:33 PM ET",
-   "last_seen_et": "Oct 20, 9:30 PM ET",
-   "first_missing_et": "Oct 20, 9:33 PM ET",
-   "minutes_on_list": 58,
-   "url": "https://www.baidu.com/s?wd=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%89%8D%E5%85%AC%E5%85%AC%E4%B9%B0%E7%BB%9E%E8%82%89%E6%9C%BA%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 20, 9:50 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 20, 10:34 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "The Witness 法庭線",
-     "url": "https://thewitnesshk.com/%e6%8c%81%e7%ba%8c%e6%9b%b4%e6%96%b0-%e8%94%a1%e5%a4%a9%e9%b3%b3%e6%a1%88day19-%e8%94%a1%e5%a4%a9%e9%b3%b3%e5%89%8d/",
-     "published": null
-    }
    ]
   }
  ]
