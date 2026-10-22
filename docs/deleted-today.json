@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-22 04:09 ET",
+ "generated_at_et": "2026-10-22 05:26 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 7,
  "cut": {
-  "flagged": 114,
-  "came back once before": 3,
-  "gone under 60 min": 7,
-  "not in the top 10 when it left": 34,
+  "flagged": 117,
+  "came back once before": 2,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 38,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 37,
+  "on the list a normal length of time": 38,
   "inside the list's normal rotation": 3,
   "still on another hot list": 9,
   "left with other flagged topics (batch drop)": 10,
-  "retitled": 0,
+  "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 1,
-  "kept": 8
+  "kept": 7
  },
  "items": [
   {
@@ -43,28 +43,6 @@
    ]
   },
   {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "AQ vs WSIG VCTCN晋升赛",
-   "title_en": "AQ vs. WSIG VCTCN Promotion Match",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 21, 3:05 AM ET",
-   "last_seen_et": "Oct 21, 4:36 AM ET",
-   "first_missing_et": "Oct 21, 4:44 AM ET",
-   "minutes_on_list": 91,
-   "url": "https://search.bilibili.com/all?keyword=AQ%20vs%20WSIG",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 4:57 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 5:45 AM ET"
-   ]
-  },
-  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "72岁董明珠称被学生喊奶奶很不开心",
@@ -87,6 +65,28 @@
    ]
   },
   {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "创业板失守2600点",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Oct 22, 1:40 AM ET",
+   "last_seen_et": "Oct 22, 3:25 AM ET",
+   "first_missing_et": "Oct 22, 3:29 AM ET",
+   "minutes_on_list": 105,
+   "url": "https://www.toutiao.com/trending/7699356893084388927/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 3:48 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:31 AM ET"
+   ]
+  },
+  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "高反死亡男子家人：从未要求免费救援",
@@ -106,50 +106,6 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:53 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 1:42 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "安徽提前偿还3亿政府债券",
-   "title_en": "Anhui Repays 300 Million in Government Bonds Ahead of Schedule",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Oct 21, 3:42 AM ET",
-   "last_seen_et": "Oct 21, 5:11 AM ET",
-   "first_missing_et": "Oct 21, 5:17 AM ET",
-   "minutes_on_list": 90,
-   "url": "https://www.toutiao.com/trending/7698949858920579115/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 21, 5:29 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 6:22 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "A股千元股仅剩两只",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Oct 21, 11:02 PM ET",
-   "last_seen_et": "Oct 22, 12:25 AM ET",
-   "first_missing_et": "Oct 22, 12:30 AM ET",
-   "minutes_on_list": 83,
-   "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%83%E5%85%83%E8%82%A1%E4%BB%85%E5%89%A9%E4%B8%A4%E5%8F%AA",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 12:51 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 1:47 AM ET"
    ]
   },
   {
@@ -194,6 +150,28 @@
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #34 → #23 → #24 → #27 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 12:24 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 1:12 PM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "小鹏飞行汽车已量产交付",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Oct 22, 2:40 AM ET",
+   "last_seen_et": "Oct 22, 3:29 AM ET",
+   "first_missing_et": "Oct 22, 3:34 AM ET",
+   "minutes_on_list": 49,
+   "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E5%B7%B2%E9%87%8F%E4%BA%A7%E4%BA%A4%E4%BB%98",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #23 → #18 → #19 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 3:49 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:40 AM ET"
    ]
   }
  ]
