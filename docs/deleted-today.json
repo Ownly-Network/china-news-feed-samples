@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-22 22:55 ET",
+ "generated_at_et": "2026-10-23 00:02 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 9,
  "cut": {
   "flagged": 104,
   "came back once before": 5,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 29,
+  "gone under 60 min": 10,
+  "not in the top 10 when it left": 26,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 31,
+  "on the list a normal length of time": 34,
   "inside the list's normal rotation": 6,
-  "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 5,
+  "still on another hot list": 5,
+  "left with other flagged topics (batch drop)": 2,
   "retitled": 1,
-  "topic still on the list": 1,
+  "topic still on the list": 5,
   "same story as a kept item": 0,
-  "kept": 10
+  "kept": 9
  },
  "items": [
   {
@@ -40,28 +40,6 @@
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #5 → #8 → #5 → #4 → #5 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 6:10 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 6:55 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "72岁董明珠称被学生喊奶奶很不开心",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Oct 21, 10:11 PM ET",
-   "last_seen_et": "Oct 21, 11:10 PM ET",
-   "first_missing_et": "Oct 21, 11:15 PM ET",
-   "minutes_on_list": 59,
-   "url": "https://www.toutiao.com/trending/7698305997529628713/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 11:31 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 12:16 AM ET"
    ]
   },
   {
@@ -100,29 +78,12 @@
    "first_missing_et": "Oct 22, 9:47 AM ET",
    "minutes_on_list": 72,
    "url": "https://www.toutiao.com/trending/7698582031202238515/",
-   "official_line": {
-    "source": "Reference News 参考消息",
-    "title": "日媒：日本前首相石破茂痛批高市早苗政策",
-    "url": "https://ckxxapp.ckxx.net/pages/2026/10/21/d764624046ac48e0b61bb706cd62af85.html",
-    "published": "2026-10-21"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 9:59 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 10:51 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 希望之聲TV Sound of Hope",
-     "url": "https://www.youtube.com/watch?v=6ueCvoWybIY",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: DW Chinese 德国之声中文",
-     "url": "https://www.youtube.com/watch?v=mwAO2rgdwbg",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 10:51 AM ET"
    ]
   },
   {
@@ -222,23 +183,28 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "80岁老人网上卖零食接连遭仅退款",
+   "title_zh": "中国足协：女足主帅米利西奇离任",
    "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Oct 21, 9:49 PM ET",
-   "last_seen_et": "Oct 21, 11:07 PM ET",
-   "first_missing_et": "Oct 21, 11:10 PM ET",
-   "minutes_on_list": 78,
-   "url": "https://www.baidu.com/s?wd=80%E5%B2%81%E8%80%81%E4%BA%BA%E7%BD%91%E4%B8%8A%E5%8D%96%E9%9B%B6%E9%A3%9F%E6%8E%A5%E8%BF%9E%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "peak_rank": 10,
+   "first_seen_et": "Oct 22, 9:45 PM ET",
+   "last_seen_et": "Oct 22, 10:40 PM ET",
+   "first_missing_et": "Oct 22, 10:41 PM ET",
+   "minutes_on_list": 55,
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%EF%BC%9A%E5%A5%B3%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%B1%B3%E5%88%A9%E8%A5%BF%E5%A5%87%E7%A6%BB%E4%BB%BB",
+   "official_line": {
+    "source": "CCTV News 央视新闻 (news.cctv.com)",
+    "title": "中国足协：女足主帅米利西奇离任",
+    "url": "https://news.cctv.com/2026/10/23/ARTIeekWQrNxTaWbdpDjKyjT261023.shtml",
+    "published": "2026-10-23 09:55:54"
+   },
+   "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 21, 11:31 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 12:16 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 10:52 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 11:44 PM ET"
    ]
   },
   {
