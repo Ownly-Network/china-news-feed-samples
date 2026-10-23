@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-23 00:02 ET",
+ "generated_at_et": "2026-10-23 01:07 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 8,
  "cut": {
   "flagged": 104,
   "came back once before": 5,
-  "gone under 60 min": 10,
-  "not in the top 10 when it left": 26,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 34,
+  "on the list a normal length of time": 36,
   "inside the list's normal rotation": 6,
   "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 2,
-  "retitled": 1,
-  "topic still on the list": 5,
+  "retitled": 0,
+  "topic still on the list": 9,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 8
  },
  "items": [
   {
@@ -78,34 +78,17 @@
    "first_missing_et": "Oct 22, 9:47 AM ET",
    "minutes_on_list": 72,
    "url": "https://www.toutiao.com/trending/7698582031202238515/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "日媒：高市早苗被质疑因醉酒缺席G7线上峰会，辩解说辞被指是“谎言”",
+    "url": "https://new.qq.com/rain/a/20261023A068B800",
+    "published": "2026-10-23 11:56:26"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 9:59 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 10:51 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "创业板失守2600点",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Oct 22, 1:40 AM ET",
-   "last_seen_et": "Oct 22, 3:25 AM ET",
-   "first_missing_et": "Oct 22, 3:29 AM ET",
-   "minutes_on_list": 105,
-   "url": "https://www.toutiao.com/trending/7699356893084388927/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 3:48 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:31 AM ET"
    ]
   },
   {
@@ -131,6 +114,28 @@
    ]
   },
   {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "东契奇中线位置投进超远压哨三分",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Oct 22, 12:20 AM ET",
+   "last_seen_et": "Oct 22, 2:09 AM ET",
+   "first_missing_et": "Oct 22, 2:15 AM ET",
+   "minutes_on_list": 108,
+   "url": "https://www.toutiao.com/trending/7699327826096505353/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #6 → #6 → #8 → #8 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 2:29 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 22, 3:28 AM ET"
+   ]
+  },
+  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "国乒男团0比1中国台北",
@@ -149,13 +154,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #47 → #43 → #40 → #42 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:10 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:56 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E5%A4%BA%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%AC%AC26%E5%86%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%259B%25BD%25E4%25B9%2592%25E7%2594%25B7%25E5%259B%25A2%25E5%25A4%25BA%25E4%25BA%259A%25E9%2594%25A6%25E8%25B5%259B%25E7%25AC%25AC26%25E5%2586%25A0%2523%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D4%26cate%3D5001%26flag%3D0%26band_rank%3D5%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D5%26dgr%3D0%26display_time%3D1792699313%26pre_seqid%3D17926993133810216966467&launchid=10000360-page_H5",
-     "published": "2026-10-23"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 4:56 AM ET"
    ]
   },
   {
@@ -178,33 +177,6 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #10 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 8:52 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 9:47 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "中国足协：女足主帅米利西奇离任",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 10,
-   "first_seen_et": "Oct 22, 9:45 PM ET",
-   "last_seen_et": "Oct 22, 10:40 PM ET",
-   "first_missing_et": "Oct 22, 10:41 PM ET",
-   "minutes_on_list": 55,
-   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%EF%BC%9A%E5%A5%B3%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%B1%B3%E5%88%A9%E8%A5%BF%E5%A5%87%E7%A6%BB%E4%BB%BB",
-   "official_line": {
-    "source": "CCTV News 央视新闻 (news.cctv.com)",
-    "title": "中国足协：女足主帅米利西奇离任",
-    "url": "https://news.cctv.com/2026/10/23/ARTIeekWQrNxTaWbdpDjKyjT261023.shtml",
-    "published": "2026-10-23 09:55:54"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 10:52 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 11:44 PM ET"
    ]
   },
   {
