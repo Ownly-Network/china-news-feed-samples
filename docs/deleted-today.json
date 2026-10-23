@@ -1,25 +1,47 @@
 {
- "generated_at_et": "2026-10-23 16:47 ET",
+ "generated_at_et": "2026-10-23 17:54 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 7,
  "cut": {
   "flagged": 104,
   "came back once before": 3,
-  "gone under 60 min": 1,
+  "gone under 60 min": 0,
   "not in the top 10 when it left": 23,
   "slid down before leaving": 1,
   "on the list a normal length of time": 40,
-  "inside the list's normal rotation": 3,
-  "still on another hot list": 9,
+  "inside the list's normal rotation": 4,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 9,
   "retitled": 1,
-  "topic still on the list": 8,
+  "topic still on the list": 9,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 7
  },
  "items": [
+  {
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "title_zh": "原神7.2前瞻直播",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Oct 23, 8:01 AM ET",
+   "last_seen_et": "Oct 23, 8:41 AM ET",
+   "first_missing_et": "Oct 23, 8:46 AM ET",
+   "minutes_on_list": 40,
+   "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E7.2%E5%89%8D%E7%9E%BB%E7%9B%B4%E6%92%AD",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 8:59 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 9:48 AM ET"
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
