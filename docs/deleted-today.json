@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-23 07:59 ET",
+ "generated_at_et": "2026-10-23 09:02 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 8,
  "cut": {
-  "flagged": 106,
+  "flagged": 107,
   "came back once before": 3,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 20,
+  "gone under 60 min": 8,
+  "not in the top 10 when it left": 19,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 46,
-  "inside the list's normal rotation": 4,
+  "on the list a normal length of time": 43,
+  "inside the list's normal rotation": 3,
   "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 5,
   "retitled": 1,
-  "topic still on the list": 8,
+  "topic still on the list": 9,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 8
  },
  "items": [
   {
@@ -46,28 +46,6 @@
      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E8%82%A1%E7%A5%A8%E8%B7%8C%E5%BE%97%E5%BF%83%E7%96%BC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%2583%25A1%25E9%2594%25A1%25E8%25BF%259B%25E8%25AF%25B4%25E8%2582%25A1%25E7%25A5%25A8%25E8%25B7%258C%25E5%25BE%2597%25E5%25BF%2583%25E7%2596%25BC%2523%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D5%26realpos%3D5%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D5%26flag%3D1%26display_time%3D1792730081%26pre_seqid%3D179273008152301702235154&launchid=10000360-page_H5",
      "published": "2026-10-23"
     }
-   ]
-  },
-  {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "戴锦华毛尖滕威合体聊电影",
-   "title_en": "Dai Jinhua, Mao Jian, and Teng Wei Team Up to Discuss Movies",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 3,
-   "first_seen_et": "Oct 22, 7:14 AM ET",
-   "last_seen_et": "Oct 22, 8:41 AM ET",
-   "first_missing_et": "Oct 22, 8:46 AM ET",
-   "minutes_on_list": 86,
-   "url": "https://search.bilibili.com/all?keyword=%E6%88%B4%E9%94%A6%E5%8D%8E%E6%AF%9B%E5%B0%96%E6%BB%95%E5%A8%81%E5%90%88%E4%BD%93%E8%81%8A%E7%94%B5%E5%BD%B1",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #4 → #6 → #6 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 8:57 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 22, 9:48 AM ET"
    ]
   },
   {
