@@ -1,20 +1,20 @@
 {
- "generated_at_et": "2026-10-24 14:55 ET",
+ "generated_at_et": "2026-10-24 15:59 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 8,
  "cut": {
-  "flagged": 81,
+  "flagged": 82,
   "came back once before": 0,
-  "gone under 60 min": 0,
+  "gone under 60 min": 1,
   "not in the top 10 when it left": 30,
   "slid down before leaving": 0,
   "on the list a normal length of time": 21,
-  "inside the list's normal rotation": 4,
+  "inside the list's normal rotation": 3,
   "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 4,
-  "retitled": 7,
+  "retitled": 8,
   "topic still on the list": 2,
   "same story as a kept item": 2,
   "kept": 8
@@ -94,13 +94,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 23, 11:26 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 12:18 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/article-1792790558212/",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 12:18 AM ET"
    ]
   },
   {
