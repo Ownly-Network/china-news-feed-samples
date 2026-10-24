@@ -1,22 +1,22 @@
 {
- "generated_at_et": "2026-10-24 05:00 ET",
+ "generated_at_et": "2026-10-24 06:05 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 8,
  "cut": {
-  "flagged": 83,
+  "flagged": 81,
   "came back once before": 2,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 20,
+  "gone under 60 min": 8,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 21,
-  "inside the list's normal rotation": 3,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 8,
-  "retitled": 4,
+  "on the list a normal length of time": 16,
+  "inside the list's normal rotation": 4,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 5,
+  "retitled": 5,
   "topic still on the list": 3,
-  "same story as a kept item": 3,
+  "same story as a kept item": 2,
   "kept": 8
  },
  "items": [
@@ -67,6 +67,12 @@
      "source": "Kanzhongguo / Secret China 看中国",
      "url": "https://www.secretchina.com/news/gb/2026/10/24/1106502.html",
      "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "China Times 中時新聞網",
+     "url": "https://www.chinatimes.com/realtimenews/20261024002607-260410?ctrack=mo_main_alert_p01",
+     "published": null
     }
    ]
   },
@@ -108,9 +114,9 @@
    "url": "https://www.toutiao.com/trending/7699806169682821163/",
    "official_line": {
     "source": "Tencent News 腾讯网",
-    "title": "上海独生女继承 2 亿元遗产，丈夫起诉离婚主张分割引关注",
-    "url": "https://new.qq.com/rain/a/20261024V09SYJ00",
-    "published": "2026-10-24 16:39:06"
+    "title": "独生女继承两亿遗产，婚后丈夫诉请分割，无遗嘱该如何自保？",
+    "url": "https://new.qq.com/rain/a/20261024A0986W00",
+    "published": "2026-10-24 15:54:27"
    },
    "official_line_zh": null,
    "evidence": [
@@ -212,29 +218,23 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "肖战《小城良方》主题曲MV",
-   "title_en": "",
+   "title_zh": "《小城良方》被指剧情有硬伤",
+   "title_en": "\"Small Town Remedy\" Has Been Accused of Having Plot Flaws",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
    "peak_rank": 9,
-   "first_seen_et": "Oct 23, 10:15 PM ET",
-   "last_seen_et": "Oct 23, 11:05 PM ET",
-   "first_missing_et": "Oct 23, 11:08 PM ET",
-   "minutes_on_list": 50,
-   "url": "https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E3%80%8A%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E3%80%8B%E4%B8%BB%E9%A2%98%E6%9B%B2MV",
+   "first_seen_et": "Oct 23, 7:02 AM ET",
+   "last_seen_et": "Oct 23, 8:26 AM ET",
+   "first_missing_et": "Oct 23, 8:30 AM ET",
+   "minutes_on_list": 84,
+   "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E3%80%8B%E8%A2%AB%E6%8C%87%E5%89%A7%E6%83%85%E6%9C%89%E7%A1%AC%E4%BC%A4",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #49 → #49 → #49 → #49 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 11:26 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 12:18 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "World Journal 世界日報 (US)",
-     "url": "https://www.worldjournal.com/wj/story/121233/9834456",
-     "published": null
-    }
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 8:43 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 9:38 AM ET"
    ]
   }
  ]
