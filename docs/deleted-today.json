@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-24 12:46 ET",
+ "generated_at_et": "2026-10-24 13:51 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -100,18 +100,6 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 23, 11:26 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 12:18 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A71%E5%B9%B4%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D1%26cate%3D5001%26flag%3D2%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%258B%25AC%25E7%2594%259F%25E5%25A5%25B3%25E7%25BB%25A7%25E6%2589%25BF2%25E4%25BA%25BF%25E9%2581%2597%25E4%25BA%25A71%25E5%25B9%25B4%25E5%2590%258E%25E9%2581%25AD%25E7%25A6%25BB%25E5%25A9%259A%25E5%2588%2586%25E4%25BA%25A7%2523%26pos%3D0%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D1%26display_time%3D1792782501%26pre_seqid%3D17927825009570350310382&launchid=10000360-page_H5",
-     "published": "2026-10-24"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D8%26lcate%3D5001%26realpos%3D8%26stream_entry_id%3D31%26q%3D%2523%25E5%25BE%258B%25E5%25B8%2588%25E5%259B%259E%25E5%25BA%2594%25E7%258B%25AC%25E7%2594%259F%25E5%25A5%25B3%25E7%25BB%25A7%25E6%2589%25BF2%25E4%25BA%25BF%25E9%2581%25AD%25E7%25A6%25BB%25E5%25A9%259A%25E5%2588%2586%25E4%25BA%25A7%2523%26dgr%3D0%26pos%3D9%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26display_time%3D1792815906%26pre_seqid%3D17928159061820246280128&launchid=10000360-page_H5",
-     "published": "2026-10-24"
-    },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "NZ Chinese Herald 新西兰中文先驱报",
