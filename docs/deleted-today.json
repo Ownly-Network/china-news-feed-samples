@@ -1,13 +1,13 @@
 {
- "generated_at_et": "2026-10-24 17:04 ET",
+ "generated_at_et": "2026-10-24 18:10 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 8,
  "cut": {
-  "flagged": 82,
+  "flagged": 83,
   "came back once before": 0,
-  "gone under 60 min": 0,
+  "gone under 60 min": 1,
   "not in the top 10 when it left": 30,
   "slid down before leaving": 0,
   "on the list a normal length of time": 21,
@@ -61,13 +61,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 10:23 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 11:08 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "China Times 中時新聞網",
-     "url": "https://www.chinatimes.com/realtimenews/20261024002607-260410?ctrack=mo_main_recmd_p07",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 11:08 PM ET"
    ]
   },
   {
