@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-24 10:31 ET",
+ "generated_at_et": "2026-10-24 11:39 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 7,
  "cut": {
-  "flagged": 84,
+  "flagged": 83,
   "came back once before": 1,
-  "gone under 60 min": 7,
-  "not in the top 10 when it left": 29,
+  "gone under 60 min": 1,
+  "not in the top 10 when it left": 30,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 17,
+  "on the list a normal length of time": 19,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 4,
-  "left with other flagged topics (batch drop)": 4,
+  "still on another hot list": 3,
+  "left with other flagged topics (batch drop)": 6,
   "retitled": 8,
   "topic still on the list": 2,
   "same story as a kept item": 2,
-  "kept": 6
+  "kept": 7
  },
  "items": [
   {
@@ -157,6 +157,28 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #10 → #6 → #6 → #6 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 8:53 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 9:42 PM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "煮熟的鸭子在飞 中超争冠大戏继续",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Oct 24, 8:10 AM ET",
+   "last_seen_et": "Oct 24, 9:28 AM ET",
+   "first_missing_et": "Oct 24, 9:35 AM ET",
+   "minutes_on_list": 79,
+   "url": "https://www.baidu.com/s?wd=%E7%85%AE%E7%86%9F%E7%9A%84%E9%B8%AD%E5%AD%90%E5%9C%A8%E9%A3%9E+%E4%B8%AD%E8%B6%85%E4%BA%89%E5%86%A0%E5%A4%A7%E6%88%8F%E7%BB%A7%E7%BB%AD",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #9 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 9:46 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 10:38 AM ET"
    ]
   },
   {
