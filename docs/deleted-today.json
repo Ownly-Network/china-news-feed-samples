@@ -1,20 +1,20 @@
 {
- "generated_at_et": "2026-10-24 06:05 ET",
+ "generated_at_et": "2026-10-24 07:10 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 8,
  "cut": {
-  "flagged": 81,
+  "flagged": 82,
   "came back once before": 2,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 24,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 16,
+  "on the list a normal length of time": 15,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 4,
+  "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 5,
-  "retitled": 5,
+  "retitled": 4,
   "topic still on the list": 3,
   "same story as a kept item": 2,
   "kept": 8
@@ -64,12 +64,6 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 11:08 PM ET",
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Kanzhongguo / Secret China 看中国",
-     "url": "https://www.secretchina.com/news/gb/2026/10/24/1106502.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "China Times 中時新聞網",
      "url": "https://www.chinatimes.com/realtimenews/20261024002607-260410?ctrack=mo_main_alert_p01",
      "published": null
@@ -113,22 +107,16 @@
    "minutes_on_list": 38,
    "url": "https://www.toutiao.com/trending/7699806169682821163/",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "独生女继承两亿遗产，婚后丈夫诉请分割，无遗嘱该如何自保？",
-    "url": "https://new.qq.com/rain/a/20261024A0986W00",
-    "published": "2026-10-24 15:54:27"
+    "source": "The Paper 澎湃新闻",
+    "title": "马上评｜“独生女继承遗产后遭离婚分产”怎么会反复上热搜",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34324278",
+    "published": "2026-10-24 12:57:44"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 23, 11:26 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 12:18 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=18&Refer=top",
-     "published": "2026-10-24"
-    },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
@@ -140,6 +128,12 @@
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D8%26lcate%3D5001%26realpos%3D8%26stream_entry_id%3D31%26q%3D%2523%25E5%25BE%258B%25E5%25B8%2588%25E5%259B%259E%25E5%25BA%2594%25E7%258B%25AC%25E7%2594%259F%25E5%25A5%25B3%25E7%25BB%25A7%25E6%2589%25BF2%25E4%25BA%25BF%25E9%2581%25AD%25E7%25A6%25BB%25E5%25A9%259A%25E5%2588%2586%25E4%25BA%25A7%2523%26dgr%3D0%26pos%3D9%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26display_time%3D1792815906%26pre_seqid%3D17928159061820246280128&launchid=10000360-page_H5",
      "published": "2026-10-24"
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "World Journal 世界日報 (US)",
+     "url": "https://www.worldjournal.com/wj/story/121617/9834426",
+     "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
@@ -163,8 +157,13 @@
    "first_missing_et": "Oct 23, 10:12 PM ET",
    "minutes_on_list": 52,
    "url": "https://www.toutiao.com/trending/7699901948572487195/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "金价跌回4000美元！大妈抢金看盘面，年轻人攒金看心情？",
+    "url": "https://new.qq.com/rain/a/20261024A09HL700",
+    "published": "2026-10-24 16:16:42"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #10 → #7 → #6 → #6 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 10:24 PM ET",
