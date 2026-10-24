@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-23 21:17 ET",
+ "generated_at_et": "2026-10-23 22:21 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 7,
  "cut": {
-  "flagged": 96,
+  "flagged": 93,
   "came back once before": 3,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 18,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 20,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 34,
-  "inside the list's normal rotation": 4,
+  "on the list a normal length of time": 31,
+  "inside the list's normal rotation": 5,
   "still on another hot list": 8,
-  "left with other flagged topics (batch drop)": 8,
-  "retitled": 2,
-  "topic still on the list": 6,
+  "left with other flagged topics (batch drop)": 7,
+  "retitled": 3,
+  "topic still on the list": 5,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 7
  },
  "items": [
   {
@@ -62,6 +62,28 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #19 → #19 → #6 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 3:48 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 4:39 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "美日演习航母旁的黑色小艇有何用途",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Oct 23, 7:44 PM ET",
+   "last_seen_et": "Oct 23, 8:37 PM ET",
+   "first_missing_et": "Oct 23, 8:40 PM ET",
+   "minutes_on_list": 52,
+   "url": "https://www.toutiao.com/trending/7699882481389932058/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #10 → #6 → #6 → #6 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 8:53 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 9:42 PM ET"
    ]
   },
   {
@@ -127,7 +149,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 8:43 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 9:38 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 9:38 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "World Journal 世界日報 (US)",
+     "url": "https://www.worldjournal.com/wj/story/121478/9834528",
+     "published": null
+    }
    ]
   },
   {
@@ -144,13 +172,8 @@
    "first_missing_et": "Oct 23, 4:48 AM ET",
    "minutes_on_list": 33,
    "url": "https://www.toutiao.com/trending/7699680637829529643/",
-   "official_line": {
-    "source": "Huxiu 虎嗅",
-    "title": "人人都是产品经理",
-    "url": "https://www.huxiu.com/member/1414647.html",
-    "published": ""
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 4:59 AM ET",
