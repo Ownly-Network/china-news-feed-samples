@@ -1,25 +1,52 @@
 {
- "generated_at_et": "2026-10-25 12:14 ET",
+ "generated_at_et": "2026-10-25 13:20 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 8,
  "cut": {
-  "flagged": 83,
+  "flagged": 84,
   "came back once before": 2,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 24,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 23,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 31,
+  "on the list a normal length of time": 32,
   "inside the list's normal rotation": 8,
-  "still on another hot list": 3,
+  "still on another hot list": 4,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 2,
   "topic still on the list": 0,
-  "same story as a kept item": 0,
-  "kept": 7
+  "same story as a kept item": 1,
+  "kept": 8
  },
  "items": [
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "家庭规模持续缩小 平均每户2.52人",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Oct 25, 9:55 AM ET",
+   "last_seen_et": "Oct 25, 11:51 AM ET",
+   "first_missing_et": "Oct 25, 11:57 AM ET",
+   "minutes_on_list": 116,
+   "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E5%BA%AD%E8%A7%84%E6%A8%A1%E6%8C%81%E7%BB%AD%E7%BC%A9%E5%B0%8F+%E5%B9%B3%E5%9D%87%E6%AF%8F%E6%88%B72.52%E4%BA%BA",
+   "official_line": {
+    "source": "Yicai 第一财经",
+    "title": "我国家庭规模持续缩小，31省份平均家庭户规模公布",
+    "url": "https://www.yicai.com/news/103408286.html",
+    "published": "2026-10-25T20:04:57"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 12:11 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:01 PM ET"
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -58,9 +85,9 @@
    "url": "https://www.toutiao.com/trending/7699702692511449097/",
    "official_line": {
     "source": "Tencent News 腾讯网",
-    "title": "15岁高中生确诊甲状腺癌，且已转移；家长：从初中开始就没在凌晨一点前睡过觉，医生：不能掉以轻心",
-    "url": "https://new.qq.com/rain/a/20261025A0C9EY00",
-    "published": "2026-10-25 23:32:09"
+    "title": "15岁高中生确诊甲状腺癌，且已转移！家长：从初中开始就没在凌晨一点前睡过觉；医生提醒：不能因其被称为“懒癌”而掉以轻心",
+    "url": "https://new.qq.com/rain/a/20261025A0BUFC00",
+    "published": "2026-10-25 22:42:28"
    },
    "official_line_zh": null,
    "evidence": [
@@ -92,6 +119,28 @@
    ]
   },
   {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "泰国警方披露中国女游客遇险案",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Oct 25, 11:10 AM ET",
+   "last_seen_et": "Oct 25, 12:05 PM ET",
+   "first_missing_et": "Oct 25, 12:10 PM ET",
+   "minutes_on_list": 55,
+   "url": "https://www.toutiao.com/trending/7700600957620683274/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 12:21 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:11 PM ET"
+   ]
+  },
+  {
    "platform": "bilibili",
    "platform_name": "Bilibili 哔哩哔哩",
    "title_zh": "美俄乌将如何应对下次谈判",
@@ -111,52 +160,6 @@
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #9 → #9 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 8:09 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 9:04 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "法国警方在示威活动中逮捕近千人",
-   "title_en": "French police arrested nearly 1,000 people during the protests",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Oct 24, 8:17 PM ET",
-   "last_seen_et": "Oct 24, 9:13 PM ET",
-   "first_missing_et": "Oct 24, 9:18 PM ET",
-   "minutes_on_list": 56,
-   "url": "https://www.toutiao.com/trending/7700227118034289162/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #7 → #7 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 9:30 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 10:20 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "CDT 404 Archive 404文库",
-     "url": "https://chinadigitaltimes.net/chinese/733188.html",
-     "published": "2026-10-24T02:31:15Z"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "China Digital Times 中国数字时代",
-     "url": "https://chinadigitaltimes.net/chinese/733188.html",
-     "published": "2026-10-24T02:31:15Z"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/10/25/a104145079.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 新唐人電視台 NTD Chinese",
-     "url": "https://t.me/NTDChinese/86664",
-     "published": null
-    }
    ]
   },
   {
