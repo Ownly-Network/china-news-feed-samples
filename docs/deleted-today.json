@@ -1,21 +1,21 @@
 {
- "generated_at_et": "2026-10-25 08:58 ET",
+ "generated_at_et": "2026-10-25 10:06 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 5,
  "cut": {
-  "flagged": 83,
+  "flagged": 78,
   "came back once before": 2,
-  "gone under 60 min": 11,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 21,
-  "slid down before leaving": 0,
-  "on the list a normal length of time": 31,
-  "inside the list's normal rotation": 6,
-  "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 2,
+  "slid down before leaving": 1,
+  "on the list a normal length of time": 32,
+  "inside the list's normal rotation": 7,
+  "still on another hot list": 3,
+  "left with other flagged topics (batch drop)": 1,
   "retitled": 2,
-  "topic still on the list": 1,
+  "topic still on the list": 0,
   "same story as a kept item": 0,
   "kept": 5
  },
@@ -43,28 +43,6 @@
    ]
   },
   {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "煮熟的鸭子在飞 中超争冠大戏继续",
-   "title_en": "A Done Deal Takes Flight: The Chinese Super League Title Race Continues",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Oct 24, 8:10 AM ET",
-   "last_seen_et": "Oct 24, 9:28 AM ET",
-   "first_missing_et": "Oct 24, 9:35 AM ET",
-   "minutes_on_list": 79,
-   "url": "https://www.baidu.com/s?wd=%E7%85%AE%E7%86%9F%E7%9A%84%E9%B8%AD%E5%AD%90%E5%9C%A8%E9%A3%9E+%E4%B8%AD%E8%B6%85%E4%BA%89%E5%86%A0%E5%A4%A7%E6%88%8F%E7%BB%A7%E7%BB%AD",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #9 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 9:46 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 10:38 AM ET"
-   ]
-  },
-  {
    "platform": "bilibili",
    "platform_name": "Bilibili 哔哩哔哩",
    "title_zh": "美俄乌将如何应对下次谈判",
@@ -82,7 +60,8 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #9 → #9 → #8 → #8 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 8:09 AM ET"
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 8:09 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 9:04 AM ET"
    ]
   },
   {
@@ -125,16 +104,44 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Central News Agency Taiwan 中央社",
-     "url": "https://www.cna.com.tw/news/aopl/202610250175.aspx",
+     "source": "NTD 新唐人電視台",
+     "url": "https://www.ntdtv.com/b5/2026/10/25/a104145079.html",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/10/25/a104145079.html",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/86664",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "United Daily News 聯合新聞網",
+     "url": "https://udn.com/news/story/6812/9836603",
      "published": null
     }
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "潘展乐全锦赛100自金牌",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Oct 25, 7:30 AM ET",
+   "last_seen_et": "Oct 25, 8:12 AM ET",
+   "first_missing_et": "Oct 25, 8:15 AM ET",
+   "minutes_on_list": 42,
+   "url": "https://www.baidu.com/s?wd=%E6%BD%98%E5%B1%95%E4%B9%90%E5%85%A8%E9%94%A6%E8%B5%9B100%E8%87%AA%E9%87%91%E7%89%8C",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 8:30 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 9:16 AM ET"
    ]
   },
   {
