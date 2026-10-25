@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-24 19:16 ET",
+ "generated_at_et": "2026-10-24 20:21 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 7,
  "cut": {
   "flagged": 84,
   "came back once before": 0,
-  "gone under 60 min": 3,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 29,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 20,
-  "inside the list's normal rotation": 4,
-  "still on another hot list": 4,
+  "on the list a normal length of time": 19,
+  "inside the list's normal rotation": 5,
+  "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 4,
   "retitled": 9,
-  "topic still on the list": 1,
+  "topic still on the list": 2,
   "same story as a kept item": 2,
-  "kept": 8
+  "kept": 7
  },
  "items": [
   {
@@ -78,13 +78,8 @@
    "first_missing_et": "Oct 23, 11:05 PM ET",
    "minutes_on_list": 38,
    "url": "https://www.toutiao.com/trending/7699806169682821163/",
-   "official_line": {
-    "source": "The Paper 澎湃新闻",
-    "title": "马上评｜“独生女继承遗产后遭离婚分产”怎么会反复上热搜",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34324278",
-    "published": "2026-10-24 12:57:44"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 23, 11:26 PM ET",
@@ -177,34 +172,6 @@
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 12:01 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 12:54 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "肖战《小城良方》主题曲MV",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 9,
-   "first_seen_et": "Oct 23, 10:15 PM ET",
-   "last_seen_et": "Oct 23, 11:05 PM ET",
-   "first_missing_et": "Oct 23, 11:08 PM ET",
-   "minutes_on_list": 50,
-   "url": "https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E3%80%8A%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E3%80%8B%E4%B8%BB%E9%A2%98%E6%9B%B2MV",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #49 → #49 → #49 → #49 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 23, 11:26 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 12:18 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%20%E8%BE%BD%E5%AE%81%E5%85%BB%E8%9A%82%E8%9A%81%E9%AA%97%E5%B1%80&t=31&band_rank=36&Refer=top",
-     "published": "2026-10-25"
-    }
    ]
   }
  ]
