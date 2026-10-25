@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-25 14:29 ET",
+ "generated_at_et": "2026-10-25 15:35 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -11,10 +11,10 @@
   "not in the top 10 when it left": 23,
   "slid down before leaving": 1,
   "on the list a normal length of time": 31,
-  "inside the list's normal rotation": 8,
+  "inside the list's normal rotation": 9,
   "still on another hot list": 4,
   "left with other flagged topics (batch drop)": 1,
-  "retitled": 2,
+  "retitled": 1,
   "topic still on the list": 0,
   "same story as a kept item": 1,
   "kept": 8
@@ -83,13 +83,8 @@
    "first_missing_et": "Oct 25, 10:07 AM ET",
    "minutes_on_list": 42,
    "url": "https://www.toutiao.com/trending/7699702692511449097/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "15岁高中生确诊甲状腺癌，家长称其从初中起没在凌晨1点前睡过觉，医生表示睡眠、情绪、饮食是三大诱因",
-    "url": "https://new.qq.com/rain/a/20261025V0C87K00",
-    "published": "2026-10-25 23:27:25"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 10:18 AM ET",
