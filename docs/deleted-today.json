@@ -1,47 +1,25 @@
 {
- "generated_at_et": "2026-10-25 03:09 ET",
+ "generated_at_et": "2026-10-25 04:30 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 3,
+ "count": 2,
  "cut": {
-  "flagged": 81,
+  "flagged": 82,
   "came back once before": 2,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 31,
+  "gone under 60 min": 9,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 26,
-  "inside the list's normal rotation": 7,
+  "on the list a normal length of time": 25,
+  "inside the list's normal rotation": 6,
   "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 2,
   "retitled": 5,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 3
+  "kept": 2
  },
  "items": [
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "乌克兰态度为何空前软化",
-   "title_en": "Why Has Ukraine's Stance Softened to an Unprecedented Degree?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 24, 2:15 AM ET",
-   "last_seen_et": "Oct 24, 3:51 AM ET",
-   "first_missing_et": "Oct 24, 3:55 AM ET",
-   "minutes_on_list": 96,
-   "url": "https://www.toutiao.com/trending/7700107088000732723/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #2 → #4 → #4 → #4 → #6 → #4",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 24, 4:11 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 4:57 AM ET"
-   ]
-  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -91,13 +69,13 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 10:20 PM ET",
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "CDT 404 Archive 404文库",
+     "source": "China Digital Times 中国数字时代",
      "url": "https://chinadigitaltimes.net/chinese/733188.html",
      "published": "2026-10-24T02:31:15Z"
     },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "China Digital Times 中国数字时代",
+     "source": "CDT 404 Archive 404文库",
      "url": "https://chinadigitaltimes.net/chinese/733188.html",
      "published": "2026-10-24T02:31:15Z"
     },
