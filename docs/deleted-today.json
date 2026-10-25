@@ -1,52 +1,25 @@
 {
- "generated_at_et": "2026-10-25 17:49 ET",
+ "generated_at_et": "2026-10-25 19:00 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 6,
  "cut": {
-  "flagged": 81,
+  "flagged": 79,
   "came back once before": 2,
   "gone under 60 min": 0,
-  "not in the top 10 when it left": 23,
+  "not in the top 10 when it left": 22,
   "slid down before leaving": 1,
   "on the list a normal length of time": 31,
   "inside the list's normal rotation": 8,
-  "still on another hot list": 4,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 1,
-  "retitled": 2,
+  "retitled": 0,
   "topic still on the list": 0,
   "same story as a kept item": 1,
-  "kept": 8
+  "kept": 6
  },
  "items": [
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "家庭规模持续缩小 平均每户2.52人",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 25, 9:55 AM ET",
-   "last_seen_et": "Oct 25, 11:51 AM ET",
-   "first_missing_et": "Oct 25, 11:57 AM ET",
-   "minutes_on_list": 116,
-   "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E5%BA%AD%E8%A7%84%E6%A8%A1%E6%8C%81%E7%BB%AD%E7%BC%A9%E5%B0%8F+%E5%B9%B3%E5%9D%87%E6%AF%8F%E6%88%B72.52%E4%BA%BA",
-   "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "我国家庭规模持续缩小，31省份平均家庭户规模公布",
-    "url": "https://www.yicai.com/news/103408286.html",
-    "published": "2026-10-25T20:04:57"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 12:11 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:01 PM ET"
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -67,40 +40,6 @@
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 9:34 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 10:27 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "15岁高中生确诊甲状腺癌且已转移",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Oct 25, 9:20 AM ET",
-   "last_seen_et": "Oct 25, 10:02 AM ET",
-   "first_missing_et": "Oct 25, 10:07 AM ET",
-   "minutes_on_list": 42,
-   "url": "https://www.toutiao.com/trending/7699702692511449097/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 10:18 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 11:11 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%88%96%E6%98%AF%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E8%AF%B1%E5%9B%A0%E4%B9%8B%E4%B8%80%23&t=31&band_rank=23&Refer=top",
-     "published": "2026-10-26"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%88%96%E6%98%AF%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E8%AF%B1%E5%9B%A0%E4%B9%8B%E4%B8%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26band_rank%3D23%26c_type%3D31%26pos%3D24%26q%3D%2523%25E9%2595%25BF%25E6%259C%259F%25E7%2586%25AC%25E5%25A4%259C%25E6%2588%2596%25E6%2598%25AF%25E7%2594%25B2%25E7%258A%25B6%25E8%2585%25BA%25E7%2599%258C%25E8%25AF%25B1%25E5%259B%25A0%25E4%25B9%258B%25E4%25B8%2580%2523%26dgr%3D0%26realpos%3D23%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1792952655%26pre_seqid%3D179295265585002574278109&launchid=10000360-page_H5",
-     "published": "2026-10-26"
-    }
    ]
   },
   {
