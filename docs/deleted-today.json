@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-25 01:55 ET",
+ "generated_at_et": "2026-10-25 03:09 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,14 +7,14 @@
  "cut": {
   "flagged": 81,
   "came back once before": 2,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 29,
+  "gone under 60 min": 1,
+  "not in the top 10 when it left": 31,
   "slid down before leaving": 0,
   "on the list a normal length of time": 26,
   "inside the list's normal rotation": 7,
   "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 4,
-  "retitled": 6,
+  "left with other flagged topics (batch drop)": 2,
+  "retitled": 5,
   "topic still on the list": 1,
   "same story as a kept item": 0,
   "kept": 3
@@ -91,13 +91,13 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 10:20 PM ET",
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "China Digital Times 中国数字时代",
+     "source": "CDT 404 Archive 404文库",
      "url": "https://chinadigitaltimes.net/chinese/733188.html",
      "published": "2026-10-24T02:31:15Z"
     },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "CDT 404 Archive 404文库",
+     "source": "China Digital Times 中国数字时代",
      "url": "https://chinadigitaltimes.net/chinese/733188.html",
      "published": "2026-10-24T02:31:15Z"
     },
