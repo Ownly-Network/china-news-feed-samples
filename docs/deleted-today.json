@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-26 08:34 ET",
+ "generated_at_et": "2026-10-26 09:39 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,14 +7,14 @@
  "cut": {
   "flagged": 97,
   "came back once before": 0,
-  "gone under 60 min": 7,
-  "not in the top 10 when it left": 27,
+  "gone under 60 min": 8,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 31,
-  "inside the list's normal rotation": 6,
-  "still on another hot list": 6,
+  "on the list a normal length of time": 32,
+  "inside the list's normal rotation": 7,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 6,
-  "retitled": 3,
+  "retitled": 4,
   "topic still on the list": 2,
   "same story as a kept item": 0,
   "kept": 7
@@ -39,29 +39,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 12:11 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:01 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "全国总人口面临跌破14亿",
-   "title_en": "The nation's total population is on the verge of falling below 1.4 billion",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 25, 8:49 AM ET",
-   "last_seen_et": "Oct 25, 9:20 AM ET",
-   "first_missing_et": "Oct 25, 9:23 AM ET",
-   "minutes_on_list": 31,
-   "url": "https://www.toutiao.com/trending/7700498054662717478/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 9:34 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 10:27 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:01 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "on.cc 東網",
+     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261026/bkn-20261026210340439-1026_00822_001.html",
+     "published": null
+    }
    ]
   },
   {
@@ -142,6 +126,45 @@
    ]
   },
   {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "泽连斯基为何想与普京当面聊领土问题",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Oct 26, 6:37 AM ET",
+   "last_seen_et": "Oct 26, 7:30 AM ET",
+   "first_missing_et": "Oct 26, 7:35 AM ET",
+   "minutes_on_list": 53,
+   "url": "https://www.toutiao.com/trending/7700861141674167844/",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "梅德韦杰夫喊话特朗普：泽连斯基有＂十宗罪＂ 危害很大",
+    "url": "https://www.163.com/dy/article/LA5ILUE2053469LG.html",
+    "published": "2026-10-26 10:29:20"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #28 → #22 → #18 → #18 → #10 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 7:49 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 8:35 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "RFI Chinese 法广",
+     "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261025-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A1%AE%E8%AE%A4%E4%BF%84%E4%B9%8C11%E6%9C%88%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%96%A1%E6%97%8B%E4%B8%8B%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88-%E5%BC%BA%E8%B0%83%E9%A2%86%E5%9C%9F%E9%97%AE%E9%A2%98%E9%A1%BB%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9B%B4%E6%8E%A5%E8%AE%A8%E8%AE%BA",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/38640",
+     "published": null
+    }
+   ]
+  },
+  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "巴西货币雷亚尔暴跌11.5%",
@@ -156,10 +179,10 @@
    "minutes_on_list": 90,
    "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E8%B4%A7%E5%B8%81%E9%9B%B7%E4%BA%9A%E5%B0%94%E6%9A%B4%E8%B7%8C11.5%25",
    "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "巴西雷亚尔兑美元即期交易开盘后大跌超8%",
-    "url": "https://www.yicai.com/news/103409917.html",
-    "published": "2026-10-26T20:26:16"
+    "source": "Jiemian 界面新闻",
+    "title": "巴西股票ETF（EWZ）盘初暴跌26%",
+    "url": "https://www.jiemian.com/article/15242555.html",
+    "published": "2026-10-26 21:34:00"
    },
    "official_line_zh": null,
    "evidence": [
