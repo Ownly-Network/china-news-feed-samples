@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-26 09:39 ET",
+ "generated_at_et": "2026-10-26 10:46 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 5,
  "cut": {
-  "flagged": 97,
+  "flagged": 98,
   "came back once before": 0,
-  "gone under 60 min": 8,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 24,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 32,
+  "on the list a normal length of time": 36,
   "inside the list's normal rotation": 7,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 6,
-  "retitled": 4,
-  "topic still on the list": 2,
+  "still on another hot list": 7,
+  "left with other flagged topics (batch drop)": 7,
+  "retitled": 5,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 5
  },
  "items": [
   {
@@ -41,38 +41,17 @@
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 12:11 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:01 PM ET",
     {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "China Digital Times 中国数字时代",
+     "url": "https://chinadigitaltimes.net/chinese/733232.html",
+     "published": "2026-10-26T13:40:47Z"
+    },
+    {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "on.cc 東網",
      "url": "https://hk.on.cc/hk/bkn/cnt/news/20261026/bkn-20261026210340439-1026_00822_001.html",
      "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "15岁高中生确诊甲状腺癌且已转移",
-   "title_en": "A 15-year-old high school student has been diagnosed with thyroid cancer that has already metastasized",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Oct 25, 9:20 AM ET",
-   "last_seen_et": "Oct 25, 10:02 AM ET",
-   "first_missing_et": "Oct 25, 10:07 AM ET",
-   "minutes_on_list": 42,
-   "url": "https://www.toutiao.com/trending/7699702692511449097/",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "15岁高中生确诊甲状腺癌且已淋巴结转移 医生提醒",
-    "url": "https://www.163.com/dy/article/LA4B01KV053469LG.html",
-    "published": "2026-10-26 07:55:49"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 10:18 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 11:11 AM ET"
    ]
   },
   {
@@ -139,13 +118,8 @@
    "first_missing_et": "Oct 26, 7:35 AM ET",
    "minutes_on_list": 53,
    "url": "https://www.toutiao.com/trending/7700861141674167844/",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "梅德韦杰夫喊话特朗普：泽连斯基有＂十宗罪＂ 危害很大",
-    "url": "https://www.163.com/dy/article/LA5ILUE2053469LG.html",
-    "published": "2026-10-26 10:29:20"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #28 → #22 → #18 → #18 → #10 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 7:49 AM ET",
@@ -162,33 +136,6 @@
      "url": "https://t.me/RFI_Cn/38640",
      "published": null
     }
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "巴西货币雷亚尔暴跌11.5%",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Oct 25, 10:38 PM ET",
-   "last_seen_et": "Oct 26, 12:08 AM ET",
-   "first_missing_et": "Oct 26, 12:15 AM ET",
-   "minutes_on_list": 90,
-   "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E8%B4%A7%E5%B8%81%E9%9B%B7%E4%BA%9A%E5%B0%94%E6%9A%B4%E8%B7%8C11.5%25",
-   "official_line": {
-    "source": "Jiemian 界面新闻",
-    "title": "巴西股票ETF（EWZ）盘初暴跌26%",
-    "url": "https://www.jiemian.com/article/15242555.html",
-    "published": "2026-10-26 21:34:00"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #13 → #13 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 26, 12:30 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 1:17 AM ET"
    ]
   },
   {
