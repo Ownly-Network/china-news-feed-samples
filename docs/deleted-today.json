@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-26 01:46 ET",
+ "generated_at_et": "2026-10-26 02:58 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 10,
  "cut": {
-  "flagged": 84,
+  "flagged": 85,
   "came back once before": 1,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 19,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 18,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 33,
-  "inside the list's normal rotation": 4,
-  "still on another hot list": 3,
+  "on the list a normal length of time": 35,
+  "inside the list's normal rotation": 5,
+  "still on another hot list": 4,
   "left with other flagged topics (batch drop)": 4,
   "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 10
  },
  "items": [
   {
@@ -39,13 +39,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 12:11 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:01 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%88%91%E5%9B%BD%E5%AE%B6%E5%BA%AD%E8%A7%84%E6%A8%A1%E6%8C%81%E7%BB%AD%E7%BC%A9%E5%B0%8F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D11%26stream_entry_id%3D31%26realpos%3D10%26lcate%3D5001%26q%3D%2523%25E6%2588%2591%25E5%259B%25BD%25E5%25AE%25B6%25E5%25BA%25AD%25E8%25A7%2584%25E6%25A8%25A1%25E6%258C%2581%25E7%25BB%25AD%25E7%25BC%25A9%25E5%25B0%258F%2523%26band_rank%3D10%26display_time%3D1792973316%26pre_seqid%3D17929733161070257897112&launchid=10000360-page_H5",
-     "published": "2026-10-26"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:01 PM ET"
    ]
   },
   {
@@ -134,6 +128,34 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 12:21 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:11 PM ET"
+   ]
+  },
+  {
+   "platform": "weibo",
+   "platform_name": "Weibo 微博",
+   "title_zh": "又一台车疑因电池包起火",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Oct 25, 11:54 PM ET",
+   "last_seen_et": "Oct 26, 12:39 AM ET",
+   "first_missing_et": "Oct 26, 12:47 AM ET",
+   "minutes_on_list": 45,
+   "url": "https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E5%8F%B0%E8%BD%A6%E7%96%91%E5%9B%A0%E7%94%B5%E6%B1%A0%E5%8C%85%E8%B5%B7%E7%81%AB&t=31&band_rank=6",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #34 → #29 → #10 → #9 → #8 → #6",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 26, 1:00 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 26, 1:48 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "China Digital Times 中国数字时代",
+     "url": "https://chinadigitaltimes.net/chinese/733218.html",
+     "published": "2026-10-24T18:19:10Z"
+    }
    ]
   },
   {
