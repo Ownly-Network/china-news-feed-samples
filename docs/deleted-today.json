@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-26 13:02 ET",
+ "generated_at_et": "2026-10-26 14:13 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 6,
  "cut": {
-  "flagged": 94,
+  "flagged": 91,
   "came back once before": 0,
   "gone under 60 min": 1,
-  "not in the top 10 when it left": 26,
+  "not in the top 10 when it left": 25,
   "slid down before leaving": 2,
   "on the list a normal length of time": 35,
-  "inside the list's normal rotation": 7,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 7,
-  "retitled": 5,
+  "inside the list's normal rotation": 6,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 6,
+  "retitled": 6,
   "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 5
+  "kept": 6
  },
  "items": [
   {
@@ -152,6 +152,33 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 10:27 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 11:17 PM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "樊振东巴萨主场看球被投诉是卧底",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Oct 26, 2:55 AM ET",
+   "last_seen_et": "Oct 26, 4:15 AM ET",
+   "first_missing_et": "Oct 26, 4:21 AM ET",
+   "minutes_on_list": 80,
+   "url": "https://www.baidu.com/s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B7%B4%E8%90%A8%E4%B8%BB%E5%9C%BA%E7%9C%8B%E7%90%83%E8%A2%AB%E6%8A%95%E8%AF%89%E6%98%AF%E5%8D%A7%E5%BA%95",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "樊振东看球赛:被安检拒绝入场 遭巴萨球迷投诉是＂卧底＂",
+    "url": "https://www.163.com/dy/article/LA631EF1051492LM.html",
+    "published": "2026-10-26 15:01:25"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #23 → #23 → #23 → #23 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 4:37 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 5:25 AM ET"
    ]
   }
  ]
