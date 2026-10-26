@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-26 05:15 ET",
+ "generated_at_et": "2026-10-26 06:20 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 11,
+ "count": 10,
  "cut": {
-  "flagged": 96,
+  "flagged": 100,
   "came back once before": 0,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 20,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 34,
+  "on the list a normal length of time": 35,
   "inside the list's normal rotation": 7,
   "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 7,
-  "retitled": 2,
-  "topic still on the list": 1,
+  "retitled": 3,
+  "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 11
+  "kept": 10
  },
  "items": [
   {
@@ -39,13 +39,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 12:11 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:01 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "World Journal 世界日報 (US)",
-     "url": "https://www.worldjournal.com/wj/story/121343/9837578",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 1:01 PM ET"
    ]
   },
   {
@@ -85,38 +79,16 @@
    "minutes_on_list": 42,
    "url": "https://www.toutiao.com/trending/7699702692511449097/",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "15岁孩子确诊甲状腺癌，已转移！家长：初中开始就没在凌晨1点前睡过觉",
-    "url": "https://new.qq.com/rain/a/20261026A0973C00",
-    "published": "2026-10-26 15:26:30"
+    "source": "NetEase News 网易新闻",
+    "title": "15岁高中生确诊甲状腺癌且已淋巴结转移 医生提醒",
+    "url": "https://www.163.com/dy/article/LA4B01KV053469LG.html",
+    "published": "2026-10-26 07:55:49"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 10:18 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 11:11 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "国乒男单濒临全军覆没",
-   "title_en": "China's Men's Singles Team on the Brink of Total Defeat",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Oct 25, 4:15 AM ET",
-   "last_seen_et": "Oct 25, 6:15 AM ET",
-   "first_missing_et": "Oct 25, 6:17 AM ET",
-   "minutes_on_list": 120,
-   "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E6%BF%92%E4%B8%B4%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #9 → #9 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 6:28 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 25, 7:21 AM ET"
    ]
   },
   {
@@ -155,8 +127,13 @@
    "first_missing_et": "Oct 26, 12:47 AM ET",
    "minutes_on_list": 45,
    "url": "https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E5%8F%B0%E8%BD%A6%E7%96%91%E5%9B%A0%E7%94%B5%E6%B1%A0%E5%8C%85%E8%B5%B7%E7%81%AB&t=31&band_rank=6",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Yicai 第一财经",
+    "title": "高压电池存起火风险，大众汽车全球召回7.27万辆电动车",
+    "url": "https://www.yicai.com/news/103409577.html",
+    "published": "2026-10-26T17:42:43"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #34 → #29 → #10 → #9 → #8 → #6",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 26, 1:00 AM ET",
