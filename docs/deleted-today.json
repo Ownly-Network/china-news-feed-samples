@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-10-26 22:52 ET",
+ "generated_at_et": "2026-10-27 00:01 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 5,
  "cut": {
-  "flagged": 89,
+  "flagged": 99,
   "came back once before": 0,
-  "gone under 60 min": 6,
+  "gone under 60 min": 8,
   "not in the top 10 when it left": 23,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 32,
+  "on the list a normal length of time": 38,
   "inside the list's normal rotation": 6,
-  "still on another hot list": 3,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 4,
   "retitled": 7,
   "topic still on the list": 1,
@@ -24,7 +24,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "中国亿万富豪开始排队补税",
-   "title_en": "",
+   "title_en": "China's Billionaires Begin Lining Up to Pay Back Taxes",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -46,7 +46,7 @@
    "platform": "weibo",
    "platform_name": "Weibo 微博",
    "title_zh": "又一台车疑因电池包起火",
-   "title_en": "",
+   "title_en": "Another car reportedly caught fire due to a battery pack issue",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -74,7 +74,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "泽连斯基为何想与普京当面聊领土问题",
-   "title_en": "",
+   "title_en": "Why Does Zelenskyy Want to Discuss Territorial Issues Face-to-Face with Putin?",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -85,10 +85,10 @@
    "minutes_on_list": 53,
    "url": "https://www.toutiao.com/trending/7700861141674167844/",
    "official_line": {
-    "source": "YouTube: 鳳凰衛視 Phoenix TV",
-    "title": "什么话让泽连斯基当场愣住❓美媒记者：我以为你想说特朗普很有礼貌...泽连斯基：你说了算😓 #凤凰卫视 #泽连斯基 #特朗普 #美乌",
-    "url": "https://www.youtube.com/shorts/yMNR6EZsgHc",
-    "published": "2026-10-26T11:45:36+00:00"
+    "source": "Tencent News 腾讯网",
+    "title": "泽连斯基：与其被特朗普卖，不如我亲自卖给普京",
+    "url": "https://new.qq.com/rain/a/20261027A059PE00",
+    "published": "2026-10-27 10:56:41"
    },
    "official_line_zh": null,
    "evidence": [
@@ -113,7 +113,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "巴西货币雷亚尔暴跌11.5%",
-   "title_en": "",
+   "title_en": "Brazil's currency, the real, plummeted 11.5%",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -128,20 +128,14 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #13 → #13 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 26, 12:30 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 1:17 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/bannedvideo/20261027/2374205.html",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 1:17 AM ET"
    ]
   },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "樊振东巴萨主场看球被投诉是卧底",
-   "title_en": "",
+   "title_en": "Fan Zhendong Was Accused of Being an Undercover Agent While Watching a Game at Barcelona's Home Stadium",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
