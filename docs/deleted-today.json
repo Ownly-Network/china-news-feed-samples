@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-27 04:36 ET",
+ "generated_at_et": "2026-10-27 05:45 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 6,
  "cut": {
-  "flagged": 94,
-  "came back once before": 1,
-  "gone under 60 min": 9,
-  "not in the top 10 when it left": 27,
+  "flagged": 99,
+  "came back once before": 5,
+  "gone under 60 min": 8,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 30,
+  "on the list a normal length of time": 34,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 6,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 1,
-  "retitled": 6,
+  "retitled": 5,
   "topic still on the list": 2,
   "same story as a kept item": 1,
-  "kept": 5
+  "kept": 6
  },
  "items": [
   {
@@ -134,6 +134,28 @@
      "url": "https://t.me/RFI_Cn/38640",
      "published": null
     }
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "为什么相声演员也接不住一声杨老五",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 8,
+   "first_seen_et": "Oct 27, 2:50 AM ET",
+   "last_seen_et": "Oct 27, 3:54 AM ET",
+   "first_missing_et": "Oct 27, 4:00 AM ET",
+   "minutes_on_list": 64,
+   "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9B%B8%E5%A3%B0%E6%BC%94%E5%91%98%E4%B9%9F%E6%8E%A5%E4%B8%8D%E4%BD%8F%E4%B8%80%E5%A3%B0%E6%9D%A8%E8%80%81%E4%BA%94",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #17 → #17 → #17 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 4:19 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 5:03 AM ET"
    ]
   }
  ]
