@@ -1,14 +1,14 @@
 {
- "generated_at_et": "2026-10-26 19:32 ET",
+ "generated_at_et": "2026-10-26 20:41 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 6,
  "cut": {
-  "flagged": 92,
+  "flagged": 86,
   "came back once before": 0,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 25,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 23,
   "slid down before leaving": 2,
   "on the list a normal length of time": 33,
   "inside the list's normal rotation": 6,
@@ -85,10 +85,10 @@
    "minutes_on_list": 53,
    "url": "https://www.toutiao.com/trending/7700861141674167844/",
    "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "泽连斯基下令加强乌克兰城市环形防御体系建设",
-    "url": "https://www.yicai.com/news/103410368.html",
-    "published": "2026-10-27T07:07:28"
+    "source": "NetEase News 网易新闻",
+    "title": "梅德韦杰夫喊话特朗普：泽连斯基有＂十宗罪＂ 危害很大",
+    "url": "https://www.163.com/dy/article/LA5ILUE2053469LG.html",
+    "published": "2026-10-26 10:29:20"
    },
    "official_line_zh": null,
    "evidence": [
@@ -117,23 +117,12 @@
    "first_missing_et": "Oct 26, 12:15 AM ET",
    "minutes_on_list": 90,
    "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E8%B4%A7%E5%B8%81%E9%9B%B7%E4%BA%9A%E5%B0%94%E6%9A%B4%E8%B7%8C11.5%25",
-   "official_line": {
-    "source": "Cailian Press 财联社",
-    "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
-    "url": "https://www.cls.cn/detail/2515893",
-    "published": ""
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #13 → #13 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 26, 12:30 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 1:17 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Central News Agency Taiwan 中央社",
-     "url": "https://www.cna.com.tw/news/afe/202610270008.aspx",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 1:17 AM ET"
    ]
   },
   {
