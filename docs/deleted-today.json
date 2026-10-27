@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-27 08:35 ET",
+ "generated_at_et": "2026-10-27 09:43 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 11,
  "cut": {
-  "flagged": 105,
+  "flagged": 104,
   "came back once before": 6,
-  "gone under 60 min": 6,
+  "gone under 60 min": 8,
   "not in the top 10 when it left": 25,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 35,
+  "on the list a normal length of time": 32,
   "inside the list's normal rotation": 6,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 4,
-  "retitled": 4,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 5,
+  "retitled": 3,
   "topic still on the list": 2,
   "same story as a kept item": 1,
-  "kept": 10
+  "kept": 11
  },
  "items": [
   {
@@ -199,6 +199,28 @@
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #8 → #8 → #8 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 5:51 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 6:46 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "张雪为何能成为顶流企业家",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Oct 27, 7:24 AM ET",
+   "last_seen_et": "Oct 27, 8:00 AM ET",
+   "first_missing_et": "Oct 27, 8:05 AM ET",
+   "minutes_on_list": 36,
+   "url": "https://www.toutiao.com/trending/7701284792846781990/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #36 → #35 → #7 → #7 → #8 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 8:19 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 9:11 AM ET"
    ]
   },
   {
