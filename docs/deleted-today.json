@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-27 13:04 ET",
+ "generated_at_et": "2026-10-27 13:48 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,15 +7,15 @@
  "cut": {
   "flagged": 115,
   "came back once before": 6,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 31,
+  "gone under 60 min": 1,
+  "not in the top 10 when it left": 33,
   "slid down before leaving": 1,
   "on the list a normal length of time": 39,
-  "inside the list's normal rotation": 6,
-  "still on another hot list": 8,
+  "inside the list's normal rotation": 5,
+  "still on another hot list": 9,
   "left with other flagged topics (batch drop)": 4,
   "retitled": 4,
-  "topic still on the list": 3,
+  "topic still on the list": 2,
   "same story as a kept item": 1,
   "kept": 10
  },
