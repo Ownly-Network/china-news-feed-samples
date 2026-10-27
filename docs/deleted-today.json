@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-10-26 20:41 ET",
+ "generated_at_et": "2026-10-26 21:45 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 6,
  "cut": {
-  "flagged": 86,
+  "flagged": 87,
   "came back once before": 0,
-  "gone under 60 min": 0,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 23,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 33,
+  "on the list a normal length of time": 32,
   "inside the list's normal rotation": 6,
   "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 7,
+  "left with other flagged topics (batch drop)": 5,
   "retitled": 7,
   "topic still on the list": 0,
   "same story as a kept item": 0,
@@ -85,16 +85,22 @@
    "minutes_on_list": 53,
    "url": "https://www.toutiao.com/trending/7700861141674167844/",
    "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "梅德韦杰夫喊话特朗普：泽连斯基有＂十宗罪＂ 危害很大",
-    "url": "https://www.163.com/dy/article/LA5ILUE2053469LG.html",
-    "published": "2026-10-26 10:29:20"
+    "source": "YouTube: 鳳凰衛視 Phoenix TV",
+    "title": "什么话让泽连斯基当场愣住❓美媒记者：我以为你想说特朗普很有礼貌...泽连斯基：你说了算😓 #凤凰卫视 #泽连斯基 #特朗普 #美乌",
+    "url": "https://www.youtube.com/shorts/yMNR6EZsgHc",
+    "published": "2026-10-26T11:45:36+00:00"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #28 → #22 → #18 → #18 → #10 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 7:49 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 8:35 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sing Tao Daily Europe 星島日報 (歐洲版)",
+     "url": "https://www.singtao.co.uk/2026-10-24/%e6%98%9f%e9%8f%88%e5%9c%a8%e7%83%8f%e5%85%8b%e8%98%ad%e8%a7%a3%e9%99%a4%e9%99%90%e9%80%9f%e6%8e%aa%e6%96%bd-%e6%be%a4%e9%80%a3%e6%96%af%e5%9f%ba%e7%a8%b1%e9%80%9f%e5%ba%a6%e9%81%94%e6%89%80%e9%9c%80/4764646",
+     "published": null
+    },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: RFI 华语",
