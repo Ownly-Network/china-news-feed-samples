@@ -1,25 +1,47 @@
 {
- "generated_at_et": "2026-10-27 02:16 ET",
+ "generated_at_et": "2026-10-27 03:33 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 4,
  "cut": {
-  "flagged": 96,
+  "flagged": 92,
   "came back once before": 0,
   "gone under 60 min": 5,
-  "not in the top 10 when it left": 29,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 2,
   "on the list a normal length of time": 34,
-  "inside the list's normal rotation": 6,
-  "still on another hot list": 4,
-  "left with other flagged topics (batch drop)": 3,
-  "retitled": 6,
-  "topic still on the list": 3,
-  "same story as a kept item": 0,
+  "inside the list's normal rotation": 3,
+  "still on another hot list": 6,
+  "left with other flagged topics (batch drop)": 2,
+  "retitled": 5,
+  "topic still on the list": 2,
+  "same story as a kept item": 1,
   "kept": 4
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "小鹏最美产品经理道歉视频被指AI生成",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Oct 26, 11:24 PM ET",
+   "last_seen_et": "Oct 27, 1:16 AM ET",
+   "first_missing_et": "Oct 27, 1:20 AM ET",
+   "minutes_on_list": 112,
+   "url": "https://www.toutiao.com/trending/7700481221055021092/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #7 → #7 → #6 → #6 → #7 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 1:30 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 2:21 AM ET"
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -40,45 +62,6 @@
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 10:33 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 11:27 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "自媒体人举报电诈大佬遭买凶杀害",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Oct 26, 10:53 PM ET",
-   "last_seen_et": "Oct 26, 11:29 PM ET",
-   "first_missing_et": "Oct 26, 11:34 PM ET",
-   "minutes_on_list": 36,
-   "url": "https://www.toutiao.com/trending/7701138073098145323/",
-   "official_line": {
-    "source": "The Paper 澎湃新闻",
-    "title": "马上评｜反诈博主“徽剑”遭买凶杀害，电诈不除绝不收兵",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34340749",
-    "published": "2026-10-27 11:24:00"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 11:48 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 12:36 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/10/27/a104145558.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/hui-jian-killed-whistleblower-liu-ren/",
-     "published": null
-    }
    ]
   },
   {
@@ -123,13 +106,8 @@
    "first_missing_et": "Oct 26, 4:21 AM ET",
    "minutes_on_list": 80,
    "url": "https://www.baidu.com/s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B7%B4%E8%90%A8%E4%B8%BB%E5%9C%BA%E7%9C%8B%E7%90%83%E8%A2%AB%E6%8A%95%E8%AF%89%E6%98%AF%E5%8D%A7%E5%BA%95",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "樊振东看球赛:被安检拒绝入场 遭巴萨球迷投诉是＂卧底＂",
-    "url": "https://www.163.com/dy/article/LA631EF1051492LM.html",
-    "published": "2026-10-26 15:01:25"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #23 → #23 → #23 → #23 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 26, 4:37 AM ET",
