@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-28 10:42 ET",
+ "generated_at_et": "2026-10-28 11:48 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 3,
  "cut": {
-  "flagged": 88,
+  "flagged": 83,
   "came back once before": 4,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 29,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 26,
   "slid down before leaving": 1,
   "on the list a normal length of time": 31,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 10,
-  "left with other flagged topics (batch drop)": 3,
+  "still on another hot list": 9,
+  "left with other flagged topics (batch drop)": 2,
   "retitled": 0,
   "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 4
+  "kept": 3
  },
  "items": [
   {
@@ -40,28 +40,6 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #10 → #10 → #10 → #10 → #2 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 2:33 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 3:27 AM ET"
-   ]
-  },
-  {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "如何评价OpenAI发布重大成果",
-   "title_en": "How to Evaluate OpenAI's Major Announcement",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Oct 27, 10:46 AM ET",
-   "last_seen_et": "Oct 27, 11:22 AM ET",
-   "first_missing_et": "Oct 27, 11:27 AM ET",
-   "minutes_on_list": 36,
-   "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E5%A4%A7%E6%88%90%E6%9E%9C",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #3 → #3 → #3 → #3 → #3 → #3",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 11:38 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 12:32 PM ET"
    ]
   },
   {
@@ -93,7 +71,13 @@
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
-     "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQN1k4ZFpJVzZneUh2d2t5a29uWEhMVzJZY051VC1qUzBKNUVhR1l2clcwWmtNOVl2dzRadkJ2Y0hVdU44NTNqSnotZTNIcXN4OUVZeHdRVGRaNUs2dnk3ZmJOUTVSWTRFMHNsVGhxQmtKY25pRmJUUlZ1NUJtdWZZWTFrT2JQVmt3d1ZocVNYSjJoY0c1aEQtYV84QkVXRldud0dGWXkxZUpkcU95UXl6RUxLdl9xNUhaNlJjazJEc2dFcVZlVmVMcUN0by1IdUs0LXlDQUR1RkMzX2Y2Z1hLeWd5ZE8zV1BOVTI2bGx5NXZHaXUwRWtuM2gtc3pIRFlLUDJ1Zy1TRWJ2dDVpWFg0QzFvX3FsblUxRkh2ZThmRGt1QnFkWFo5VWRfdjhOUE1VbUhlaXowOGdsaHZhMFR0M2wxUHpLTE9mZFoydVJ1Nlk1bEhpcGdmSXNlQ25FSkdwUDI2OWxnOVZ5RU1OTkJPUi1MaF8wWlhpaVpmVFlKSGlTTjFmTzNaOF9WLUN5YnBTWnYwQnNTS1N5NTFRSS13bGJfTE9BZld2b2lJVUdQTkhfWk56QjRUVzJ3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQemxoQldvX2VacV9SM3dpUTVhQ0JQMEY5a2g4Vlp5eW93U000em1UR21SZC0zZFFxbXQxbnVkMFFRc1pqcDhIUW42WVlFdzRpY3F5cS1BU3pIOFV3Zkw1N0k1Qm9fN1BKcUNrUmZuMF9BemFIZGZsRjBBVXY5dHFoUmh1NW5qeTRNOUlEWmp3NEZ6NXZjc1djeFdRSGtKSThoWUFlS05PaW9sSTBUQ1BHcUl6M0k5WEkwSS0wa1NTLU1zUENDT0FYMVRPY3ZCZDVFbC1KYlc5LTFOcjBIVXZwY2t3T1ZacWlJNlhHWmZhTzVKWm5DWk1kZ3BGOUVjd2RKVFNWMWFxWkVCdm9HeE5ZejA4ZlhobXY0LUs2ZXlQWmo2MHZyWjFJN1J0T2NEYnYxRHR4aFp2dUtDRlpEVC1VUEgzUU5NM280dWE0UDRDdmZjb3FnRkxxSFhJcFg5c2VkOXIybFFEWVNlVnVYeEE4MmpuT19SNi1NS096Z2tFRzJ1alkyR3I3TjFwOHBFMXpORG1FRWhBS2pncng0VlJJRWx0YmNoa05vWEFWNmNoTHczQkNpR0tZMzQ2cWRNaHRVS3ZldQ?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/86738",
      "published": null
     }
    ]
