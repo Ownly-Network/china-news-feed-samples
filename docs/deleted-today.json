@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-28 07:26 ET",
+ "generated_at_et": "2026-10-28 08:31 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 4,
  "cut": {
-  "flagged": 93,
+  "flagged": 92,
   "came back once before": 4,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 30,
+  "gone under 60 min": 7,
+  "not in the top 10 when it left": 29,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 31,
+  "on the list a normal length of time": 32,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 8,
+  "still on another hot list": 10,
   "left with other flagged topics (batch drop)": 2,
   "retitled": 1,
-  "topic still on the list": 1,
+  "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 5
+  "kept": 4
  },
  "items": [
   {
@@ -83,34 +83,19 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #44 → #42 → #39 → #43 → #13 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 1:37 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 2:27 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "张雪为何能成为顶流企业家",
-   "title_en": "Why Has Zhang Xue Become a Top Entrepreneur?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Oct 27, 7:24 AM ET",
-   "last_seen_et": "Oct 27, 8:00 AM ET",
-   "first_missing_et": "Oct 27, 8:05 AM ET",
-   "minutes_on_list": 36,
-   "url": "https://www.toutiao.com/trending/7701284792846781990/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "赚再多钱有什么用？张雪在长征晚会上的发言，给企业家们上了一课",
-    "url": "https://new.qq.com/rain/a/20261028A0AGZJ00",
-    "published": "2026-10-28 17:09:11"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #36 → #35 → #7 → #7 → #8 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 8:19 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 9:11 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 2:27 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
+     "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPcDhVV1YteE1RcVVjczJQanpyRnZhTnZVc2pIa0ttYUZpQzBMRE9FNFBaa3JPaE1DUXJ6TmNCY09lT0xiZlltaC1lRU42MHdIZ0xBblg1Z3ZNZTF1Q0ZxcGJqLXVZaFZZYmhvT1Q4emZqdWRVNUdfRDczTVFYdGlNNlVhejRJc3JIVFpUYU9fQkJZaFdxaHlqVVNhNWdJSDdyUzVCcGIzcjRsUXNucHB3SVE2Z3BsODFBbWVtT2pkdXFycm0tdnhDb09HcTFuUjFOYkttRGd3RlZPeDVRejVON1g2ZU1hMWNMdUhLc3ZLXzZCZ011d1JEaVc4MmVRM2hWYS1rZXJjZjdBOFMzQmNtdzBpV2xZaGJWSTA5WWlXSDBCaGlmZU1TNFZ1TENFX0tYQ21NNWxvTDJJUENxZjRmTW5QdHh3ektzVk9OeEhqZGxrRXJOVngyTk5aOWtmdnZhc0MwUkFkWHg1bGxOZVFQcm44bDFnVm0ybHJ3QmZXRXlNSmFVNWVkZjVNU1o2M2ZBTlBGNVlXcEZGS2d1ckFHdllwRTZiZzF2QmVNNDV2bUFiNDQ5TG1zYnl1ZDhaWGJ6U0JKS2pkRXFOSkRJdU5ENGlhYmhzU1RMWWNrb1BDLWR5VHpEMFNtLWlyUTI4V2JFeU1Xbl9YYkVkT2RVRmNCc2tFNWt6QUNqbXJvNWF4UmJ2Y1MwcF8tUDFHaXpPdw?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
+     "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQN1k4ZFpJVzZneUh2d2t5a29uWEhMVzJZY051VC1qUzBKNUVhR1l2clcwWmtNOVl2dzRadkJ2Y0hVdU44NTNqSnotZTNIcXN4OUVZeHdRVGRaNUs2dnk3ZmJOUTVSWTRFMHNsVGhxQmtKY25pRmJUUlZ1NUJtdWZZWTFrT2JQVmt3d1ZocVNYSjJoY0c1aEQtYV84QkVXRldud0dGWXkxZUpkcU95UXl6RUxLdl9xNUhaNlJjazJEc2dFcVZlVmVMcUN0by1IdUs0LXlDQUR1RkMzX2Y2Z1hLeWd5ZE8zV1BOVTI2bGx5NXZHaXUwRWtuM2gtc3pIRFlLUDJ1Zy1TRWJ2dDVpWFg0QzFvX3FsblUxRkh2ZThmRGt1QnFkWFo5VWRfdjhOUE1VbUhlaXowOGdsaHZhMFR0M2wxUHpLTE9mZFoydVJ1Nlk1bEhpcGdmSXNlQ25FSkdwUDI2OWxnOVZ5RU1OTkJPUi1MaF8wWlhpaVpmVFlKSGlTTjFmTzNaOF9WLUN5YnBTWnYwQnNTS1N5NTFRSS13bGJfTE9BZld2b2lJVUdQTkhfWk56QjRUVzJ3?oc=5",
+     "published": null
+    }
    ]
   },
   {
