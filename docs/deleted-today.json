@@ -1,16 +1,16 @@
 {
- "generated_at_et": "2026-10-27 18:25 ET",
+ "generated_at_et": "2026-10-27 19:28 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 10,
  "cut": {
-  "flagged": 113,
-  "came back once before": 7,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 33,
-  "slid down before leaving": 1,
-  "on the list a normal length of time": 38,
+  "flagged": 108,
+  "came back once before": 6,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 31,
+  "slid down before leaving": 0,
+  "on the list a normal length of time": 35,
   "inside the list's normal rotation": 5,
   "still on another hot list": 9,
   "left with other flagged topics (batch drop)": 4,
@@ -145,10 +145,10 @@
    "minutes_on_list": 115,
    "url": "https://www.toutiao.com/trending/7701149448281899071/",
    "official_line": {
-    "source": "Phoenix 凤凰网",
+    "source": "Guancha 观察者网",
     "title": "谁在菲律宾“围猎”中国人？",
-    "url": "https://news.ifeng.com/c/8xZGptJm6Wc",
-    "published": "2026-10-27 14:33:31"
+    "url": "https://www.guancha.cn/zhanghuayi/2026_10_27_903632.shtml",
+    "published": ""
    },
    "official_line_zh": null,
    "evidence": [
@@ -238,16 +238,22 @@
    "minutes_on_list": 64,
    "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9B%B8%E5%A3%B0%E6%BC%94%E5%91%98%E4%B9%9F%E6%8E%A5%E4%B8%8D%E4%BD%8F%E4%B8%80%E5%A3%B0%E6%9D%A8%E8%80%81%E4%BA%94",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "相声演员杨议辱骂观众！一句玩笑气愤破口大骂5分钟，质问你是什么东西",
-    "url": "https://new.qq.com/rain/a/20261028V016WB00",
-    "published": "2026-10-28 06:00:07"
+    "source": "Yangcheng Evening News 羊城晚报 (金羊网)",
+    "title": "相声演员台上骂观众“破防”回怼失态又失分",
+    "url": "https://ep.ycwb.com/epaper/ycwb/html/2026-10/28/content_2977_770291.htm",
+    "published": "2026-10-28"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #17 → #17 → #17 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 4:19 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 5:03 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 5:03 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Epoch Times Chinese 大纪元",
+     "url": "https://www.epochtimes.com/b5/26/10/27/n14877994.htm",
+     "published": null
+    }
    ]
   }
  ]
