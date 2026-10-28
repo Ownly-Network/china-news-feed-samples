@@ -1,47 +1,25 @@
 {
- "generated_at_et": "2026-10-28 02:05 ET",
+ "generated_at_et": "2026-10-28 03:07 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 8,
  "cut": {
-  "flagged": 101,
+  "flagged": 102,
   "came back once before": 9,
-  "gone under 60 min": 3,
+  "gone under 60 min": 5,
   "not in the top 10 when it left": 27,
   "slid down before leaving": 1,
   "on the list a normal length of time": 33,
   "inside the list's normal rotation": 5,
   "still on another hot list": 7,
-  "left with other flagged topics (batch drop)": 5,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 2,
-  "topic still on the list": 0,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 8
  },
  "items": [
-  {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "angel复盘AL比赛",
-   "title_en": "angel reviews the AL game",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 27, 2:20 AM ET",
-   "last_seen_et": "Oct 27, 2:51 AM ET",
-   "first_missing_et": "Oct 27, 2:56 AM ET",
-   "minutes_on_list": 31,
-   "url": "https://search.bilibili.com/all?keyword=angel%E5%A4%8D%E7%9B%98AL%E6%AF%94%E8%B5%9B",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 3:12 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 4:02 AM ET"
-   ]
-  },
   {
    "platform": "bilibili",
    "platform_name": "Bilibili 哔哩哔哩",
@@ -62,28 +40,6 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #3 → #3 → #3 → #3 → #3 → #3",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 11:38 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 12:32 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "国内油价或将再刷新高",
-   "title_en": "Domestic Gas Prices May Hit a New High",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Oct 27, 1:44 AM ET",
-   "last_seen_et": "Oct 27, 2:41 AM ET",
-   "first_missing_et": "Oct 27, 2:45 AM ET",
-   "minutes_on_list": 57,
-   "url": "https://www.toutiao.com/trending/7700481008973512723/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 27, 3:02 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 3:50 AM ET"
    ]
   },
   {
@@ -128,6 +84,28 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 3:45 AM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 27, 4:47 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "国家公务员局郑重提醒",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Oct 28, 12:50 AM ET",
+   "last_seen_et": "Oct 28, 1:20 AM ET",
+   "first_missing_et": "Oct 28, 1:25 AM ET",
+   "minutes_on_list": 30,
+   "url": "https://www.toutiao.com/trending/7700912696347820086/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #44 → #42 → #39 → #43 → #13 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 1:37 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 2:27 AM ET"
    ]
   },
   {
