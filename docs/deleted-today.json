@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-28 03:07 ET",
+ "generated_at_et": "2026-10-28 04:09 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 6,
  "cut": {
-  "flagged": 102,
-  "came back once before": 9,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 27,
+  "flagged": 97,
+  "came back once before": 8,
+  "gone under 60 min": 7,
+  "not in the top 10 when it left": 29,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 33,
-  "inside the list's normal rotation": 5,
-  "still on another hot list": 7,
-  "left with other flagged topics (batch drop)": 4,
+  "on the list a normal length of time": 28,
+  "inside the list's normal rotation": 4,
+  "still on another hot list": 8,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 2,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 8
+  "kept": 6
  },
  "items": [
   {
@@ -62,28 +62,6 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #7 → #6 → #6 → #5 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 6:06 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 6:57 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "谁在菲律宾“围猎”中国人",
-   "title_en": "Who Is “Hunting Down” Chinese Citizens in the Philippines?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Oct 27, 1:35 AM ET",
-   "last_seen_et": "Oct 27, 3:30 AM ET",
-   "first_missing_et": "Oct 27, 3:34 AM ET",
-   "minutes_on_list": 115,
-   "url": "https://www.toutiao.com/trending/7701149448281899071/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 3:45 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 27, 4:47 AM ET"
    ]
   },
   {
@@ -172,33 +150,6 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 7:32 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 8:21 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "为什么相声演员也接不住一声杨老五",
-   "title_en": "Why Can't Even the Crosstalk Performers Catch a Single \"Yang Laowu\"?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 8,
-   "first_seen_et": "Oct 27, 2:50 AM ET",
-   "last_seen_et": "Oct 27, 3:54 AM ET",
-   "first_missing_et": "Oct 27, 4:00 AM ET",
-   "minutes_on_list": 64,
-   "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9B%B8%E5%A3%B0%E6%BC%94%E5%91%98%E4%B9%9F%E6%8E%A5%E4%B8%8D%E4%BD%8F%E4%B8%80%E5%A3%B0%E6%9D%A8%E8%80%81%E4%BA%94",
-   "official_line": {
-    "source": "Yangcheng Evening News 羊城晚报 (金羊网)",
-    "title": "相声演员台上骂观众“破防”回怼失态又失分",
-    "url": "https://ep.ycwb.com/epaper/ycwb/html/2026-10/28/content_2977_770291.htm",
-    "published": "2026-10-28"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #17 → #17 → #17 → #8 → #8 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 4:19 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 5:03 AM ET"
    ]
   }
  ]
