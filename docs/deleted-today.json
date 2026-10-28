@@ -1,13 +1,13 @@
 {
- "generated_at_et": "2026-10-28 12:53 ET",
+ "generated_at_et": "2026-10-28 13:55 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 3,
  "cut": {
-  "flagged": 80,
+  "flagged": 78,
   "came back once before": 4,
-  "gone under 60 min": 1,
+  "gone under 60 min": 0,
   "not in the top 10 when it left": 24,
   "slid down before leaving": 1,
   "on the list a normal length of time": 31,
@@ -17,7 +17,7 @@
   "retitled": 0,
   "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 4
+  "kept": 3
  },
  "items": [
   {
@@ -71,7 +71,7 @@
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
-     "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQemxoQldvX2VacV9SM3dpUTVhQ0JQMEY5a2g4Vlp5eW93U000em1UR21SZC0zZFFxbXQxbnVkMFFRc1pqcDhIUW42WVlFdzRpY3F5cS1BU3pIOFV3Zkw1N0k1Qm9fN1BKcUNrUmZuMF9BemFIZGZsRjBBVXY5dHFoUmh1NW5qeTRNOUlEWmp3NEZ6NXZjc1djeFdRSGtKSThoWUFlS05PaW9sSTBUQ1BHcUl6M0k5WEkwSS0wa1NTLU1zUENDT0FYMVRPY3ZCZDVFbC1KYlc5LTFOcjBIVXZwY2t3T1ZacWlJNlhHWmZhTzVKWm5DWk1kZ3BGOUVjd2RKVFNWMWFxWkVCdm9HeE5ZejA4ZlhobXY0LUs2ZXlQWmo2MHZyWjFJN1J0T2NEYnYxRHR4aFp2dUtDRlpEVC1VUEgzUU5NM280dWE0UDRDdmZjb3FnRkxxSFhJcFg5c2VkOXIybFFEWVNlVnVYeEE4MmpuT19SNi1NS096Z2tFRzJ1alkyR3I3TjFwOHBFMXpORG1FRWhBS2pncng0VlJJRWx0YmNoa05vWEFWNmNoTHczQkNpR0tZMzQ2cWRNaHRVS3ZldQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQN1k4ZFpJVzZneUh2d2t5a29uWEhMVzJZY051VC1qUzBKNUVhR1l2clcwWmtNOVl2dzRadkJ2Y0hVdU44NTNqSnotZTNIcXN4OUVZeHdRVGRaNUs2dnk3ZmJOUTVSWTRFMHNsVGhxQmtKY25pRmJUUlZ1NUJtdWZZWTFrT2JQVmt3d1ZocVNYSjJoY0c1aEQtYV84QkVXRldud0dGWXkxZUpkcU95UXl6RUxLdl9xNUhaNlJjazJEc2dFcVZlVmVMcUN0by1IdUs0LXlDQUR1RkMzX2Y2Z1hLeWd5ZE8zV1BOVTI2bGx5NXZHaXUwRWtuM2gtc3pIRFlLUDJ1Zy1TRWJ2dDVpWFg0QzFvX3FsblUxRkh2ZThmRGt1QnFkWFo5VWRfdjhOUE1VbUhlaXowOGdsaHZhMFR0M2wxUHpLTE9mZFoydVJ1Nlk1bEhpcGdmSXNlQ25FSkdwUDI2OWxnOVZ5RU1OTkJPUi1MaF8wWlhpaVpmVFlKSGlTTjFmTzNaOF9WLUN5YnBTWnYwQnNTS1N5NTFRSS13bGJfTE9BZld2b2lJVUdQTkhfWk56QjRUVzJ3?oc=5",
      "published": null
     },
     {
@@ -102,28 +102,6 @@
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #17 → #16 → #14 → #16 → #10 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 4:37 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 5:28 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "150人考试149人通过牵出作弊案",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 10,
-   "first_seen_et": "Oct 28, 9:23 AM ET",
-   "last_seen_et": "Oct 28, 10:13 AM ET",
-   "first_missing_et": "Oct 28, 10:17 AM ET",
-   "minutes_on_list": 49,
-   "url": "https://www.toutiao.com/trending/7701587912219181107/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 10:29 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 28, 11:18 AM ET"
    ]
   }
  ]
