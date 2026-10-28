@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-28 05:14 ET",
+ "generated_at_et": "2026-10-28 06:17 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 6,
  "cut": {
-  "flagged": 90,
+  "flagged": 92,
   "came back once before": 5,
   "gone under 60 min": 5,
-  "not in the top 10 when it left": 27,
+  "not in the top 10 when it left": 30,
   "slid down before leaving": 1,
   "on the list a normal length of time": 32,
-  "inside the list's normal rotation": 2,
-  "still on another hot list": 6,
+  "inside the list's normal rotation": 3,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 1,
-  "retitled": 3,
+  "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 6
  },
  "items": [
   {
@@ -67,28 +67,6 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "娱乐至死的医疗真人秀该叫停了",
-   "title_en": "It's Time to Put a Stop to Medical Reality Shows That Prioritize Entertainment Above All Else",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Oct 27, 5:17 AM ET",
-   "last_seen_et": "Oct 27, 5:50 AM ET",
-   "first_missing_et": "Oct 27, 5:55 AM ET",
-   "minutes_on_list": 33,
-   "url": "https://www.toutiao.com/trending/7700267800496983593/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #7 → #6 → #6 → #5 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 6:06 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 6:57 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
    "title_zh": "国家公务员局郑重提醒",
    "title_en": "",
    "label": "Dropped off",
@@ -111,28 +89,6 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "沪指收跌1.33%",
-   "title_en": "The Shanghai Composite Index closed down 1.33%",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Oct 27, 3:39 AM ET",
-   "last_seen_et": "Oct 27, 5:32 AM ET",
-   "first_missing_et": "Oct 27, 5:37 AM ET",
-   "minutes_on_list": 114,
-   "url": "https://www.toutiao.com/trending/7701232150380806682/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #8 → #8 → #8 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 5:51 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 6:46 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
    "title_zh": "张雪为何能成为顶流企业家",
    "title_en": "Why Has Zhang Xue Become a Top Entrepreneur?",
    "label": "Dropped off",
@@ -144,8 +100,13 @@
    "first_missing_et": "Oct 27, 8:05 AM ET",
    "minutes_on_list": 36,
    "url": "https://www.toutiao.com/trending/7701284792846781990/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "赚再多钱有什么用？张雪在长征晚会上的发言，给企业家们上了一课",
+    "url": "https://new.qq.com/rain/a/20261028A0AGZJ00",
+    "published": "2026-10-28 17:09:11"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #36 → #35 → #7 → #7 → #8 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 8:19 AM ET",
@@ -172,6 +133,28 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 7:32 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 27, 8:21 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "俄向日本提恢复全面对话条件",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 8,
+   "first_seen_et": "Oct 28, 2:51 AM ET",
+   "last_seen_et": "Oct 28, 4:14 AM ET",
+   "first_missing_et": "Oct 28, 4:20 AM ET",
+   "minutes_on_list": 83,
+   "url": "https://www.toutiao.com/trending/7700562169305956395/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #17 → #16 → #14 → #16 → #10 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 4:37 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 5:28 AM ET"
    ]
   }
  ]
