@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-29 02:48 ET",
+ "generated_at_et": "2026-10-29 05:00 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,19 +7,41 @@
  "cut": {
   "flagged": 86,
   "came back once before": 1,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 32,
+  "gone under 60 min": 10,
+  "not in the top 10 when it left": 31,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 29,
-  "inside the list's normal rotation": 4,
-  "still on another hot list": 8,
-  "left with other flagged topics (batch drop)": 2,
-  "retitled": 0,
-  "topic still on the list": 1,
+  "on the list a normal length of time": 25,
+  "inside the list's normal rotation": 3,
+  "still on another hot list": 7,
+  "left with other flagged topics (batch drop)": 3,
+  "retitled": 1,
+  "topic still on the list": 2,
   "same story as a kept item": 0,
   "kept": 3
  },
  "items": [
+  {
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "title_zh": "以英语为母语的人，遇到不认识的单词的时候能像我们一样产生大概的感觉吗？",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Oct 28, 11:05 PM ET",
+   "last_seen_et": "Oct 29, 2:36 AM ET",
+   "first_missing_et": "Oct 29, 2:41 AM ET",
+   "minutes_on_list": 211,
+   "url": "https://www.zhihu.com/question/2021843371061199570",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 29, 2:57 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 29, 3:47 AM ET"
+   ]
+  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -34,39 +56,12 @@
    "first_missing_et": "Oct 28, 10:51 PM ET",
    "minutes_on_list": 45,
    "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE3%25+%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854400%E8%82%A1%E4%B8%8B%E8%B7%8C",
-   "official_line": {
-    "source": "36Kr",
-    "title": "创业板指跌超4%",
-    "url": "https://36kr.com/newsflashes/4046580265276546?f=rss",
-    "published": "2026-10-29T06:34:18Z"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 11:02 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 11:54 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "俄向日本提恢复全面对话条件",
-   "title_en": "Russia Sets Conditions for Resuming Full-Scale Dialogue with Japan",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 8,
-   "first_seen_et": "Oct 28, 2:51 AM ET",
-   "last_seen_et": "Oct 28, 4:14 AM ET",
-   "first_missing_et": "Oct 28, 4:20 AM ET",
-   "minutes_on_list": 83,
-   "url": "https://www.toutiao.com/trending/7700562169305956395/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #17 → #16 → #14 → #16 → #10 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 4:37 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 5:28 AM ET"
    ]
   },
   {
