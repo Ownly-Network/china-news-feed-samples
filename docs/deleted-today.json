@@ -1,25 +1,47 @@
 {
- "generated_at_et": "2026-10-29 05:00 ET",
+ "generated_at_et": "2026-10-29 06:07 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 3,
  "cut": {
-  "flagged": 86,
+  "flagged": 85,
   "came back once before": 1,
-  "gone under 60 min": 10,
-  "not in the top 10 when it left": 31,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 25,
+  "on the list a normal length of time": 30,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 7,
-  "left with other flagged topics (batch drop)": 3,
+  "still on another hot list": 9,
+  "left with other flagged topics (batch drop)": 7,
   "retitled": 1,
   "topic still on the list": 2,
   "same story as a kept item": 0,
   "kept": 3
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "全市场超4700只个股飘绿",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Oct 29, 4:14 AM ET",
+   "last_seen_et": "Oct 29, 4:45 AM ET",
+   "first_missing_et": "Oct 29, 4:50 AM ET",
+   "minutes_on_list": 30,
+   "url": "https://www.toutiao.com/trending/7701983505881763391/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 29, 5:02 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 29, 5:50 AM ET"
+   ]
+  },
   {
    "platform": "zhihu",
    "platform_name": "Zhihu 知乎",
@@ -40,28 +62,6 @@
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #7 → #7 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 29, 2:57 AM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 29, 3:47 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "创业板指跌逾3% 全市场超4400股下跌",
-   "title_en": "The ChiNext Index fell more than 3%, with over 4,400 stocks across the market posting losses",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Oct 28, 10:01 PM ET",
-   "last_seen_et": "Oct 28, 10:46 PM ET",
-   "first_missing_et": "Oct 28, 10:51 PM ET",
-   "minutes_on_list": 45,
-   "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE3%25+%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854400%E8%82%A1%E4%B8%8B%E8%B7%8C",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 11:02 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 11:54 PM ET"
    ]
   },
   {
