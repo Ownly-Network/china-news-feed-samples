@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-29 00:38 ET",
+ "generated_at_et": "2026-10-29 01:44 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 4,
  "cut": {
-  "flagged": 87,
-  "came back once before": 3,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 32,
+  "flagged": 81,
+  "came back once before": 1,
+  "gone under 60 min": 1,
+  "not in the top 10 when it left": 31,
   "slid down before leaving": 0,
   "on the list a normal length of time": 30,
   "inside the list's normal rotation": 4,
   "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 2,
   "retitled": 0,
-  "topic still on the list": 2,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 5
+  "kept": 4
  },
  "items": [
   {
@@ -43,28 +43,6 @@
    ]
   },
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "国家公务员局郑重提醒",
-   "title_en": "The State Administration of Civil Service Issues a Serious Reminder",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Oct 28, 12:50 AM ET",
-   "last_seen_et": "Oct 28, 1:20 AM ET",
-   "first_missing_et": "Oct 28, 1:25 AM ET",
-   "minutes_on_list": 30,
-   "url": "https://www.toutiao.com/trending/7700912696347820086/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #44 → #42 → #39 → #43 → #13 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 1:37 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 2:27 AM ET"
-   ]
-  },
-  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "创业板指跌逾3% 全市场超4400股下跌",
@@ -78,13 +56,8 @@
    "first_missing_et": "Oct 28, 10:51 PM ET",
    "minutes_on_list": 45,
    "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE3%25+%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854400%E8%82%A1%E4%B8%8B%E8%B7%8C",
-   "official_line": {
-    "source": "RTHK 香港電台",
-    "title": "内地股市下挫 创业板指数半日低收逾3.6% HKT 11:43",
-    "url": "https://news.rthk.hk/rthk/ch/component/k2/1875750-20261029.htm",
-    "published": "2026-10-29"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 28, 11:02 PM ET",
