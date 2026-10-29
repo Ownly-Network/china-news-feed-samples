@@ -1,13 +1,13 @@
 {
- "generated_at_et": "2026-10-29 11:37 ET",
+ "generated_at_et": "2026-10-29 12:45 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 8,
  "cut": {
-  "flagged": 92,
+  "flagged": 94,
   "came back once before": 1,
-  "gone under 60 min": 1,
+  "gone under 60 min": 3,
   "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
   "on the list a normal length of time": 34,
