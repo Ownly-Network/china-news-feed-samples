@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-30 14:03 ET",
+ "generated_at_et": "2026-10-30 15:07 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -50,6 +50,12 @@
      "source": "CDT 404 Archive 404文库",
      "url": "https://chinadigitaltimes.net/chinese/733026.html",
      "published": "2026-10-19T18:59:30Z"
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 新唐人 NTD Chinese",
+     "url": "https://www.youtube.com/watch?v=KHohzNgc-II",
+     "published": null
     }
    ]
   },
@@ -67,13 +73,8 @@
    "first_missing_et": "Oct 30, 12:55 AM ET",
    "minutes_on_list": 110,
    "url": "https://www.toutiao.com/trending/7701894413991215130/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "张雪称已拉黑母亲，曾警告过一次，现撕碎体面，母子感情早有裂痕",
-    "url": "https://new.qq.com/rain/a/20261030A0EJGF00",
-    "published": "2026-10-30 23:15:00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #3",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:06 AM ET",
