@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-30 04:07 ET",
+ "generated_at_et": "2026-10-30 05:21 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 9,
  "cut": {
-  "flagged": 91,
-  "came back once before": 3,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 21,
+  "flagged": 89,
+  "came back once before": 4,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 31,
+  "on the list a normal length of time": 25,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 7,
+  "still on another hot list": 10,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 2,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 10
+  "kept": 9
  },
  "items": [
   {
@@ -39,7 +39,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #3",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:06 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:56 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:56 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Bannedbook 禁闻网",
+     "url": "https://www.bannedbook.org/bnews/itnews/20261030/2375429.html",
+     "published": null
+    }
    ]
   },
   {
@@ -134,28 +140,6 @@
      "url": "https://chinadigitaltimes.net/chinese/733098.html",
      "published": "2026-10-21T11:31:17Z"
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "全市场超4700只个股飘绿",
-   "title_en": "More than 4,700 stocks across the market are trading in the red",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Oct 29, 4:14 AM ET",
-   "last_seen_et": "Oct 29, 4:45 AM ET",
-   "first_missing_et": "Oct 29, 4:50 AM ET",
-   "minutes_on_list": 30,
-   "url": "https://www.toutiao.com/trending/7701983505881763391/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 29, 5:02 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 29, 5:50 AM ET"
    ]
   },
   {
