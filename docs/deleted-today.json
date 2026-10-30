@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-30 09:43 ET",
+ "generated_at_et": "2026-10-30 10:48 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 7,
  "cut": {
-  "flagged": 78,
+  "flagged": 75,
   "came back once before": 3,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 23,
+  "gone under 60 min": 1,
+  "not in the top 10 when it left": 22,
   "slid down before leaving": 1,
   "on the list a normal length of time": 19,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 7,
-  "retitled": 2,
+  "still on another hot list": 7,
+  "left with other flagged topics (batch drop)": 8,
+  "retitled": 3,
   "topic still on the list": 0,
   "same story as a kept item": 1,
-  "kept": 6
+  "kept": 7
  },
  "items": [
   {
@@ -46,6 +46,28 @@
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwTVJzMk5fYUstdVF6Nks4cEhPWTBNTXRaTjNUWmVYRm9EMHktYWRuTmhWdnllcEhNYklvaTIzSmJTM0VLTHZSTHVpOWw2R1ZsenVteWVDNExocjhqUTBtV3c2U2lvaUU?oc=5",
      "published": null
     }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "张雪称已将母亲拉黑",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Oct 29, 11:00 PM ET",
+   "last_seen_et": "Oct 30, 12:49 AM ET",
+   "first_missing_et": "Oct 30, 12:55 AM ET",
+   "minutes_on_list": 110,
+   "url": "https://www.toutiao.com/trending/7701894413991215130/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #3",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:06 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:56 AM ET"
    ]
   },
   {
@@ -95,6 +117,28 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
+   "title_zh": "CBA深圳外援史密斯兴奋剂检测阳性",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Oct 30, 8:10 AM ET",
+   "last_seen_et": "Oct 30, 9:05 AM ET",
+   "first_missing_et": "Oct 30, 9:10 AM ET",
+   "minutes_on_list": 56,
+   "url": "https://www.toutiao.com/trending/7702425388063919625/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:21 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:11 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
    "title_zh": "摆拍大体老师头骨学生被处分",
    "title_en": "",
    "label": "Dropped off",
@@ -107,10 +151,10 @@
    "minutes_on_list": 70,
    "url": "https://www.toutiao.com/trending/7701838500216274994/",
    "official_line": {
-    "source": "People's Daily+ 人民网+ app",
-    "title": "学生摆拍大体老师头骨？校方通报：给予校纪处分",
-    "url": "https://app.people.cn/h5/detail/normal/7071105735410688",
-    "published": "2026-10-30T06:39:49Z"
+    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
+    "title": "毫无敬畏，如何对得起“大体老师”的无私奉献",
+    "url": "https://www.peopleapp.com/column/30053457391-500007764805",
+    "published": "2026-10-30T13:43:22Z"
    },
    "official_line_zh": null,
    "evidence": [
@@ -123,28 +167,6 @@
      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8A%8A%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E9%81%97%E9%AA%A8%E5%BD%93%E7%8E%A9%E7%89%A9%E9%85%8D%E5%BD%93%E5%8C%BB%E7%94%9F%E5%90%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D11%26cate%3D5001%26stream_entry_id%3D31%26flag%3D2%26lcate%3D5001%26pos%3D12%26band_rank%3D11%26q%3D%2523%25E6%258A%258A%25E5%25A4%25A7%25E4%25BD%2593%25E8%2580%2581%25E5%25B8%2588%25E9%2581%2597%25E9%25AA%25A8%25E5%25BD%2593%25E7%258E%25A9%25E7%2589%25A9%25E9%2585%258D%25E5%25BD%2593%25E5%258C%25BB%25E7%2594%259F%25E5%2590%2597%2523%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1793304918%26pre_seqid%3D1793304918185093674294&launchid=10000360-page_H5",
      "published": "2026-10-30"
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "俄军新导弹完整摔进乌克兰有何影响",
-   "title_en": "What Are the Implications of a New Russian Missile Crashing Entirely Into Ukraine?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Oct 29, 9:24 AM ET",
-   "last_seen_et": "Oct 29, 10:20 AM ET",
-   "first_missing_et": "Oct 29, 10:25 AM ET",
-   "minutes_on_list": 56,
-   "url": "https://www.toutiao.com/trending/7702075409554214454/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 29, 10:36 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 29, 11:27 AM ET"
    ]
   },
   {
