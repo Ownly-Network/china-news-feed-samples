@@ -1,25 +1,52 @@
 {
- "generated_at_et": "2026-10-30 21:33 ET",
+ "generated_at_et": "2026-10-30 22:40 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 9,
  "cut": {
-  "flagged": 81,
+  "flagged": 86,
   "came back once before": 3,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 27,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 20,
+  "on the list a normal length of time": 21,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 8,
-  "retitled": 2,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 10,
+  "retitled": 3,
   "topic still on the list": 0,
-  "same story as a kept item": 1,
-  "kept": 7
+  "same story as a kept item": 2,
+  "kept": 9
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "金价跌至一年来新低",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Oct 30, 8:13 PM ET",
+   "last_seen_et": "Oct 30, 8:56 PM ET",
+   "first_missing_et": "Oct 30, 9:00 PM ET",
+   "minutes_on_list": 43,
+   "url": "https://www.toutiao.com/trending/7701933940197687315/",
+   "official_line": {
+    "source": "36Kr",
+    "title": "金价跌至一年来新低",
+    "url": "https://36kr.com/newsflashes/4049132282149380?f=rss",
+    "published": "2026-10-31T01:50:21Z"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #7 → #7 → #7 → #7 → #7 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:13 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET"
+   ]
+  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -133,7 +160,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:52 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 2:41 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 2:41 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Ming Pao 明報",
+     "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxORVdfVGpkQ2tVTE9Rb0N6dkZKRTUtV2FxRFRzcS1wdzR2em5MZXZQdnUtRlFQUzB0RHRwV1V5a05xN25qZzFYdWVGWjhMM0Uzejc3R2IxRHYzTXUtbnVjOERqbUZmRTZMZUQ3NzFRTVkybmp0QjFTc01Ta1k5VGE4eVd4R0JkaXByai1mM181akVDbXFZcVV5QkhQVjBYYkFRaUI2NUVwUlRibFlOQXVEdnllZUtpTzVoTTJKeVVOR1BzR3hnZjY3OXhyd1ZfWXA3R0YwLWZIbG1PeE5zcGdIQzRYRmEwMXM1WnMzS25GTzFvSnZBXzdub1gxWjVvN3hJN1JxdU03MDlGaktPRVRnaVZkNzVydXVSTUF6ckoxTjVBb05McDZ4TDFZcldxUjZfbnBoSG9sMTFWazBZYUVwSHhDTEZXUGoweG44dllJaHBCUnVBcmpXWGk1X2pBbl9PRlcwVktMTG5xQ0VlLXo5WVYwcTU5cWlZZGVmZ2ZHMnV6aGRSa05ScndYelR4TGtUMkFRdG51bE13SWV1ZzBwckwyMWFBZU10TUdKOUJkYVZhM0pVaTJDUndxcFpUQTR1YmhQTnRoX05xSkI2Tm9wV1dDNk1TR19FekFhbHQwMzFWUGt5WEh6dXNfUS1BTm1yRWJuZWdyVmV0c1FpTTJGaTdzZHRKSzhBTnU3TTRUR3FaRUZyZE82TVVCUDZ2Qld4SUJjU2hBcUc?oc=5",
+     "published": null
+    }
    ]
   },
   {
@@ -150,17 +183,39 @@
    "first_missing_et": "Oct 30, 9:10 AM ET",
    "minutes_on_list": 56,
    "url": "https://www.toutiao.com/trending/7702425388063919625/",
-   "official_line": {
-    "source": "CCTV News 央视新闻 (news.cctv.com)",
-    "title": "中国篮球协会：深圳新世纪外援特奎维恩·史密斯兴奋剂检测呈阳性",
-    "url": "https://news.cctv.com/2026/10/30/ARTIPk5wrmAIxGPyprai9ALK261030.shtml",
-    "published": "2026-10-30 23:32:22"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:21 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:11 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "摆拍大体老师头骨学生被处分",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Oct 29, 11:50 PM ET",
+   "last_seen_et": "Oct 30, 1:00 AM ET",
+   "first_missing_et": "Oct 30, 1:05 AM ET",
+   "minutes_on_list": 70,
+   "url": "https://www.toutiao.com/trending/7701838500216274994/",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "医学生摆拍侮辱大体老师，校方通报：坚决零容忍！",
+    "url": "https://new.qq.com/rain/a/20261031A034T400",
+    "published": "2026-10-31 07:51:38"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #8 → #10 → #14 → #10 → #10 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:17 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 2:06 AM ET"
    ]
   },
   {
