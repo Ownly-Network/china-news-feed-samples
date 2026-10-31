@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-31 10:49 ET",
+ "generated_at_et": "2026-10-31 11:56 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 7,
  "cut": {
-  "flagged": 71,
+  "flagged": 63,
   "came back once before": 0,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 25,
-  "slid down before leaving": 0,
-  "on the list a normal length of time": 20,
+  "gone under 60 min": 1,
+  "not in the top 10 when it left": 23,
+  "slid down before leaving": 1,
+  "on the list a normal length of time": 19,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 3,
+  "still on another hot list": 4,
   "left with other flagged topics (batch drop)": 3,
   "retitled": 3,
-  "topic still on the list": 1,
+  "topic still on the list": 0,
   "same story as a kept item": 2,
-  "kept": 10
+  "kept": 7
  },
  "items": [
   {
@@ -71,13 +71,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #7 → #7 → #7 → #7 → #7 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:13 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "World Journal 世界日報 (US)",
-     "url": "https://www.worldjournal.com/wj/story/121477/9849312",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET"
    ]
   },
   {
@@ -106,28 +100,6 @@
      "url": "https://www.chineseherald.co.nz/news/international/article-1793417286067/",
      "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "10月A股收官",
-   "title_en": "October A-Share Market Closes",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Oct 30, 9:55 AM ET",
-   "last_seen_et": "Oct 30, 11:34 AM ET",
-   "first_missing_et": "Oct 30, 11:39 AM ET",
-   "minutes_on_list": 99,
-   "url": "https://www.toutiao.com/trending/7702106972494184502/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 11:50 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 12:43 PM ET"
    ]
   },
   {
@@ -194,28 +166,6 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "许飞发长文谈出道二十年新专辑",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 9,
-   "first_seen_et": "Oct 31, 7:25 AM ET",
-   "last_seen_et": "Oct 31, 8:13 AM ET",
-   "first_missing_et": "Oct 31, 8:18 AM ET",
-   "minutes_on_list": 48,
-   "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E9%A3%9E%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E5%87%BA%E9%81%93%E4%BA%8C%E5%8D%81%E5%B9%B4%E6%96%B0%E4%B8%93%E8%BE%91",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #23 → #9 → #9 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 8:30 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 9:21 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
    "title_zh": "经济日报：“速成车”标签不可乱贴",
    "title_en": "Economic Daily: The “Crash Course” Label Should Not Be Applied Carelessly",
    "label": "Dropped off",
@@ -233,28 +183,6 @@
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 11:45 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 12:33 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "高秀敏被印上祭品 当地：正在排查",
-   "title_en": "Gao Xiumin Labeled as a \"Sacrificial Victim\"; local Authorities: Investigation Underway",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 9,
-   "first_seen_et": "Oct 30, 10:29 AM ET",
-   "last_seen_et": "Oct 30, 11:39 AM ET",
-   "first_missing_et": "Oct 30, 11:44 AM ET",
-   "minutes_on_list": 70,
-   "url": "https://www.baidu.com/s?wd=%E9%AB%98%E7%A7%80%E6%95%8F%E8%A2%AB%E5%8D%B0%E4%B8%8A%E7%A5%AD%E5%93%81+%E5%BD%93%E5%9C%B0%EF%BC%9A%E6%AD%A3%E5%9C%A8%E6%8E%92%E6%9F%A5",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 11:55 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 12:48 PM ET"
    ]
   },
   {
