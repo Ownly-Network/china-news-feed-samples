@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-30 23:47 ET",
+ "generated_at_et": "2026-10-31 00:50 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 10,
  "cut": {
   "flagged": 80,
-  "came back once before": 2,
-  "gone under 60 min": 4,
+  "came back once before": 3,
+  "gone under 60 min": 2,
   "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 19,
+  "on the list a normal length of time": 18,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 2,
+  "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 9,
   "retitled": 4,
   "topic still on the list": 0,
   "same story as a kept item": 2,
-  "kept": 9
+  "kept": 10
  },
  "items": [
   {
@@ -44,7 +44,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #7 → #7 → #7 → #7 → #7 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:13 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/finance/world/story20261031-9925175?ref=today-news-section-card-9",
+     "published": null
+    }
    ]
   },
   {
@@ -149,12 +155,6 @@
      "source": "Ming Pao 明報",
      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxORVdfVGpkQ2tVTE9Rb0N6dkZKRTUtV2FxRFRzcS1wdzR2em5MZXZQdnUtRlFQUzB0RHRwV1V5a05xN25qZzFYdWVGWjhMM0Uzejc3R2IxRHYzTXUtbnVjOERqbUZmRTZMZUQ3NzFRTVkybmp0QjFTc01Ta1k5VGE4eVd4R0JkaXByai1mM181akVDbXFZcVV5QkhQVjBYYkFRaUI2NUVwUlRibFlOQXVEdnllZUtpTzVoTTJKeVVOR1BzR3hnZjY3OXhyd1ZfWXA3R0YwLWZIbG1PeE5zcGdIQzRYRmEwMXM1WnMzS25GTzFvSnZBXzdub1gxWjVvN3hJN1JxdU03MDlGaktPRVRnaVZkNzVydXVSTUF6ckoxTjVBb05McDZ4TDFZcldxUjZfbnBoSG9sMTFWazBZYUVwSHhDTEZXUGoweG44dllJaHBCUnVBcmpXWGk1X2pBbl9PRlcwVktMTG5xQ0VlLXo5WVYwcTU5cWlZZGVmZ2ZHMnV6aGRSa05ScndYelR4TGtUMkFRdG51bE13SWV1ZzBwckwyMWFBZU10TUdKOUJkYVZhM0pVaTJDUndxcFpUQTR1YmhQTnRoX05xSkI2Tm9wV1dDNk1TR19FekFhbHQwMzFWUGt5WEh6dXNfUS1BTm1yRWJuZWdyVmV0c1FpTTJGaTdzZHRKSzhBTnU3TTRUR3FaRUZyZE82TVVCUDZ2Qld4SUJjU2hBcUc?oc=5",
      "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/10/31/a104146779.html",
-     "published": null
     }
    ]
   },
@@ -227,6 +227,33 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
+   "title_zh": "经济日报：“速成车”标签不可乱贴",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Oct 30, 10:31 PM ET",
+   "last_seen_et": "Oct 30, 11:27 PM ET",
+   "first_missing_et": "Oct 30, 11:32 PM ET",
+   "minutes_on_list": 56,
+   "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E6%97%A5%E6%8A%A5%EF%BC%9A%E2%80%9C%E9%80%9F%E6%88%90%E8%BD%A6%E2%80%9D%E6%A0%87%E7%AD%BE%E4%B8%8D%E5%8F%AF%E4%B9%B1%E8%B4%B4",
+   "official_line": {
+    "source": "Beijing Daily 京报网",
+    "title": "经济日报刊文：“速成车”标签不可乱贴",
+    "url": "https://news.bjd.com.cn/2026/10/31/12013058.shtml",
+    "published": "2026-10-31"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 11:45 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 12:33 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
    "title_zh": "高秀敏被印上祭品 当地：正在排查",
    "title_en": "",
    "label": "Dropped off",
@@ -238,13 +265,8 @@
    "first_missing_et": "Oct 30, 11:44 AM ET",
    "minutes_on_list": 70,
    "url": "https://www.baidu.com/s?wd=%E9%AB%98%E7%A7%80%E6%95%8F%E8%A2%AB%E5%8D%B0%E4%B8%8A%E7%A5%AD%E5%93%81+%E5%BD%93%E5%9C%B0%EF%BC%9A%E6%AD%A3%E5%9C%A8%E6%8E%92%E6%9F%A5",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "已故演员高秀敏剧照被印上祭品 家属何庆魁十分气愤",
-    "url": "https://new.qq.com/rain/a/20261031A03KMZ00",
-    "published": "2026-10-31 09:00:39"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 11:55 AM ET",
