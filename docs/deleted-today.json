@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-31 17:33 ET",
+ "generated_at_et": "2026-10-31 18:44 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -71,13 +71,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #7 → #7 → #7 → #7 → #7 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:13 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "United Daily News 聯合新聞網",
-     "url": "https://udn.com/news/story/6811/9849426",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET"
    ]
   },
   {
