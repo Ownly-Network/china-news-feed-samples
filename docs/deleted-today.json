@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-10-31 09:39 ET",
+ "generated_at_et": "2026-10-31 10:49 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 10,
  "cut": {
-  "flagged": 67,
+  "flagged": 71,
   "came back once before": 0,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 24,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 25,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 18,
+  "on the list a normal length of time": 20,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 1,
+  "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 3,
   "retitled": 3,
   "topic still on the list": 1,
@@ -71,7 +71,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #7 → #7 → #7 → #7 → #7 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:13 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "World Journal 世界日報 (US)",
+     "url": "https://www.worldjournal.com/wj/story/121477/9849312",
+     "published": null
+    }
    ]
   },
   {
@@ -88,13 +94,8 @@
    "first_missing_et": "Oct 30, 9:25 PM ET",
    "minutes_on_list": 31,
    "url": "https://webcast-open.douyin.com/open/media_live/808207714751",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "“小小徐”今日婚礼，蛋糕师花2天2夜做10层蛋糕塔，蛋糕“封顶”现场齐喊“十全十美”",
-    "url": "https://new.qq.com/rain/a/20261031V0CIFP00",
-    "published": "2026-10-31 20:37:52"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:36 PM ET",
