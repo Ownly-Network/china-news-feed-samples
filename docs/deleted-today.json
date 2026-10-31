@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-10-30 19:22 ET",
+ "generated_at_et": "2026-10-30 20:26 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 8,
  "cut": {
-  "flagged": 84,
+  "flagged": 83,
   "came back once before": 3,
-  "gone under 60 min": 2,
+  "gone under 60 min": 1,
   "not in the top 10 when it left": 28,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 20,
+  "on the list a normal length of time": 21,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 6,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 8,
   "retitled": 4,
   "topic still on the list": 0,
@@ -35,9 +35,9 @@
    "minutes_on_list": 63,
    "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
    "official_line": {
-    "source": "People's Daily print edition 人民日报 (paper.people.com.cn)",
-    "title": "中共中央召开党外人士座谈会",
-    "url": "https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188611.html",
+    "source": "China Radio International 国际在线",
+    "title": "中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
+    "url": "https://news.cri.cn/20261031/3ab8eb1b-f23d-44d9-a20f-cceef72ba2ac.html",
     "published": "2026-10-31"
    },
    "official_line_zh": null,
@@ -56,29 +56,19 @@
      "source": "YouTube: 新唐人 NTD Chinese",
      "url": "https://www.youtube.com/watch?v=KHohzNgc-II",
      "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NTD 新唐人電視台",
+     "url": "https://www.ntdtv.com/b5/2026/10/30/a104146734.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Bannedbook 禁闻网",
+     "url": "https://www.bannedbook.org/bnews/bannedvideo/20261031/2375659.html",
+     "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "张雪称已将母亲拉黑",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Oct 29, 11:00 PM ET",
-   "last_seen_et": "Oct 30, 12:49 AM ET",
-   "first_missing_et": "Oct 30, 12:55 AM ET",
-   "minutes_on_list": 110,
-   "url": "https://www.toutiao.com/trending/7701894413991215130/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #3",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:06 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:56 AM ET"
    ]
   },
   {
@@ -189,22 +179,38 @@
    "minutes_on_list": 70,
    "url": "https://www.toutiao.com/trending/7701838500216274994/",
    "official_line": {
-    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "毫无敬畏，如何对得起“大体老师”的无私奉献",
-    "url": "https://www.peopleapp.com/column/30053457391-500007764805",
-    "published": "2026-10-30T13:43:22Z"
+    "source": "Tencent News 腾讯网",
+    "title": "医学生摆拍侮辱大体老师，校方通报：坚决零容忍！",
+    "url": "https://new.qq.com/rain/a/20261031A034T400",
+    "published": "2026-10-31 07:51:38"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #8 → #10 → #14 → #10 → #10 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:17 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 2:06 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E7%9A%84%E5%A5%89%E7%8C%AE%E7%BB%8F%E4%B8%8D%E8%B5%B7%E6%91%86%E6%8B%8D%E6%88%8F%E8%B0%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D30%26pos%3D30%26flag%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%25A4%25A7%25E4%25BD%2593%25E8%2580%2581%25E5%25B8%2588%25E7%259A%2584%25E5%25A5%2589%25E7%258C%25AE%25E7%25BB%258F%25E4%25B8%258D%25E8%25B5%25B7%25E6%2591%2586%25E6%258B%258D%25E6%2588%258F%25E8%25B0%2591%2523%26band_rank%3D30%26dgr%3D0%26display_time%3D1793387982%26pre_seqid%3D1793387982851070404204&launchid=10000360-page_H5",
-     "published": "2026-10-31"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 2:06 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "A股10月收官 双创指数均跌超23%",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 8,
+   "first_seen_et": "Oct 30, 3:10 AM ET",
+   "last_seen_et": "Oct 30, 4:29 AM ET",
+   "first_missing_et": "Oct 30, 4:36 AM ET",
+   "minutes_on_list": 78,
+   "url": "https://www.baidu.com/s?wd=A%E8%82%A110%E6%9C%88%E6%94%B6%E5%AE%98+%E5%8F%8C%E5%88%9B%E6%8C%87%E6%95%B0%E5%9D%87%E8%B7%8C%E8%B6%8523%25",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 4:51 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 5:39 AM ET"
    ]
   },
   {
