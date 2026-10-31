@@ -1,30 +1,30 @@
 {
- "generated_at_et": "2026-10-31 00:50 ET",
+ "generated_at_et": "2026-10-31 02:58 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 9,
  "cut": {
-  "flagged": 80,
-  "came back once before": 3,
+  "flagged": 79,
+  "came back once before": 2,
   "gone under 60 min": 2,
   "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 18,
-  "inside the list's normal rotation": 2,
-  "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 9,
+  "on the list a normal length of time": 21,
+  "inside the list's normal rotation": 1,
+  "still on another hot list": 2,
+  "left with other flagged topics (batch drop)": 8,
   "retitled": 4,
-  "topic still on the list": 0,
+  "topic still on the list": 1,
   "same story as a kept item": 2,
-  "kept": 10
+  "kept": 9
  },
  "items": [
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "金价跌至一年来新低",
-   "title_en": "",
+   "title_en": "Gold Prices Fall to a One-Year Low",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -35,51 +35,23 @@
    "minutes_on_list": 43,
    "url": "https://www.toutiao.com/trending/7701933940197687315/",
    "official_line": {
-    "source": "36Kr",
-    "title": "金价跌至一年来新低",
-    "url": "https://36kr.com/newsflashes/4049132282149380?f=rss",
-    "published": "2026-10-31T01:50:21Z"
+    "source": "People's Daily+ 人民网+ app",
+    "title": "国际金价跌至一年来新低",
+    "url": "https://app.people.cn/h5/detail/normal/7072290294006784",
+    "published": "2026-10-31T02:51:17Z"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #7 → #7 → #7 → #7 → #7 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:13 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/finance/world/story20261031-9925175?ref=today-news-section-card-9",
-     "published": null
-    }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "张雪称已将母亲拉黑",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Oct 29, 11:00 PM ET",
-   "last_seen_et": "Oct 30, 12:49 AM ET",
-   "first_missing_et": "Oct 30, 12:55 AM ET",
-   "minutes_on_list": 110,
-   "url": "https://www.toutiao.com/trending/7701894413991215130/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #3",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:06 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:56 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET"
    ]
   },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "沉浸式云参加小小徐婚礼",
-   "title_en": "",
+   "title_en": "Attending Little Xu's Wedding via Immersive Cloud Technology",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -90,10 +62,10 @@
    "minutes_on_list": 31,
    "url": "https://webcast-open.douyin.com/open/media_live/808207714751",
    "official_line": {
-    "source": "Beijing News 新京报",
-    "title": "“小小徐”婚礼请全国网友吃席 为何这场婚礼如此让人感动？",
-    "url": "https://www.bjnews.com.cn/detail/1793334700129792.html",
-    "published": "2026-10-30T11:28:20Z"
+    "source": "NetEase News 网易新闻",
+    "title": "美术老师自嘲成＂小小徐＂婚礼＂最大受害者＂:连夜就出发",
+    "url": "https://www.163.com/dy/article/LAH305VT0514D3UH.html",
+    "published": "2026-10-30 21:05:01"
    },
    "official_line_zh": null,
    "evidence": [
@@ -112,7 +84,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "10月A股收官",
-   "title_en": "",
+   "title_en": "October A-Share Market Closes",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -131,38 +103,10 @@
    ]
   },
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "十八大以来处分中管干部963人",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Oct 29, 11:34 PM ET",
-   "last_seen_et": "Oct 30, 1:34 AM ET",
-   "first_missing_et": "Oct 30, 1:40 AM ET",
-   "minutes_on_list": 120,
-   "url": "https://www.toutiao.com/trending/7702291014467256842/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:52 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 2:41 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Ming Pao 明報",
-     "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxORVdfVGpkQ2tVTE9Rb0N6dkZKRTUtV2FxRFRzcS1wdzR2em5MZXZQdnUtRlFQUzB0RHRwV1V5a05xN25qZzFYdWVGWjhMM0Uzejc3R2IxRHYzTXUtbnVjOERqbUZmRTZMZUQ3NzFRTVkybmp0QjFTc01Ta1k5VGE4eVd4R0JkaXByai1mM181akVDbXFZcVV5QkhQVjBYYkFRaUI2NUVwUlRibFlOQXVEdnllZUtpTzVoTTJKeVVOR1BzR3hnZjY3OXhyd1ZfWXA3R0YwLWZIbG1PeE5zcGdIQzRYRmEwMXM1WnMzS25GTzFvSnZBXzdub1gxWjVvN3hJN1JxdU03MDlGaktPRVRnaVZkNzVydXVSTUF6ckoxTjVBb05McDZ4TDFZcldxUjZfbnBoSG9sMTFWazBZYUVwSHhDTEZXUGoweG44dllJaHBCUnVBcmpXWGk1X2pBbl9PRlcwVktMTG5xQ0VlLXo5WVYwcTU5cWlZZGVmZ2ZHMnV6aGRSa05ScndYelR4TGtUMkFRdG51bE13SWV1ZzBwckwyMWFBZU10TUdKOUJkYVZhM0pVaTJDUndxcFpUQTR1YmhQTnRoX05xSkI2Tm9wV1dDNk1TR19FekFhbHQwMzFWUGt5WEh6dXNfUS1BTm1yRWJuZWdyVmV0c1FpTTJGaTdzZHRKSzhBTnU3TTRUR3FaRUZyZE82TVVCUDZ2Qld4SUJjU2hBcUc?oc=5",
-     "published": null
-    }
-   ]
-  },
-  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "张睿一个奖都没有",
-   "title_en": "",
+   "title_en": "Zhang Rui didn't win a single award.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -181,10 +125,32 @@
    ]
   },
   {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "“救救小羊”",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Oct 31, 12:47 AM ET",
+   "last_seen_et": "Oct 31, 1:50 AM ET",
+   "first_missing_et": "Oct 31, 1:56 AM ET",
+   "minutes_on_list": 63,
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%95%91%E6%95%91%E5%B0%8F%E7%BE%8A%E2%80%9D",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #20 → #20 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 2:08 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 2:56 AM ET"
+   ]
+  },
+  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "CBA深圳外援史密斯兴奋剂检测阳性",
-   "title_en": "",
+   "title_en": "CBA Shenzhen's Foreign Player Smith Tests Positive for Doping",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -206,7 +172,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "A股10月收官 双创指数均跌超23%",
-   "title_en": "",
+   "title_en": "A-Shares Close Out October; Both \"Mass Entrepreneurship and Innovation\" Indices Fall More Than 23%",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -228,7 +194,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "经济日报：“速成车”标签不可乱贴",
-   "title_en": "",
+   "title_en": "Economic Daily: The “Crash Course” Label Should Not Be Applied Carelessly",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -255,7 +221,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "高秀敏被印上祭品 当地：正在排查",
-   "title_en": "",
+   "title_en": "Gao Xiumin Labeled as a \"Sacrificial Victim\"; local Authorities: Investigation Underway",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
