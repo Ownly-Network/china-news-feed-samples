@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-31 08:36 ET",
+ "generated_at_et": "2026-10-31 09:39 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 10,
  "cut": {
-  "flagged": 65,
+  "flagged": 67,
   "came back once before": 0,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 22,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 19,
+  "on the list a normal length of time": 18,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 4,
+  "still on another hot list": 1,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 3,
   "topic still on the list": 1,
   "same story as a kept item": 2,
-  "kept": 9
+  "kept": 10
  },
  "items": [
   {
@@ -88,8 +88,13 @@
    "first_missing_et": "Oct 30, 9:25 PM ET",
    "minutes_on_list": 31,
    "url": "https://webcast-open.douyin.com/open/media_live/808207714751",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "“小小徐”今日婚礼，蛋糕师花2天2夜做10层蛋糕塔，蛋糕“封顶”现场齐喊“十全十美”",
+    "url": "https://new.qq.com/rain/a/20261031V0CIFP00",
+    "published": "2026-10-31 20:37:52"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:36 PM ET",
@@ -147,30 +152,64 @@
    ]
   },
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "CBA深圳外援史密斯兴奋剂检测阳性",
-   "title_en": "CBA Shenzhen's Foreign Player Smith Tests Positive for Doping",
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "注射死刑失败一个月后 美国女囚发声",
+   "title_en": "One Month After a Failed Lethal Injection, an American Female Inmate Speaks Out",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
    "peak_rank": 6,
-   "first_seen_et": "Oct 30, 8:10 AM ET",
-   "last_seen_et": "Oct 30, 9:05 AM ET",
-   "first_missing_et": "Oct 30, 9:10 AM ET",
-   "minutes_on_list": 56,
-   "url": "https://www.toutiao.com/trending/7702425388063919625/",
+   "first_seen_et": "Oct 31, 1:26 AM ET",
+   "last_seen_et": "Oct 31, 4:06 AM ET",
+   "first_missing_et": "Oct 31, 4:11 AM ET",
+   "minutes_on_list": 160,
+   "url": "https://www.baidu.com/s?wd=%E6%B3%A8%E5%B0%84%E6%AD%BB%E5%88%91%E5%A4%B1%E8%B4%A5%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E+%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%9B%9A%E5%8F%91%E5%A3%B0",
    "official_line": {
-    "source": "Jiemian 界面新闻",
-    "title": "深圳新世纪篮球俱乐部回应“外援特奎维恩·史密斯兴奋剂监测呈阳性”",
-    "url": "https://www.jiemian.com/article/15278137.html",
-    "published": "2026-10-31 20:15:00"
+    "source": "NetEase News 网易新闻",
+    "title": "美国女囚犯注射死刑失败首次发声：曾做好死亡的准备",
+    "url": "https://www.163.com/dy/article/LAIRP0AM051492LM.html",
+    "published": "2026-10-31 14:11:52"
    },
    "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:21 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:11 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #9 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 4:30 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 31, 5:16 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sing Tao Daily Europe 星島日報 (歐洲版)",
+     "url": "https://www.singtao.co.uk/2026-10-30/%e6%b3%a8%e5%b0%84%e6%ad%bb%e5%88%91%e5%a4%b1%e6%95%97%ef%bd%9c%e5%a5%b3%e6%ad%bb%e5%9b%9a%e9%a6%96%e9%96%8b%e8%85%94-%e7%a8%b1%e5%9b%9b%e8%82%a2%e5%96%89%e5%9a%a8%e6%8c%81%e7%ba%8c%e7%97%9b%e8%8b%a6/4765345",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/news/world/story20261031-9925329?ref=today-news-section-card-12",
+     "published": null
+    }
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "许飞发长文谈出道二十年新专辑",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Oct 31, 7:25 AM ET",
+   "last_seen_et": "Oct 31, 8:13 AM ET",
+   "first_missing_et": "Oct 31, 8:18 AM ET",
+   "minutes_on_list": 48,
+   "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E9%A3%9E%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E5%87%BA%E9%81%93%E4%BA%8C%E5%8D%81%E5%B9%B4%E6%96%B0%E4%B8%93%E8%BE%91",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #23 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 8:30 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 9:21 AM ET"
    ]
   },
   {
