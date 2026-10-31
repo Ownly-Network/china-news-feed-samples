@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-30 20:26 ET",
+ "generated_at_et": "2026-10-30 21:33 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 7,
  "cut": {
-  "flagged": 83,
+  "flagged": 81,
   "came back once before": 3,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 28,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 21,
+  "on the list a normal length of time": 20,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 5,
+  "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 8,
-  "retitled": 4,
+  "retitled": 2,
   "topic still on the list": 0,
   "same story as a kept item": 1,
-  "kept": 8
+  "kept": 7
  },
  "items": [
   {
@@ -59,16 +59,37 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/10/30/a104146734.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/bannedvideo/20261031/2375659.html",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%A4%96%E4%BA%BA%E5%A3%AB%E5%BA%A7%E8%B0%88%E4%BC%9A%E5%8F%AC%E5%BC%80%23&Refer=new_time",
      "published": null
     }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "张雪称已将母亲拉黑",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Oct 29, 11:00 PM ET",
+   "last_seen_et": "Oct 30, 12:49 AM ET",
+   "first_missing_et": "Oct 30, 12:55 AM ET",
+   "minutes_on_list": 110,
+   "url": "https://www.toutiao.com/trending/7701894413991215130/",
+   "official_line": {
+    "source": "The Paper 澎湃新闻",
+    "title": "媒体评张雪“拉黑”母亲：警惕躲在背后收割流量的人",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34374735",
+    "published": "2026-10-31 08:26:02"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #3",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:06 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:56 AM ET"
    ]
   },
   {
@@ -118,28 +139,6 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "德国欲加强与日本军备合作有何意味",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Oct 29, 8:04 PM ET",
-   "last_seen_et": "Oct 29, 9:13 PM ET",
-   "first_missing_et": "Oct 29, 9:22 PM ET",
-   "minutes_on_list": 69,
-   "url": "https://www.toutiao.com/trending/7702221211052281382/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #6 → #6 → #6 → #6 → #6 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 29, 9:37 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 29, 10:24 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
    "title_zh": "CBA深圳外援史密斯兴奋剂检测阳性",
    "title_en": "",
    "label": "Dropped off",
@@ -162,33 +161,6 @@
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:21 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:11 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "摆拍大体老师头骨学生被处分",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Oct 29, 11:50 PM ET",
-   "last_seen_et": "Oct 30, 1:00 AM ET",
-   "first_missing_et": "Oct 30, 1:05 AM ET",
-   "minutes_on_list": 70,
-   "url": "https://www.toutiao.com/trending/7701838500216274994/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "医学生摆拍侮辱大体老师，校方通报：坚决零容忍！",
-    "url": "https://new.qq.com/rain/a/20261031A034T400",
-    "published": "2026-10-31 07:51:38"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #8 → #10 → #14 → #10 → #10 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 1:17 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 2:06 AM ET"
    ]
   },
   {
@@ -227,8 +199,13 @@
    "first_missing_et": "Oct 30, 11:44 AM ET",
    "minutes_on_list": 70,
    "url": "https://www.baidu.com/s?wd=%E9%AB%98%E7%A7%80%E6%95%8F%E8%A2%AB%E5%8D%B0%E4%B8%8A%E7%A5%AD%E5%93%81+%E5%BD%93%E5%9C%B0%EF%BC%9A%E6%AD%A3%E5%9C%A8%E6%8E%92%E6%9F%A5",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "已故演员高秀敏剧照被印上祭品 家属何庆魁十分气愤",
+    "url": "https://new.qq.com/rain/a/20261031A03KMZ00",
+    "published": "2026-10-31 09:00:39"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 11:55 AM ET",
