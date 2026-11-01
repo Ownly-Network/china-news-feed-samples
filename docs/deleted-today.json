@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-01 07:55 ET",
+ "generated_at_et": "2026-11-01 08:49 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,15 +7,15 @@
  "cut": {
   "flagged": 72,
   "came back once before": 2,
-  "gone under 60 min": 11,
-  "not in the top 10 when it left": 28,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 31,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 19,
-  "inside the list's normal rotation": 2,
+  "on the list a normal length of time": 20,
+  "inside the list's normal rotation": 3,
   "still on another hot list": 2,
   "left with other flagged topics (batch drop)": 1,
-  "retitled": 1,
-  "topic still on the list": 3,
+  "retitled": 3,
+  "topic still on the list": 2,
   "same story as a kept item": 0,
   "kept": 1
  },
@@ -34,8 +34,13 @@
    "first_missing_et": "Oct 31, 10:50 PM ET",
    "minutes_on_list": 81,
    "url": "https://www.toutiao.com/trending/7702971241581265458/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "柏林、慕尼黑、汉堡……德国多地抗议爆发冲突，商铺遭洗劫",
+    "url": "https://new.qq.com/rain/a/20261101A0A8XZ00",
+    "published": "2026-11-01 19:39:05"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 11:10 PM ET",
