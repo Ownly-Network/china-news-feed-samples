@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-10-31 22:02 ET",
+ "generated_at_et": "2026-10-31 23:08 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 4,
  "cut": {
-  "flagged": 51,
+  "flagged": 53,
   "came back once before": 0,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 19,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 17,
   "slid down before leaving": 1,
   "on the list a normal length of time": 19,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 3,
+  "still on another hot list": 2,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 2,
   "topic still on the list": 2,
@@ -35,10 +35,10 @@
    "minutes_on_list": 95,
    "url": "https://www.toutiao.com/trending/7702389006386758194/",
    "official_line": {
-    "source": "CCTV programmes incl. Xinwen Lianbo 新闻联播 (tv.cctv.com)",
-    "title": "油价调整 国家再次实施调控",
-    "url": "https://tv.cctv.com/2026/10/30/VIDE5nmL5l7uv6OcljFMM10q261030.shtml",
-    "published": "2026-10-30"
+    "source": "Tencent News 腾讯网",
+    "title": "国内油价或将再上涨，11月1日92、95号今日油价，11月12日下一个调整窗口",
+    "url": "https://new.qq.com/rain/a/20261101V04MJW00",
+    "published": "2026-11-01 10:30:21"
    },
    "official_line_zh": null,
    "evidence": [
@@ -76,18 +76,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Sing Tao Daily Europe 星島日報 (歐洲版)",
      "url": "https://www.singtao.co.uk/2026-10-30/%e6%b3%a8%e5%b0%84%e6%ad%bb%e5%88%91%e5%a4%b1%e6%95%97%ef%bd%9c%e5%a5%b3%e6%ad%bb%e5%9b%9a%e9%a6%96%e9%96%8b%e8%85%94-%e7%a8%b1%e5%9b%9b%e8%82%a2%e5%96%89%e5%9a%a8%e6%8c%81%e7%ba%8c%e7%97%9b%e8%8b%a6/4765345",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/news/world/story20261031-9925329?ref=today-news-section-card-12",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 联合早报 zaobao.sg",
-     "url": "https://t.me/zaobaosg/56880",
      "published": null
     }
    ]
