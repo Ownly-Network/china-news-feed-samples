@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-01 01:22 ET",
+ "generated_at_et": "2026-11-01 02:24 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 4,
  "cut": {
-  "flagged": 51,
+  "flagged": 52,
   "came back once before": 1,
   "gone under 60 min": 2,
-  "not in the top 10 when it left": 22,
+  "not in the top 10 when it left": 23,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 14,
-  "inside the list's normal rotation": 1,
+  "on the list a normal length of time": 13,
+  "inside the list's normal rotation": 2,
   "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 1,
@@ -36,7 +36,7 @@
    "url": "https://www.toutiao.com/trending/7702971241581265458/",
    "official_line": {
     "source": "Kankan News 看看新闻 (SMG)",
-    "title": "德国也乱了!30多城爆发抗议 蒙面人打砸哄抢商铺",
+    "title": "德国也乱了！30多城爆发抗议 蒙面人打砸哄抢商铺",
     "url": "https://www.kankanews.com/detail/djQKK7MgxQO",
     "published": ""
    },
@@ -67,13 +67,8 @@
    "first_missing_et": "Oct 31, 7:32 AM ET",
    "minutes_on_list": 95,
    "url": "https://www.toutiao.com/trending/7702389006386758194/",
-   "official_line": {
-    "source": "CCTV programmes incl. Xinwen Lianbo 新闻联播 (tv.cctv.com)",
-    "title": "油价调整 国家再次实施调控",
-    "url": "https://tv.cctv.com/2026/10/30/VIDE5nmL5l7uv6OcljFMM10q261030.shtml",
-    "published": "2026-10-30"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 7:56 AM ET",
@@ -94,13 +89,8 @@
    "first_missing_et": "Oct 31, 4:11 AM ET",
    "minutes_on_list": 160,
    "url": "https://www.baidu.com/s?wd=%E6%B3%A8%E5%B0%84%E6%AD%BB%E5%88%91%E5%A4%B1%E8%B4%A5%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E+%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%9B%9A%E5%8F%91%E5%A3%B0",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "被执行注射死刑失败后,美国女囚犯首次公开发声",
-    "url": "https://new.qq.com/rain/a/20261101A054MI00",
-    "published": "2026-11-01 11:18:45"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #9 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 4:30 AM ET",
