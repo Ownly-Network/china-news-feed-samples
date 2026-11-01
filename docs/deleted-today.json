@@ -1,13 +1,13 @@
 {
- "generated_at_et": "2026-11-01 10:57 ET",
+ "generated_at_et": "2026-11-01 12:06 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 3,
+ "count": 2,
  "cut": {
-  "flagged": 69,
+  "flagged": 68,
   "came back once before": 2,
-  "gone under 60 min": 1,
+  "gone under 60 min": 0,
   "not in the top 10 when it left": 31,
   "slid down before leaving": 1,
   "on the list a normal length of time": 21,
@@ -15,38 +15,11 @@
   "still on another hot list": 2,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 3,
-  "topic still on the list": 1,
+  "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 3
+  "kept": 2
  },
  "items": [
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "德国多地抗议爆发冲突 商铺遭砸抢",
-   "title_en": "Clashes Erupt During Protests in Multiple German Cities; Stores Vandalized and Looted",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 31, 9:26 PM ET",
-   "last_seen_et": "Oct 31, 10:47 PM ET",
-   "first_missing_et": "Oct 31, 10:50 PM ET",
-   "minutes_on_list": 81,
-   "url": "https://www.toutiao.com/trending/7702971241581265458/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "德国多地青年发起集会，覆盖 34 城，部分地点出现冲突事件",
-    "url": "https://new.qq.com/rain/a/20261101V0BUJH00",
-    "published": "2026-11-01 22:57:38"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 11:10 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 31, 11:58 PM ET"
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
