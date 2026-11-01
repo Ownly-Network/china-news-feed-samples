@@ -1,21 +1,21 @@
 {
- "generated_at_et": "2026-10-31 18:44 ET",
+ "generated_at_et": "2026-10-31 20:54 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 7,
  "cut": {
-  "flagged": 65,
+  "flagged": 64,
   "came back once before": 0,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 23,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 22,
   "slid down before leaving": 1,
   "on the list a normal length of time": 21,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 4,
+  "still on another hot list": 2,
   "left with other flagged topics (batch drop)": 3,
-  "retitled": 3,
-  "topic still on the list": 1,
+  "retitled": 2,
+  "topic still on the list": 2,
   "same story as a kept item": 2,
   "kept": 7
  },
@@ -62,10 +62,10 @@
    "minutes_on_list": 43,
    "url": "https://www.toutiao.com/trending/7701933940197687315/",
    "official_line": {
-    "source": "People's Daily+ 人民网+ app",
-    "title": "国际金价跌至一年来新低",
-    "url": "https://app.people.cn/h5/detail/normal/7072290294006784",
-    "published": "2026-10-31T02:51:17Z"
+    "source": "The Paper 澎湃新闻",
+    "title": "澎湃早晚报｜早餐湃·金价跌回一年前",
+    "url": "https://www.thepaper.cn/newsDetail_forward_268349",
+    "published": "2026-11-01 08:40:32"
    },
    "official_line_zh": null,
    "evidence": [
@@ -159,6 +159,12 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Lianhe Zaobao 联合早报",
      "url": "https://www.zaobao.com.sg/news/world/story20261031-9925329?ref=today-news-section-card-12",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 联合早报 zaobao.sg",
+     "url": "https://t.me/zaobaosg/56880",
      "published": null
     }
    ]
