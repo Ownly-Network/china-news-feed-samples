@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-01 15:28 ET",
+ "generated_at_et": "2026-11-01 16:34 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -49,6 +49,12 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "YouTube: 美国之音中文网 VOA Chinese",
      "url": "https://www.youtube.com/shorts/RoQYqW3ansQ",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Bannedbook 禁闻网",
+     "url": "https://www.bannedbook.org/bnews/baitai/20261102/2376185.html",
      "published": null
     }
    ]
