@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-10-31 20:54 ET",
+ "generated_at_et": "2026-10-31 22:02 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 4,
  "cut": {
-  "flagged": 64,
+  "flagged": 51,
   "came back once before": 0,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 22,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 19,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 21,
+  "on the list a normal length of time": 19,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 3,
+  "still on another hot list": 3,
+  "left with other flagged topics (batch drop)": 1,
   "retitled": 2,
   "topic still on the list": 2,
-  "same story as a kept item": 2,
-  "kept": 7
+  "same story as a kept item": 0,
+  "kept": 4
  },
  "items": [
   {
@@ -45,83 +45,6 @@
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 7:56 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 8:34 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "金价跌至一年来新低",
-   "title_en": "Gold Prices Fall to a One-Year Low",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 30, 8:13 PM ET",
-   "last_seen_et": "Oct 30, 8:56 PM ET",
-   "first_missing_et": "Oct 30, 9:00 PM ET",
-   "minutes_on_list": 43,
-   "url": "https://www.toutiao.com/trending/7701933940197687315/",
-   "official_line": {
-    "source": "The Paper 澎湃新闻",
-    "title": "澎湃早晚报｜早餐湃·金价跌回一年前",
-    "url": "https://www.thepaper.cn/newsDetail_forward_268349",
-    "published": "2026-11-01 08:40:32"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #7 → #7 → #7 → #7 → #7 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:13 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:03 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "沉浸式云参加小小徐婚礼",
-   "title_en": "Attending Little Xu's Wedding via Immersive Cloud Technology",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Oct 30, 8:51 PM ET",
-   "last_seen_et": "Oct 30, 9:22 PM ET",
-   "first_missing_et": "Oct 30, 9:25 PM ET",
-   "minutes_on_list": 31,
-   "url": "https://webcast-open.douyin.com/open/media_live/808207714751",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 9:36 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:27 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/article-1793417286067/",
-     "published": null
-    }
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "张睿一个奖都没有",
-   "title_en": "Zhang Rui didn't win a single award.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Oct 30, 8:23 PM ET",
-   "last_seen_et": "Oct 30, 9:55 PM ET",
-   "first_missing_et": "Oct 30, 10:01 PM ET",
-   "minutes_on_list": 92,
-   "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%9D%BF%E4%B8%80%E4%B8%AA%E5%A5%96%E9%83%BD%E6%B2%A1%E6%9C%89",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 10:12 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 30, 11:05 PM ET"
    ]
   },
   {
