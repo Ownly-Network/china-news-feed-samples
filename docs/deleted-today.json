@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-01 05:52 ET",
+ "generated_at_et": "2026-11-01 07:15 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 2,
+ "count": 1,
  "cut": {
-  "flagged": 57,
-  "came back once before": 3,
-  "gone under 60 min": 2,
+  "flagged": 67,
+  "came back once before": 2,
+  "gone under 60 min": 9,
   "not in the top 10 when it left": 27,
-  "slid down before leaving": 1,
-  "on the list a normal length of time": 15,
+  "slid down before leaving": 2,
+  "on the list a normal length of time": 17,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 3,
+  "still on another hot list": 4,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 0,
-  "topic still on the list": 1,
+  "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 2
+  "kept": 1
  },
  "items": [
   {
@@ -34,51 +34,18 @@
    "first_missing_et": "Oct 31, 10:50 PM ET",
    "minutes_on_list": 81,
    "url": "https://www.toutiao.com/trending/7702971241581265458/",
-   "official_line": {
-    "source": "Kankan News 看看新闻 (SMG)",
-    "title": "德国也乱了！30多城爆发抗议 蒙面人打砸哄抢商铺",
-    "url": "https://www.kankanews.com/detail/djQKK7MgxQO",
-    "published": ""
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 11:10 PM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 31, 11:58 PM ET",
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/news/world/story20261101-9929777",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "YouTube: 美国之音中文网 VOA Chinese",
      "url": "https://www.youtube.com/shorts/RoQYqW3ansQ",
      "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "油价将于11月12日24时调整",
-   "title_en": "Gas prices will be adjusted at midnight on November 12",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 31, 5:50 AM ET",
-   "last_seen_et": "Oct 31, 7:25 AM ET",
-   "first_missing_et": "Oct 31, 7:32 AM ET",
-   "minutes_on_list": 95,
-   "url": "https://www.toutiao.com/trending/7702389006386758194/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #4 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 7:56 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 8:34 AM ET"
    ]
   }
  ]
