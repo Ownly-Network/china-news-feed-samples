@@ -1,21 +1,21 @@
 {
- "generated_at_et": "2026-11-01 00:12 ET",
+ "generated_at_et": "2026-11-01 01:22 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 4,
  "cut": {
-  "flagged": 53,
+  "flagged": 51,
   "came back once before": 1,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 20,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 22,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 17,
-  "inside the list's normal rotation": 0,
+  "on the list a normal length of time": 14,
+  "inside the list's normal rotation": 1,
   "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 1,
-  "topic still on the list": 2,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
   "kept": 4
  },
@@ -24,7 +24,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "德国多地抗议爆发冲突 商铺遭砸抢",
-   "title_en": "",
+   "title_en": "Clashes Erupt During Protests in Multiple German Cities; Stores Vandalized and Looted",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -34,19 +34,30 @@
    "first_missing_et": "Oct 31, 10:50 PM ET",
    "minutes_on_list": 81,
    "url": "https://www.toutiao.com/trending/7702971241581265458/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Kankan News 看看新闻 (SMG)",
+    "title": "德国也乱了!30多城爆发抗议 蒙面人打砸哄抢商铺",
+    "url": "https://www.kankanews.com/detail/djQKK7MgxQO",
+    "published": ""
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 11:10 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 31, 11:58 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 31, 11:58 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 美国之音中文网 VOA Chinese",
+     "url": "https://www.youtube.com/shorts/RoQYqW3ansQ",
+     "published": null
+    }
    ]
   },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "油价将于11月12日24时调整",
-   "title_en": "",
+   "title_en": "Gas prices will be adjusted at midnight on November 12",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -106,7 +117,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "“假笑男孩”16岁了",
-   "title_en": "",
+   "title_en": "\"The Boy with the Fake Smile\" Is Now 16",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
