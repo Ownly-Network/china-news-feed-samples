@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-01 08:49 ET",
+ "generated_at_et": "2026-11-01 09:52 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 1,
+ "count": 2,
  "cut": {
-  "flagged": 72,
+  "flagged": 73,
   "came back once before": 2,
   "gone under 60 min": 5,
-  "not in the top 10 when it left": 31,
-  "slid down before leaving": 2,
+  "not in the top 10 when it left": 30,
+  "slid down before leaving": 1,
   "on the list a normal length of time": 20,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 2,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 3,
-  "topic still on the list": 2,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 1
+  "kept": 2
  },
  "items": [
   {
@@ -35,10 +35,10 @@
    "minutes_on_list": 81,
    "url": "https://www.toutiao.com/trending/7702971241581265458/",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "柏林、慕尼黑、汉堡……德国多地抗议爆发冲突，商铺遭洗劫",
-    "url": "https://new.qq.com/rain/a/20261101A0A8XZ00",
-    "published": "2026-11-01 19:39:05"
+    "source": "Kankan News 看看新闻 (SMG)",
+    "title": "法国第三周爆发全国抗议 民众不满蔓延至德意",
+    "url": "https://www.kankanews.com/detail/6awWmaMWOyX",
+    "published": ""
    },
    "official_line_zh": null,
    "evidence": [
@@ -49,6 +49,34 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "YouTube: 美国之音中文网 VOA Chinese",
      "url": "https://www.youtube.com/shorts/RoQYqW3ansQ",
+     "published": null
+    }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "马斯克为何砸4.5亿美元助选共和党",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 1, 7:27 AM ET",
+   "last_seen_et": "Nov 1, 8:12 AM ET",
+   "first_missing_et": "Nov 1, 8:15 AM ET",
+   "minutes_on_list": 45,
+   "url": "https://www.toutiao.com/trending/7703171237022797354/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #7 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 8:39 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 9:18 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/86851",
      "published": null
     }
    ]
