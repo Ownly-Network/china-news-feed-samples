@@ -1,25 +1,47 @@
 {
- "generated_at_et": "2026-11-02 07:01 ET",
+ "generated_at_et": "2026-11-02 08:05 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 6,
  "cut": {
-  "flagged": 74,
-  "came back once before": 1,
-  "gone under 60 min": 7,
+  "flagged": 73,
+  "came back once before": 2,
+  "gone under 60 min": 9,
   "not in the top 10 when it left": 21,
   "slid down before leaving": 0,
   "on the list a normal length of time": 16,
-  "inside the list's normal rotation": 4,
-  "still on another hot list": 8,
+  "inside the list's normal rotation": 2,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 5,
-  "retitled": 5,
-  "topic still on the list": 2,
-  "same story as a kept item": 0,
-  "kept": 5
+  "retitled": 3,
+  "topic still on the list": 1,
+  "same story as a kept item": 1,
+  "kept": 6
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "金价下跌 大妈还抢吗",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 1, 9:48 PM ET",
+   "last_seen_et": "Nov 1, 10:23 PM ET",
+   "first_missing_et": "Nov 1, 10:31 PM ET",
+   "minutes_on_list": 35,
+   "url": "https://www.toutiao.com/trending/7703396920877649451/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #21 → #10 → #6 → #1 → #1 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 10:41 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 11:35 PM ET"
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -56,18 +78,17 @@
    "first_missing_et": "Nov 1, 8:15 AM ET",
    "minutes_on_list": 45,
    "url": "https://www.toutiao.com/trending/7703171237022797354/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Huxiu 虎嗅",
+    "title": "一孩一股SpaceX，马斯克105亿美元的全民实验",
+    "url": "https://www.huxiu.com/article/4898890.html",
+    "published": ""
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #7 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 8:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 9:18 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 新唐人電視台 NTD Chinese",
-     "url": "https://t.me/NTDChinese/86851",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 9:18 AM ET"
    ]
   },
   {
