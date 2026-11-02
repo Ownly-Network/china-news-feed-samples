@@ -1,72 +1,45 @@
 {
- "generated_at_et": "2026-11-02 05:56 ET",
+ "generated_at_et": "2026-11-02 07:01 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 5,
  "cut": {
-  "flagged": 73,
+  "flagged": 74,
   "came back once before": 1,
   "gone under 60 min": 7,
-  "not in the top 10 when it left": 23,
+  "not in the top 10 when it left": 21,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 18,
-  "inside the list's normal rotation": 2,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 3,
+  "on the list a normal length of time": 16,
+  "inside the list's normal rotation": 4,
+  "still on another hot list": 8,
+  "left with other flagged topics (batch drop)": 5,
   "retitled": 5,
   "topic still on the list": 2,
-  "same story as a kept item": 1,
+  "same story as a kept item": 0,
   "kept": 5
  },
  "items": [
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "金价下跌 大妈还抢吗",
+   "title_zh": "媒体：“隐形加班”岂能成潜规则",
    "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 1, 9:48 PM ET",
-   "last_seen_et": "Nov 1, 10:23 PM ET",
-   "first_missing_et": "Nov 1, 10:31 PM ET",
-   "minutes_on_list": 35,
-   "url": "https://www.toutiao.com/trending/7703396920877649451/",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 2, 5:10 AM ET",
+   "last_seen_et": "Nov 2, 5:46 AM ET",
+   "first_missing_et": "Nov 2, 5:50 AM ET",
+   "minutes_on_list": 36,
+   "url": "https://www.toutiao.com/trending/7703386858173693990/",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #21 → #10 → #6 → #1 → #1 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 10:41 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 11:35 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "金价大跌后大金镯子又香了",
-   "title_en": "After the sharp drop in gold prices, large gold bracelets are back in style",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 1, 5:28 AM ET",
-   "last_seen_et": "Nov 1, 6:08 AM ET",
-   "first_missing_et": "Nov 1, 6:13 AM ET",
-   "minutes_on_list": 40,
-   "url": "https://www.toutiao.com/trending/7703145160426671654/",
-   "official_line": {
-    "source": "Telegram: 新华社 (@XHNews)",
-    "title": "综述丨多重利空刺激美股金价大跌 新华社纽约10月30日电 综述｜多重利空刺激美股金价大跌 新华社记者刘亚南 徐静 美国权重科技股业绩利空等消息打压市场人气、国际…",
-    "url": "https://t.me/xhnews/8017",
-    "published": "2026-10-31T14:49:58+00:00"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 1, 6:28 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 7:19 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #18 → #14 → #7 → #7 → #6 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 6:05 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 6:54 AM ET"
    ]
   },
   {
@@ -139,6 +112,34 @@
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 11:54 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 12:38 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "“画地为牢”爆火",
+   "title_en": "\"Drawing a Line on the Ground to Create a Prison\" Goes Viral",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Nov 1, 9:21 PM ET",
+   "last_seen_et": "Nov 1, 10:09 PM ET",
+   "first_missing_et": "Nov 1, 10:17 PM ET",
+   "minutes_on_list": 48,
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E2%80%9D%E7%88%86%E7%81%AB",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 10:32 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 11:21 PM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E8%B0%A2%E5%A8%9C&t=31&band_rank=18&Refer=top",
+     "published": "2026-11-02"
+    }
    ]
   }
  ]
