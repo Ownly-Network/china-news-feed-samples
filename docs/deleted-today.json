@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-02 02:36 ET",
+ "generated_at_et": "2026-11-02 03:43 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 3,
+ "count": 4,
  "cut": {
-  "flagged": 71,
+  "flagged": 68,
   "came back once before": 2,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 26,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 22,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 19,
+  "on the list a normal length of time": 17,
   "inside the list's normal rotation": 1,
   "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 2,
   "retitled": 4,
   "topic still on the list": 3,
   "same story as a kept item": 1,
-  "kept": 3
+  "kept": 4
  },
  "items": [
   {
@@ -40,6 +40,33 @@
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #21 → #10 → #6 → #1 → #1 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 10:41 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 11:35 PM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "金价大跌后大金镯子又香了",
+   "title_en": "After the sharp drop in gold prices, large gold bracelets are back in style",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 1, 5:28 AM ET",
+   "last_seen_et": "Nov 1, 6:08 AM ET",
+   "first_missing_et": "Nov 1, 6:13 AM ET",
+   "minutes_on_list": 40,
+   "url": "https://www.toutiao.com/trending/7703145160426671654/",
+   "official_line": {
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "综述丨多重利空刺激美股金价大跌 新华社纽约10月30日电 综述｜多重利空刺激美股金价大跌 新华社记者刘亚南 徐静 美国权重科技股业绩利空等消息打压市场人气、国际…",
+    "url": "https://t.me/xhnews/8017",
+    "published": "2026-10-31T14:49:58+00:00"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 1, 6:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 7:19 AM ET"
    ]
   },
   {
