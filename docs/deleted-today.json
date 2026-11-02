@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-01 21:11 ET",
+ "generated_at_et": "2026-11-01 22:16 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,12 +7,12 @@
  "cut": {
   "flagged": 57,
   "came back once before": 2,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 26,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 23,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 14,
+  "on the list a normal length of time": 15,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 1,
+  "still on another hot list": 0,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 3,
   "topic still on the list": 3,
@@ -23,29 +23,28 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "德国多地抗议爆发冲突 商铺遭砸抢",
-   "title_en": "Clashes Erupt During Protests in Multiple German Cities; Stores Vandalized and Looted",
+   "title_zh": "金价大跌后大金镯子又香了",
+   "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Oct 31, 9:26 PM ET",
-   "last_seen_et": "Oct 31, 10:47 PM ET",
-   "first_missing_et": "Oct 31, 10:50 PM ET",
-   "minutes_on_list": 81,
-   "url": "https://www.toutiao.com/trending/7702971241581265458/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 1, 5:28 AM ET",
+   "last_seen_et": "Nov 1, 6:08 AM ET",
+   "first_missing_et": "Nov 1, 6:13 AM ET",
+   "minutes_on_list": 40,
+   "url": "https://www.toutiao.com/trending/7703145160426671654/",
+   "official_line": {
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "综述丨多重利空刺激美股金价大跌 新华社纽约10月30日电 综述｜多重利空刺激美股金价大跌 新华社记者刘亚南 徐静 美国权重科技股业绩利空等消息打压市场人气、国际…",
+    "url": "https://t.me/xhnews/8017",
+    "published": "2026-10-31T14:49:58+00:00"
+   },
+   "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 11:10 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 31, 11:58 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 美国之音中文网 VOA Chinese",
-     "url": "https://www.youtube.com/shorts/RoQYqW3ansQ",
-     "published": null
-    }
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 1, 6:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 7:19 AM ET"
    ]
   },
   {
