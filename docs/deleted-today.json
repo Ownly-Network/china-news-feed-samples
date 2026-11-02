@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-02 09:10 ET",
+ "generated_at_et": "2026-11-02 10:15 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,12 +7,12 @@
  "cut": {
   "flagged": 74,
   "came back once before": 2,
-  "gone under 60 min": 6,
+  "gone under 60 min": 2,
   "not in the top 10 when it left": 23,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 16,
+  "on the list a normal length of time": 18,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 8,
+  "still on another hot list": 10,
   "left with other flagged topics (batch drop)": 5,
   "retitled": 2,
   "topic still on the list": 1,
@@ -89,6 +89,28 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
+   "title_zh": "博主：楼市正在进入大分化时代",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 2, 8:12 AM ET",
+   "last_seen_et": "Nov 2, 9:06 AM ET",
+   "first_missing_et": "Nov 2, 9:11 AM ET",
+   "minutes_on_list": 54,
+   "url": "https://www.toutiao.com/trending/7703550075024182803/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #17 → #16 → #8 → #8 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 9:23 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:13 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
    "title_zh": "早餐要吃够20克蛋白质",
    "title_en": "",
    "label": "Dropped off",
@@ -106,28 +128,6 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #9 → #9 → #8 → #8 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 7:50 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 8:38 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "伦德伯格 另类的NBA大龄新秀",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 8,
-   "first_seen_et": "Nov 2, 5:10 AM ET",
-   "last_seen_et": "Nov 2, 6:09 AM ET",
-   "first_missing_et": "Nov 2, 6:14 AM ET",
-   "minutes_on_list": 58,
-   "url": "https://www.baidu.com/s?wd=%E4%BC%A6%E5%BE%B7%E4%BC%AF%E6%A0%BC+%E5%8F%A6%E7%B1%BB%E7%9A%84NBA%E5%A4%A7%E9%BE%84%E6%96%B0%E7%A7%80",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 6:25 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 7:17 AM ET"
    ]
   },
   {
