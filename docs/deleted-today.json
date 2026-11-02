@@ -1,21 +1,21 @@
 {
- "generated_at_et": "2026-11-01 20:03 ET",
+ "generated_at_et": "2026-11-01 21:11 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 2,
  "cut": {
-  "flagged": 59,
+  "flagged": 57,
   "came back once before": 2,
-  "gone under 60 min": 2,
+  "gone under 60 min": 1,
   "not in the top 10 when it left": 26,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 16,
+  "on the list a normal length of time": 14,
   "inside the list's normal rotation": 3,
   "still on another hot list": 1,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 3,
-  "topic still on the list": 2,
+  "topic still on the list": 3,
   "same story as a kept item": 0,
   "kept": 2
  },
@@ -34,17 +34,18 @@
    "first_missing_et": "Oct 31, 10:50 PM ET",
    "minutes_on_list": 81,
    "url": "https://www.toutiao.com/trending/7702971241581265458/",
-   "official_line": {
-    "source": "Kankan News 看看新闻 (SMG)",
-    "title": "法国第三周爆发全国抗议 民众不满蔓延至德意",
-    "url": "https://www.kankanews.com/detail/6awWmaMWOyX",
-    "published": ""
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 31, 11:10 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 31, 11:58 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Oct 31, 11:58 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 美国之音中文网 VOA Chinese",
+     "url": "https://www.youtube.com/shorts/RoQYqW3ansQ",
+     "published": null
+    }
    ]
   },
   {
