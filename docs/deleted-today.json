@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-03 13:04 ET",
+ "generated_at_et": "2026-11-03 14:10 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -12,9 +12,9 @@
   "slid down before leaving": 1,
   "on the list a normal length of time": 33,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 9,
-  "retitled": 8,
+  "still on another hot list": 12,
+  "left with other flagged topics (batch drop)": 8,
+  "retitled": 6,
   "topic still on the list": 3,
   "same story as a kept item": 1,
   "kept": 11
@@ -161,13 +161,8 @@
    "first_missing_et": "Nov 3, 7:48 AM ET",
    "minutes_on_list": 65,
    "url": "https://www.toutiao.com/trending/7702923687003193407/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "烈士公园里出现“和服换装秀”，这是顶风犯浑！",
-    "url": "https://new.qq.com/rain/a/20261103A0F86T00",
-    "published": "2026-11-03 23:21:28"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #6 → #5 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 8:04 AM ET",
