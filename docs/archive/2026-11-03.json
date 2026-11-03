@@ -1,5 +1,5 @@
 {
- "count": 7,
+ "count": 8,
  "date": "2026-11-03",
  "items": [
   {
@@ -124,6 +124,12 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 4:28 AM ET",
     {
      "published": "2026-11-03",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A5%B3%E5%AD%A9%E4%BD%8E%E4%BF%9D%E5%B7%B2%E8%A2%AB%E5%8F%96%E6%B6%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D1%26q%3D%2523%25E8%25B5%25B4%25E6%25B8%25AF%25E7%259C%258B%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A%25E5%25A5%25B3%25E5%25AD%25A9%25E4%25BD%258E%25E4%25BF%259D%25E5%25B7%25B2%25E8%25A2%25AB%25E5%258F%2596%25E6%25B6%2588%2523%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26dgr%3D0%26cate%3D5001%26pos%3D0%26band_rank%3D1%26display_time%3D1793687402%26pre_seqid%3D1793687402495030346423&launchid=10000360-page_H5"
+    },
+    {
+     "published": "2026-11-03",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "url": "https://s.weibo.com//weibo?q=%23%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A5%B3%E5%AD%A9%E4%BD%8E%E4%BF%9D%E5%B7%B2%E8%A2%AB%E5%8F%96%E6%B6%88%23&t=31&band_rank=1&Refer=top"
@@ -135,10 +141,10 @@
      "url": "https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%87%BA%E4%BD%8E%E4%BF%9D%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top"
     },
     {
-     "published": "2026-11-03",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A5%B3%E5%AD%A9%E4%BD%8E%E4%BF%9D%E5%B7%B2%E8%A2%AB%E5%8F%96%E6%B6%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D1%26q%3D%2523%25E8%25B5%25B4%25E6%25B8%25AF%25E7%259C%258B%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A%25E5%25A5%25B3%25E5%25AD%25A9%25E4%25BD%258E%25E4%25BF%259D%25E5%25B7%25B2%25E8%25A2%25AB%25E5%258F%2596%25E6%25B6%2588%2523%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26dgr%3D0%26cate%3D5001%26pos%3D0%26band_rank%3D1%26display_time%3D1793687402%26pre_seqid%3D1793687402495030346423&launchid=10000360-page_H5"
+     "published": null,
+     "source": "on.cc 東網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261103/bkn-20261103155148292-1103_00822_001.html"
     }
    ],
    "evidence_strength": "standard",
@@ -151,8 +157,13 @@
    "last_seen_et": "Nov 3, 3:10 AM ET",
    "minutes_on_list": 158,
    "notable": true,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-03 21:24:16",
+    "source": "Tencent News 腾讯网",
+    "title": "不顾劝阻，执意去香港看演唱会的低保女孩，家庭低保资格已被取消",
+    "url": "https://new.qq.com/rain/a/20261103A0EJSF00"
+   },
+   "official_line_zh": null,
    "peak_rank": 1,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -196,21 +207,15 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 8:53 AM ET",
     {
      "published": "2026-11-03",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E7%83%88%E5%A3%AB%E5%85%AC%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E7%A9%BF%E5%92%8C%E6%9C%8D%E6%8B%8D%E7%85%A7%23&t=31&band_rank=28&Refer=top"
-    },
-    {
-     "published": "2026-11-03",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B9%96%E5%8D%97%E7%83%88%E5%A3%AB%E5%85%AC%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E7%A9%BF%E5%92%8C%E6%9C%8D%E6%8B%8D%E7%85%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D15%26q%3D%2523%25E6%25B9%2596%25E5%258D%2597%25E7%2583%2588%25E5%25A3%25AB%25E5%2585%25AC%25E5%259B%25AD%25E5%259B%259E%25E5%25BA%2594%25E5%25A5%25B3%25E7%2594%259F%25E7%25A9%25BF%25E5%2592%258C%25E6%259C%258D%25E6%258B%258D%25E7%2585%25A7%2523%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D0%26dgr%3D0%26cate%3D5001%26pos%3D15%26band_rank%3D15%26display_time%3D1793687402%26pre_seqid%3D1793687402495030346423&launchid=10000360-page_H5"
     },
     {
-     "published": null,
-     "source": "on.cc 東網",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261103/bkn-20261103190421793-1103_00822_001.html"
+     "published": "2026-11-03",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E7%83%88%E5%A3%AB%E5%85%AC%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E7%A9%BF%E5%92%8C%E6%9C%8D%E6%8B%8D%E7%85%A7%23&t=31&band_rank=28&Refer=top"
     }
    ],
    "evidence_strength": "standard",
@@ -223,13 +228,8 @@
    "last_seen_et": "Nov 3, 7:45 AM ET",
    "minutes_on_list": 65,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-03 21:47:38",
-    "source": "Tencent News 腾讯网",
-    "title": "触碰民族底线，特殊纪念日当天，两女生在烈士公园穿武士服拍照",
-    "url": "https://new.qq.com/rain/a/20261103A0EONB00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 5,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -237,6 +237,33 @@
    "title_en": "",
    "title_zh": "媒体评烈士公园内女子穿和服带武士刀",
    "url": "https://www.toutiao.com/trending/7702923687003193407/"
+  },
+  {
+   "day": "2026-11-03",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #10 → #9 → #9 → #9 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 9:24 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 10:13 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 3, 9:13 AM ET",
+   "first_missing_iso": "2026-11-03T09:13:00-05:00",
+   "first_seen_et": "Nov 3, 7:10 AM ET",
+   "key": "baidu|“女版乔布斯” 入狱后还在骗|2026-11-03T09:13:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 3, 9:07 AM ET",
+   "minutes_on_list": 117,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 8,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-57739f7b34a3",
+   "title_en": "",
+   "title_zh": "“女版乔布斯” 入狱后还在骗",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%B3%E7%89%88%E4%B9%94%E5%B8%83%E6%96%AF%E2%80%9D+%E5%85%A5%E7%8B%B1%E5%90%8E%E8%BF%98%E5%9C%A8%E9%AA%97"
   }
  ]
 }
