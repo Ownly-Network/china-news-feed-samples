@@ -17,6 +17,7 @@ set -euo pipefail
   cd "$REPO"
   git fetch -q origin main && git checkout -q main && git reset -q --hard origin/main
   python3 tools/build_deleted_today.py "$OUT/censored.json" docs --hours "$HOURS" --feed-en "$OUT/feed_en.json" "${HIST_ARGS[@]}"
+  python3 tools/build_archive.py docs/deleted-today.json docs || echo "archive step failed; live page still published"
   git add docs
   if git diff --cached --quiet; then echo "no change"; exit 0; fi
   git commit -q -m "Deleted today: rebuild $(TZ=America/New_York date '+%Y-%m-%d %H:%M ET')"

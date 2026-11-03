@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ownly-network.github.io/china-news-feed-samples/sitemap.xml

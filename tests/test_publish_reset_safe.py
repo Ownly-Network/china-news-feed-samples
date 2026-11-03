@@ -35,7 +35,9 @@ def test_overwrite_mid_run_does_not_change_execution(tmp_path):
     assert "no change" in r.stdout
     assert "EVIL_REWRITE_RAN" in script.read_text()  # the file really was replaced mid-run
     builds = [c for c in calls if c.startswith("python3 ")]
-    assert len(builds) == 1 and "--history" in builds[0] and str(tmp_path / "history.sqlite") in builds[0]
+    assert len(builds) == 2
+    assert "build_deleted_today.py" in builds[0] and "--history" in builds[0] and str(tmp_path / "history.sqlite") in builds[0]
+    assert "build_archive.py" in builds[1] and "docs/deleted-today.json" in builds[1] and builds[1].strip().endswith(" docs")
     assert any(c.startswith("git reset -q --hard origin/main") for c in calls)
     assert not any("push" in c or c.startswith("gh ") for c in calls)
 
