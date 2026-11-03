@@ -139,8 +139,13 @@
    "last_seen_et": "Nov 3, 3:10 AM ET",
    "minutes_on_list": 158,
    "notable": true,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-04 01:14:05",
+    "source": "Tencent News 腾讯网",
+    "title": "女孩去香港看演唱会低保被取消，你们觉得合理吗？",
+    "url": "https://new.qq.com/rain/a/20261104V00U7Z00"
+   },
+   "official_line_zh": null,
    "peak_rank": 1,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
