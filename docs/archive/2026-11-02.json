@@ -288,13 +288,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #2 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:09 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:55 PM ET",
-    {
-     "published": null,
-     "source": "Kanzhongguo / Secret China 看中国",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.secretchina.com/news/gb/2026/11/03/1106925.html"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:55 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 2, 9:51 PM ET",
@@ -306,13 +300,8 @@
    "last_seen_et": "Nov 2, 9:46 PM ET",
    "minutes_on_list": 54,
    "notable": true,
-   "official_line": {
-    "published": "2026-11-03T07:22:39Z",
-    "source": "Beijing News 新京报",
-    "title": "校外男生扮女装进女生宿舍？武汉工商学院通报：已作出相应处理",
-    "url": "https://www.bjnews.com.cn/detail/1793689327129204.html"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 1,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
