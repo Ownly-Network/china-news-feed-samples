@@ -19,6 +19,24 @@ ACTOR = "https://apify.com/china.unofficial/china-news-feed"
 HF = "https://huggingface.co/datasets/ownly-network/china-news-feed-sample"
 X402 = "https://ownly-cmf-x402.joyd-ai-2026.workers.dev/"
 REPO = "https://github.com/Ownly-Network/china-news-feed-samples"
+SITE = "https://ownly-network.github.io/china-news-feed-samples/"
+OG_IMAGE = SITE + "og-image.png"
+
+
+def meta_tags(title, desc, url, type_="website"):
+    """og:/twitter: preview tags, a canonical link and the Atom feed <link>. Shared with archive_lib
+    so every page (live, archive, topic) gets the same preview-card and crawler wiring."""
+    e = html.escape
+    return (f'<link rel="canonical" href="{e(url)}">'
+            f'<meta property="og:title" content="{e(title)}">'
+            f'<meta property="og:description" content="{e(desc)}">'
+            f'<meta property="og:url" content="{e(url)}">'
+            f'<meta property="og:image" content="{e(OG_IMAGE)}">'
+            f'<meta property="og:type" content="{e(type_)}">'
+            f'<meta property="og:site_name" content="Ownly Network">'
+            f'<meta name="twitter:card" content="summary_large_image">'
+            f'<meta name="twitter:image" content="{e(OG_IMAGE)}">'
+            f'<link rel="alternate" type="application/atom+xml" title="Dropped off — Ownly Network" href="{SITE}feed.xml">')
 
 PLATFORMS = {
     "weibo": "Weibo 微博", "baidu": "Baidu 百度", "zhihu": "Zhihu 知乎", "toutiao": "Toutiao 今日头条",
@@ -425,11 +443,16 @@ def render(gen, rows, hours):
     no_ev_line = (f'<p class="no-evidence" id="no-evidence">{e(NO_EVIDENCE_LINE, quote=False)}</p>\n'
                   if n_ev == 0 and NO_EVIDENCE_LINE else "")
     body = "\n".join(cards) if cards else '<div class="empty">No hot-list topics dropped off in this window. 本时段暂无下榜话题。</div>'
+    title = f"{HEADING_EN} · {HEADING_ZH} | China hot-list watch"
+    desc = ("Topics that left Chinese hot lists (Weibo 微博, Baidu 百度, Zhihu 知乎, Toutiao 今日头条, Bilibili 哔哩哔哩) "
+            "abruptly and didn't return. Some may be normal rotation. Labeled likely censored when there is hard "
+            "evidence, otherwise dropped off. Updated hourly.")
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{e(HEADING_EN)} · {e(HEADING_ZH)} | China hot-list watch</title>
-<meta name="description" content="Topics that left Chinese hot lists (Weibo 微博, Baidu 百度, Zhihu 知乎, Toutiao 今日头条, Bilibili 哔哩哔哩) abruptly and didn't return. Some may be normal rotation. Labeled likely censored when there is hard evidence, otherwise dropped off. Updated hourly.">
+<title>{e(title)}</title>
+<meta name="description" content="{e(desc)}">
+{meta_tags(title, desc, SITE)}
 <style>{CSS}</style></head><body>
-<header><div class="wrap"><h1>{e(HEADING_EN)} <span>{e(HEADING_ZH)}</span></h1>
+<header><div class="wrap"><p class="nav"><a href="archive/index.html">Archive 往日存档</a></p><h1>{e(HEADING_EN)} <span>{e(HEADING_ZH)}</span></h1>
 <p class="sub" id="sub-en">{e(SUBTITLE_EN, quote=False)}</p>
 <p class="sub" id="sub-zh" lang="zh">{e(SUBTITLE_ZH)}</p>
 <p class="sub win">The {hours} hours to {e(et(gen, '%a %b %-d, %Y, %-I:%M %p ET'))}.</p>
@@ -443,6 +466,8 @@ def render(gen, rows, hours):
 <a href="{HF}"><b>Free sample on Hugging Face →</b>Load it with <code>datasets</code>.</a><a href="https://huggingface.co/spaces/ownly-network/china-deletion-watch"><b>What vanished this week (Hugging Face Space) →</b>A searchable table of likely-censored hot-list deletions, with peak rank and evidence.</a>
 <a href="{X402}"><b>Pay-per-call API (x402) →</b>$0.01 USDC per call on Base; free <code>/sample</code>.</a>
 <a href="deleted-today.json"><b>This page as JSON →</b>Same items, machine-readable.</a>
+<a href="archive/index.html"><b>Archive 往日存档 →</b>Every past day's dropped-off topics, with a permanent page for each notable one.</a>
+<a href="feed.xml"><b>Atom feed →</b>One entry per dropped-off topic.</a>
 </div></main>
 <footer class="wrap">Built by Ownly from public, logged-out sources. Chinese headlines are as published; English is machine-translated. Source: <a href="{REPO}">{REPO.split('github.com/')[1]}</a>.</footer>
 <script>{JS}</script></body></html>"""

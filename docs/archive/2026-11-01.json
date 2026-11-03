@@ -1,0 +1,151 @@
+{
+ "count": 5,
+ "date": "2026-11-01",
+ "items": [
+  {
+   "day": "2026-11-01",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 1, 6:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 7:19 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 1, 6:13 AM ET",
+   "first_missing_iso": "2026-11-01T06:13:00-05:00",
+   "first_seen_et": "Nov 1, 5:28 AM ET",
+   "key": "toutiao|金价大跌后大金镯子又香了|2026-11-01T06:13:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 1, 6:08 AM ET",
+   "minutes_on_list": 40,
+   "notable": true,
+   "official_line": {
+    "published": "2026-10-31T14:49:58+00:00",
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "综述丨多重利空刺激美股金价大跌 新华社纽约10月30日电 综述｜多重利空刺激美股金价大跌 新华社记者刘亚南 徐静 美国权重科技股业绩利空等消息打压市场人气、国际…",
+    "url": "https://t.me/xhnews/8017"
+   },
+   "official_line_zh": null,
+   "peak_rank": 2,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-31e733145c36",
+   "title_en": "After the sharp drop in gold prices, large gold bracelets are back in style",
+   "title_zh": "金价大跌后大金镯子又香了",
+   "url": "https://www.toutiao.com/trending/7703145160426671654/"
+  },
+  {
+   "day": "2026-11-01",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #7 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 8:39 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 9:18 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 1, 8:15 AM ET",
+   "first_missing_iso": "2026-11-01T08:15:00-05:00",
+   "first_seen_et": "Nov 1, 7:27 AM ET",
+   "key": "toutiao|马斯克为何砸4.5亿美元助选共和党|2026-11-01T08:15:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 1, 8:12 AM ET",
+   "minutes_on_list": 45,
+   "notable": false,
+   "official_line": {
+    "published": "",
+    "source": "Huxiu 虎嗅",
+    "title": "一孩一股SpaceX，马斯克105亿美元的全民实验",
+    "url": "https://www.huxiu.com/article/4898890.html"
+   },
+   "official_line_zh": null,
+   "peak_rank": 6,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-8240b546f31e",
+   "title_en": "Why Did Musk Spend $450 Million to Support the Republican Campaign?",
+   "title_zh": "马斯克为何砸4.5亿美元助选共和党",
+   "url": "https://www.toutiao.com/trending/7703171237022797354/"
+  },
+  {
+   "day": "2026-11-01",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 10:32 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 11:21 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 1, 10:17 PM ET",
+   "first_missing_iso": "2026-11-01T22:17:00-05:00",
+   "first_seen_et": "Nov 1, 9:21 PM ET",
+   "key": "baidu|“画地为牢”爆火|2026-11-01T22:17:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 1, 10:09 PM ET",
+   "minutes_on_list": 48,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 10,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-c58f3093fa9a",
+   "title_en": "\"Drawing a Line on the Ground to Create a Prison\" Goes Viral",
+   "title_zh": "“画地为牢”爆火",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E2%80%9D%E7%88%86%E7%81%AB"
+  },
+  {
+   "day": "2026-11-01",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #21 → #10 → #6 → #1 → #1 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 10:41 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 11:35 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 1, 10:31 PM ET",
+   "first_missing_iso": "2026-11-01T22:31:00-05:00",
+   "first_seen_et": "Nov 1, 9:48 PM ET",
+   "key": "toutiao|金价下跌 大妈还抢吗|2026-11-01T22:31:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 1, 10:23 PM ET",
+   "minutes_on_list": 35,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-1dc21bd8415a",
+   "title_en": "",
+   "title_zh": "金价下跌 大妈还抢吗",
+   "url": "https://www.toutiao.com/trending/7703396920877649451/"
+  },
+  {
+   "day": "2026-11-01",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 11:54 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 12:38 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 1, 11:30 PM ET",
+   "first_missing_iso": "2026-11-01T23:30:00-05:00",
+   "first_seen_et": "Nov 1, 10:36 PM ET",
+   "key": "baidu|创业板指半日涨超3%|2026-11-01T23:30:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 1, 11:25 PM ET",
+   "minutes_on_list": 50,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 9,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-b466487c88a0",
+   "title_en": "",
+   "title_zh": "创业板指半日涨超3%",
+   "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%8D%8A%E6%97%A5%E6%B6%A8%E8%B6%853%25"
+  }
+ ]
+}

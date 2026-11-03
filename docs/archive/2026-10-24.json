@@ -1,0 +1,111 @@
+{
+ "count": 3,
+ "date": "2026-10-24",
+ "items": [
+  {
+   "day": "2026-10-24",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #2 → #4 → #4 → #4 → #6 → #4",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Oct 24, 4:11 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 4:57 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Oct 24, 3:55 AM ET",
+   "first_missing_iso": "2026-10-24T03:55:00-04:00",
+   "first_seen_et": "Oct 24, 2:15 AM ET",
+   "key": "toutiao|乌克兰态度为何空前软化|2026-10-24T03:55:00-04:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Oct 24, 3:51 AM ET",
+   "minutes_on_list": 96,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-abdbf79c42ad",
+   "title_en": "Why Has Ukraine's Stance Softened to an Unprecedented Degree?",
+   "title_zh": "乌克兰态度为何空前软化",
+   "url": "https://www.toutiao.com/trending/7700107088000732723/"
+  },
+  {
+   "day": "2026-10-24",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #9 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 9:46 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 10:38 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Oct 24, 9:35 AM ET",
+   "first_missing_iso": "2026-10-24T09:35:00-04:00",
+   "first_seen_et": "Oct 24, 8:10 AM ET",
+   "key": "baidu|煮熟的鸭子在飞 中超争冠大戏继续|2026-10-24T09:35:00-04:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Oct 24, 9:28 AM ET",
+   "minutes_on_list": 79,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 5,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-c9c8aedf9bea",
+   "title_en": "A Done Deal Takes Flight: The Chinese Super League Title Race Continues",
+   "title_zh": "煮熟的鸭子在飞 中超争冠大戏继续",
+   "url": "https://www.baidu.com/s?wd=%E7%85%AE%E7%86%9F%E7%9A%84%E9%B8%AD%E5%AD%90%E5%9C%A8%E9%A3%9E+%E4%B8%AD%E8%B6%85%E4%BA%89%E5%86%A0%E5%A4%A7%E6%88%8F%E7%BB%A7%E7%BB%AD"
+  },
+  {
+   "day": "2026-10-24",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 9:30 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Oct 24, 10:20 PM ET",
+    {
+     "published": "2026-10-24T02:31:15Z",
+     "source": "CDT 404 Archive 404文库",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://chinadigitaltimes.net/chinese/733188.html"
+    },
+    {
+     "published": "2026-10-24T02:31:15Z",
+     "source": "China Digital Times 中国数字时代",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://chinadigitaltimes.net/chinese/733188.html"
+    },
+    {
+     "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/10/25/a104145079.html"
+    },
+    {
+     "published": null,
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/NTDChinese/86664"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Oct 24, 9:18 PM ET",
+   "first_missing_iso": "2026-10-24T21:18:00-04:00",
+   "first_seen_et": "Oct 24, 8:17 PM ET",
+   "key": "toutiao|法国警方在示威活动中逮捕近千人|2026-10-24T21:18:00-04:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Oct 24, 9:13 PM ET",
+   "minutes_on_list": 56,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 6,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-4f8d6ce3f2cf",
+   "title_en": "French police arrested nearly 1,000 people during the protests",
+   "title_zh": "法国警方在示威活动中逮捕近千人",
+   "url": "https://www.toutiao.com/trending/7700227118034289162/"
+  }
+ ]
+}
