@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-02 19:51 ET",
+ "generated_at_et": "2026-11-02 21:02 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 8,
  "cut": {
-  "flagged": 84,
+  "flagged": 92,
   "came back once before": 3,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 27,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
   "on the list a normal length of time": 25,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 6,
-  "retitled": 2,
+  "still on another hot list": 8,
+  "left with other flagged topics (batch drop)": 5,
+  "retitled": 4,
   "topic still on the list": 2,
   "same story as a kept item": 1,
-  "kept": 9
+  "kept": 8
  },
  "items": [
   {
@@ -177,28 +177,6 @@
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 4:18 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 5:02 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "创业板指半日涨超3%",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 9,
-   "first_seen_et": "Nov 1, 10:36 PM ET",
-   "last_seen_et": "Nov 1, 11:25 PM ET",
-   "first_missing_et": "Nov 1, 11:30 PM ET",
-   "minutes_on_list": 50,
-   "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%8D%8A%E6%97%A5%E6%B6%A8%E8%B6%853%25",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 1, 11:54 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 12:38 AM ET"
    ]
   },
   {
