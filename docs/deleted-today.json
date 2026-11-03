@@ -1,20 +1,20 @@
 {
- "generated_at_et": "2026-11-03 17:23 ET",
+ "generated_at_et": "2026-11-03 18:27 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 11,
  "cut": {
   "flagged": 118,
-  "came back once before": 4,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 35,
+  "came back once before": 3,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 34,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 33,
+  "on the list a normal length of time": 30,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 13,
+  "still on another hot list": 12,
   "left with other flagged topics (batch drop)": 8,
-  "retitled": 6,
+  "retitled": 7,
   "topic still on the list": 2,
   "same story as a kept item": 1,
   "kept": 11
@@ -34,13 +34,8 @@
    "first_missing_et": "Nov 3, 3:15 AM ET",
    "minutes_on_list": 158,
    "url": "https://www.baidu.com/s?wd=%E4%BD%8E%E4%BF%9D%E6%88%B7%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E4%BD%8E%E4%BF%9D%E5%B7%B2%E5%8F%96%E6%B6%88",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "低保女孩赴港追星事件落地，全家低保已被正式取消，表姐此前哭诉“天塌了”",
-    "url": "https://new.qq.com/rain/a/20261103V0BPK600",
-    "published": "2026-11-04 04:30:00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #2 → #2 → #2 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 3, 3:30 AM ET",
