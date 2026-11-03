@@ -1,20 +1,20 @@
 {
- "generated_at_et": "2026-11-03 01:25 ET",
+ "generated_at_et": "2026-11-03 02:32 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 11,
  "cut": {
-  "flagged": 105,
+  "flagged": 111,
   "came back once before": 4,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 32,
+  "gone under 60 min": 10,
+  "not in the top 10 when it left": 31,
   "slid down before leaving": 1,
   "on the list a normal length of time": 27,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 6,
-  "retitled": 4,
+  "still on another hot list": 10,
+  "left with other flagged topics (batch drop)": 7,
+  "retitled": 5,
   "topic still on the list": 0,
   "same story as a kept item": 1,
   "kept": 11
@@ -35,10 +35,10 @@
    "minutes_on_list": 54,
    "url": "https://www.toutiao.com/trending/7702609170071178771/",
    "official_line": {
-    "source": "Sina News 新浪新闻",
-    "title": "湖北一女生将同学男扮女装带入宿舍 校方通报",
-    "url": "https://video.sina.com.cn/p/finance/2026-11-03/detail-inixmhhi8837104.d.html",
-    "published": "2026-11-03"
+    "source": "Beijing News 新京报",
+    "title": "校外男生扮女装进女生宿舍？武汉工商学院通报：已作出相应处理",
+    "url": "https://www.bjnews.com.cn/detail/1793689327129204.html",
+    "published": "2026-11-03T07:22:39Z"
    },
    "official_line_zh": null,
    "evidence": [
@@ -51,33 +51,6 @@
      "url": "https://www.secretchina.com/news/gb/2026/11/03/1106925.html",
      "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "美公务机坠毁是因飞行员操作失误吗",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 2, 12:45 AM ET",
-   "last_seen_et": "Nov 2, 1:45 AM ET",
-   "first_missing_et": "Nov 2, 1:51 AM ET",
-   "minutes_on_list": 60,
-   "url": "https://www.toutiao.com/trending/7703360557642219539/",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "美公务机坠毁前曾报告结冰 机上9人姓名国籍均未公布",
-    "url": "https://www.163.com/dy/article/LAO4TAH90514D3UH.html",
-    "published": "2026-11-02 14:58:51"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 2, 2:07 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 3:00 AM ET"
    ]
   },
   {
@@ -258,7 +231,36 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 12:39 AM ET"
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 12:39 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 1:34 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "曝许飞没有背刺厉娜",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Nov 3, 12:20 AM ET",
+   "last_seen_et": "Nov 3, 1:02 AM ET",
+   "first_missing_et": "Nov 3, 1:05 AM ET",
+   "minutes_on_list": 42,
+   "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%AE%B8%E9%A3%9E%E6%B2%A1%E6%9C%89%E8%83%8C%E5%88%BA%E5%8E%89%E5%A8%9C",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #32 → #32 → #32 → #32 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 1:23 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 2:06 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23%E6%9B%9D%E8%AE%B8%E9%A3%9E%E6%B2%A1%E6%9C%89%E8%83%8C%E5%88%BA%E5%8E%89%E5%A8%9C%23&t=31&band_rank=13&Refer=top",
+     "published": "2026-11-03"
+    }
    ]
   },
   {
