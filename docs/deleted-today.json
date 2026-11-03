@@ -1,30 +1,30 @@
 {
- "generated_at_et": "2026-11-03 02:32 ET",
+ "generated_at_et": "2026-11-03 03:37 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 11,
+ "count": 12,
  "cut": {
-  "flagged": 111,
+  "flagged": 114,
   "came back once before": 4,
   "gone under 60 min": 10,
-  "not in the top 10 when it left": 31,
+  "not in the top 10 when it left": 30,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 27,
-  "inside the list's normal rotation": 4,
-  "still on another hot list": 10,
-  "left with other flagged topics (batch drop)": 7,
+  "on the list a normal length of time": 28,
+  "inside the list's normal rotation": 3,
+  "still on another hot list": 12,
+  "left with other flagged topics (batch drop)": 8,
   "retitled": 5,
   "topic still on the list": 0,
   "same story as a kept item": 1,
-  "kept": 11
+  "kept": 12
  },
  "items": [
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "女生将同学男扮女装带进宿舍被处理",
-   "title_en": "",
+   "title_en": "Female Student Disciplined for Bringing a Classmate Dressed as a Woman into the Dorm",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -35,10 +35,10 @@
    "minutes_on_list": 54,
    "url": "https://www.toutiao.com/trending/7702609170071178771/",
    "official_line": {
-    "source": "Beijing News 新京报",
-    "title": "校外男生扮女装进女生宿舍？武汉工商学院通报：已作出相应处理",
-    "url": "https://www.bjnews.com.cn/detail/1793689327129204.html",
-    "published": "2026-11-03T07:22:39Z"
+    "source": "Sina News 新浪新闻",
+    "title": "湖北一女生将同学男扮女装带入宿舍 校方通报",
+    "url": "https://video.sina.com.cn/p/finance/2026-11-03/detail-inixmhhi8837104.d.html",
+    "published": "2026-11-03"
    },
    "official_line_zh": null,
    "evidence": [
@@ -57,7 +57,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "网友称自己秋招面试竟要12轮",
-   "title_en": "",
+   "title_en": "A netizen claims they had to go through 12 rounds of interviews for the fall recruitment season",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -78,36 +78,8 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "35岁新郎结婚当天看病离世 姐姐发声",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 2, 6:12 PM ET",
-   "last_seen_et": "Nov 2, 8:21 PM ET",
-   "first_missing_et": "Nov 2, 8:25 PM ET",
-   "minutes_on_list": 130,
-   "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E6%96%B0%E9%83%8E%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E7%9C%8B%E7%97%85%E7%A6%BB%E4%B8%96+%E5%A7%90%E5%A7%90%E5%8F%91%E5%A3%B0",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 8:40 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 2, 9:28 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E7%A6%BB%E4%B8%96%E6%96%B0%E9%83%8E%E7%B3%BB%E5%BF%83%E8%84%8F%E5%8E%8B%E5%A1%9E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top",
-     "published": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
    "title_zh": "雷军开始卖房了",
-   "title_en": "",
+   "title_en": "Lei Jun Has Started Selling His Homes",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -129,7 +101,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "媒体：“隐形加班”岂能成潜规则",
-   "title_en": "",
+   "title_en": "Media: How Can “Hidden Overtime” Become an Unwritten Rule?",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -151,7 +123,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "博主：楼市正在进入大分化时代",
-   "title_en": "",
+   "title_en": "Blogger: The real estate market is entering an era of major polarization",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -173,7 +145,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "早餐要吃够20克蛋白质",
-   "title_en": "",
+   "title_en": "Make sure to get 20 grams of protein at breakfast.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -194,8 +166,30 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
+   "title_zh": "伦德伯格 另类的NBA大龄新秀",
+   "title_en": "Lundberg: The Unconventional Older NBA Rookie",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 8,
+   "first_seen_et": "Nov 2, 5:10 AM ET",
+   "last_seen_et": "Nov 2, 6:09 AM ET",
+   "first_missing_et": "Nov 2, 6:14 AM ET",
+   "minutes_on_list": 58,
+   "url": "https://www.baidu.com/s?wd=%E4%BC%A6%E5%BE%B7%E4%BC%AF%E6%A0%BC+%E5%8F%A6%E7%B1%BB%E7%9A%84NBA%E5%A4%A7%E9%BE%84%E6%96%B0%E7%A7%80",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 6:25 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 7:17 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
    "title_zh": "吴彦祖咖啡店送饼干 观众：阿祖收手吧",
-   "title_en": "",
+   "title_en": "Daniel Wu Hands Out Cookies at His Coffee Shop; Audience: \"Daniel, give it a rest already!\"",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -216,8 +210,35 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
+   "title_zh": "科创50跌超5%",
+   "title_en": "The STAR 50 Index fell more than 5%",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Nov 3, 1:12 AM ET",
+   "last_seen_et": "Nov 3, 1:58 AM ET",
+   "first_missing_et": "Nov 3, 2:07 AM ET",
+   "minutes_on_list": 47,
+   "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B50%E8%B7%8C%E8%B6%855%25",
+   "official_line": {
+    "source": "National Business Daily 每经网",
+    "title": "ETF今日收评 | 港股消费ETF涨超4%，科创成长ETF跌超7%",
+    "url": "https://www.nbd.com.cn/articles/2026-11-03/4635839.html",
+    "published": "2026-11-03"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 2:18 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 3:24 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
    "title_zh": "高启强陈书婷AI跳热舞火出圈",
-   "title_en": "",
+   "title_en": "Gao Qiqiang and Chen Shuting Go Viral with Their AI-Generated Dance Video",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -239,7 +260,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "曝许飞没有背刺厉娜",
-   "title_en": "",
+   "title_en": "Report: Xu Fei Did Not Betray Li Na",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -254,20 +275,14 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #32 → #32 → #32 → #32 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 1:23 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 2:06 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E6%9B%9D%E8%AE%B8%E9%A3%9E%E6%B2%A1%E6%9C%89%E8%83%8C%E5%88%BA%E5%8E%89%E5%A8%9C%23&t=31&band_rank=13&Refer=top",
-     "published": "2026-11-03"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 2:06 AM ET"
    ]
   },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "《后会友期》导演：主打一个听劝",
-   "title_en": "",
+   "title_en": "\"After the Gathering\": Director: The Key Is to Take Advice",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
