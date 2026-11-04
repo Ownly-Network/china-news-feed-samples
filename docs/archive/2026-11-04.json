@@ -1,5 +1,5 @@
 {
- "count": 1,
+ "count": 3,
  "date": "2026-11-04",
  "items": [
   {
@@ -28,6 +28,60 @@
    "title_en": "",
    "title_zh": "创业板指涨逾6% 科创50涨超9%",
    "url": "https://www.toutiao.com/trending/7704194366784409129/"
+  },
+  {
+   "day": "2026-11-04",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #43 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 7:06 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 7:47 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 4, 6:47 AM ET",
+   "first_missing_iso": "2026-11-04T06:47:00-05:00",
+   "first_seen_et": "Nov 4, 6:10 AM ET",
+   "key": "toutiao|陕西商南发生重大刑案 嫌疑人潜逃|2026-11-04T06:47:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 4, 6:41 AM ET",
+   "minutes_on_list": 31,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 4,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-7623ea4f7190",
+   "title_en": "",
+   "title_zh": "陕西商南发生重大刑案 嫌疑人潜逃",
+   "url": "https://www.toutiao.com/trending/7704162445850247204/"
+  },
+  {
+   "day": "2026-11-04",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 8:05 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 9:01 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 4, 7:55 AM ET",
+   "first_missing_iso": "2026-11-04T07:55:00-05:00",
+   "first_seen_et": "Nov 4, 6:25 AM ET",
+   "key": "baidu|英特尔正面硬刚台积电|2026-11-04T07:55:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 4, 7:50 AM ET",
+   "minutes_on_list": 85,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 9,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-957eab02bc72",
+   "title_en": "",
+   "title_zh": "英特尔正面硬刚台积电",
+   "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E7%89%B9%E5%B0%94%E6%AD%A3%E9%9D%A2%E7%A1%AC%E5%88%9A%E5%8F%B0%E7%A7%AF%E7%94%B5"
   }
  ]
 }
