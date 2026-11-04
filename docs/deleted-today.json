@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-03 19:33 ET",
+ "generated_at_et": "2026-11-03 20:44 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 9,
  "cut": {
-  "flagged": 120,
-  "came back once before": 3,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 35,
+  "flagged": 114,
+  "came back once before": 4,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 34,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 32,
+  "on the list a normal length of time": 34,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 14,
-  "left with other flagged topics (batch drop)": 8,
-  "retitled": 7,
-  "topic still on the list": 2,
+  "still on another hot list": 11,
+  "left with other flagged topics (batch drop)": 7,
+  "retitled": 5,
+  "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 10
+  "kept": 9
  },
  "items": [
   {
@@ -62,28 +62,6 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #5 → #5 → #5 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 1:03 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 1:55 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "网友称自己秋招面试竟要12轮",
-   "title_en": "A netizen claims they had to go through 12 rounds of interviews for the fall recruitment season",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 2, 6:52 PM ET",
-   "last_seen_et": "Nov 2, 7:32 PM ET",
-   "first_missing_et": "Nov 2, 7:35 PM ET",
-   "minutes_on_list": 40,
-   "url": "https://www.toutiao.com/trending/7702792598578561050/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #8 → #6 → #2 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 7:48 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 8:40 PM ET"
    ]
   },
   {
