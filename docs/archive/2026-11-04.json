@@ -1,0 +1,33 @@
+{
+ "count": 1,
+ "date": "2026-11-04",
+ "items": [
+  {
+   "day": "2026-11-04",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #6 → #5 → #5 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 2:19 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 3:02 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 4, 2:00 AM ET",
+   "first_missing_iso": "2026-11-04T02:00:00-05:00",
+   "first_seen_et": "Nov 4, 1:25 AM ET",
+   "key": "toutiao|创业板指涨逾6% 科创50涨超9%|2026-11-04T02:00:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 4, 1:56 AM ET",
+   "minutes_on_list": 31,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 5,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-ff288a650df7",
+   "title_en": "",
+   "title_zh": "创业板指涨逾6% 科创50涨超9%",
+   "url": "https://www.toutiao.com/trending/7704194366784409129/"
+  }
+ ]
+}
