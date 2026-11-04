@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-03 20:44 ET",
+ "generated_at_et": "2026-11-03 21:51 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 10,
  "cut": {
-  "flagged": 114,
-  "came back once before": 4,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 34,
+  "flagged": 124,
+  "came back once before": 5,
+  "gone under 60 min": 14,
+  "not in the top 10 when it left": 31,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 34,
+  "on the list a normal length of time": 33,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 11,
-  "left with other flagged topics (batch drop)": 7,
+  "still on another hot list": 8,
+  "left with other flagged topics (batch drop)": 8,
   "retitled": 5,
-  "topic still on the list": 3,
-  "same story as a kept item": 0,
-  "kept": 9
+  "topic still on the list": 4,
+  "same story as a kept item": 1,
+  "kept": 10
  },
  "items": [
   {
@@ -34,12 +34,45 @@
    "first_missing_et": "Nov 3, 3:15 AM ET",
    "minutes_on_list": 158,
    "url": "https://www.baidu.com/s?wd=%E4%BD%8E%E4%BF%9D%E6%88%B7%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E4%BD%8E%E4%BF%9D%E5%B7%B2%E5%8F%96%E6%B6%88",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "“低保家庭女孩赴港看演唱会”，最新后续！",
+    "url": "https://new.qq.com/rain/a/20261104A03KA100",
+    "published": "2026-11-04 08:50:30"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #2 → #2 → #2 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 3, 3:30 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 4:28 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 4:28 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/entertainment/low-income-family-girl-hong-kong-concert-update/",
+     "published": null
+    }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "女生将同学男扮女装带进宿舍被处理",
+   "title_en": "Female Student Disciplined for Bringing a Classmate Dressed as a Woman into the Dorm",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 2, 8:52 PM ET",
+   "last_seen_et": "Nov 2, 9:46 PM ET",
+   "first_missing_et": "Nov 2, 9:51 PM ET",
+   "minutes_on_list": 54,
+   "url": "https://www.toutiao.com/trending/7702609170071178771/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #2 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:09 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:55 PM ET"
    ]
   },
   {
