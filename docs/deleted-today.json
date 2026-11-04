@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-04 12:48 ET",
+ "generated_at_et": "2026-11-04 14:02 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,11 +7,11 @@
  "cut": {
   "flagged": 137,
   "came back once before": 9,
-  "gone under 60 min": 1,
+  "gone under 60 min": 0,
   "not in the top 10 when it left": 39,
   "slid down before leaving": 4,
   "on the list a normal length of time": 40,
-  "inside the list's normal rotation": 6,
+  "inside the list's normal rotation": 7,
   "still on another hot list": 10,
   "left with other flagged topics (batch drop)": 17,
   "retitled": 1,
@@ -51,12 +51,6 @@
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "url": "https://s.weibo.com//weibo?q=%E9%99%95%E8%A5%BF%E5%95%86%E5%8D%97%E5%88%91%E6%A1%88%E6%8C%81%E5%88%80%E5%9C%A8%E9%80%83%E5%AB%8C%E7%8A%AF%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&t=31&band_rank=1&Refer=top",
      "published": "2026-11-05"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/11/04/a104147907.html",
-     "published": null
     }
    ]
   },
