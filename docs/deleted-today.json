@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-04 15:09 ET",
+ "generated_at_et": "2026-11-04 16:14 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 3,
+ "count": 2,
  "cut": {
-  "flagged": 136,
+  "flagged": 137,
   "came back once before": 8,
   "gone under 60 min": 0,
   "not in the top 10 when it left": 39,
   "slid down before leaving": 4,
-  "on the list a normal length of time": 40,
+  "on the list a normal length of time": 41,
   "inside the list's normal rotation": 7,
-  "still on another hot list": 10,
+  "still on another hot list": 11,
   "left with other flagged topics (batch drop)": 17,
   "retitled": 1,
   "topic still on the list": 7,
   "same story as a kept item": 0,
-  "kept": 3
+  "kept": 2
  },
  "items": [
   {
@@ -74,33 +74,6 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #6 → #5 → #5 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 2:19 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 3:02 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "女子点一杯饮品入座 店家称需点两杯",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 4, 3:50 AM ET",
-   "last_seen_et": "Nov 4, 6:05 AM ET",
-   "first_missing_et": "Nov 4, 6:10 AM ET",
-   "minutes_on_list": 135,
-   "url": "https://www.toutiao.com/trending/7704172379593048118/",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "女子买一杯奶茶被拒入座店员告知必须点两杯 多方回应",
-    "url": "https://www.163.com/dy/article/LATBGOKQ05345ARG.html",
-    "published": "2026-11-04 20:30:17"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #41 → #35 → #39 → #39 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 6:23 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 7:11 AM ET"
    ]
   }
  ]
