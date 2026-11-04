@@ -17,4 +17,4 @@
 - [GitHub repo](https://github.com/Ownly-Network/china-news-feed-samples)
 
 ## Publisher
-Ownly Network (OWNLY NETWORK LLC).
+China News Feed.

@@ -326,7 +326,7 @@ def render_llms_txt(days):
 - [GitHub repo]({REPO})
 
 ## Publisher
-Ownly Network (OWNLY NETWORK LLC).
+China News Feed.
 """
 
 
