@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-03 22:54 ET",
+ "generated_at_et": "2026-11-04 01:14 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 6,
  "cut": {
-  "flagged": 123,
-  "came back once before": 6,
-  "gone under 60 min": 8,
+  "flagged": 120,
+  "came back once before": 7,
+  "gone under 60 min": 1,
   "not in the top 10 when it left": 34,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 36,
+  "on the list a normal length of time": 39,
   "inside the list's normal rotation": 6,
-  "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 10,
-  "retitled": 4,
-  "topic still on the list": 5,
+  "still on another hot list": 7,
+  "left with other flagged topics (batch drop)": 12,
+  "retitled": 3,
+  "topic still on the list": 4,
   "same story as a kept item": 0,
-  "kept": 10
+  "kept": 6
  },
  "items": [
   {
@@ -34,40 +34,29 @@
    "first_missing_et": "Nov 3, 3:15 AM ET",
    "minutes_on_list": 158,
    "url": "https://www.baidu.com/s?wd=%E4%BD%8E%E4%BF%9D%E6%88%B7%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E4%BD%8E%E4%BF%9D%E5%B7%B2%E5%8F%96%E6%B6%88",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "低保家庭女孩赴港看演出，全家低保最终被取消！？",
+    "url": "https://new.qq.com/rain/a/20261104A079DY00",
+    "published": "2026-11-04 13:10:30"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #2 → #2 → #2 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 3, 3:30 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 4:28 AM ET",
     {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/entertainment/low-income-family-girl-hong-kong-concert-update/",
-     "published": null
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "China Digital Times 中国数字时代",
+     "url": "https://chinadigitaltimes.net/chinese/733560.html",
+     "published": "2026-11-04T03:57:08Z"
+    },
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Telegram: CDT Telegram channel",
+     "url": "https://t.me/ChinaDigitalTimes/4422",
+     "published": "2026-11-04T03:59:12+00:00"
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "A股“羊”字辈大面积涨停",
-   "title_en": "A-Share Stocks with \"Yang\" in Their Names See Widespread Price Limits",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 2, 11:00 PM ET",
-   "last_seen_et": "Nov 3, 12:45 AM ET",
-   "first_missing_et": "Nov 3, 12:51 AM ET",
-   "minutes_on_list": 105,
-   "url": "https://www.toutiao.com/trending/7703768520798241290/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #5 → #5 → #5 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 1:03 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 1:55 AM ET"
    ]
   },
   {
@@ -108,9 +97,9 @@
    "url": "https://www.toutiao.com/trending/7702923687003193407/",
    "official_line": {
     "source": "Tencent News 腾讯网",
-    "title": "又踩红线！精日陈某余波未平，长沙两姑娘在烈士公园换装和服挥刀出片",
-    "url": "https://new.qq.com/rain/a/20261104A05ZEG00",
-    "published": "2026-11-04 11:35:01"
+    "title": "女子烈士公园穿和服后续：路人看不惯怒斥，坚决抵制，园方发声",
+    "url": "https://new.qq.com/rain/a/20261104A06HPT00",
+    "published": "2026-11-04 12:45:00"
    },
    "official_line_zh": null,
    "evidence": [
@@ -188,72 +177,6 @@
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 2:18 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 3:24 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "高启强陈书婷AI跳热舞火出圈",
-   "title_en": "Gao Qiqiang and Chen Shuting Go Viral with Their AI-Generated Dance Video",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 9,
-   "first_seen_et": "Nov 2, 10:22 PM ET",
-   "last_seen_et": "Nov 3, 12:20 AM ET",
-   "first_missing_et": "Nov 3, 12:25 AM ET",
-   "minutes_on_list": 118,
-   "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%90%AF%E5%BC%BA%E9%99%88%E4%B9%A6%E5%A9%B7AI%E8%B7%B3%E7%83%AD%E8%88%9E%E7%81%AB%E5%87%BA%E5%9C%88",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 12:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 1:34 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "曝许飞没有背刺厉娜",
-   "title_en": "Report: Xu Fei Did Not Betray Li Na",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 10,
-   "first_seen_et": "Nov 3, 12:20 AM ET",
-   "last_seen_et": "Nov 3, 1:02 AM ET",
-   "first_missing_et": "Nov 3, 1:05 AM ET",
-   "minutes_on_list": 42,
-   "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%AE%B8%E9%A3%9E%E6%B2%A1%E6%9C%89%E8%83%8C%E5%88%BA%E5%8E%89%E5%A8%9C",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #32 → #32 → #32 → #32 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 1:23 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 2:06 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "《后会友期》导演：主打一个听劝",
-   "title_en": "\"After the Gathering\": Director: The Key Is to Take Advice",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 10,
-   "first_seen_et": "Nov 2, 9:35 PM ET",
-   "last_seen_et": "Nov 2, 10:54 PM ET",
-   "first_missing_et": "Nov 2, 11:00 PM ET",
-   "minutes_on_list": 79,
-   "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%90%AC%E5%8A%9D",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 11:20 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 12:09 AM ET"
    ]
   }
  ]
