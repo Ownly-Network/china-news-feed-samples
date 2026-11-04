@@ -174,7 +174,9 @@ def test_robots_and_llms_txt_reference_sitemap_and_feed(tmp_path):
     llms = (out / "llms.txt").read_text()
     assert llms.startswith("# Ownly Network")
     assert "> Ownly Network monitors" in llms
-    assert "OWNLY NETWORK LLC" in llms
+    assert "OWNLY NETWORK LLC" not in llms
+    assert "5055 Broadway" not in llms
+    assert "## Publisher\nChina News Feed." in llms
     assert al.SITE + "feed.xml" in llms and al.SITE + "archive/index.html" in llms
 
 
