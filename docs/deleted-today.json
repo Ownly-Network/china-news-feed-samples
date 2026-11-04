@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-03 18:27 ET",
+ "generated_at_et": "2026-11-03 19:33 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 11,
+ "count": 10,
  "cut": {
-  "flagged": 118,
+  "flagged": 120,
   "came back once before": 3,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 34,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 35,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 30,
+  "on the list a normal length of time": 32,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 12,
+  "still on another hot list": 14,
   "left with other flagged topics (batch drop)": 8,
   "retitled": 7,
   "topic still on the list": 2,
-  "same story as a kept item": 1,
-  "kept": 11
+  "same story as a kept item": 0,
+  "kept": 10
  },
  "items": [
   {
@@ -40,28 +40,6 @@
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #2 → #2 → #2 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 3, 3:30 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 4:28 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "女生将同学男扮女装带进宿舍被处理",
-   "title_en": "Female Student Disciplined for Bringing a Classmate Dressed as a Woman into the Dorm",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 2, 8:52 PM ET",
-   "last_seen_et": "Nov 2, 9:46 PM ET",
-   "first_missing_et": "Nov 2, 9:51 PM ET",
-   "minutes_on_list": 54,
-   "url": "https://www.toutiao.com/trending/7702609170071178771/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #2 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:09 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:55 PM ET"
    ]
   },
   {
