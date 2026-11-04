@@ -1,22 +1,22 @@
 {
- "generated_at_et": "2026-11-03 21:51 ET",
+ "generated_at_et": "2026-11-03 22:54 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 10,
  "cut": {
-  "flagged": 124,
-  "came back once before": 5,
-  "gone under 60 min": 14,
-  "not in the top 10 when it left": 31,
+  "flagged": 123,
+  "came back once before": 6,
+  "gone under 60 min": 8,
+  "not in the top 10 when it left": 34,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 33,
-  "inside the list's normal rotation": 4,
-  "still on another hot list": 8,
-  "left with other flagged topics (batch drop)": 8,
-  "retitled": 5,
-  "topic still on the list": 4,
-  "same story as a kept item": 1,
+  "on the list a normal length of time": 36,
+  "inside the list's normal rotation": 6,
+  "still on another hot list": 3,
+  "left with other flagged topics (batch drop)": 10,
+  "retitled": 4,
+  "topic still on the list": 5,
+  "same story as a kept item": 0,
   "kept": 10
  },
  "items": [
@@ -34,13 +34,8 @@
    "first_missing_et": "Nov 3, 3:15 AM ET",
    "minutes_on_list": 158,
    "url": "https://www.baidu.com/s?wd=%E4%BD%8E%E4%BF%9D%E6%88%B7%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E4%BD%8E%E4%BF%9D%E5%B7%B2%E5%8F%96%E6%B6%88",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "“低保家庭女孩赴港看演唱会”，最新后续！",
-    "url": "https://new.qq.com/rain/a/20261104A03KA100",
-    "published": "2026-11-04 08:50:30"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #2 → #2 → #2 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 3, 3:30 AM ET",
@@ -51,28 +46,6 @@
      "url": "https://www.chineseherald.co.nz/news/entertainment/low-income-family-girl-hong-kong-concert-update/",
      "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "女生将同学男扮女装带进宿舍被处理",
-   "title_en": "Female Student Disciplined for Bringing a Classmate Dressed as a Woman into the Dorm",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 2, 8:52 PM ET",
-   "last_seen_et": "Nov 2, 9:46 PM ET",
-   "first_missing_et": "Nov 2, 9:51 PM ET",
-   "minutes_on_list": 54,
-   "url": "https://www.toutiao.com/trending/7702609170071178771/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #2 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:09 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 2, 10:55 PM ET"
    ]
   },
   {
@@ -101,7 +74,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "穿袜子睡觉 缩短入睡时间",
-   "title_en": "",
+   "title_en": "Sleeping in Socks Reduces the Time It Takes to Fall Asleep",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -123,7 +96,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "媒体评烈士公园内女子穿和服带武士刀",
-   "title_en": "",
+   "title_en": "Media Commentary on a Woman Wearing a Kimono and Carrying a Katana at Martyrs' Park",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -133,8 +106,13 @@
    "first_missing_et": "Nov 3, 7:48 AM ET",
    "minutes_on_list": 65,
    "url": "https://www.toutiao.com/trending/7702923687003193407/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "又踩红线！精日陈某余波未平，长沙两姑娘在烈士公园换装和服挥刀出片",
+    "url": "https://new.qq.com/rain/a/20261104A05ZEG00",
+    "published": "2026-11-04 11:35:01"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #6 → #5 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 8:04 AM ET",
@@ -144,8 +122,35 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
+   "title_zh": "美坠机事故9名遇难者身份曝光",
+   "title_en": "Identities of 9 Victims in U.S. Plane Crash Revealed",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 3, 12:00 AM ET",
+   "last_seen_et": "Nov 3, 2:33 AM ET",
+   "first_missing_et": "Nov 3, 2:39 AM ET",
+   "minutes_on_list": 153,
+   "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%859%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
+   "official_line": {
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "西班牙高铁事故69名遇难者身份全部确认 新华社马德里11月2日电（记者孟鼎博）西班牙有关部门2日通报，10月28日发生在该国中部托莱多省的高速列车相撞事故中，6…",
+    "url": "https://t.me/xhnews/8056",
+    "published": "2026-11-03T08:20:12+00:00"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 2:55 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 3:44 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
    "title_zh": "“女版乔布斯” 入狱后还在骗",
-   "title_en": "",
+   "title_en": "\"The Female Steve Jobs\" Continues to Defraud People Even After Going to Prison",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",

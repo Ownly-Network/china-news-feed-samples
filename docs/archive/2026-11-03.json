@@ -1,5 +1,5 @@
 {
- "count": 8,
+ "count": 9,
  "date": "2026-11-03",
  "items": [
   {
@@ -113,6 +113,38 @@
   {
    "day": "2026-11-03",
    "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 2:55 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 3:44 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 3, 2:39 AM ET",
+   "first_missing_iso": "2026-11-03T02:39:00-05:00",
+   "first_seen_et": "Nov 3, 12:00 AM ET",
+   "key": "baidu|美坠机事故9名遇难者身份曝光|2026-11-03T02:39:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 3, 2:33 AM ET",
+   "minutes_on_list": 153,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-03T08:20:12+00:00",
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "西班牙高铁事故69名遇难者身份全部确认 新华社马德里11月2日电（记者孟鼎博）西班牙有关部门2日通报，10月28日发生在该国中部托莱多省的高速列车相撞事故中，6…",
+    "url": "https://t.me/xhnews/8056"
+   },
+   "official_line_zh": null,
+   "peak_rank": 5,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-f8c1fe586744",
+   "title_en": "Identities of 9 Victims in U.S. Plane Crash Revealed",
+   "title_zh": "美坠机事故9名遇难者身份曝光",
+   "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%859%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89"
+  },
+  {
+   "day": "2026-11-03",
+   "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #2 → #2 → #2 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 3, 3:30 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 4:28 AM ET",
@@ -133,13 +165,8 @@
    "last_seen_et": "Nov 3, 3:10 AM ET",
    "minutes_on_list": 158,
    "notable": true,
-   "official_line": {
-    "published": "2026-11-04 08:50:30",
-    "source": "Tencent News 腾讯网",
-    "title": "“低保家庭女孩赴港看演唱会”，最新后续！",
-    "url": "https://new.qq.com/rain/a/20261104A03KA100"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 1,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -171,7 +198,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-a0265ca0e0b4",
-   "title_en": "",
+   "title_en": "Sleeping in Socks Reduces the Time It Takes to Fall Asleep",
    "title_zh": "穿袜子睡觉 缩短入睡时间",
    "url": "https://www.baidu.com/s?wd=%E7%A9%BF%E8%A2%9C%E5%AD%90%E7%9D%A1%E8%A7%89+%E7%BC%A9%E7%9F%AD%E5%85%A5%E7%9D%A1%E6%97%B6%E9%97%B4"
   },
@@ -192,13 +219,18 @@
    "last_seen_et": "Nov 3, 7:45 AM ET",
    "minutes_on_list": 65,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-04 11:35:01",
+    "source": "Tencent News 腾讯网",
+    "title": "又踩红线！精日陈某余波未平，长沙两姑娘在烈士公园换装和服挥刀出片",
+    "url": "https://new.qq.com/rain/a/20261104A05ZEG00"
+   },
+   "official_line_zh": null,
    "peak_rank": 5,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-7b91e43b52ff",
-   "title_en": "",
+   "title_en": "Media Commentary on a Woman Wearing a Kimono and Carrying a Katana at Martyrs' Park",
    "title_zh": "媒体评烈士公园内女子穿和服带武士刀",
    "url": "https://www.toutiao.com/trending/7702923687003193407/"
   },
@@ -225,7 +257,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-57739f7b34a3",
-   "title_en": "",
+   "title_en": "\"The Female Steve Jobs\" Continues to Defraud People Even After Going to Prison",
    "title_zh": "“女版乔布斯” 入狱后还在骗",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%B3%E7%89%88%E4%B9%94%E5%B8%83%E6%96%AF%E2%80%9D+%E5%85%A5%E7%8B%B1%E5%90%8E%E8%BF%98%E5%9C%A8%E9%AA%97"
   }
