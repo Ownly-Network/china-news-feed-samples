@@ -1,47 +1,25 @@
 {
- "generated_at_et": "2026-11-04 04:47 ET",
+ "generated_at_et": "2026-11-04 07:08 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 3,
  "cut": {
   "flagged": 126,
   "came back once before": 6,
   "gone under 60 min": 10,
-  "not in the top 10 when it left": 32,
-  "slid down before leaving": 1,
-  "on the list a normal length of time": 41,
-  "inside the list's normal rotation": 4,
-  "still on another hot list": 11,
-  "left with other flagged topics (batch drop)": 11,
-  "retitled": 2,
-  "topic still on the list": 4,
+  "not in the top 10 when it left": 31,
+  "slid down before leaving": 2,
+  "on the list a normal length of time": 39,
+  "inside the list's normal rotation": 5,
+  "still on another hot list": 10,
+  "left with other flagged topics (batch drop)": 12,
+  "retitled": 1,
+  "topic still on the list": 7,
   "same story as a kept item": 0,
-  "kept": 4
+  "kept": 3
  },
  "items": [
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "穿袜子睡觉 缩短入睡时间",
-   "title_en": "Sleeping in Socks Reduces the Time It Takes to Fall Asleep",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 3, 4:46 AM ET",
-   "last_seen_et": "Nov 3, 6:30 AM ET",
-   "first_missing_et": "Nov 3, 6:34 AM ET",
-   "minutes_on_list": 104,
-   "url": "https://www.baidu.com/s?wd=%E7%A9%BF%E8%A2%9C%E5%AD%90%E7%9D%A1%E8%A7%89+%E7%BC%A9%E7%9F%AD%E5%85%A5%E7%9D%A1%E6%97%B6%E9%97%B4",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #5 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 6:47 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 3, 7:34 AM ET"
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
