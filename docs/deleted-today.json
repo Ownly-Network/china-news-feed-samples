@@ -1,90 +1,30 @@
 {
- "generated_at_et": "2026-11-04 21:48 ET",
+ "generated_at_et": "2026-11-04 23:58 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 2,
  "cut": {
-  "flagged": 127,
-  "came back once before": 6,
-  "gone under 60 min": 6,
+  "flagged": 113,
+  "came back once before": 4,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 37,
-  "slid down before leaving": 4,
-  "on the list a normal length of time": 33,
-  "inside the list's normal rotation": 5,
-  "still on another hot list": 7,
-  "left with other flagged topics (batch drop)": 19,
-  "retitled": 2,
+  "slid down before leaving": 3,
+  "on the list a normal length of time": 31,
+  "inside the list's normal rotation": 4,
+  "still on another hot list": 11,
+  "left with other flagged topics (batch drop)": 12,
+  "retitled": 1,
   "topic still on the list": 4,
   "same story as a kept item": 0,
-  "kept": 4
+  "kept": 2
  },
  "items": [
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "陕西商南发生重大刑案 嫌疑人潜逃",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 4, 6:10 AM ET",
-   "last_seen_et": "Nov 4, 6:41 AM ET",
-   "first_missing_et": "Nov 4, 6:47 AM ET",
-   "minutes_on_list": 31,
-   "url": "https://www.toutiao.com/trending/7704162445850247204/",
-   "official_line": {
-    "source": "Beijing News 新京报",
-    "title": "“开车跑山上去了”，陕西商南刑案嫌疑人曾驾车逃跑：目前未到案",
-    "url": "https://www.bjnews.com.cn/detail/1793841637129470.html",
-    "published": "2026-11-05T01:47:06Z"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #43 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 7:06 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 7:47 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%99%95%E8%A5%BF%E5%95%86%E5%8D%97%E5%88%91%E6%A1%88%E6%8C%81%E5%88%80%E5%9C%A8%E9%80%83%E5%AB%8C%E7%8A%AF%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%25E9%2599%2595%25E8%25A5%25BF%25E5%2595%2586%25E5%258D%2597%25E5%2588%2591%25E6%25A1%2588%25E6%258C%2581%25E5%2588%2580%25E5%259C%25A8%25E9%2580%2583%25E5%25AB%258C%25E7%258A%25AF%25E7%2585%25A7%25E7%2589%2587%25E6%259B%259D%25E5%2585%2589%26c_type%3D31%26cate%3D5001%26realpos%3D8%26dgr%3D0%26pos%3D8%26stream_entry_id%3D31%26band_rank%3D8%26flag%3D1%26lcate%3D5001%26display_time%3D1793812065%26pre_seqid%3D1793812065714059887993&launchid=10000360-page_H5",
-     "published": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "陕西教育厅通报副教授去世留绝笔信",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 4, 6:21 PM ET",
-   "last_seen_et": "Nov 4, 7:18 PM ET",
-   "first_missing_et": "Nov 4, 7:24 PM ET",
-   "minutes_on_list": 57,
-   "url": "https://www.toutiao.com/trending/7703942318373765139/",
-   "official_line": {
-    "source": "CCTV News 央视新闻 (news.cctv.com)",
-    "title": "【8点见】陕西省教育厅通报“延安大学一副教授去世留疑似遗书”",
-    "url": "https://news.cctv.com/2026/11/05/ARTICCuwhaSVC1vl93BqapKm261105.shtml",
-    "published": "2026-11-05 08:00:31"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 7:41 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 8:24 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
    "title_zh": "创业板指涨逾6% 科创50涨超9%",
-   "title_en": "",
+   "title_en": "The ChiNext Index rose more than 6%, while the STAR 50 Index rose more than 9%",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -95,10 +35,10 @@
    "minutes_on_list": 31,
    "url": "https://www.toutiao.com/trending/7704194366784409129/",
    "official_line": {
-    "source": "36Kr",
-    "title": "科创50指数涨超3%",
-    "url": "https://36kr.com/newsflashes/4056225756156809?f=rss",
-    "published": "2026-11-05T02:06:12Z"
+    "source": "National Business Daily 每经网",
+    "title": "行业ETF风向标丨科创半导体ETF华夏上午成交额超122亿元，五只半导体设备ETF半日涨超9%",
+    "url": "https://www.nbd.com.cn/articles/2026-11-05/4639201.html",
+    "published": "2026-11-05"
    },
    "official_line_zh": null,
    "evidence": [
@@ -111,7 +51,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "女子点一杯饮品入座 店家称需点两杯",
-   "title_en": "",
+   "title_en": "A woman ordered one drink and took a seat; the shop owner said she had to order two.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
