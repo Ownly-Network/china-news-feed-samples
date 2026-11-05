@@ -1,13 +1,13 @@
 {
- "generated_at_et": "2026-11-05 14:14 ET",
+ "generated_at_et": "2026-11-05 15:19 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 7,
  "cut": {
-  "flagged": 68,
+  "flagged": 69,
   "came back once before": 5,
-  "gone under 60 min": 0,
+  "gone under 60 min": 1,
   "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
   "on the list a normal length of time": 18,
@@ -34,23 +34,12 @@
    "first_missing_et": "Nov 5, 10:35 AM ET",
    "minutes_on_list": 41,
    "url": "https://www.toutiao.com/trending/7704621119059477002/",
-   "official_line": {
-    "source": "Reference News 参考消息",
-    "title": "泽连斯基向梅拉尼娅授勋",
-    "url": "https://ckxxapp.ckxx.net/pages/2026/11/05/b66409109306453ebcf5f98d63581445.html",
-    "published": "2026-11-05"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #18 → #18 → #8 → #8 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 10:46 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 11:42 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "DW Chinese 德国之声",
-     "url": "https://www.dw.com/zh/乌美俄三方会谈在即-泽连斯基赴柏林与默茨会晤/a-79844649?maca=chi-rss-chi-all-1127-rdf",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 11:42 AM ET"
    ]
   },
   {
