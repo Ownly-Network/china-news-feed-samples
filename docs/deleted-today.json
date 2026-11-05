@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-05 05:26 ET",
+ "generated_at_et": "2026-11-05 06:28 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 3,
+ "count": 2,
  "cut": {
-  "flagged": 89,
+  "flagged": 82,
   "came back once before": 5,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 34,
-  "slid down before leaving": 3,
-  "on the list a normal length of time": 17,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 32,
+  "slid down before leaving": 2,
+  "on the list a normal length of time": 20,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 8,
-  "left with other flagged topics (batch drop)": 10,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 7,
   "retitled": 1,
   "topic still on the list": 0,
   "same story as a kept item": 2,
-  "kept": 3
+  "kept": 2
  },
  "items": [
   {
@@ -35,9 +35,9 @@
    "minutes_on_list": 31,
    "url": "https://www.toutiao.com/trending/7704162445850247204/",
    "official_line": {
-    "source": "Beijing News 新京报",
-    "title": "“开车跑山上去了”，陕西商南刑案嫌疑人曾驾车逃跑：目前未到案",
-    "url": "https://www.bjnews.com.cn/detail/1793841637129470.html",
+    "source": "Sina News 新浪新闻",
+    "title": "陕西商南重大刑案3死2伤：嫌疑人逃进山林",
+    "url": "https://news.sina.com.cn/o/2026-11-05/doc-inixrunk6262054.shtml",
     "published": "2026-11-05"
    },
    "official_line_zh": null,
@@ -56,6 +56,12 @@
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "url": "https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%BC%83%E8%BD%A6%E7%96%91%E9%80%83%E5%85%A5%E5%B1%B1%E6%9E%97%23&t=31&band_rank=2&Refer=top",
      "published": "2026-11-05"
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NTD 新唐人電視台",
+     "url": "https://www.ntdtv.com/b5/2026/11/05/a104148131.html",
+     "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
@@ -79,13 +85,8 @@
    "first_missing_et": "Nov 4, 7:24 PM ET",
    "minutes_on_list": 57,
    "url": "https://www.toutiao.com/trending/7703942318373765139/",
-   "official_line": {
-    "source": "Jiemian 界面新闻",
-    "title": "【深度】延安大学副教授离世：考核压力为何让高校教师涌向“横向课题”？",
-    "url": "https://www.jiemian.com/article/15297045.html",
-    "published": "2026-11-05 16:23:00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 7:41 PM ET",
@@ -102,28 +103,6 @@
      "url": "https://t.me/ChinaDigitalTimes/4430",
      "published": "2026-11-05T04:34:11+00:00"
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "女子点一杯饮品入座 店家称需点两杯",
-   "title_en": "A woman ordered one drink and took a seat; the shop owner said she had to order two.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 4, 3:50 AM ET",
-   "last_seen_et": "Nov 4, 6:05 AM ET",
-   "first_missing_et": "Nov 4, 6:10 AM ET",
-   "minutes_on_list": 135,
-   "url": "https://www.toutiao.com/trending/7704172379593048118/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #41 → #35 → #39 → #39 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 6:23 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 7:11 AM ET"
    ]
   }
  ]

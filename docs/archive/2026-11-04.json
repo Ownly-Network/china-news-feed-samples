@@ -81,6 +81,12 @@
     },
     {
      "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/11/05/a104148131.html"
+    },
+    {
+     "published": null,
      "source": "Kanzhongguo / Secret China 看中国",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.secretchina.com/news/gb/2026/11/05/1107036.html"
@@ -98,9 +104,9 @@
    "notable": false,
    "official_line": {
     "published": "2026-11-05",
-    "source": "Beijing News 新京报",
-    "title": "“开车跑山上去了”，陕西商南刑案嫌疑人曾驾车逃跑：目前未到案",
-    "url": "https://www.bjnews.com.cn/detail/1793841637129470.html"
+    "source": "Sina News 新浪新闻",
+    "title": "陕西商南重大刑案3死2伤：嫌疑人逃进山林",
+    "url": "https://news.sina.com.cn/o/2026-11-05/doc-inixrunk6262054.shtml"
    },
    "official_line_zh": null,
    "peak_rank": 4,
@@ -167,13 +173,8 @@
    "last_seen_et": "Nov 4, 7:18 PM ET",
    "minutes_on_list": 57,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-05 16:23:00",
-    "source": "Jiemian 界面新闻",
-    "title": "【深度】延安大学副教授离世：考核压力为何让高校教师涌向“横向课题”？",
-    "url": "https://www.jiemian.com/article/15297045.html"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 5,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
