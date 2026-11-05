@@ -1,52 +1,25 @@
 {
- "generated_at_et": "2026-11-05 01:00 ET",
+ "generated_at_et": "2026-11-05 02:04 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 2,
+ "count": 1,
  "cut": {
-  "flagged": 108,
-  "came back once before": 3,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 37,
+  "flagged": 106,
+  "came back once before": 4,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 38,
   "slid down before leaving": 3,
   "on the list a normal length of time": 28,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 10,
+  "still on another hot list": 11,
   "left with other flagged topics (batch drop)": 13,
-  "retitled": 1,
-  "topic still on the list": 4,
+  "retitled": 0,
+  "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 2
+  "kept": 1
  },
  "items": [
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "创业板指涨逾6% 科创50涨超9%",
-   "title_en": "The ChiNext Index rose more than 6%, while the STAR 50 Index rose more than 9%",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 4, 1:25 AM ET",
-   "last_seen_et": "Nov 4, 1:56 AM ET",
-   "first_missing_et": "Nov 4, 2:00 AM ET",
-   "minutes_on_list": 31,
-   "url": "https://www.toutiao.com/trending/7704194366784409129/",
-   "official_line": {
-    "source": "National Business Daily 每经网",
-    "title": "行业ETF风向标丨科创半导体ETF华夏上午成交额超122亿元，五只半导体设备ETF半日涨超9%",
-    "url": "https://www.nbd.com.cn/articles/2026-11-05/4639201.html",
-    "published": "2026-11-05"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #6 → #5 → #5 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 2:19 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 3:02 AM ET"
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
