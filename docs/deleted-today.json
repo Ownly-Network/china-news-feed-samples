@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-11-06 00:12 ET",
+ "generated_at_et": "2026-11-06 02:32 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 7,
  "cut": {
-  "flagged": 77,
+  "flagged": 78,
   "came back once before": 3,
   "gone under 60 min": 7,
-  "not in the top 10 when it left": 27,
+  "not in the top 10 when it left": 29,
   "slid down before leaving": 0,
   "on the list a normal length of time": 18,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 5,
+  "still on another hot list": 6,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 1,
   "topic still on the list": 3,
   "same story as a kept item": 0,
@@ -43,6 +43,28 @@
    ]
   },
   {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "蔡天凤遭碎尸案死因查明",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Nov 5, 11:04 PM ET",
+   "last_seen_et": "Nov 5, 11:47 PM ET",
+   "first_missing_et": "Nov 5, 11:53 PM ET",
+   "minutes_on_list": 43,
+   "url": "https://www.baidu.com/s?wd=%E8%94%A1%E5%A4%A9%E5%87%A4%E9%81%AD%E7%A2%8E%E5%B0%B8%E6%A1%88%E6%AD%BB%E5%9B%A0%E6%9F%A5%E6%98%8E",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 12:10 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 6, 12:54 AM ET"
+   ]
+  },
+  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "AI真的可以读懂人吗",
@@ -65,28 +87,6 @@
    ]
   },
   {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "陕西重大刑案嫌犯主动报警后袭警",
-   "title_en": "Suspect in Major Shaanxi Criminal Case Assaults Police After Voluntarily Turning Himself In",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 4, 11:58 PM ET",
-   "last_seen_et": "Nov 5, 2:19 AM ET",
-   "first_missing_et": "Nov 5, 2:24 AM ET",
-   "minutes_on_list": 141,
-   "url": "https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%8A%AF%E4%B8%BB%E5%8A%A8%E6%8A%A5%E8%AD%A6%E5%90%8E%E8%A2%AD%E8%AD%A6",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #7 → #7 → #7 → #7 → #7 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 2:35 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 3:26 AM ET"
-   ]
-  },
-  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "特朗普称将就俄乌问题达成重大协议",
@@ -100,8 +100,13 @@
    "first_missing_et": "Nov 5, 11:04 PM ET",
    "minutes_on_list": 36,
    "url": "https://www.toutiao.com/trending/7704803094932078630/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Reference News 参考消息",
+    "title": "特朗普透露：将就乌克兰问题达成“重大协议”",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/06/f48dec543ce348b1927690f3de4293bb.html",
+    "published": "2026-11-06"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #7 → #7 → #7 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 5, 11:18 PM ET",
@@ -116,6 +121,12 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Sing Tao Daily Europe 星島日報 (歐洲版)",
      "url": "https://www.singtao.co.uk/2026-11-05/%e4%bf%84%e7%83%8f%e6%88%b0%e7%88%ad-%e7%89%b9%e6%9c%97%e6%99%ae%ef%bc%9a%e5%b0%87%e5%b0%b1%e4%bf%84%e7%83%8f%e5%95%8f%e9%a1%8c%e9%81%94%e6%88%90%e9%87%8d%e5%a4%a7%e5%8d%94%e8%ad%b0-%e5%8f%af/4766051",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "European Times / Oushinet 欧洲时报",
+     "url": "https://www.oushinet.com/static/content/international/guojinews/2026-11-06/1568262253818557353.html",
      "published": null
     }
    ]
@@ -143,25 +154,25 @@
    ]
   },
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "乡干部伤人潜逃15年吃空饷140余万元",
-   "title_en": "Township Official Who Injured Someone Fled for 15 Years and Received Over 1.4 Million Yuan in Unearned Salary",
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "葡萄牙的C罗：辉煌与悲情",
+   "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 5, 12:09 AM ET",
-   "last_seen_et": "Nov 5, 1:14 AM ET",
-   "first_missing_et": "Nov 5, 1:20 AM ET",
-   "minutes_on_list": 65,
-   "url": "https://www.toutiao.com/trending/7704474667033068058/",
+   "peak_rank": 10,
+   "first_seen_et": "Nov 5, 10:24 PM ET",
+   "last_seen_et": "Nov 5, 11:30 PM ET",
+   "first_missing_et": "Nov 5, 11:33 PM ET",
+   "minutes_on_list": 66,
+   "url": "https://www.baidu.com/s?wd=%E8%91%A1%E8%90%84%E7%89%99%E7%9A%84C%E7%BD%97%EF%BC%9A%E8%BE%89%E7%85%8C%E4%B8%8E%E6%82%B2%E6%83%85",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #8 → #7 → #7 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 1:34 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 2:23 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 11:49 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 12:33 AM ET"
    ]
   },
   {

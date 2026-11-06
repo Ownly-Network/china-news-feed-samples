@@ -1,5 +1,5 @@
 {
- "count": 8,
+ "count": 10,
  "date": "2026-11-05",
  "items": [
   {
@@ -214,6 +214,12 @@
      "source": "Sing Tao Daily Europe 星島日報 (歐洲版)",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.singtao.co.uk/2026-11-05/%e4%bf%84%e7%83%8f%e6%88%b0%e7%88%ad-%e7%89%b9%e6%9c%97%e6%99%ae%ef%bc%9a%e5%b0%87%e5%b0%b1%e4%bf%84%e7%83%8f%e5%95%8f%e9%a1%8c%e9%81%94%e6%88%90%e9%87%8d%e5%a4%a7%e5%8d%94%e8%ad%b0-%e5%8f%af/4766051"
+    },
+    {
+     "published": null,
+     "source": "European Times / Oushinet 欧洲时报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.oushinet.com/static/content/international/guojinews/2026-11-06/1568262253818557353.html"
     }
    ],
    "evidence_strength": "standard",
@@ -226,8 +232,13 @@
    "last_seen_et": "Nov 5, 11:00 PM ET",
    "minutes_on_list": 36,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-06",
+    "source": "Reference News 参考消息",
+    "title": "特朗普透露：将就乌克兰问题达成“重大协议”",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/06/f48dec543ce348b1927690f3de4293bb.html"
+   },
+   "official_line_zh": null,
    "peak_rank": 7,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -235,6 +246,60 @@
    "title_en": "",
    "title_zh": "特朗普称将就俄乌问题达成重大协议",
    "url": "https://www.toutiao.com/trending/7704803094932078630/"
+  },
+  {
+   "day": "2026-11-05",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 11:49 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 12:33 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 5, 11:33 PM ET",
+   "first_missing_iso": "2026-11-05T23:33:00-05:00",
+   "first_seen_et": "Nov 5, 10:24 PM ET",
+   "key": "baidu|葡萄牙的C罗：辉煌与悲情|2026-11-05T23:33:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 5, 11:30 PM ET",
+   "minutes_on_list": 66,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 10,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-a670fb3b3e6b",
+   "title_en": "",
+   "title_zh": "葡萄牙的C罗：辉煌与悲情",
+   "url": "https://www.baidu.com/s?wd=%E8%91%A1%E8%90%84%E7%89%99%E7%9A%84C%E7%BD%97%EF%BC%9A%E8%BE%89%E7%85%8C%E4%B8%8E%E6%82%B2%E6%83%85"
+  },
+  {
+   "day": "2026-11-05",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 12:10 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 6, 12:54 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 5, 11:53 PM ET",
+   "first_missing_iso": "2026-11-05T23:53:00-05:00",
+   "first_seen_et": "Nov 5, 11:04 PM ET",
+   "key": "baidu|蔡天凤遭碎尸案死因查明|2026-11-05T23:53:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 5, 11:47 PM ET",
+   "minutes_on_list": 43,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 4,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-7d3e3f91c020",
+   "title_en": "",
+   "title_zh": "蔡天凤遭碎尸案死因查明",
+   "url": "https://www.baidu.com/s?wd=%E8%94%A1%E5%A4%A9%E5%87%A4%E9%81%AD%E7%A2%8E%E5%B0%B8%E6%A1%88%E6%AD%BB%E5%9B%A0%E6%9F%A5%E6%98%8E"
   }
  ]
 }
