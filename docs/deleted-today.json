@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-06 05:46 ET",
+ "generated_at_et": "2026-11-06 06:53 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 6,
  "cut": {
-  "flagged": 78,
-  "came back once before": 2,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 30,
+  "flagged": 77,
+  "came back once before": 3,
+  "gone under 60 min": 9,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 17,
+  "on the list a normal length of time": 18,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 6,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 3,
   "retitled": 2,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 8
+  "kept": 6
  },
  "items": [
   {
@@ -95,28 +95,6 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "AI真的可以读懂人吗",
-   "title_en": "Can AI Really Understand People?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 5, 5:13 AM ET",
-   "last_seen_et": "Nov 5, 6:31 AM ET",
-   "first_missing_et": "Nov 5, 6:35 AM ET",
-   "minutes_on_list": 78,
-   "url": "https://www.toutiao.com/trending/7703765694533386259/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #7 → #15 → #13 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 6:56 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 7:48 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
    "title_zh": "特朗普称将就俄乌问题达成重大协议",
    "title_en": "",
    "label": "Dropped off",
@@ -157,28 +135,6 @@
      "url": "https://www.dw.com/zh/特朗普称结束乌克兰战争的-重大协议-正在酝酿之中/a-79873214?maca=chi-rss-chi-all-1127-rdf",
      "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "A股后续如何走",
-   "title_en": "What’s Next for A-Shares?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 5, 5:55 AM ET",
-   "last_seen_et": "Nov 5, 6:50 AM ET",
-   "first_missing_et": "Nov 5, 6:50 AM ET",
-   "minutes_on_list": 55,
-   "url": "https://www.toutiao.com/trending/7704619091549651482/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #29 → #21 → #19 → #16 → #7 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 7:04 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 7:52 AM ET"
    ]
   },
   {
