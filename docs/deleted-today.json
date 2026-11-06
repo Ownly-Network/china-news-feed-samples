@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-06 08:18 ET",
+ "generated_at_et": "2026-11-06 09:22 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -9,11 +9,11 @@
   "came back once before": 6,
   "gone under 60 min": 3,
   "not in the top 10 when it left": 28,
-  "slid down before leaving": 0,
-  "on the list a normal length of time": 17,
+  "slid down before leaving": 1,
+  "on the list a normal length of time": 16,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 4,
+  "still on another hot list": 3,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 3,
   "topic still on the list": 3,
   "same story as a kept item": 0,
@@ -111,7 +111,19 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 6:26 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sin Chew Daily 星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aYkk5SHpjSUJyWGZON3lfSW5GazF0RXpnU09MOHROeUpBMmg4RU9KYUlpSlFMenI0MmhiMFBXQjFaTVduOTZ0d2lya2hWczVFc3h3aFBUQkt1ODJIaVd6UVZaNVl0LWs?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sin Chew Daily 星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kY3RkRUc0bk9nMGItVk5udndWd0ttdUdiOWtfLWJMc0c5QkF4WDdOUlVFLTBvbGYxYkNLb3pZSWthVlZ2OFY0ZThjb0JoYk5heXVLcV9BanRPMjc4VEVjd1J0X1FfZlU?oc=5",
+     "published": null
+    }
    ]
   },
   {
@@ -174,10 +186,10 @@
    "minutes_on_list": 89,
    "url": "https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF3%E6%AD%BB2%E4%BC%A4%E5%88%91%E6%A1%88%E6%B6%89%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "陕西商南刑案嫌疑人已身亡，被害人朋友：两名被害女性已下葬",
-    "url": "https://new.qq.com/rain/a/20261106A09HNK00",
-    "published": "2026-11-06 19:44:35"
+    "source": "NetEase News 网易新闻",
+    "title": "陕西商洛发生重大刑案致3死2伤 嫌犯已自杀身亡",
+    "url": "https://www.163.com/news/article/LB2CF7Q80001899O.html",
+    "published": "2026-11-06 14:18:43"
    },
    "official_line_zh": null,
    "evidence": [
