@@ -1,14 +1,14 @@
 {
- "generated_at_et": "2026-11-05 18:40 ET",
+ "generated_at_et": "2026-11-05 19:45 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 6,
  "cut": {
-  "flagged": 69,
+  "flagged": 68,
   "came back once before": 4,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 27,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 29,
   "slid down before leaving": 0,
   "on the list a normal length of time": 17,
   "inside the list's normal rotation": 0,
@@ -17,7 +17,7 @@
   "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 6
  },
  "items": [
   {
@@ -62,40 +62,6 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #7 → #15 → #13 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 6:56 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 7:48 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "陕西教育厅通报副教授去世留绝笔信",
-   "title_en": "Shaanxi Department of Education Issues Statement on the Death of an Associate Professor Who Left a Suicide Note",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 4, 6:21 PM ET",
-   "last_seen_et": "Nov 4, 7:18 PM ET",
-   "first_missing_et": "Nov 4, 7:24 PM ET",
-   "minutes_on_list": 57,
-   "url": "https://www.toutiao.com/trending/7703942318373765139/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 7:41 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 4, 8:24 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "China Digital Times 中国数字时代",
-     "url": "https://chinadigitaltimes.net/chinese/733616.html",
-     "published": "2026-11-05T04:32:24Z"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Telegram: CDT Telegram channel",
-     "url": "https://t.me/ChinaDigitalTimes/4430",
-     "published": "2026-11-05T04:34:11+00:00"
-    }
    ]
   },
   {
@@ -156,13 +122,8 @@
    "first_missing_et": "Nov 5, 1:20 AM ET",
    "minutes_on_list": 65,
    "url": "https://www.toutiao.com/trending/7704474667033068058/",
-   "official_line": {
-    "source": "Beijing News 新京报",
-    "title": "一乡干部捅伤村民潜逃15年落网，违规吃空饷140万职级升正科",
-    "url": "https://www.bjnews.com.cn/detail/1793837686168368.html",
-    "published": "2026-11-05"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #8 → #7 → #7 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 1:34 AM ET",
