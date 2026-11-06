@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-06 15:25 ET",
+ "generated_at_et": "2026-11-06 16:28 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -67,18 +67,6 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #2 → #4 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 8:50 AM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 6, 9:41 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C%E6%88%96%E5%BD%B1%E5%93%8D%E9%87%91%E4%BB%B7%23&t=31&band_rank=9&Refer=top",
-     "published": "2026-11-06"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Mingjing News 明鏡網",
-     "url": "https://www.youtube.com/shorts/EJzDayFJfQc",
-     "published": null
-    },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Mingjing News 明鏡網",
@@ -168,19 +156,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 6:26 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sin Chew Daily 星洲日报",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aYkk5SHpjSUJyWGZON3lfSW5GazF0RXpnU09MOHROeUpBMmg4RU9KYUlpSlFMenI0MmhiMFBXQjFaTVduOTZ0d2lya2hWczVFc3h3aFBUQkt1ODJIaVd6UVZaNVl0LWs?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sin Chew Daily 星洲日报",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kY3RkRUc0bk9nMGItVk5udndWd0ttdUdiOWtfLWJMc0c5QkF4WDdOUlVFLTBvbGYxYkNLb3pZSWthVlZ2OFY0ZThjb0JoYk5heXVLcV9BanRPMjc4VEVjd1J0X1FfZlU?oc=5",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET"
    ]
   },
   {
