@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-06 02:32 ET",
+ "generated_at_et": "2026-11-06 03:37 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 8,
  "cut": {
-  "flagged": 78,
+  "flagged": 74,
   "came back once before": 3,
-  "gone under 60 min": 7,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 29,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 18,
+  "on the list a normal length of time": 17,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 6,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 3,
   "retitled": 1,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 8
  },
  "items": [
   {
@@ -62,6 +62,28 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 12:10 AM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 6, 12:54 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "泽连斯基再次炮轰马斯克",
+   "title_en": "Zelenskyy Lashes Out at Musk Again",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 5, 9:50 AM ET",
+   "last_seen_et": "Nov 5, 10:30 AM ET",
+   "first_missing_et": "Nov 5, 10:35 AM ET",
+   "minutes_on_list": 41,
+   "url": "https://www.toutiao.com/trending/7704621119059477002/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #18 → #18 → #8 → #8 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 10:46 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 11:42 AM ET"
    ]
   },
   {
@@ -121,12 +143,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Sing Tao Daily Europe 星島日報 (歐洲版)",
      "url": "https://www.singtao.co.uk/2026-11-05/%e4%bf%84%e7%83%8f%e6%88%b0%e7%88%ad-%e7%89%b9%e6%9c%97%e6%99%ae%ef%bc%9a%e5%b0%87%e5%b0%b1%e4%bf%84%e7%83%8f%e5%95%8f%e9%a1%8c%e9%81%94%e6%88%90%e9%87%8d%e5%a4%a7%e5%8d%94%e8%ad%b0-%e5%8f%af/4766051",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "European Times / Oushinet 欧洲时报",
-     "url": "https://www.oushinet.com/static/content/international/guojinews/2026-11-06/1568262253818557353.html",
      "published": null
     }
    ]
