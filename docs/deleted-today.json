@@ -1,14 +1,14 @@
 {
- "generated_at_et": "2026-11-06 16:28 ET",
+ "generated_at_et": "2026-11-06 17:53 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 8,
  "cut": {
-  "flagged": 79,
+  "flagged": 77,
   "came back once before": 6,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 29,
+  "gone under 60 min": 1,
+  "not in the top 10 when it left": 26,
   "slid down before leaving": 1,
   "on the list a normal length of time": 20,
   "inside the list's normal rotation": 4,
@@ -77,6 +77,12 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Kanzhongguo / Secret China 看中国",
      "url": "https://www.secretchina.com/news/gb/2026/11/06/1107104.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "G·HOT daily",
+     "url": "https://ghot.ai/archive/reports/2026-11-06",
      "published": null
     },
     {
