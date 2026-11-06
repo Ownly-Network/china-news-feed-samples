@@ -1,5 +1,5 @@
 {
- "count": 3,
+ "count": 4,
  "date": "2026-11-06",
  "items": [
   {
@@ -66,6 +66,68 @@
    "title_en": "",
    "title_zh": "“黑色星期五”席卷亚太市场",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D%E5%B8%AD%E5%8D%B7%E4%BA%9A%E5%A4%AA%E5%B8%82%E5%9C%BA"
+  },
+  {
+   "day": "2026-11-06",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #2 → #4 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 8:50 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 6, 9:41 AM ET",
+    {
+     "published": "2026-11-06",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C%E6%88%96%E5%BD%B1%E5%93%8D%E9%87%91%E4%BB%B7%23&t=31&band_rank=9&Refer=top"
+    },
+    {
+     "published": null,
+     "source": "Mingjing News 明鏡網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/EJzDayFJfQc"
+    },
+    {
+     "published": null,
+     "source": "Mingjing News 明鏡網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/cJCLTiwSKuc"
+    },
+    {
+     "published": null,
+     "source": "Kanzhongguo / Secret China 看中国",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.secretchina.com/news/gb/2026/11/06/1107104.html"
+    },
+    {
+     "published": null,
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.chineseherald.co.nz/news/property/us-stocks-plunge-musk-wealth-shrinks/"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 6, 8:38 AM ET",
+   "first_missing_iso": "2026-11-06T08:38:00-05:00",
+   "first_seen_et": "Nov 6, 6:49 AM ET",
+   "key": "toutiao|美股暴跌 投资者在害怕什么|2026-11-06T08:38:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 6, 8:34 AM ET",
+   "minutes_on_list": 105,
+   "notable": true,
+   "official_line": {
+    "published": "",
+    "source": "Guancha 观察者网",
+    "title": "美股暴跌，但民主党胜选未必真利空AI",
+    "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_06_907255.shtml"
+   },
+   "official_line_zh": null,
+   "peak_rank": 2,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-a4d6716f1660",
+   "title_en": "",
+   "title_zh": "美股暴跌 投资者在害怕什么",
+   "url": "https://www.toutiao.com/trending/7705018725220486707/"
   },
   {
    "day": "2026-11-06",
