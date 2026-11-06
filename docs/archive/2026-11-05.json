@@ -1,5 +1,5 @@
 {
- "count": 6,
+ "count": 7,
  "date": "2026-11-05",
  "items": [
   {
@@ -46,8 +46,13 @@
    "last_seen_et": "Nov 5, 2:19 AM ET",
    "minutes_on_list": 141,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-06 11:19:51",
+    "source": "The Paper 澎湃新闻",
+    "title": "陕西商南重大刑案致3死2伤：500余人进山搜捕嫌犯，动用无人机及警犬",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34419084"
+   },
+   "official_line_zh": null,
    "peak_rank": 6,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -148,13 +153,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #18 → #18 → #8 → #8 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 10:46 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 11:42 AM ET",
-    {
-     "published": null,
-     "source": "DW Chinese 德国之声",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.dw.com/zh/乌美俄三方会谈在即-泽连斯基赴柏林与默茨会晤/a-79844649?maca=chi-rss-chi-all-1127-rdf"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 11:42 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 5, 10:35 AM ET",
@@ -166,13 +165,8 @@
    "last_seen_et": "Nov 5, 10:30 AM ET",
    "minutes_on_list": 41,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-05T16:01:32Z",
-    "source": "People's Daily+ 人民网+ app",
-    "title": "泽连斯基称希望民主党“获胜”有助于美增加对乌援助",
-    "url": "https://app.people.cn/h5/detail/normal/7080305793516544"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 5,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -180,6 +174,33 @@
    "title_en": "Zelenskyy Lashes Out at Musk Again",
    "title_zh": "泽连斯基再次炮轰马斯克",
    "url": "https://www.toutiao.com/trending/7704621119059477002/"
+  },
+  {
+   "day": "2026-11-05",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 9:55 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 5, 10:44 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 5, 9:40 PM ET",
+   "first_missing_iso": "2026-11-05T21:40:00-05:00",
+   "first_seen_et": "Nov 5, 8:20 PM ET",
+   "key": "toutiao|油价金价银价都涨了|2026-11-05T21:40:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 5, 9:35 PM ET",
+   "minutes_on_list": 75,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-00886bbb9ea0",
+   "title_en": "",
+   "title_zh": "油价金价银价都涨了",
+   "url": "https://www.toutiao.com/trending/7704488746699620362/"
   }
  ]
 }
