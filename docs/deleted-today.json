@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-11-06 17:53 ET",
+ "generated_at_et": "2026-11-06 19:04 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 8,
  "cut": {
-  "flagged": 77,
+  "flagged": 76,
   "came back once before": 6,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 26,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 20,
+  "on the list a normal length of time": 17,
   "inside the list's normal rotation": 4,
-  "still on another hot list": 1,
-  "left with other flagged topics (batch drop)": 4,
+  "still on another hot list": 0,
+  "left with other flagged topics (batch drop)": 5,
   "retitled": 3,
   "topic still on the list": 3,
   "same story as a kept item": 0,
@@ -57,9 +57,9 @@
    "minutes_on_list": 105,
    "url": "https://www.toutiao.com/trending/7705018725220486707/",
    "official_line": {
-    "source": "Guancha 观察者网",
-    "title": "美股暴跌，但民主党胜选未必真利空AI",
-    "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_06_907255.shtml",
+    "source": "Huxiu 虎嗅",
+    "title": "深夜，美股飙涨，仿佛暴跌从未发生",
+    "url": "https://www.huxiu.com/article/4903701.html",
     "published": ""
    },
    "official_line_zh": null,
@@ -67,12 +67,6 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #2 → #4 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 8:50 AM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 6, 9:41 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Mingjing News 明鏡網",
-     "url": "https://www.youtube.com/shorts/cJCLTiwSKuc",
-     "published": null
-    },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Kanzhongguo / Secret China 看中国",
@@ -162,7 +156,19 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 6:26 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sin Chew Daily 星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aYkk5SHpjSUJyWGZON3lfSW5GazF0RXpnU09MOHROeUpBMmg4RU9KYUlpSlFMenI0MmhiMFBXQjFaTVduOTZ0d2lya2hWczVFc3h3aFBUQkt1ODJIaVd6UVZaNVl0LWs?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sin Chew Daily 星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kY3RkRUc0bk9nMGItVk5udndWd0ttdUdiOWtfLWJMc0c5QkF4WDdOUlVFLTBvbGYxYkNLb3pZSWthVlZ2OFY0ZThjb0JoYk5heXVLcV9BanRPMjc4VEVjd1J0X1FfZlU?oc=5",
+     "published": null
+    }
    ]
   },
   {

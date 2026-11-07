@@ -39,7 +39,19 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 6:26 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET",
+    {
+     "published": null,
+     "source": "Sin Chew Daily 星洲日报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aYkk5SHpjSUJyWGZON3lfSW5GazF0RXpnU09MOHROeUpBMmg4RU9KYUlpSlFMenI0MmhiMFBXQjFaTVduOTZ0d2lya2hWczVFc3h3aFBUQkt1ODJIaVd6UVZaNVl0LWs?oc=5"
+    },
+    {
+     "published": null,
+     "source": "Sin Chew Daily 星洲日报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kY3RkRUc0bk9nMGItVk5udndWd0ttdUdiOWtfLWJMc0c5QkF4WDdOUlVFLTBvbGYxYkNLb3pZSWthVlZ2OFY0ZThjb0JoYk5heXVLcV9BanRPMjc4VEVjd1J0X1FfZlU?oc=5"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 6, 6:15 AM ET",
@@ -67,12 +79,6 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #2 → #4 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 8:50 AM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 6, 9:41 AM ET",
-    {
-     "published": null,
-     "source": "Mingjing News 明鏡網",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.youtube.com/shorts/cJCLTiwSKuc"
-    },
     {
      "published": null,
      "source": "Kanzhongguo / Secret China 看中国",
@@ -104,9 +110,9 @@
    "notable": true,
    "official_line": {
     "published": "",
-    "source": "Guancha 观察者网",
-    "title": "美股暴跌，但民主党胜选未必真利空AI",
-    "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_06_907255.shtml"
+    "source": "Huxiu 虎嗅",
+    "title": "深夜，美股飙涨，仿佛暴跌从未发生",
+    "url": "https://www.huxiu.com/article/4903701.html"
    },
    "official_line_zh": null,
    "peak_rank": 2,
