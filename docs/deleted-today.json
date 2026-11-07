@@ -1,74 +1,25 @@
 {
- "generated_at_et": "2026-11-07 11:27 ET",
+ "generated_at_et": "2026-11-07 12:34 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 5,
  "cut": {
-  "flagged": 70,
+  "flagged": 68,
   "came back once before": 2,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 27,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
   "on the list a normal length of time": 19,
   "inside the list's normal rotation": 6,
-  "still on another hot list": 3,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 8
+  "kept": 5
  },
  "items": [
-  {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "进博会全球美味轮番亮相",
-   "title_en": "Global Delicacies Take Center Stage at the China International Import Expo",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 3,
-   "first_seen_et": "Nov 6, 8:35 PM ET",
-   "last_seen_et": "Nov 6, 10:10 PM ET",
-   "first_missing_et": "Nov 6, 10:20 PM ET",
-   "minutes_on_list": 95,
-   "url": "https://search.bilibili.com/all?keyword=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%85%A8%E7%90%83%E7%BE%8E%E5%91%B3%E8%BD%AE%E7%95%AA%E4%BA%AE%E7%9B%B8",
-   "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "第九届进博会：汽车及智慧出行馆展示“海陆空”立体阵容",
-    "url": "https://www.yicai.com/news/103430934.html",
-    "published": "2026-11-07T19:43:03"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #9 → #9 → #9 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 10:35 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 11:38 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "女子和已婚男交往被原配抓包后坠亡",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 7, 5:55 AM ET",
-   "last_seen_et": "Nov 7, 6:25 AM ET",
-   "first_missing_et": "Nov 7, 6:30 AM ET",
-   "minutes_on_list": 30,
-   "url": "https://www.toutiao.com/trending/7705306175198151194/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #7 → #7 → #7 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 6:44 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 7, 7:50 AM ET"
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -182,28 +133,6 @@
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 12:38 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 1:34 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "陈熠鏖战五局晋级八强",
-   "title_en": "Chen Yi Advances to the Quarterfinals After a Five-Set Battle",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 10,
-   "first_seen_et": "Nov 6, 6:51 PM ET",
-   "last_seen_et": "Nov 6, 8:30 PM ET",
-   "first_missing_et": "Nov 6, 8:35 PM ET",
-   "minutes_on_list": 99,
-   "url": "https://www.baidu.com/s?wd=%E9%99%88%E7%86%A0%E9%8F%96%E6%88%98%E4%BA%94%E5%B1%80%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 8:49 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 9:36 PM ET"
    ]
   }
  ]
