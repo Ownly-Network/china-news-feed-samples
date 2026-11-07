@@ -1,6 +1,6 @@
 # Ownly Network — China Hot-List Deletion Watch
 
-> Ownly Network monitors China's hot-search lists (Weibo 微博, Baidu 百度, Zhihu 知乎, Toutiao 今日头条, Bilibili 哔哩哔哩, Douyin 抖音, Kuaishou 快手) and flags topics that leave a list abruptly while still popular. A topic is labeled "Dropped off" by default and "Likely censored" only when there is hard evidence (a dead link, a platform removal notice, or a matching entry on a censorship tracker). Data coverage: 2026-10-18 to 2026-11-06.
+> Ownly Network monitors China's hot-search lists (Weibo 微博, Baidu 百度, Zhihu 知乎, Toutiao 今日头条, Bilibili 哔哩哔哩, Douyin 抖音, Kuaishou 快手) and flags topics that leave a list abruptly while still popular. A topic is labeled "Dropped off" by default and "Likely censored" only when there is hard evidence (a dead link, a platform removal notice, or a matching entry on a censorship tracker). Data coverage: 2026-10-18 to 2026-11-07.
 
 ## Live data
 - [Dropped off today](https://ownly-network.github.io/china-news-feed-samples/): topics that left a hot list in the last 24 hours.
