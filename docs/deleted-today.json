@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-11-06 21:16 ET",
+ "generated_at_et": "2026-11-06 22:26 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 7,
  "cut": {
   "flagged": 75,
-  "came back once before": 6,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 28,
+  "came back once before": 5,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 30,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 16,
-  "inside the list's normal rotation": 7,
+  "on the list a normal length of time": 18,
+  "inside the list's normal rotation": 6,
   "still on another hot list": 1,
-  "left with other flagged topics (batch drop)": 2,
+  "left with other flagged topics (batch drop)": 1,
   "retitled": 2,
   "topic still on the list": 0,
   "same story as a kept item": 0,
@@ -35,9 +35,9 @@
    "minutes_on_list": 105,
    "url": "https://www.toutiao.com/trending/7705018725220486707/",
    "official_line": {
-    "source": "Guancha 观察者网",
-    "title": "美股暴跌，但民主党胜选未必真利空AI",
-    "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_06_907255.shtml",
+    "source": "Huxiu 虎嗅",
+    "title": "深夜，美股飙涨，仿佛暴跌从未发生",
+    "url": "https://www.huxiu.com/article/4903701.html",
     "published": ""
    },
    "official_line_zh": null,
@@ -140,6 +140,12 @@
      "source": "Sin Chew Daily 星洲日报",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kY3RkRUc0bk9nMGItVk5udndWd0ttdUdiOWtfLWJMc0c5QkF4WDdOUlVFLTBvbGYxYkNLb3pZSWthVlZ2OFY0ZThjb0JoYk5heXVLcV9BanRPMjc4VEVjd1J0X1FfZlU?oc=5",
      "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Bannedbook 禁闻网",
+     "url": "https://www.bannedbook.org/bnews/cnnews/20261107/2378277.html",
+     "published": null
     }
    ]
   },
@@ -203,10 +209,10 @@
    "minutes_on_list": 89,
    "url": "https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF3%E6%AD%BB2%E4%BC%A4%E5%88%91%E6%A1%88%E6%B6%89%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7",
    "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "陕西致3死2伤命案嫌犯自杀 警方：因情感纠纷持刀行凶",
-    "url": "https://www.163.com/news/article/LB2E5KRO0001899O.html",
-    "published": "2026-11-06 14:54:22"
+    "source": "Sina News 新浪新闻",
+    "title": "从事发到自杀 陕西商南3死2伤刑案如何发生",
+    "url": "https://video.sina.com.cn/p/news/2026-11-07/detail-inixwhsh4967736.d.html",
+    "published": "2026-11-07"
    },
    "official_line_zh": null,
    "evidence": [
