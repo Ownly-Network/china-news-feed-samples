@@ -1,5 +1,5 @@
 {
- "count": 4,
+ "count": 7,
  "date": "2026-11-06",
  "items": [
   {
@@ -30,7 +30,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-a1492739a260",
-   "title_en": "",
+   "title_en": "Criminal Case in Shaanxi Leaves 3 Dead and 2 Injured; Case Involves a Romantic Dispute",
    "title_zh": "陕西3死2伤刑案涉情感纠纷",
    "url": "https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF3%E6%AD%BB2%E4%BC%A4%E5%88%91%E6%A1%88%E6%B6%89%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7"
   },
@@ -42,6 +42,12 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET",
     {
      "published": null,
+     "source": "Storm Media 風傳媒",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.storm.mg/article/11179111"
+    },
+    {
+     "published": null,
      "source": "Sin Chew Daily 星洲日报",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aYkk5SHpjSUJyWGZON3lfSW5GazF0RXpnU09MOHROeUpBMmg4RU9KYUlpSlFMenI0MmhiMFBXQjFaTVduOTZ0d2lya2hWczVFc3h3aFBUQkt1ODJIaVd6UVZaNVl0LWs?oc=5"
@@ -51,12 +57,6 @@
      "source": "Sin Chew Daily 星洲日报",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kY3RkRUc0bk9nMGItVk5udndWd0ttdUdiOWtfLWJMc0c5QkF4WDdOUlVFLTBvbGYxYkNLb3pZSWthVlZ2OFY0ZThjb0JoYk5heXVLcV9BanRPMjc4VEVjd1J0X1FfZlU?oc=5"
-    },
-    {
-     "published": null,
-     "source": "Bannedbook 禁闻网",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.bannedbook.org/bnews/cnnews/20261107/2378277.html"
     }
    ],
    "evidence_strength": "standard",
@@ -75,7 +75,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-504df818803d",
-   "title_en": "",
+   "title_en": "\"Black Friday\" Sweeps Through the Asia-Pacific Market",
    "title_zh": "“黑色星期五”席卷亚太市场",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D%E5%B8%AD%E5%8D%B7%E4%BA%9A%E5%A4%AA%E5%B8%82%E5%9C%BA"
   },
@@ -110,16 +110,16 @@
    "notable": true,
    "official_line": {
     "published": "",
-    "source": "Huxiu 虎嗅",
-    "title": "深夜，美股飙涨，仿佛暴跌从未发生",
-    "url": "https://www.huxiu.com/article/4903701.html"
+    "source": "Guancha 观察者网",
+    "title": "美股暴跌，但民主党胜选未必真利空AI",
+    "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_06_907255.shtml"
    },
    "official_line_zh": null,
    "peak_rank": 2,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-a4d6716f1660",
-   "title_en": "",
+   "title_en": "U.S. Stocks Plunge: What Are Investors Afraid Of?",
    "title_zh": "美股暴跌 投资者在害怕什么",
    "url": "https://www.toutiao.com/trending/7705018725220486707/"
   },
@@ -146,9 +146,90 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-cfc9463d72ea",
-   "title_en": "",
+   "title_en": "U.S. Stocks Have Crashed—Can A-Shares Hold Up?",
    "title_zh": "美股崩了A股扛得住吗",
    "url": "https://www.toutiao.com/trending/7705006215155158579/"
+  },
+  {
+   "day": "2026-11-06",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 8:49 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 9:36 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 6, 8:35 PM ET",
+   "first_missing_iso": "2026-11-06T20:35:00-05:00",
+   "first_seen_et": "Nov 6, 6:51 PM ET",
+   "key": "baidu|陈熠鏖战五局晋级八强|2026-11-06T20:35:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 6, 8:30 PM ET",
+   "minutes_on_list": 99,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 10,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-734cb809ffa9",
+   "title_en": "Chen Yi Advances to the Quarterfinals After a Five-Set Battle",
+   "title_zh": "陈熠鏖战五局晋级八强",
+   "url": "https://www.baidu.com/s?wd=%E9%99%88%E7%86%A0%E9%8F%96%E6%88%98%E4%BA%94%E5%B1%80%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA"
+  },
+  {
+   "day": "2026-11-06",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #9 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 10:35 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 11:38 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 6, 10:20 PM ET",
+   "first_missing_iso": "2026-11-06T22:20:00-05:00",
+   "first_seen_et": "Nov 6, 8:35 PM ET",
+   "key": "bilibili|进博会全球美味轮番亮相|2026-11-06T22:20:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 6, 10:10 PM ET",
+   "minutes_on_list": 95,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 3,
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "slug": "bilibili-57a482e317cb",
+   "title_en": "Global Delicacies Take Center Stage at the China International Import Expo",
+   "title_zh": "进博会全球美味轮番亮相",
+   "url": "https://search.bilibili.com/all?keyword=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%85%A8%E7%90%83%E7%BE%8E%E5%91%B3%E8%BD%AE%E7%95%AA%E4%BA%AE%E7%9B%B8"
+  },
+  {
+   "day": "2026-11-06",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #33 → #33 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 11:05 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 11:49 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 6, 10:42 PM ET",
+   "first_missing_iso": "2026-11-06T22:42:00-05:00",
+   "first_seen_et": "Nov 6, 10:00 PM ET",
+   "key": "baidu|立冬你吃火锅了吗|2026-11-06T22:42:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 6, 10:33 PM ET",
+   "minutes_on_list": 32,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-3276b841ad2a",
+   "title_en": "",
+   "title_zh": "立冬你吃火锅了吗",
+   "url": "https://www.baidu.com/s?wd=%E7%AB%8B%E5%86%AC%E4%BD%A0%E5%90%83%E7%81%AB%E9%94%85%E4%BA%86%E5%90%97"
   }
  ]
 }
