@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-07 09:17 ET",
+ "generated_at_et": "2026-11-07 10:23 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 9,
  "cut": {
-  "flagged": 72,
-  "came back once before": 0,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 27,
+  "flagged": 70,
+  "came back once before": 1,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 20,
-  "inside the list's normal rotation": 6,
-  "still on another hot list": 2,
+  "on the list a normal length of time": 18,
+  "inside the list's normal rotation": 7,
+  "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 1,
-  "retitled": 0,
-  "topic still on the list": 1,
+  "retitled": 1,
+  "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 10
+  "kept": 9
  },
  "items": [
   {
@@ -35,10 +35,10 @@
    "minutes_on_list": 95,
    "url": "https://search.bilibili.com/all?keyword=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%85%A8%E7%90%83%E7%BE%8E%E5%91%B3%E8%BD%AE%E7%95%AA%E4%BA%AE%E7%9B%B8",
    "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "全球633个“小早硬”科创项目上新，进博会这个专区增长20%",
-    "url": "https://www.yicai.com/news/103430885.html",
-    "published": "2026-11-07T19:14:21"
+    "source": "Phoenix 凤凰网",
+    "title": "双向赋能！从全球经贸到城市烟火，浦发银行深度服务进博会",
+    "url": "https://finance.ifeng.com/c/8xrmkpB5n92",
+    "published": "2026-11-07 21:53:08"
    },
    "official_line_zh": null,
    "evidence": [
@@ -61,8 +61,13 @@
    "first_missing_et": "Nov 7, 6:30 AM ET",
    "minutes_on_list": 30,
    "url": "https://www.toutiao.com/trending/7705306175198151194/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "“明天记得给我收尸”，22岁女子和已婚男子交往被原配发现，双方发生冲突3天后，女子坠楼身亡，其父母称女儿多次为该男子怀孕",
+    "url": "https://new.qq.com/rain/a/20261107A0DI0Y00",
+    "published": "2026-11-07 21:00:54"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #7 → #7 → #7 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 6:44 AM ET",
@@ -122,33 +127,6 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #33 → #33 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 11:05 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 11:49 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "美股崩了A股扛得住吗",
-   "title_en": "U.S. Stocks Have Crashed—Can A-Shares Hold Up?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 6, 7:49 AM ET",
-   "last_seen_et": "Nov 6, 9:19 AM ET",
-   "first_missing_et": "Nov 6, 9:24 AM ET",
-   "minutes_on_list": 90,
-   "url": "https://www.toutiao.com/trending/7705006215155158579/",
-   "official_line": {
-    "source": "Caixin 财新网",
-    "title": "美股大跌：有哪些原因？对A股有何影响？",
-    "url": "https://opinion.caixin.com/2026-11-07/102502276.html",
-    "published": "2026-11-07"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #7 → #7 → #7 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 9:35 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 10:26 AM ET"
    ]
   },
   {

@@ -117,8 +117,13 @@
    "last_seen_et": "Nov 7, 6:25 AM ET",
    "minutes_on_list": 30,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-07 21:00:54",
+    "source": "Tencent News 腾讯网",
+    "title": "“明天记得给我收尸”，22岁女子和已婚男子交往被原配发现，双方发生冲突3天后，女子坠楼身亡，其父母称女儿多次为该男子怀孕",
+    "url": "https://new.qq.com/rain/a/20261107A0DI0Y00"
+   },
+   "official_line_zh": null,
    "peak_rank": 4,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
