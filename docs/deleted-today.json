@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-07 14:57 ET",
+ "generated_at_et": "2026-11-07 16:08 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 6,
  "cut": {
-  "flagged": 67,
+  "flagged": 66,
   "came back once before": 2,
   "gone under 60 min": 0,
   "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
   "on the list a normal length of time": 19,
-  "inside the list's normal rotation": 6,
+  "inside the list's normal rotation": 5,
   "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 1,
   "retitled": 1,
@@ -57,10 +57,10 @@
    "minutes_on_list": 58,
    "url": "https://www.toutiao.com/trending/7704481881303187498/",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "日本推进 “书道” 申遗，高市早苗淡化其源自中国，引发日本网友质疑",
-    "url": "https://new.qq.com/rain/a/20261108V01CXF00",
-    "published": "2026-11-08 01:32:56"
+    "source": "NetEase News 网易新闻",
+    "title": "石破茂等4名议员离场拒投票 高市早苗受访时不满叹气",
+    "url": "https://www.163.com/dy/article/LB4L97KL0514R9OJ.html",
+    "published": "2026-11-07 11:40:17"
    },
    "official_line_zh": null,
    "evidence": [
