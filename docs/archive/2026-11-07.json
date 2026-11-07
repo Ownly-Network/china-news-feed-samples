@@ -1,5 +1,5 @@
 {
- "count": 3,
+ "count": 5,
  "date": "2026-11-07",
  "items": [
   {
@@ -93,6 +93,66 @@
    "title_en": "",
    "title_zh": "高市早苗辩称缺席G7不是因为醉酒",
    "url": "https://www.toutiao.com/trending/7704481881303187498/"
+  },
+  {
+   "day": "2026-11-07",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #7 → #7 → #7 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 6:44 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 7, 7:50 AM ET",
+    {
+     "published": "2026-11-07",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E5%92%8C%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%BA%A4%E5%BE%80%E8%A2%AB%E5%8E%9F%E9%85%8D%E5%8F%91%E7%8E%B0%E5%90%8E%E5%9D%A0%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D1%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E5%2592%258C%25E5%25B7%25B2%25E5%25A9%259A%25E7%2594%25B7%25E4%25BA%25A4%25E5%25BE%2580%25E8%25A2%25AB%25E5%258E%259F%25E9%2585%258D%25E5%258F%2591%25E7%258E%25B0%25E5%2590%258E%25E5%259D%25A0%25E4%25BA%25A1%2523%26band_rank%3D1%26pos%3D0%26lcate%3D5001%26display_time%3D1794045486%26pre_seqid%3D179404548633001050132&launchid=10000360-page_H5"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 7, 6:30 AM ET",
+   "first_missing_iso": "2026-11-07T06:30:00-05:00",
+   "first_seen_et": "Nov 7, 5:55 AM ET",
+   "key": "toutiao|女子和已婚男交往被原配抓包后坠亡|2026-11-07T06:30:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 7, 6:25 AM ET",
+   "minutes_on_list": 30,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 4,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-5064111442d3",
+   "title_en": "",
+   "title_zh": "女子和已婚男交往被原配抓包后坠亡",
+   "url": "https://www.toutiao.com/trending/7705306175198151194/"
+  },
+  {
+   "day": "2026-11-07",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 7:13 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:07 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 7, 7:00 AM ET",
+   "first_missing_iso": "2026-11-07T07:00:00-05:00",
+   "first_seen_et": "Nov 7, 5:40 AM ET",
+   "key": "toutiao|一非法移民来白宫行刺特朗普未遂|2026-11-07T07:00:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 7, 6:57 AM ET",
+   "minutes_on_list": 77,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 8,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-66c7f16401c7",
+   "title_en": "",
+   "title_zh": "一非法移民来白宫行刺特朗普未遂",
+   "url": "https://www.toutiao.com/trending/7704438345039888403/"
   }
  ]
 }
