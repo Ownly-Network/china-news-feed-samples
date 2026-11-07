@@ -129,8 +129,13 @@
    "last_seen_et": "Nov 6, 9:19 AM ET",
    "minutes_on_list": 90,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-07",
+    "source": "Caixin 财新网",
+    "title": "美股大跌：有哪些原因？对A股有何影响？",
+    "url": "https://opinion.caixin.com/2026-11-07/102502276.html"
+   },
+   "official_line_zh": null,
    "peak_rank": 7,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -184,10 +189,10 @@
    "minutes_on_list": 95,
    "notable": true,
    "official_line": {
-    "published": "",
-    "source": "Southern Weekly 南方周末",
-    "title": "冠军宠物食品再赴进博会 以40余年全球积淀，“加”码共赢中国宠业新未来",
-    "url": "https://www.infzm.com/contents/344320"
+    "published": "2026-11-07T19:43:03",
+    "source": "Yicai 第一财经",
+    "title": "第九届进博会：汽车及智慧出行馆展示“海陆空”立体阵容",
+    "url": "https://www.yicai.com/news/103430934.html"
    },
    "official_line_zh": null,
    "peak_rank": 3,

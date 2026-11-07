@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-07 05:48 ET",
+ "generated_at_et": "2026-11-07 08:09 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 8,
  "cut": {
-  "flagged": 71,
-  "came back once before": 3,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 26,
-  "slid down before leaving": 1,
-  "on the list a normal length of time": 15,
-  "inside the list's normal rotation": 8,
-  "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 0,
+  "flagged": 68,
+  "came back once before": 0,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 27,
+  "slid down before leaving": 0,
+  "on the list a normal length of time": 20,
+  "inside the list's normal rotation": 6,
+  "still on another hot list": 5,
+  "left with other flagged topics (batch drop)": 1,
   "retitled": 0,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 8
  },
  "items": [
   {
@@ -68,10 +68,10 @@
    "minutes_on_list": 95,
    "url": "https://search.bilibili.com/all?keyword=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%85%A8%E7%90%83%E7%BE%8E%E5%91%B3%E8%BD%AE%E7%95%AA%E4%BA%AE%E7%9B%B8",
    "official_line": {
-    "source": "Southern Weekly 南方周末",
-    "title": "冠军宠物食品再赴进博会 以40余年全球积淀，“加”码共赢中国宠业新未来",
-    "url": "https://www.infzm.com/contents/344320",
-    "published": ""
+    "source": "Yicai 第一财经",
+    "title": "第九届进博会：汽车及智慧出行馆展示“海陆空”立体阵容",
+    "url": "https://www.yicai.com/news/103430934.html",
+    "published": "2026-11-07T19:43:03"
    },
    "official_line_zh": null,
    "evidence": [
@@ -143,52 +143,17 @@
    "first_missing_et": "Nov 6, 9:24 AM ET",
    "minutes_on_list": 90,
    "url": "https://www.toutiao.com/trending/7705006215155158579/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Caixin 财新网",
+    "title": "美股大跌：有哪些原因？对A股有何影响？",
+    "url": "https://opinion.caixin.com/2026-11-07/102502276.html",
+    "published": "2026-11-07"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #7 → #7 → #7 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 9:35 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 10:26 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "“黑色星期五”席卷亚太市场",
-   "title_en": "\"Black Friday\" Sweeps Through the Asia-Pacific Market",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 6, 4:19 AM ET",
-   "last_seen_et": "Nov 6, 6:10 AM ET",
-   "first_missing_et": "Nov 6, 6:15 AM ET",
-   "minutes_on_list": 111,
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D%E5%B8%AD%E5%8D%B7%E4%BA%9A%E5%A4%AA%E5%B8%82%E5%9C%BA",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #8 → #8 → #8 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 6:26 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 7:18 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Storm Media 風傳媒",
-     "url": "https://www.storm.mg/article/11179111",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sin Chew Daily 星洲日报",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aYkk5SHpjSUJyWGZON3lfSW5GazF0RXpnU09MOHROeUpBMmg4RU9KYUlpSlFMenI0MmhiMFBXQjFaTVduOTZ0d2lya2hWczVFc3h3aFBUQkt1ODJIaVd6UVZaNVl0LWs?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sin Chew Daily 星洲日报",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kY3RkRUc0bk9nMGItVk5udndWd0ttdUdiOWtfLWJMc0c5QkF4WDdOUlVFLTBvbGYxYkNLb3pZSWthVlZ2OFY0ZThjb0JoYk5heXVLcV9BanRPMjc4VEVjd1J0X1FfZlU?oc=5",
-     "published": null
-    }
    ]
   },
   {
