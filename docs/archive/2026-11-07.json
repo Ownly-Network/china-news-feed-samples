@@ -1,5 +1,5 @@
 {
- "count": 1,
+ "count": 3,
  "date": "2026-11-07",
  "items": [
   {
@@ -34,6 +34,65 @@
    "title_en": "",
    "title_zh": "芒果文案组来了一群天才 ​",
    "url": "https://www.baidu.com/s?wd=%E8%8A%92%E6%9E%9C%E6%96%87%E6%A1%88%E7%BB%84%E6%9D%A5%E4%BA%86%E4%B8%80%E7%BE%A4%E5%A4%A9%E6%89%8D+%E2%80%8B"
+  },
+  {
+   "day": "2026-11-07",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #14 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 4:49 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 5:30 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 7, 4:15 AM ET",
+   "first_missing_iso": "2026-11-07T04:15:00-05:00",
+   "first_seen_et": "Nov 7, 2:24 AM ET",
+   "key": "baidu|曝《我们来了2027》嘉宾阵容|2026-11-07T04:15:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 7, 4:10 AM ET",
+   "minutes_on_list": 106,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 10,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-44faa7c16c1e",
+   "title_en": "",
+   "title_zh": "曝《我们来了2027》嘉宾阵容",
+   "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E3%80%8A%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%862027%E3%80%8B%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9"
+  },
+  {
+   "day": "2026-11-07",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 7, 4:49 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 7, 5:30 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 7, 4:15 AM ET",
+   "first_missing_iso": "2026-11-07T04:15:00-05:00",
+   "first_seen_et": "Nov 7, 3:13 AM ET",
+   "key": "toutiao|高市早苗辩称缺席G7不是因为醉酒|2026-11-07T04:15:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 7, 4:10 AM ET",
+   "minutes_on_list": 58,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-07 11:40:17",
+    "source": "NetEase News 网易新闻",
+    "title": "石破茂等4名议员离场拒投票 高市早苗受访时不满叹气",
+    "url": "https://www.163.com/dy/article/LB4L97KL0514R9OJ.html"
+   },
+   "official_line_zh": null,
+   "peak_rank": 4,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-413ccf54323f",
+   "title_en": "",
+   "title_zh": "高市早苗辩称缺席G7不是因为醉酒",
+   "url": "https://www.toutiao.com/trending/7704481881303187498/"
   }
  ]
 }

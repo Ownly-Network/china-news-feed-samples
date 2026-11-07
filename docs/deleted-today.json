@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-07 04:35 ET",
+ "generated_at_et": "2026-11-07 05:48 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 9,
  "cut": {
   "flagged": 71,
   "came back once before": 3,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 29,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 26,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 16,
+  "on the list a normal length of time": 15,
   "inside the list's normal rotation": 8,
-  "still on another hot list": 3,
+  "still on another hot list": 2,
   "left with other flagged topics (batch drop)": 0,
   "retitled": 0,
-  "topic still on the list": 0,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 9
  },
  "items": [
   {
@@ -78,6 +78,33 @@
     "Dropped off while hot 热度高时突然消失: peak #3, last ranks #9 → #9 → #9 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 10:35 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 11:38 PM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "高市早苗辩称缺席G7不是因为醉酒",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Nov 7, 3:13 AM ET",
+   "last_seen_et": "Nov 7, 4:10 AM ET",
+   "first_missing_et": "Nov 7, 4:15 AM ET",
+   "minutes_on_list": 58,
+   "url": "https://www.toutiao.com/trending/7704481881303187498/",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "石破茂等4名议员离场拒投票 高市早苗受访时不满叹气",
+    "url": "https://www.163.com/dy/article/LB4L97KL0514R9OJ.html",
+    "published": "2026-11-07 11:40:17"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 7, 4:49 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 7, 5:30 AM ET"
    ]
   },
   {
@@ -162,6 +189,28 @@
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kY3RkRUc0bk9nMGItVk5udndWd0ttdUdiOWtfLWJMc0c5QkF4WDdOUlVFLTBvbGYxYkNLb3pZSWthVlZ2OFY0ZThjb0JoYk5heXVLcV9BanRPMjc4VEVjd1J0X1FfZlU?oc=5",
      "published": null
     }
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "曝《我们来了2027》嘉宾阵容",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Nov 7, 2:24 AM ET",
+   "last_seen_et": "Nov 7, 4:10 AM ET",
+   "first_missing_et": "Nov 7, 4:15 AM ET",
+   "minutes_on_list": 106,
+   "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E3%80%8A%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%862027%E3%80%8B%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #14 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 4:49 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 5:30 AM ET"
    ]
   },
   {
