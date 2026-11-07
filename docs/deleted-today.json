@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-07 00:51 ET",
+ "generated_at_et": "2026-11-07 02:07 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 7,
  "cut": {
-  "flagged": 74,
+  "flagged": 73,
   "came back once before": 5,
-  "gone under 60 min": 5,
+  "gone under 60 min": 3,
   "not in the top 10 when it left": 27,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 19,
+  "on the list a normal length of time": 18,
   "inside the list's normal rotation": 7,
-  "still on another hot list": 2,
+  "still on another hot list": 4,
   "left with other flagged topics (batch drop)": 0,
   "retitled": 1,
   "topic still on the list": 0,
@@ -49,12 +49,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "G·HOT daily",
      "url": "https://ghot.ai/archive/reports/2026-11-06",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/property/us-stocks-plunge-musk-wealth-shrinks/",
      "published": null
     }
    ]
@@ -201,13 +195,8 @@
    "first_missing_et": "Nov 6, 4:34 AM ET",
    "minutes_on_list": 89,
    "url": "https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF3%E6%AD%BB2%E4%BC%A4%E5%88%91%E6%A1%88%E6%B6%89%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7",
-   "official_line": {
-    "source": "Sina News 新浪新闻",
-    "title": "从事发到自杀 陕西商南3死2伤刑案如何发生",
-    "url": "https://video.sina.com.cn/p/news/2026-11-07/detail-inixwhsh4967736.d.html",
-    "published": "2026-11-07"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 6, 4:48 AM ET",
