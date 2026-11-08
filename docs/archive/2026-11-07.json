@@ -229,13 +229,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #19 → #15 → #15 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 9:04 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 10:02 PM ET",
-    {
-     "published": null,
-     "source": "Sydney Today 今日悉尼",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.sydneytoday.com/content-1026608939184001"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 10:02 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 7, 8:53 PM ET",
