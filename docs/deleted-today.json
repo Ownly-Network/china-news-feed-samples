@@ -1,21 +1,21 @@
 {
- "generated_at_et": "2026-11-08 07:09 ET",
+ "generated_at_et": "2026-11-08 08:16 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 9,
  "cut": {
-  "flagged": 89,
+  "flagged": 95,
   "came back once before": 5,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 18,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 19,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 31,
+  "on the list a normal length of time": 36,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 4,
-  "left with other flagged topics (batch drop)": 5,
+  "still on another hot list": 6,
+  "left with other flagged topics (batch drop)": 6,
   "retitled": 4,
-  "topic still on the list": 4,
+  "topic still on the list": 5,
   "same story as a kept item": 0,
   "kept": 9
  },
@@ -79,10 +79,10 @@
    "minutes_on_list": 99,
    "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E5%B0%94%E6%9C%AC%E6%95%B0%E7%99%BE%E4%BA%BA%E7%82%B9%E7%83%9B%E5%85%89%E6%82%BC%E5%BF%B5%E9%81%87%E5%AE%B3%E4%B8%AD%E5%9B%BD%E9%AA%91%E6%89%8B",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "自行车被破坏，上前理论却一死一伤！47岁中国骑手倒在墨尔本街头",
-    "url": "https://new.qq.com/rain/a/20261108A0AS8I00",
-    "published": "2026-11-08 19:08:03"
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "一名中国公民在澳大利亚遇害 嫌疑人已被捕 新华社墨尔本11月7日电（记者熊文苑 徐海静）中国驻墨尔本总领馆7日发布情况通报说，当地时间6日晚，一名中国公民在澳大…",
+    "url": "https://t.me/xhnews/8152",
+    "published": "2026-11-07T12:50:08+00:00"
    },
    "official_line_zh": null,
    "evidence": [
