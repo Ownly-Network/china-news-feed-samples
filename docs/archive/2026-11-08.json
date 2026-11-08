@@ -87,7 +87,8 @@
    "day": "2026-11-08",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #20 → #7 → #7 → #7 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 8:33 AM ET"
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 8:33 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 9:26 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 8, 8:22 AM ET",

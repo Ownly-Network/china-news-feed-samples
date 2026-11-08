@@ -1,21 +1,21 @@
 {
- "generated_at_et": "2026-11-08 09:22 ET",
+ "generated_at_et": "2026-11-08 10:29 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 10,
  "cut": {
-  "flagged": 96,
-  "came back once before": 5,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 22,
+  "flagged": 93,
+  "came back once before": 3,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 23,
   "slid down before leaving": 0,
   "on the list a normal length of time": 34,
   "inside the list's normal rotation": 1,
   "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 6,
   "retitled": 3,
-  "topic still on the list": 5,
+  "topic still on the list": 6,
   "same story as a kept item": 0,
   "kept": 10
  },
@@ -115,7 +115,8 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #20 → #7 → #7 → #7 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 8:33 AM ET"
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 8:33 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 9:26 AM ET"
    ]
   },
   {
