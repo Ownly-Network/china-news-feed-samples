@@ -88,7 +88,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #18 → #18 → #17 → #18 → #8 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 6:17 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 7:09 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 7:09 AM ET",
+    {
+     "published": null,
+     "source": "World Journal 世界日報 (US)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.worldjournal.com/wj/story/121343/9864787"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 7, 6:05 AM ET",
@@ -142,13 +148,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 7:13 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:07 AM ET",
-    {
-     "published": null,
-     "source": "World Journal 世界日報 (US)",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.worldjournal.com/wj/story/121618/9864686"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:07 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 7, 7:00 AM ET",
@@ -178,15 +178,15 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:51 PM ET",
     {
      "published": "2026-11-08",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%23DYS%E7%9C%8BiG%E4%B8%8D%E6%95%8CGEN%23&t=31&band_rank=29&Refer=top"
-    },
-    {
-     "published": "2026-11-08",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98GEN%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D6%26filter_type%3Drealtimehot%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598GEN%2523%26dgr%3D0%26c_type%3D31%26realpos%3D6%26cate%3D5001%26display_time%3D1794097604%26pre_seqid%3D17940976047500162969241&launchid=10000360-page_H5"
+    },
+    {
+     "published": "2026-11-08",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23DYS%E7%9C%8BiG%E4%B8%8D%E6%95%8CGEN%23&t=31&band_rank=29&Refer=top"
     }
    ],
    "evidence_strength": "standard",
@@ -288,15 +288,15 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 11:04 PM ET",
     {
      "published": "2026-11-08",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%23DYS%E7%9C%8BiG%E4%B8%8D%E6%95%8CGEN%23&t=31&band_rank=29&Refer=top"
-    },
-    {
-     "published": "2026-11-08",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98GEN%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D6%26filter_type%3Drealtimehot%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598GEN%2523%26dgr%3D0%26c_type%3D31%26realpos%3D6%26cate%3D5001%26display_time%3D1794097604%26pre_seqid%3D17940976047500162969241&launchid=10000360-page_H5"
+    },
+    {
+     "published": "2026-11-08",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23DYS%E7%9C%8BiG%E4%B8%8D%E6%95%8CGEN%23&t=31&band_rank=29&Refer=top"
     }
    ],
    "evidence_strength": "standard",
@@ -324,13 +324,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 10:49 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 7, 11:41 PM ET",
-    {
-     "published": null,
-     "source": "NTD 新唐人電視台",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.ntdtv.com/b5/2026/11/08/a104148973.html"
-    }
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 7, 11:41 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 7, 10:37 PM ET",
