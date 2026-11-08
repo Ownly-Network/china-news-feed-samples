@@ -88,13 +88,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #18 → #18 → #17 → #18 → #8 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 6:17 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 7:09 AM ET",
-    {
-     "published": null,
-     "source": "World Journal 世界日報 (US)",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.worldjournal.com/wj/story/121343/9864787"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 7:09 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 7, 6:05 AM ET",
@@ -112,7 +106,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-1d77f192788d",
-   "title_en": "",
+   "title_en": "Musk Expresses His Admiration for China Once Again",
    "title_zh": "马斯克再次表白中国",
    "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%86%8D%E6%AC%A1%E8%A1%A8%E7%99%BD%E4%B8%AD%E5%9B%BD"
   },
@@ -166,7 +160,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-66c7f16401c7",
-   "title_en": "",
+   "title_en": "An illegal immigrant attempted to assassinate Trump at the White House but failed",
    "title_zh": "一非法移民来白宫行刺特朗普未遂",
    "url": "https://www.toutiao.com/trending/7704438345039888403/"
   },
@@ -205,7 +199,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-75737044922f",
-   "title_en": "",
+   "title_en": "S16 Semifinals: iG vs. GEN",
    "title_zh": "S16半决赛：iG对战GEN",
    "url": "https://www.baidu.com/s?wd=S16%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9AiG%E5%AF%B9%E6%88%98GEN"
   },
@@ -232,7 +226,7 @@
    "platform": "zhihu",
    "platform_name": "Zhihu 知乎",
    "slug": "zhihu-d84b5d0d7011",
-   "title_en": "",
+   "title_en": "How far would the Moon have to be from the Sun for it to become one of the Sun's planets?",
    "title_zh": "地月距离达到多大，月球可以变成太阳的一颗行星？",
    "url": "https://www.zhihu.com/question/978464108"
   },
@@ -315,7 +309,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-de34265bfd81",
-   "title_en": "",
+   "title_en": "iG Lost 0-3 to GEN, Failing to Advance to the S16 Finals",
    "title_zh": "iG0比3不敌GEN 无缘S16决赛",
    "url": "https://www.baidu.com/s?wd=iG0%E6%AF%943%E4%B8%8D%E6%95%8CGEN+%E6%97%A0%E7%BC%98S16%E5%86%B3%E8%B5%9B"
   },
@@ -342,7 +336,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-f52ad43d1592",
-   "title_en": "",
+   "title_en": "Supermarket Gives Mbappé's Endorsed Drink a \"Red Card\" to Clear Inventory",
    "title_zh": "超市给姆巴佩代言饮料贴红牌清库存",
    "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E7%BB%99%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BB%A3%E8%A8%80%E9%A5%AE%E6%96%99%E8%B4%B4%E7%BA%A2%E7%89%8C%E6%B8%85%E5%BA%93%E5%AD%98"
   },
@@ -369,7 +363,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-faa2f92c9ef6",
-   "title_en": "",
+   "title_en": "Rookie was stunned after IG was swept by GEN",
    "title_zh": "IG被GEN横扫后Rookie人傻了",
    "url": "https://www.baidu.com/s?wd=IG%E8%A2%ABGEN%E6%A8%AA%E6%89%AB%E5%90%8ERookie%E4%BA%BA%E5%82%BB%E4%BA%86"
   }
