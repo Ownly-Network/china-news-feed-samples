@@ -1,5 +1,5 @@
 {
- "count": 7,
+ "count": 9,
  "date": "2026-11-07",
  "items": [
   {
@@ -174,6 +174,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 7:57 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:51 PM ET",
     {
      "published": "2026-11-08",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
@@ -197,8 +198,13 @@
    "last_seen_et": "Nov 7, 7:40 PM ET",
    "minutes_on_list": 93,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-08 09:02:31",
+    "source": "Tencent News 腾讯网",
+    "title": "S16半决赛：一路逆袭终折戟，iG 0-3不敌GEN止步S16四强！",
+    "url": "https://new.qq.com/rain/a/20261108A042K700"
+   },
+   "official_line_zh": null,
    "peak_rank": 10,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -206,6 +212,76 @@
    "title_en": "",
    "title_zh": "S16半决赛：iG对战GEN",
    "url": "https://www.baidu.com/s?wd=S16%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9AiG%E5%AF%B9%E6%88%98GEN"
+  },
+  {
+   "day": "2026-11-07",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 7, 8:26 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 7, 9:16 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 7, 8:12 PM ET",
+   "first_missing_iso": "2026-11-07T20:12:00-05:00",
+   "first_seen_et": "Nov 7, 7:04 PM ET",
+   "key": "zhihu|地月距离达到多大，月球可以变成太阳的一颗行星？|2026-11-07T20:12:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 7, 8:06 PM ET",
+   "minutes_on_list": 62,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 6,
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "slug": "zhihu-d84b5d0d7011",
+   "title_en": "",
+   "title_zh": "地月距离达到多大，月球可以变成太阳的一颗行星？",
+   "url": "https://www.zhihu.com/question/978464108"
+  },
+  {
+   "day": "2026-11-07",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #19 → #15 → #15 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 9:04 PM ET",
+    {
+     "published": null,
+     "source": "Sydney Today 今日悉尼",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.sydneytoday.com/content-1026608939184001"
+    },
+    {
+     "published": null,
+     "source": "Sydney Today 今日悉尼",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.sydneytoday.com/content-1026609129449003"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 7, 8:53 PM ET",
+   "first_missing_iso": "2026-11-07T20:53:00-05:00",
+   "first_seen_et": "Nov 7, 7:09 PM ET",
+   "key": "baidu|墨尔本数百人点烛光悼念遇害中国骑手|2026-11-07T20:53:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 7, 8:48 PM ET",
+   "minutes_on_list": 99,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-07T12:50:08+00:00",
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "一名中国公民在澳大利亚遇害 嫌疑人已被捕 新华社墨尔本11月7日电（记者熊文苑 徐海静）中国驻墨尔本总领馆7日发布情况通报说，当地时间6日晚，一名中国公民在澳大…",
+    "url": "https://t.me/xhnews/8152"
+   },
+   "official_line_zh": null,
+   "peak_rank": 4,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-3b14b9e3d59c",
+   "title_en": "",
+   "title_zh": "墨尔本数百人点烛光悼念遇害中国骑手",
+   "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E5%B0%94%E6%9C%AC%E6%95%B0%E7%99%BE%E4%BA%BA%E7%82%B9%E7%83%9B%E5%85%89%E6%82%BC%E5%BF%B5%E9%81%87%E5%AE%B3%E4%B8%AD%E5%9B%BD%E9%AA%91%E6%89%8B"
   }
  ]
 }
