@@ -1,5 +1,5 @@
 {
- "count": 1,
+ "count": 3,
  "date": "2026-11-08",
  "items": [
   {
@@ -28,6 +28,60 @@
    "title_en": "A Guide to Eating and Shopping at the China International Import Expo",
    "title_zh": "进博会逛吃指南",
    "url": "https://search.bilibili.com/all?keyword=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E9%80%9B%E5%90%83%E6%8C%87%E5%8D%97"
+  },
+  {
+   "day": "2026-11-08",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #8 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 4:21 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 8, 5:15 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 8, 4:05 AM ET",
+   "first_missing_iso": "2026-11-08T04:05:00-05:00",
+   "first_seen_et": "Nov 8, 3:02 AM ET",
+   "key": "toutiao|11元拍下鹤岗60多平房子买家发声|2026-11-08T04:05:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 8, 4:02 AM ET",
+   "minutes_on_list": 61,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 5,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-b7eb6dc63659",
+   "title_en": "",
+   "title_zh": "11元拍下鹤岗60多平房子买家发声",
+   "url": "https://www.toutiao.com/trending/7704999429320736811/"
+  },
+  {
+   "day": "2026-11-08",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #6 → #4 → #4 → #4 → #4 → #6",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 8, 5:59 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 6:45 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 8, 5:30 AM ET",
+   "first_missing_iso": "2026-11-08T05:30:00-05:00",
+   "first_seen_et": "Nov 8, 4:41 AM ET",
+   "key": "toutiao|蓉城众将瘫倒在地 门将面无表情|2026-11-08T05:30:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 8, 5:27 AM ET",
+   "minutes_on_list": 46,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 4,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-ba57477fb92d",
+   "title_en": "",
+   "title_zh": "蓉城众将瘫倒在地 门将面无表情",
+   "url": "https://www.toutiao.com/trending/7705256250326040586/"
   }
  ]
 }
