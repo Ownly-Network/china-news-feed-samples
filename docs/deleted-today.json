@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-08 13:51 ET",
+ "generated_at_et": "2026-11-08 16:01 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -154,13 +154,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #7 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 10:29 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 11:04 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98GEN%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D6%26filter_type%3Drealtimehot%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598GEN%2523%26dgr%3D0%26c_type%3D31%26realpos%3D6%26cate%3D5001%26display_time%3D1794097604%26pre_seqid%3D17940976047500162969241&launchid=10000360-page_H5",
-     "published": "2026-11-08"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 11:04 PM ET"
    ]
   },
   {
@@ -248,13 +242,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 7:57 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:51 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98GEN%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D6%26filter_type%3Drealtimehot%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598GEN%2523%26dgr%3D0%26c_type%3D31%26realpos%3D6%26cate%3D5001%26display_time%3D1794097604%26pre_seqid%3D17940976047500162969241&launchid=10000360-page_H5",
-     "published": "2026-11-08"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:51 PM ET"
    ]
   }
  ]
