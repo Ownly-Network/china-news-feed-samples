@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-07 23:08 ET",
+ "generated_at_et": "2026-11-08 01:20 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 11,
  "cut": {
   "flagged": 81,
-  "came back once before": 3,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 28,
+  "came back once before": 4,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 23,
-  "inside the list's normal rotation": 2,
-  "still on another hot list": 3,
+  "on the list a normal length of time": 26,
+  "inside the list's normal rotation": 1,
+  "still on another hot list": 4,
   "left with other flagged topics (batch drop)": 4,
   "retitled": 3,
-  "topic still on the list": 1,
+  "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 10
+  "kept": 11
  },
  "items": [
   {
@@ -35,10 +35,10 @@
    "minutes_on_list": 99,
    "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E5%B0%94%E6%9C%AC%E6%95%B0%E7%99%BE%E4%BA%BA%E7%82%B9%E7%83%9B%E5%85%89%E6%82%BC%E5%BF%B5%E9%81%87%E5%AE%B3%E4%B8%AD%E5%9B%BD%E9%AA%91%E6%89%8B",
    "official_line": {
-    "source": "Telegram: 新华社 (@XHNews)",
-    "title": "一名中国公民在澳大利亚遇害 嫌疑人已被捕 新华社墨尔本11月7日电（记者熊文苑 徐海静）中国驻墨尔本总领馆7日发布情况通报说，当地时间6日晚，一名中国公民在澳大…",
-    "url": "https://t.me/xhnews/8152",
-    "published": "2026-11-07T12:50:08+00:00"
+    "source": "Tencent News 腾讯网",
+    "title": "墨尔本一名华裔外卖骑手遇害，据述其在当地务工九年拟近期回国团聚",
+    "url": "https://new.qq.com/rain/a/20261108A06O3500",
+    "published": "2026-11-08 13:30:00"
    },
    "official_line_zh": null,
    "evidence": [
@@ -55,30 +55,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Sydney Today 今日悉尼",
      "url": "https://www.sydneytoday.com/content-1026609129449003",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/11/08/a104148966.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sydney Today 今日悉尼",
-     "url": "https://www.sydneytoday.com/content-1026608869504003",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/food-delivery-rider-dead-stabbing-in-melbourne/",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/delivery-driver-killed-in-horror-stabbing/",
      "published": null
     }
    ]
@@ -141,13 +117,8 @@
    "first_missing_et": "Nov 7, 4:15 AM ET",
    "minutes_on_list": 58,
    "url": "https://www.toutiao.com/trending/7704481881303187498/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "高市早苗已经按捺不住，今年年底就要向核武器敞开大门",
-    "url": "https://new.qq.com/rain/a/20261107A0DH1D00",
-    "published": "2026-11-08 10:00:01"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 7, 4:49 AM ET",
@@ -176,14 +147,14 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 11:04 PM ET",
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98GEN%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D6%26filter_type%3Drealtimehot%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598GEN%2523%26dgr%3D0%26c_type%3D31%26realpos%3D6%26cate%3D5001%26display_time%3D1794097604%26pre_seqid%3D17940976047500162969241&launchid=10000360-page_H5",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23DYS%E7%9C%8BiG%E4%B8%8D%E6%95%8CGEN%23&t=31&band_rank=29&Refer=top",
      "published": "2026-11-08"
     },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23iG%E5%AF%B9%E6%88%98GEN%23&t=31&band_rank=1&Refer=top",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98GEN%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D6%26filter_type%3Drealtimehot%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598GEN%2523%26dgr%3D0%26c_type%3D31%26realpos%3D6%26cate%3D5001%26display_time%3D1794097604%26pre_seqid%3D17940976047500162969241&launchid=10000360-page_H5",
      "published": "2026-11-08"
     }
    ]
@@ -211,6 +182,34 @@
    ]
   },
   {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "超市给姆巴佩代言饮料贴红牌清库存",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 8,
+   "first_seen_et": "Nov 7, 9:40 PM ET",
+   "last_seen_et": "Nov 7, 10:30 PM ET",
+   "first_missing_et": "Nov 7, 10:37 PM ET",
+   "minutes_on_list": 50,
+   "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E7%BB%99%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BB%A3%E8%A8%80%E9%A5%AE%E6%96%99%E8%B4%B4%E7%BA%A2%E7%89%8C%E6%B8%85%E5%BA%93%E5%AD%98",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 10:49 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 7, 11:41 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NTD 新唐人電視台",
+     "url": "https://www.ntdtv.com/b5/2026/11/08/a104148973.html",
+     "published": null
+    }
+   ]
+  },
+  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "一非法移民来白宫行刺特朗普未遂",
@@ -229,7 +228,35 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 7:13 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:07 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:07 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "World Journal 世界日報 (US)",
+     "url": "https://www.worldjournal.com/wj/story/121618/9864686",
+     "published": null
+    }
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "IG被GEN横扫后Rookie人傻了",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Nov 7, 10:08 PM ET",
+   "last_seen_et": "Nov 7, 11:05 PM ET",
+   "first_missing_et": "Nov 7, 11:08 PM ET",
+   "minutes_on_list": 57,
+   "url": "https://www.baidu.com/s?wd=IG%E8%A2%ABGEN%E6%A8%AA%E6%89%AB%E5%90%8ERookie%E4%BA%BA%E5%82%BB%E4%BA%86",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 7, 11:19 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 12:10 AM ET"
    ]
   },
   {
@@ -254,14 +281,14 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 8:51 PM ET",
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98GEN%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D6%26filter_type%3Drealtimehot%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598GEN%2523%26dgr%3D0%26c_type%3D31%26realpos%3D6%26cate%3D5001%26display_time%3D1794097604%26pre_seqid%3D17940976047500162969241&launchid=10000360-page_H5",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23DYS%E7%9C%8BiG%E4%B8%8D%E6%95%8CGEN%23&t=31&band_rank=29&Refer=top",
      "published": "2026-11-08"
     },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23iG%E5%AF%B9%E6%88%98GEN%23&t=31&band_rank=1&Refer=top",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98GEN%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D6%26filter_type%3Drealtimehot%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598GEN%2523%26dgr%3D0%26c_type%3D31%26realpos%3D6%26cate%3D5001%26display_time%3D1794097604%26pre_seqid%3D17940976047500162969241&launchid=10000360-page_H5",
      "published": "2026-11-08"
     }
    ]
@@ -286,28 +313,6 @@
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #14 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 4:49 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 5:30 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "芒果文案组来了一群天才 ​",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 10,
-   "first_seen_et": "Nov 6, 11:13 PM ET",
-   "last_seen_et": "Nov 7, 12:25 AM ET",
-   "first_missing_et": "Nov 7, 12:27 AM ET",
-   "minutes_on_list": 73,
-   "url": "https://www.baidu.com/s?wd=%E8%8A%92%E6%9E%9C%E6%96%87%E6%A1%88%E7%BB%84%E6%9D%A5%E4%BA%86%E4%B8%80%E7%BE%A4%E5%A4%A9%E6%89%8D+%E2%80%8B",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 12:38 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 1:34 AM ET"
    ]
   }
  ]
