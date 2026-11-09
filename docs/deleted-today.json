@@ -1,22 +1,22 @@
 {
- "generated_at_et": "2026-11-09 06:47 ET",
+ "generated_at_et": "2026-11-09 07:51 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 4,
  "cut": {
-  "flagged": 73,
+  "flagged": 83,
   "came back once before": 4,
-  "gone under 60 min": 2,
+  "gone under 60 min": 7,
   "not in the top 10 when it left": 27,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 17,
+  "on the list a normal length of time": 22,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 7,
+  "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 3,
   "retitled": 4,
   "topic still on the list": 3,
-  "same story as a kept item": 0,
+  "same story as a kept item": 1,
   "kept": 4
  },
  "items": [
@@ -60,6 +60,28 @@
    ]
   },
   {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "特朗普：如果没我以色列早就不复存在",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 9, 4:53 AM ET",
+   "last_seen_et": "Nov 9, 5:48 AM ET",
+   "first_missing_et": "Nov 9, 5:55 AM ET",
+   "minutes_on_list": 55,
+   "url": "https://www.toutiao.com/trending/7706090212811801139/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #15 → #13 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 9, 6:21 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 7:03 AM ET"
+   ]
+  },
+  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "山东的雨成都的泪",
@@ -79,28 +101,6 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #20 → #7 → #7 → #7 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 8:33 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 9:26 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "特朗普邀UFC总裁任新闻秘书是乌龙吗",
-   "title_en": "Is Trump's Invitation to the UFC President to Serve as Press Secretary a Mix-Up?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 8, 8:30 PM ET",
-   "last_seen_et": "Nov 8, 9:40 PM ET",
-   "first_missing_et": "Nov 8, 9:46 PM ET",
-   "minutes_on_list": 70,
-   "url": "https://www.toutiao.com/trending/7705954970561941043/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #7 → #10 → #14 → #10 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:02 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:49 PM ET"
    ]
   },
   {
