@@ -1,5 +1,5 @@
 {
- "count": 4,
+ "count": 5,
  "date": "2026-11-08",
  "items": [
   {
@@ -52,7 +52,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-b7eb6dc63659",
-   "title_en": "",
+   "title_en": "Buyer Who Bought a 60-Plus-Square-Meter Home in Hegang for 11 Yuan Speaks Out",
    "title_zh": "11元拍下鹤岗60多平房子买家发声",
    "url": "https://www.toutiao.com/trending/7704999429320736811/"
   },
@@ -79,7 +79,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-ba57477fb92d",
-   "title_en": "",
+   "title_en": "The Chengdu players collapsed to the ground; the goalkeeper remained expressionless.",
    "title_zh": "蓉城众将瘫倒在地 门将面无表情",
    "url": "https://www.toutiao.com/trending/7705256250326040586/"
   },
@@ -106,9 +106,47 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-9b9f8e5eaeaf",
-   "title_en": "",
+   "title_en": "Rain in Shandong, Tears in Chengdu",
    "title_zh": "山东的雨成都的泪",
    "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%9A%84%E9%9B%A8%E6%88%90%E9%83%BD%E7%9A%84%E6%B3%AA"
+  },
+  {
+   "day": "2026-11-08",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 11:22 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 12:13 PM ET",
+    {
+     "published": "2026-11-09",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%AA%E5%8E%9F%E7%81%AB%E7%81%BE%E9%80%81%E5%8C%BB%E9%99%A2%E6%95%91%E6%B2%BB38%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26band_rank%3D10%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25A4%25AA%25E5%258E%259F%25E7%2581%25AB%25E7%2581%25BE%25E9%2580%2581%25E5%258C%25BB%25E9%2599%25A2%25E6%2595%2591%25E6%25B2%25BB38%25E4%25BA%25BA%2523%26c_type%3D31%26cate%3D5001%26pos%3D11%26stream_entry_id%3D31%26dgr%3D0%26flag%3D0%26lcate%3D5001%26display_time%3D1794166553%26pre_seqid%3D1794166553397059887881&launchid=10000360-page_H5"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 8, 11:10 AM ET",
+   "first_missing_iso": "2026-11-08T11:10:00-05:00",
+   "first_seen_et": "Nov 8, 10:00 AM ET",
+   "key": "toutiao|太原一建筑发生火灾致5人死亡|2026-11-08T11:10:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 8, 11:06 AM ET",
+   "minutes_on_list": 67,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-09 08:29:05",
+    "source": "Tencent News 腾讯网",
+    "title": "太原公寓火灾，男子带6人翻窗避险：酒店烟感未报警，入住时留意逃生路线",
+    "url": "https://new.qq.com/rain/a/20261109A03LFQ00"
+   },
+   "official_line_zh": null,
+   "peak_rank": 5,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-d9db9314c74b",
+   "title_en": "Fire at a Building in Taiyuan Kills 5 People",
+   "title_zh": "太原一建筑发生火灾致5人死亡",
+   "url": "https://www.toutiao.com/trending/7705810808537615923/"
   }
  ]
 }
