@@ -1,5 +1,5 @@
 {
- "count": 6,
+ "count": 7,
  "date": "2026-11-08",
  "items": [
   {
@@ -34,7 +34,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #8 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 4:21 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 8, 5:15 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 8, 5:15 AM ET",
+    {
+     "published": "2026-11-09T06:10:45Z",
+     "source": "China Digital Times 中国数字时代",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://chinadigitaltimes.net/chinese/733727.html"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 8, 4:05 AM ET",
@@ -153,13 +159,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #7 → #10 → #14 → #10 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:02 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:49 PM ET",
-    {
-     "published": null,
-     "source": "Guang Ming Daily 光明日报 (MY)",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://guangming.com.my/%e9%82%80ufc%e6%80%bb%e8%a3%81%e4%bb%bb%e6%96%b0%e9%97%bb%e7%a7%98%e4%b9%a6-%e7%89%b9%e6%9c%97%e6%99%ae-%e5%8f%aa%e6%98%af%e7%8e%a9%e7%ac%91"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:49 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 8, 9:46 PM ET",
@@ -180,6 +180,33 @@
    "title_en": "Is Trump's Invitation to the UFC President to Serve as Press Secretary a Mix-Up?",
    "title_zh": "特朗普邀UFC总裁任新闻秘书是乌龙吗",
    "url": "https://www.toutiao.com/trending/7705954970561941043/"
+  },
+  {
+   "day": "2026-11-08",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 11:56 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 12:51 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 8, 11:44 PM ET",
+   "first_missing_iso": "2026-11-08T23:44:00-05:00",
+   "first_seen_et": "Nov 8, 10:10 PM ET",
+   "key": "baidu|多兰 LPL的好兄弟|2026-11-08T23:44:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 8, 11:40 PM ET",
+   "minutes_on_list": 90,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 9,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-c9f9a6235be2",
+   "title_en": "",
+   "title_zh": "多兰 LPL的好兄弟",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%85%B0+LPL%E7%9A%84%E5%A5%BD%E5%85%84%E5%BC%9F"
   }
  ]
 }

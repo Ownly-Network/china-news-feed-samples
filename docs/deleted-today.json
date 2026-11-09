@@ -1,47 +1,25 @@
 {
- "generated_at_et": "2026-11-08 23:54 ET",
+ "generated_at_et": "2026-11-09 02:13 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 5,
  "cut": {
-  "flagged": 87,
-  "came back once before": 4,
+  "flagged": 86,
+  "came back once before": 3,
   "gone under 60 min": 4,
-  "not in the top 10 when it left": 24,
+  "not in the top 10 when it left": 23,
   "slid down before leaving": 2,
   "on the list a normal length of time": 25,
   "inside the list's normal rotation": 1,
   "still on another hot list": 8,
-  "left with other flagged topics (batch drop)": 7,
-  "retitled": 2,
+  "left with other flagged topics (batch drop)": 6,
+  "retitled": 4,
   "topic still on the list": 5,
   "same story as a kept item": 0,
   "kept": 5
  },
  "items": [
-  {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "进博会逛吃指南",
-   "title_en": "A Guide to Eating and Shopping at the China International Import Expo",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 7, 11:15 PM ET",
-   "last_seen_et": "Nov 8, 12:44 AM ET",
-   "first_missing_et": "Nov 8, 12:48 AM ET",
-   "minutes_on_list": 89,
-   "url": "https://search.bilibili.com/all?keyword=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E9%80%9B%E5%90%83%E6%8C%87%E5%8D%97",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #6 → #3 → #3 → #2 → #3 → #3",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 1:05 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 2:04 AM ET"
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -105,7 +83,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #8 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 4:21 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 8, 5:15 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 8, 5:15 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "China Digital Times 中国数字时代",
+     "url": "https://chinadigitaltimes.net/chinese/733727.html",
+     "published": "2026-11-09T06:10:45Z"
+    }
    ]
   },
   {
@@ -127,13 +111,29 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #7 → #10 → #14 → #10 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:02 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:49 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Guang Ming Daily 光明日报 (MY)",
-     "url": "https://guangming.com.my/%e9%82%80ufc%e6%80%bb%e8%a3%81%e4%bb%bb%e6%96%b0%e9%97%bb%e7%a7%98%e4%b9%a6-%e7%89%b9%e6%9c%97%e6%99%ae-%e5%8f%aa%e6%98%af%e7%8e%a9%e7%ac%91",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:49 PM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "多兰 LPL的好兄弟",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Nov 8, 10:10 PM ET",
+   "last_seen_et": "Nov 8, 11:40 PM ET",
+   "first_missing_et": "Nov 8, 11:44 PM ET",
+   "minutes_on_list": 90,
+   "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%85%B0+LPL%E7%9A%84%E5%A5%BD%E5%85%84%E5%BC%9F",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 11:56 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 12:51 AM ET"
    ]
   }
  ]
