@@ -164,6 +164,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 8:11 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:01 AM ET",
     {
      "published": "2026-11-09",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",

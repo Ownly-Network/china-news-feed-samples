@@ -1,20 +1,20 @@
 {
- "generated_at_et": "2026-11-09 08:58 ET",
+ "generated_at_et": "2026-11-09 10:03 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 7,
  "cut": {
-  "flagged": 87,
-  "came back once before": 6,
-  "gone under 60 min": 5,
+  "flagged": 93,
+  "came back once before": 5,
+  "gone under 60 min": 9,
   "not in the top 10 when it left": 26,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 25,
+  "on the list a normal length of time": 24,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 4,
-  "retitled": 4,
+  "still on another hot list": 7,
+  "left with other flagged topics (batch drop)": 5,
+  "retitled": 5,
   "topic still on the list": 2,
   "same story as a kept item": 1,
   "kept": 7
@@ -122,6 +122,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 8:11 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:01 AM ET",
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
