@@ -1,5 +1,5 @@
 {
- "count": 5,
+ "count": 6,
  "date": "2026-11-08",
  "items": [
   {
@@ -147,6 +147,39 @@
    "title_en": "Fire at a Building in Taiyuan Kills 5 People",
    "title_zh": "太原一建筑发生火灾致5人死亡",
    "url": "https://www.toutiao.com/trending/7705810808537615923/"
+  },
+  {
+   "day": "2026-11-08",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #7 → #10 → #14 → #10 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:02 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:49 PM ET",
+    {
+     "published": null,
+     "source": "Sing Tao Daily USA 星島日報 (美國)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.singtaousa.com/2026/11/08/news/usa/trump-says-he-was-just-kidding-about-making-ufcs-dana-white-his-press-secretary/"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 8, 9:46 PM ET",
+   "first_missing_iso": "2026-11-08T21:46:00-05:00",
+   "first_seen_et": "Nov 8, 8:30 PM ET",
+   "key": "toutiao|特朗普邀UFC总裁任新闻秘书是乌龙吗|2026-11-08T21:46:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 8, 9:40 PM ET",
+   "minutes_on_list": 70,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-ed56091e4281",
+   "title_en": "Is Trump's Invitation to the UFC President to Serve as Press Secretary a Mix-Up?",
+   "title_zh": "特朗普邀UFC总裁任新闻秘书是乌龙吗",
+   "url": "https://www.toutiao.com/trending/7705954970561941043/"
   }
  ]
 }
