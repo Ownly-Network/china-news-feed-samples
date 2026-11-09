@@ -1,5 +1,5 @@
 {
- "count": 2,
+ "count": 6,
  "date": "2026-11-09",
  "items": [
   {
@@ -72,6 +72,124 @@
    "title_en": "",
    "title_zh": "特朗普：如果没我以色列早就不复存在",
    "url": "https://www.toutiao.com/trending/7706090212811801139/"
+  },
+  {
+   "day": "2026-11-09",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #31 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 7:29 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 8:11 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 9, 7:05 AM ET",
+   "first_missing_iso": "2026-11-09T07:05:00-05:00",
+   "first_seen_et": "Nov 9, 6:07 AM ET",
+   "key": "baidu|“古早监控”走红 该怕AI玩梗吗|2026-11-09T07:05:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 9, 7:01 AM ET",
+   "minutes_on_list": 54,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-09T10:24:51Z",
+    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
+    "title": "“古早监控”走红，我们该怕AI玩梗吗？",
+    "url": "https://www.peopleapp.com/column/30053525628-500007778762"
+   },
+   "official_line_zh": null,
+   "peak_rank": 7,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-3d2b91d47186",
+   "title_en": "",
+   "title_zh": "“古早监控”走红 该怕AI玩梗吗",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A4%E6%97%A9%E7%9B%91%E6%8E%A7%E2%80%9D%E8%B5%B0%E7%BA%A2+%E8%AF%A5%E6%80%95AI%E7%8E%A9%E6%A2%97%E5%90%97"
+  },
+  {
+   "day": "2026-11-09",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #3 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 7:29 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 8:18 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 9, 7:14 AM ET",
+   "first_missing_iso": "2026-11-09T07:14:00-05:00",
+   "first_seen_et": "Nov 9, 6:35 AM ET",
+   "key": "bilibili|功在千秋能抵消罪在当代吗|2026-11-09T07:14:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 9, 7:07 AM ET",
+   "minutes_on_list": 32,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 2,
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "slug": "bilibili-cd983b98ec9c",
+   "title_en": "",
+   "title_zh": "功在千秋能抵消罪在当代吗",
+   "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%9C%A8%E5%8D%83%E7%A7%8B%E8%83%BD%E6%8A%B5%E6%B6%88%E7%BD%AA%E5%9C%A8%E5%BD%93%E4%BB%A3%E5%90%97"
+  },
+  {
+   "day": "2026-11-09",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #5 → #5 → #9 → #5 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 7:47 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 8:40 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 9, 7:35 AM ET",
+   "first_missing_iso": "2026-11-09T07:35:00-05:00",
+   "first_seen_et": "Nov 9, 6:47 AM ET",
+   "key": "bilibili|草莓植物工厂能种上月球吗|2026-11-09T07:35:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 9, 7:30 AM ET",
+   "minutes_on_list": 43,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 2,
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "slug": "bilibili-9aa04b268b78",
+   "title_en": "",
+   "title_zh": "草莓植物工厂能种上月球吗",
+   "url": "https://search.bilibili.com/all?keyword=%E8%8D%89%E8%8E%93%E6%A4%8D%E7%89%A9%E5%B7%A5%E5%8E%82%E8%83%BD%E7%A7%8D%E4%B8%8A%E6%9C%88%E7%90%83%E5%90%97"
+  },
+  {
+   "day": "2026-11-09",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 8:11 AM ET",
+    {
+     "published": "2026-11-09",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%9D%9B%E5%9F%8B%E5%B0%B8%E6%A1%88%E6%AD%BB%E8%80%85%E5%84%BF%E5%AD%90%E7%A7%B0%E4%BA%BA%E7%94%9F%E8%A2%AB%E6%AF%81%E6%8E%89%23&t=31&band_rank=12&Refer=top"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 9, 7:57 AM ET",
+   "first_missing_iso": "2026-11-09T07:57:00-05:00",
+   "first_seen_et": "Nov 9, 6:22 AM ET",
+   "key": "baidu|露宿桥洞时不知抬头就是埋尸妈妈花坛|2026-11-09T07:57:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 9, 7:52 AM ET",
+   "minutes_on_list": 90,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 5,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-41d025e13951",
+   "title_en": "",
+   "title_zh": "露宿桥洞时不知抬头就是埋尸妈妈花坛",
+   "url": "https://www.baidu.com/s?wd=%E9%9C%B2%E5%AE%BF%E6%A1%A5%E6%B4%9E%E6%97%B6%E4%B8%8D%E7%9F%A5%E6%8A%AC%E5%A4%B4%E5%B0%B1%E6%98%AF%E5%9F%8B%E5%B0%B8%E5%A6%88%E5%A6%88%E8%8A%B1%E5%9D%9B"
   }
  ]
 }
