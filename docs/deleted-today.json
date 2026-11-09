@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-08 22:51 ET",
+ "generated_at_et": "2026-11-08 23:54 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 5,
  "cut": {
   "flagged": 87,
-  "came back once before": 5,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 22,
+  "came back once before": 4,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 26,
+  "on the list a normal length of time": 25,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 8,
+  "still on another hot list": 8,
+  "left with other flagged topics (batch drop)": 7,
   "retitled": 2,
-  "topic still on the list": 6,
+  "topic still on the list": 5,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 5
  },
  "items": [
   {
@@ -130,32 +130,10 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 10:49 PM ET",
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
-     "url": "https://www.singtaousa.com/2026/11/08/news/usa/trump-says-he-was-just-kidding-about-making-ufcs-dana-white-his-press-secretary/",
+     "source": "Guang Ming Daily 光明日报 (MY)",
+     "url": "https://guangming.com.my/%e9%82%80ufc%e6%80%bb%e8%a3%81%e4%bb%bb%e6%96%b0%e9%97%bb%e7%a7%98%e4%b9%a6-%e7%89%b9%e6%9c%97%e6%99%ae-%e5%8f%aa%e6%98%af%e7%8e%a9%e7%ac%91",
      "published": null
     }
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "IG被GEN横扫后Rookie人傻了",
-   "title_en": "Rookie was stunned after IG was swept by GEN",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 10,
-   "first_seen_et": "Nov 7, 10:08 PM ET",
-   "last_seen_et": "Nov 7, 11:05 PM ET",
-   "first_missing_et": "Nov 7, 11:08 PM ET",
-   "minutes_on_list": 57,
-   "url": "https://www.baidu.com/s?wd=IG%E8%A2%ABGEN%E6%A8%AA%E6%89%AB%E5%90%8ERookie%E4%BA%BA%E5%82%BB%E4%BA%86",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 7, 11:19 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 8, 12:10 AM ET"
    ]
   }
  ]
