@@ -223,7 +223,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #19 → #15 → #15 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 9:04 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 10:02 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 7, 10:02 PM ET",
+    {
+     "published": null,
+     "source": "Sydney Today 今日悉尼",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.sydneytoday.com/content-1026608939184001"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 7, 8:53 PM ET",
@@ -236,10 +242,10 @@
    "minutes_on_list": 99,
    "notable": false,
    "official_line": {
-    "published": "2026-11-07T12:50:08+00:00",
-    "source": "Telegram: 新华社 (@XHNews)",
-    "title": "一名中国公民在澳大利亚遇害 嫌疑人已被捕 新华社墨尔本11月7日电（记者熊文苑 徐海静）中国驻墨尔本总领馆7日发布情况通报说，当地时间6日晚，一名中国公民在澳大…",
-    "url": "https://t.me/xhnews/8152"
+    "published": "2026-11-08T06:02:27+00:00",
+    "source": "YouTube: 中国新闻社 China News Service",
+    "title": "中国驻墨尔本总领馆：严惩凶手！中国外卖员在墨尔本遇害 在墨华人举行悼念集会（来源 大象新闻）",
+    "url": "https://www.youtube.com/shorts/PplAw7sIbQY"
    },
    "official_line_zh": null,
    "peak_rank": 4,
