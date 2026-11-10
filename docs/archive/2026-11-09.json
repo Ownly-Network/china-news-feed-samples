@@ -164,13 +164,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 8:11 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:01 AM ET",
-    {
-     "published": "2026-11-10",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%9D%9B%E5%9F%8B%E5%B0%B8%E6%A1%88%E5%A5%B3%E5%AD%90%E6%9B%BE%E6%AF%8F%E5%B9%B4%E7%BB%99%E5%84%BF%E5%AD%90%E7%BB%87%E6%AF%9B%E8%A1%A3%23&t=31&band_rank=9&Refer=top"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:01 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 9, 7:57 AM ET",
@@ -209,8 +203,13 @@
    "last_seen_et": "Nov 9, 8:20 PM ET",
    "minutes_on_list": 39,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-10 11:06:05",
+    "source": "Tencent News 腾讯网",
+    "title": "西安警方深夜通报，47岁男子因拆迁赔偿不满开挖掘机破坏政务中心大楼",
+    "url": "https://new.qq.com/rain/a/20261110A05XZQ00"
+   },
+   "official_line_zh": null,
    "peak_rank": 10,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
