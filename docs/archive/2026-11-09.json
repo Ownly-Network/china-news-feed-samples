@@ -191,13 +191,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 9, 8:40 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:32 PM ET",
-    {
-     "published": null,
-     "source": "on.cc 東網",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261110/bkn-20261110131157582-1110_00822_001.html"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:32 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 9, 8:26 PM ET",
