@@ -193,6 +193,12 @@
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 9, 8:40 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:32 PM ET",
     {
+     "published": "2026-11-10T13:10:12Z",
+     "source": "China Digital Times 中国数字时代",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://chinadigitaltimes.net/chinese/733778.html"
+    },
+    {
      "published": null,
      "source": "Lianhe Zaobao 联合早报",
      "type": "Still covered elsewhere 其他来源仍有报道",
@@ -210,10 +216,10 @@
    "minutes_on_list": 39,
    "notable": false,
    "official_line": {
-    "published": "2026-11-10 19:31:09",
-    "source": "Tencent News 腾讯网",
-    "title": "警方通报“女子在平遥古城露营遭陌生男子骚扰”：凌晨3时滋扰帐篷内的游客",
-    "url": "https://new.qq.com/rain/a/20261110A0D9CL00"
+    "published": "2026-11-10 17:58:48",
+    "source": "Phoenix 凤凰网",
+    "title": "女子独自露营直播，男子识别出地点进行骚扰，警方通报",
+    "url": "https://news.ifeng.com/c/8xwWHjCqfat"
    },
    "official_line_zh": null,
    "peak_rank": 10,
