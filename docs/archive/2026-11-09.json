@@ -275,8 +275,13 @@
    "last_seen_et": "Nov 9, 10:58 PM ET",
    "minutes_on_list": 105,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-10",
+    "source": "Shanghai Observer 上观新闻 (Jiefang Daily)",
+    "title": "2026混团世界杯国乒阵容敲定，周启豪陈熠为何能锁定“第四人”？",
+    "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1211387&sid=11"
+   },
+   "official_line_zh": null,
    "peak_rank": 8,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
