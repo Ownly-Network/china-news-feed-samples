@@ -1,0 +1,33 @@
+{
+ "count": 1,
+ "date": "2026-11-10",
+ "items": [
+  {
+   "day": "2026-11-10",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #9 → #9 → #6 → #3 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 5:37 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 6:20 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 10, 5:20 AM ET",
+   "first_missing_iso": "2026-11-10T05:20:00-05:00",
+   "first_seen_et": "Nov 10, 4:32 AM ET",
+   "key": "bilibili|美股通宵对A股有何影响|2026-11-10T05:20:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 10, 5:11 AM ET",
+   "minutes_on_list": 40,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 2,
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "slug": "bilibili-9d032604b1cc",
+   "title_en": "",
+   "title_zh": "美股通宵对A股有何影响",
+   "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E9%80%9A%E5%AE%B5%E5%AF%B9A%E8%82%A1%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D"
+  }
+ ]
+}
