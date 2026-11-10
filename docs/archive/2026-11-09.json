@@ -32,10 +32,10 @@
    "minutes_on_list": 50,
    "notable": false,
    "official_line": {
-    "published": "2026-11-09T06:02:42Z",
+    "published": "2026-11-10T06:04:01Z",
     "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "人民日报刊文讲述《小城良方》里的锦州",
-    "url": "https://www.peopleapp.com/column/30053519869-500007777919"
+    "title": "人民日报是怎么玩转小红书的",
+    "url": "https://www.peopleapp.com/column/30053531151-500007779510"
    },
    "official_line_zh": null,
    "peak_rank": 4,
@@ -191,7 +191,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 9, 8:40 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:32 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:32 PM ET",
+    {
+     "published": null,
+     "source": "on.cc 東網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261110/bkn-20261110131157582-1110_00822_001.html"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 9, 8:26 PM ET",
@@ -204,10 +210,10 @@
    "minutes_on_list": 39,
    "notable": false,
    "official_line": {
-    "published": "2026-11-10 11:06:05",
-    "source": "Tencent News 腾讯网",
-    "title": "西安警方深夜通报，47岁男子因拆迁赔偿不满开挖掘机破坏政务中心大楼",
-    "url": "https://new.qq.com/rain/a/20261110A05XZQ00"
+    "published": "2026-11-10",
+    "source": "Caixin 财新网",
+    "title": "男子开挖机拆毁西安一政务中心雨棚 已被采取刑事强制措施",
+    "url": "https://china.caixin.com/2026-11-10/102503021.html"
    },
    "official_line_zh": null,
    "peak_rank": 10,
