@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-10 02:38 ET",
+ "generated_at_et": "2026-11-10 03:49 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 5,
  "cut": {
-  "flagged": 86,
+  "flagged": 94,
   "came back once before": 5,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 24,
+  "gone under 60 min": 10,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 26,
+  "on the list a normal length of time": 29,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 5,
+  "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 8,
-  "retitled": 0,
-  "topic still on the list": 2,
+  "retitled": 1,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 5
  },
  "items": [
   {
@@ -62,45 +62,6 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #8 → #5 → #4 → #4 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:11 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:57 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "人民日报：广告可以吸引人但别算计人",
-   "title_en": "People's Daily: Ads Can Attract People, but Don't Try to Trick Them",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 9, 2:45 AM ET",
-   "last_seen_et": "Nov 9, 3:35 AM ET",
-   "first_missing_et": "Nov 9, 3:40 AM ET",
-   "minutes_on_list": 50,
-   "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%B9%BF%E5%91%8A%E5%8F%AF%E4%BB%A5%E5%90%B8%E5%BC%95%E4%BA%BA%E4%BD%86%E5%88%AB%E7%AE%97%E8%AE%A1%E4%BA%BA",
-   "official_line": {
-    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "人民日报是怎么玩转小红书的",
-    "url": "https://www.peopleapp.com/column/30053531151-500007779510",
-    "published": "2026-11-10T06:04:01Z"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #13 → #13 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 4:01 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 4:47 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "CDT 404 Archive 404文库",
-     "url": "https://chinadigitaltimes.net/chinese/733480.html",
-     "published": "2026-11-02T13:49:27Z"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "CDT 404 Archive 404文库",
-     "url": "https://chinadigitaltimes.net/chinese/733469.html",
-     "published": "2026-10-31T02:53:56Z"
-    }
    ]
   },
   {
@@ -163,7 +124,7 @@
    "url": "https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E4%B8%AD%E5%BF%83%E9%97%A8%E5%A4%B4%E9%81%AD%E6%8C%96%E6%8E%98%E6%9C%BA%E7%A0%B4%E5%9D%8F+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
    "official_line": {
     "source": "Caixin 财新网",
-    "title": "男子开挖机拆毁西安一政务中心雨棚 已被采取刑事强制措施",
+    "title": "男子开挖机拆毁西安一政务中心雨棚 已被采取刑事强制措施(含视频)",
     "url": "https://china.caixin.com/2026-11-10/102503021.html",
     "published": "2026-11-10"
    },
