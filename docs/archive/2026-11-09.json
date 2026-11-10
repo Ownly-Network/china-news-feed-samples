@@ -1,5 +1,5 @@
 {
- "count": 8,
+ "count": 9,
  "date": "2026-11-09",
  "items": [
   {
@@ -191,7 +191,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 9, 8:40 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:32 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:32 PM ET",
+    {
+     "published": null,
+     "source": "Ming Pao 明報",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQOVZnWHlWMnBBMXlfYW4wU0V6U29kZmMzZjFwQjlZYWRwY3U4VzZhd1BkTDZ2bk5jbTh0dGhabUZvcm1kbGlMT3ZBQmdadGljWUt4OGFHU1ktaTlNc2t3MmhaNUJZNVBhMnJEVWtVdVZqNXY2QVQycEw4YXAyQnQ3RXlOMWo1alRiS1VNU3A2RHJrQTFwMHNfc1lUUHowNklDUDFlcFE0WFVXRVdvVko0VFA5Y3RQMGFJNDNrTkQzbDhnTU5yc3hEQ0pjWHpydEdfTEVHZjhJbDc5UHB5Nmtib0NkdjdkZk9vemoxaDF5ZEdKZ29Ib1hMaEItc2xPanFqZmEwRzBjX0JpWnpTQ200ZGM1MFk3QkJGaDFyWThwaGZ0QlRJYnduckFMTnAtUXg1R0J3Mkd6VHh6RXRlQktyc1ZOWGVzdzhBc1RpVDdCWE4ySGpINHBnVmRUVm1FZFZUbFlUMXBpWEdDQUNsY2pFV2pNb3Itb1FTNWZqLUFuX0Zjdw?oc=5"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 9, 8:26 PM ET",
@@ -244,6 +250,39 @@
    "title_en": "",
    "title_zh": "GPT 6.2 Sol灰测",
    "url": "https://search.bilibili.com/all?keyword=GPT%206.2%20Sol%E7%81%B0%E6%B5%8B"
+  },
+  {
+   "day": "2026-11-09",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 11:20 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 10, 12:07 AM ET",
+    {
+     "published": "2026-11-10",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8F%82%E8%B5%9B%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=17&Refer=top"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 9, 11:03 PM ET",
+   "first_missing_iso": "2026-11-09T23:03:00-05:00",
+   "first_seen_et": "Nov 9, 9:13 PM ET",
+   "key": "baidu|王楚钦孙颖莎将参赛混团世界杯|2026-11-09T23:03:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 9, 10:58 PM ET",
+   "minutes_on_list": 105,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 8,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-66695c7286b5",
+   "title_en": "",
+   "title_zh": "王楚钦孙颖莎将参赛混团世界杯",
+   "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E5%8F%82%E8%B5%9B%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF"
   }
  ]
 }
