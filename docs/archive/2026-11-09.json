@@ -1,5 +1,5 @@
 {
- "count": 6,
+ "count": 8,
  "date": "2026-11-09",
  "items": [
   {
@@ -191,6 +191,60 @@
    "title_en": "While sleeping under a bridge, I didn’t realize that right above me was the flower bed where my mother’s body was buried.",
    "title_zh": "露宿桥洞时不知抬头就是埋尸妈妈花坛",
    "url": "https://www.baidu.com/s?wd=%E9%9C%B2%E5%AE%BF%E6%A1%A5%E6%B4%9E%E6%97%B6%E4%B8%8D%E7%9F%A5%E6%8A%AC%E5%A4%B4%E5%B0%B1%E6%98%AF%E5%9F%8B%E5%B0%B8%E5%A6%88%E5%A6%88%E8%8A%B1%E5%9D%9B"
+  },
+  {
+   "day": "2026-11-09",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 9, 8:40 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:32 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 9, 8:26 PM ET",
+   "first_missing_iso": "2026-11-09T20:26:00-05:00",
+   "first_seen_et": "Nov 9, 7:40 PM ET",
+   "key": "baidu|政务中心门头遭挖掘机破坏 警方通报|2026-11-09T20:26:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 9, 8:20 PM ET",
+   "minutes_on_list": 39,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 10,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-37dd1904a544",
+   "title_en": "",
+   "title_zh": "政务中心门头遭挖掘机破坏 警方通报",
+   "url": "https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E4%B8%AD%E5%BF%83%E9%97%A8%E5%A4%B4%E9%81%AD%E6%8C%96%E6%8E%98%E6%9C%BA%E7%A0%B4%E5%9D%8F+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5"
+  },
+  {
+   "day": "2026-11-09",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #8 → #5 → #4 → #4 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:11 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:57 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 9, 8:56 PM ET",
+   "first_missing_iso": "2026-11-09T20:56:00-05:00",
+   "first_seen_et": "Nov 9, 8:20 PM ET",
+   "key": "bilibili|GPT 6.2 Sol灰测|2026-11-09T20:56:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 9, 8:51 PM ET",
+   "minutes_on_list": 31,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 4,
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "slug": "bilibili-5bb04593c9d8",
+   "title_en": "",
+   "title_zh": "GPT 6.2 Sol灰测",
+   "url": "https://search.bilibili.com/all?keyword=GPT%206.2%20Sol%E7%81%B0%E6%B5%8B"
   }
  ]
 }
