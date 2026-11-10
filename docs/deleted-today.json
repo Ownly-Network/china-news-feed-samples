@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-10 09:22 ET",
+ "generated_at_et": "2026-11-10 11:04 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,15 +7,15 @@
  "cut": {
   "flagged": 94,
   "came back once before": 8,
-  "gone under 60 min": 3,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 27,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 24,
-  "inside the list's normal rotation": 3,
+  "on the list a normal length of time": 26,
+  "inside the list's normal rotation": 2,
   "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 9,
-  "retitled": 3,
-  "topic still on the list": 1,
+  "left with other flagged topics (batch drop)": 7,
+  "retitled": 2,
+  "topic still on the list": 2,
   "same story as a kept item": 0,
   "kept": 6
  },
@@ -144,13 +144,8 @@
    "first_missing_et": "Nov 9, 8:26 PM ET",
    "minutes_on_list": 39,
    "url": "https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E4%B8%AD%E5%BF%83%E9%97%A8%E5%A4%B4%E9%81%AD%E6%8C%96%E6%8E%98%E6%9C%BA%E7%A0%B4%E5%9D%8F+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
-   "official_line": {
-    "source": "Phoenix 凤凰网",
-    "title": "女子独自露营直播，男子识别出地点进行骚扰，警方通报",
-    "url": "https://news.ifeng.com/c/8xwWHjCqfat",
-    "published": "2026-11-10 17:58:48"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 9, 8:40 PM ET",
