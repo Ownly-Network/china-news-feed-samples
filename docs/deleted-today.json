@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-10 13:23 ET",
+ "generated_at_et": "2026-11-10 14:28 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 6,
  "cut": {
   "flagged": 93,
   "came back once before": 8,
@@ -12,12 +12,12 @@
   "slid down before leaving": 1,
   "on the list a normal length of time": 26,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 9,
+  "still on another hot list": 8,
   "left with other flagged topics (batch drop)": 8,
   "retitled": 2,
   "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 5
+  "kept": 6
  },
  "items": [
   {
@@ -128,6 +128,46 @@
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 11:20 PM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 10, 12:07 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "政务中心门头遭挖掘机破坏 警方通报",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Nov 9, 7:40 PM ET",
+   "last_seen_et": "Nov 9, 8:20 PM ET",
+   "first_missing_et": "Nov 9, 8:26 PM ET",
+   "minutes_on_list": 39,
+   "url": "https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E4%B8%AD%E5%BF%83%E9%97%A8%E5%A4%B4%E9%81%AD%E6%8C%96%E6%8E%98%E6%9C%BA%E7%A0%B4%E5%9D%8F+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 9, 8:40 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:32 PM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "China Digital Times 中国数字时代",
+     "url": "https://chinadigitaltimes.net/chinese/733778.html",
+     "published": "2026-11-10T13:10:12Z"
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/news/china/story20261110-9975817?ref=today-news-section-card-6",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Ming Pao 明報",
+     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQOVZnWHlWMnBBMXlfYW4wU0V6U29kZmMzZjFwQjlZYWRwY3U4VzZhd1BkTDZ2bk5jbTh0dGhabUZvcm1kbGlMT3ZBQmdadGljWUt4OGFHU1ktaTlNc2t3MmhaNUJZNVBhMnJEVWtVdVZqNXY2QVQycEw4YXAyQnQ3RXlOMWo1alRiS1VNU3A2RHJrQTFwMHNfc1lUUHowNklDUDFlcFE0WFVXRVdvVko0VFA5Y3RQMGFJNDNrTkQzbDhnTU5yc3hEQ0pjWHpydEdfTEVHZjhJbDc5UHB5Nmtib0NkdjdkZk9vemoxaDF5ZEdKZ29Ib1hMaEItc2xPanFqZmEwRzBjX0JpWnpTQ200ZGM1MFk3QkJGaDFyWThwaGZ0QlRJYnduckFMTnAtUXg1R0J3Mkd6VHh6RXRlQktyc1ZOWGVzdzhBc1RpVDdCWE4ySGpINHBnVmRUVm1FZFZUbFlUMXBpWEdDQUNsY2pFV2pNb3Itb1FTNWZqLUFuX0Zjdw?oc=5",
+     "published": null
+    }
    ]
   }
  ]
