@@ -88,7 +88,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #15 → #6 → #6 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 7:14 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 8:07 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 8:07 PM ET",
+    {
+     "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/11/11/a104149891.html"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 10, 7:00 PM ET",
