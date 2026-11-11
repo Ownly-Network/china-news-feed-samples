@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-11 00:33 ET",
+ "generated_at_et": "2026-11-11 01:42 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 7,
  "cut": {
-  "flagged": 81,
+  "flagged": 85,
   "came back once before": 7,
-  "gone under 60 min": 2,
+  "gone under 60 min": 5,
   "not in the top 10 when it left": 28,
   "slid down before leaving": 1,
   "on the list a normal length of time": 22,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 4,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 2,
-  "retitled": 5,
+  "retitled": 2,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 7
  },
  "items": [
   {
@@ -67,6 +67,33 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
+   "title_zh": "山东回礼大连",
+   "title_en": "Shandong Returns the Favor to Dalian",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 10, 10:29 PM ET",
+   "last_seen_et": "Nov 10, 11:51 PM ET",
+   "first_missing_et": "Nov 10, 11:56 PM ET",
+   "minutes_on_list": 82,
+   "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9B%9E%E7%A4%BC%E5%A4%A7%E8%BF%9E",
+   "official_line": {
+    "source": "YouTube: 中国新闻社 China News Service",
+    "title": "大连英博加冕中超冠军 多个景区对山东游客免费100天",
+    "url": "https://www.youtube.com/watch?v=Vkol7blbNWk",
+    "published": "2026-11-09T15:00:24+00:00"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #10 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 12:16 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 1:00 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
    "title_zh": "英伟达两天蒸发2.85万亿元",
    "title_en": "NVIDIA Loses 2.85 Trillion Yuan in Market Value in Two Days",
    "label": "Dropped off",
@@ -78,12 +105,23 @@
    "first_missing_et": "Nov 10, 7:00 PM ET",
    "minutes_on_list": 36,
    "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%A4%E5%A4%A9%E8%92%B8%E5%8F%912.85%E4%B8%87%E4%BA%BF%E5%85%83",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "36Kr",
+    "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+    "url": "https://36kr.com/p/4064610635781257?f=rss",
+    "published": "2026-11-11T00:15:52Z"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #15 → #6 → #6 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 7:14 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 8:07 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 8:07 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Epoch Times Chinese 大纪元",
+     "url": "https://www.epochtimes.com/b5/26/11/10/n14886732.htm",
+     "published": null
+    }
    ]
   },
   {
