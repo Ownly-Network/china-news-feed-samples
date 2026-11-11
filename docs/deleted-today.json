@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-11 08:26 ET",
+ "generated_at_et": "2026-11-11 09:35 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 8,
  "cut": {
-  "flagged": 79,
-  "came back once before": 2,
-  "gone under 60 min": 7,
+  "flagged": 73,
+  "came back once before": 1,
+  "gone under 60 min": 2,
   "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 26,
-  "inside the list's normal rotation": 1,
+  "on the list a normal length of time": 24,
+  "inside the list's normal rotation": 2,
   "still on another hot list": 1,
-  "left with other flagged topics (batch drop)": 5,
+  "left with other flagged topics (batch drop)": 6,
   "retitled": 1,
-  "topic still on the list": 2,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 8
  },
  "items": [
   {
@@ -35,10 +35,10 @@
    "minutes_on_list": 43,
    "url": "https://search.bilibili.com/all?keyword=%E6%9F%8F%E5%A4%A7%E5%8D%AB%E7%9A%84%E6%B9%9F%E6%BA%90%E4%B9%A1%E6%84%81%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B",
    "official_line": {
-    "source": "Xinhua Daily 新华日报 (Jiangsu, 新华报业网)",
+    "source": "CQNews 华龙网",
     "title": "跨越山海的乡愁，都在柏大卫捐赠的这些老照片里",
-    "url": "https://www.xhby.net/content/s6af4654be4b05bfe6eb6860e.html",
-    "published": "2026-11-11T12:53:31Z"
+    "url": "https://www.cqnews.net/web/content_1570179498096398336.html",
+    "published": ""
    },
    "official_line_zh": null,
    "evidence": [
@@ -175,19 +175,34 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #15 → #6 → #6 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 7:14 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 8:07 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Epoch Times Chinese 大纪元",
-     "url": "https://www.epochtimes.com/b5/26/11/10/n14886732.htm",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 江峰时刻 Jiang Feng",
-     "url": "https://www.youtube.com/watch?v=xxdyxyzlnRw",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 8:07 PM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "我军飞行员凌晨4点战斗起飞对抗外机",
+   "title_en": "Our military pilots took off on a combat mission at 4 a.m. to engage enemy aircraft.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 10, 6:20 PM ET",
+   "last_seen_et": "Nov 10, 7:12 PM ET",
+   "first_missing_et": "Nov 10, 7:19 PM ET",
+   "minutes_on_list": 52,
+   "url": "https://www.baidu.com/s?wd=%E6%88%91%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E5%87%8C%E6%99%A84%E7%82%B9%E6%88%98%E6%96%97%E8%B5%B7%E9%A3%9E%E5%AF%B9%E6%8A%97%E5%A4%96%E6%9C%BA",
+   "official_line": {
+    "source": "YouTube: 中国新闻社 China News Service",
+    "title": "“保险一解除 一换一” 外机无视警告进逼 我军飞行员寸步不让",
+    "url": "https://www.youtube.com/shorts/NBMJqedjxLA",
+    "published": "2026-11-11T09:00:04+00:00"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #7 → #7 → #7 → #7 → #8",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 10, 7:36 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 8:21 PM ET"
    ]
   },
   {
