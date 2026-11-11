@@ -138,8 +138,13 @@
    "last_seen_et": "Nov 10, 7:12 PM ET",
    "minutes_on_list": 52,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-11 15:48:30",
+    "source": "NetEase News 网易新闻",
+    "title": "空军某部飞行员与外机云端对峙20分钟：准备好一换一",
+    "url": "https://www.163.com/dy/article/LBFDL8PC053469LG.html"
+   },
+   "official_line_zh": null,
    "peak_rank": 6,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
