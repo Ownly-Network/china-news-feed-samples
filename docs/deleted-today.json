@@ -1,47 +1,25 @@
 {
- "generated_at_et": "2026-11-10 20:01 ET",
+ "generated_at_et": "2026-11-10 21:06 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 4,
  "cut": {
-  "flagged": 90,
+  "flagged": 80,
   "came back once before": 7,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 28,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 26,
+  "on the list a normal length of time": 22,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 6,
+  "still on another hot list": 8,
+  "left with other flagged topics (batch drop)": 2,
   "retitled": 3,
   "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 5
+  "kept": 4
  },
  "items": [
-  {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "GPT 6.2 Sol灰测",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 9, 8:20 PM ET",
-   "last_seen_et": "Nov 9, 8:51 PM ET",
-   "first_missing_et": "Nov 9, 8:56 PM ET",
-   "minutes_on_list": 31,
-   "url": "https://search.bilibili.com/all?keyword=GPT%206.2%20Sol%E7%81%B0%E6%B5%8B",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #8 → #5 → #4 → #4 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:11 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 9, 9:57 PM ET"
-   ]
-  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -57,15 +35,16 @@
    "minutes_on_list": 36,
    "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%A4%E5%A4%A9%E8%92%B8%E5%8F%912.85%E4%B8%87%E4%BA%BF%E5%85%83",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "英伟达，两天市值蒸发2.85万亿元",
-    "url": "https://new.qq.com/rain/a/20261111V03ZDV00",
-    "published": "2026-11-11 08:47:53"
+    "source": "36Kr",
+    "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+    "url": "https://36kr.com/p/4064610635781257?f=rss",
+    "published": "2026-11-11T00:15:52Z"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #15 → #6 → #6 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 7:14 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 8:07 PM ET",
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Epoch Times Chinese 大纪元",
