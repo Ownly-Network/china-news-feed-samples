@@ -1,5 +1,5 @@
 {
- "count": 1,
+ "count": 2,
  "date": "2026-11-11",
  "items": [
   {
@@ -28,6 +28,38 @@
    "title_en": "",
    "title_zh": "跟随记者探访航空航天特展",
    "url": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E9%9A%8F%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E7%89%B9%E5%B1%95"
+  },
+  {
+   "day": "2026-11-11",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #50 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 3:50 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 11, 4:39 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 11, 3:35 AM ET",
+   "first_missing_iso": "2026-11-11T03:35:00-05:00",
+   "first_seen_et": "Nov 11, 1:43 AM ET",
+   "key": "baidu|妈妈去学校探望儿子 儿子举动太暖了|2026-11-11T03:35:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 11, 3:32 AM ET",
+   "minutes_on_list": 109,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-10T23:41:26Z",
+    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
+    "title": "妈妈去学校探望儿子，男孩下意识举动好暖！",
+    "url": "https://www.peopleapp.com/column/30053536549-500007780864"
+   },
+   "official_line_zh": null,
+   "peak_rank": 5,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-20e759f6bc7e",
+   "title_en": "Mom Visits Her Son at School—His Gesture Is So Heartwarming",
+   "title_zh": "妈妈去学校探望儿子 儿子举动太暖了",
+   "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%8E%BB%E5%AD%A6%E6%A0%A1%E6%8E%A2%E6%9C%9B%E5%84%BF%E5%AD%90+%E5%84%BF%E5%AD%90%E4%B8%BE%E5%8A%A8%E5%A4%AA%E6%9A%96%E4%BA%86"
   }
  ]
 }
