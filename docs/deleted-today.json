@@ -1,20 +1,20 @@
 {
- "generated_at_et": "2026-11-11 06:07 ET",
+ "generated_at_et": "2026-11-11 07:16 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 9,
  "cut": {
-  "flagged": 86,
-  "came back once before": 5,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 30,
+  "flagged": 78,
+  "came back once before": 3,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
   "on the list a normal length of time": 26,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 6,
-  "retitled": 2,
+  "still on another hot list": 1,
+  "left with other flagged topics (batch drop)": 5,
+  "retitled": 1,
   "topic still on the list": 2,
   "same story as a kept item": 0,
   "kept": 9
@@ -34,8 +34,13 @@
    "first_missing_et": "Nov 10, 9:12 PM ET",
    "minutes_on_list": 43,
    "url": "https://search.bilibili.com/all?keyword=%E6%9F%8F%E5%A4%A7%E5%8D%AB%E7%9A%84%E6%B9%9F%E6%BA%90%E4%B9%A1%E6%84%81%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "一位美国老人的中国乡愁 屏幕亮起，跨越太平洋的视频连线，将美国密苏里州春田市的一间客厅与青藏高原东麓的丹噶尔古城联系起来。 11月的初冬，湟源的风带着几分凛冽，…",
+    "url": "https://t.me/xhnews/8219",
+    "published": "2026-11-11T09:20:12+00:00"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #3 → #3 → #8 → #6 → #6 → #3",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 9:23 PM ET",
@@ -134,10 +139,10 @@
    "minutes_on_list": 82,
    "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9B%9E%E7%A4%BC%E5%A4%A7%E8%BF%9E",
    "official_line": {
-    "source": "YouTube: 中国新闻社 China News Service",
-    "title": "大连英博加冕中超冠军 多个景区对山东游客免费100天",
-    "url": "https://www.youtube.com/watch?v=Vkol7blbNWk",
-    "published": "2026-11-09T15:00:24+00:00"
+    "source": "Tencent News 腾讯网",
+    "title": "11月8日，大连英博夺得本赛季中超联赛冠军，大连文体旅集团向“山东老铁”送出感谢大礼包",
+    "url": "https://new.qq.com/rain/a/20261111V0DM8T00",
+    "published": "2026-11-11 19:55:50"
    },
    "official_line_zh": null,
    "evidence": [
@@ -161,10 +166,10 @@
    "minutes_on_list": 36,
    "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%A4%E5%A4%A9%E8%92%B8%E5%8F%912.85%E4%B8%87%E4%BA%BF%E5%85%83",
    "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "英伟达市值两日蒸发掉一个甲骨文，财报发布前机构态度分化",
-    "url": "https://www.yicai.com/news/103436600.html",
-    "published": "2026-11-11T18:35:41"
+    "source": "36Kr",
+    "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+    "url": "https://36kr.com/p/4064610635781257?f=rss",
+    "published": "2026-11-11T00:15:52Z"
    },
    "official_line_zh": null,
    "evidence": [

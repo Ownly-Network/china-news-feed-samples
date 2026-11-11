@@ -107,10 +107,10 @@
    "minutes_on_list": 36,
    "notable": false,
    "official_line": {
-    "published": "2026-11-11T18:35:41",
-    "source": "Yicai 第一财经",
-    "title": "英伟达市值两日蒸发掉一个甲骨文，财报发布前机构态度分化",
-    "url": "https://www.yicai.com/news/103436600.html"
+    "published": "2026-11-11T00:15:52Z",
+    "source": "36Kr",
+    "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+    "url": "https://36kr.com/p/4064610635781257?f=rss"
    },
    "official_line_zh": null,
    "peak_rank": 5,
@@ -170,8 +170,13 @@
    "last_seen_et": "Nov 10, 9:07 PM ET",
    "minutes_on_list": 43,
    "notable": true,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-11T09:20:12+00:00",
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "一位美国老人的中国乡愁 屏幕亮起，跨越太平洋的视频连线，将美国密苏里州春田市的一间客厅与青藏高原东麓的丹噶尔古城联系起来。 11月的初冬，湟源的风带着几分凛冽，…",
+    "url": "https://t.me/xhnews/8219"
+   },
+   "official_line_zh": null,
    "peak_rank": 2,
    "platform": "bilibili",
    "platform_name": "Bilibili 哔哩哔哩",
@@ -198,10 +203,10 @@
    "minutes_on_list": 82,
    "notable": false,
    "official_line": {
-    "published": "2026-11-09T15:00:24+00:00",
-    "source": "YouTube: 中国新闻社 China News Service",
-    "title": "大连英博加冕中超冠军 多个景区对山东游客免费100天",
-    "url": "https://www.youtube.com/watch?v=Vkol7blbNWk"
+    "published": "2026-11-11 19:55:50",
+    "source": "Tencent News 腾讯网",
+    "title": "11月8日，大连英博夺得本赛季中超联赛冠军，大连文体旅集团向“山东老铁”送出感谢大礼包",
+    "url": "https://new.qq.com/rain/a/20261111V0DM8T00"
    },
    "official_line_zh": null,
    "peak_rank": 5,
