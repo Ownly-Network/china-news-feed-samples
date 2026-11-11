@@ -1,16 +1,16 @@
 {
- "generated_at_et": "2026-11-11 17:25 ET",
+ "generated_at_et": "2026-11-11 18:31 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 9,
  "cut": {
-  "flagged": 67,
+  "flagged": 68,
   "came back once before": 1,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 23,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 22,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 24,
+  "on the list a normal length of time": 23,
   "inside the list's normal rotation": 2,
   "still on another hot list": 0,
   "left with other flagged topics (batch drop)": 6,
@@ -35,10 +35,10 @@
    "minutes_on_list": 43,
    "url": "https://search.bilibili.com/all?keyword=%E6%9F%8F%E5%A4%A7%E5%8D%AB%E7%9A%84%E6%B9%9F%E6%BA%90%E4%B9%A1%E6%84%81%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B",
    "official_line": {
-    "source": "CQNews 华龙网",
-    "title": "跨越山海的乡愁，都在柏大卫捐赠的这些老照片里",
-    "url": "https://www.cqnews.net/web/content_1570179498096398336.html",
-    "published": ""
+    "source": "Telegram: 新华社 (@XHNews)",
+    "title": "一位美国老人的中国乡愁 屏幕亮起，跨越太平洋的视频连线，将美国密苏里州春田市的一间客厅与青藏高原东麓的丹噶尔古城联系起来。 11月的初冬，湟源的风带着几分凛冽，…",
+    "url": "https://t.me/xhnews/8219",
+    "published": "2026-11-11T09:20:12+00:00"
    },
    "official_line_zh": null,
    "evidence": [
