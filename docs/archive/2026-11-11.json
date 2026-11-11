@@ -1,0 +1,33 @@
+{
+ "count": 1,
+ "date": "2026-11-11",
+ "items": [
+  {
+   "day": "2026-11-11",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #8 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 1:01 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 1:49 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 11, 12:49 AM ET",
+   "first_missing_iso": "2026-11-11T00:49:00-05:00",
+   "first_seen_et": "Nov 11, 12:01 AM ET",
+   "key": "bilibili|跟随记者探访航空航天特展|2026-11-11T00:49:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 11, 12:42 AM ET",
+   "minutes_on_list": 41,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "slug": "bilibili-ba616e4850f5",
+   "title_en": "",
+   "title_zh": "跟随记者探访航空航天特展",
+   "url": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E9%9A%8F%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E7%89%B9%E5%B1%95"
+  }
+ ]
+}
