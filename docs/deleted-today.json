@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-11 07:16 ET",
+ "generated_at_et": "2026-11-11 07:21 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -139,10 +139,10 @@
    "minutes_on_list": 82,
    "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9B%9E%E7%A4%BC%E5%A4%A7%E8%BF%9E",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "11月8日，大连英博夺得本赛季中超联赛冠军，大连文体旅集团向“山东老铁”送出感谢大礼包",
-    "url": "https://new.qq.com/rain/a/20261111V0DM8T00",
-    "published": "2026-11-11 19:55:50"
+    "source": "YouTube: 中国新闻社 China News Service",
+    "title": "大连英博加冕中超冠军 多个景区对山东游客免费100天",
+    "url": "https://www.youtube.com/watch?v=Vkol7blbNWk",
+    "published": "2026-11-09T15:00:24+00:00"
    },
    "official_line_zh": null,
    "evidence": [
@@ -180,6 +180,12 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Epoch Times Chinese 大纪元",
      "url": "https://www.epochtimes.com/b5/26/11/10/n14886732.htm",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 江峰时刻 Jiang Feng",
+     "url": "https://www.youtube.com/watch?v=xxdyxyzlnRw",
      "published": null
     }
    ]
