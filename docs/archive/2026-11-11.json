@@ -1,5 +1,5 @@
 {
- "count": 4,
+ "count": 5,
  "date": "2026-11-11",
  "items": [
   {
@@ -120,6 +120,33 @@
    "title_en": "",
    "title_zh": "18岁“双11”不再疯狂",
    "url": "https://www.baidu.com/s?wd=18%E5%B2%81%E2%80%9C%E5%8F%8C11%E2%80%9D%E4%B8%8D%E5%86%8D%E7%96%AF%E7%8B%82"
+  },
+  {
+   "day": "2026-11-11",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 2:44 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 3:32 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 11, 2:32 PM ET",
+   "first_missing_iso": "2026-11-11T14:32:00-05:00",
+   "first_seen_et": "Nov 11, 1:05 PM ET",
+   "key": "bilibili|2026金摇杆年度游戏颁奖|2026-11-11T14:32:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 11, 2:27 PM ET",
+   "minutes_on_list": 82,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "slug": "bilibili-9764d992de41",
+   "title_en": "",
+   "title_zh": "2026金摇杆年度游戏颁奖",
+   "url": "https://search.bilibili.com/all?keyword=2026%E9%87%91%E6%91%87%E6%9D%86%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E9%A2%81%E5%A5%96"
   }
  ]
 }
