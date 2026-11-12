@@ -1,0 +1,44 @@
+{
+ "count": 1,
+ "date": "2026-11-12",
+ "items": [
+  {
+   "day": "2026-11-12",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #18 → #5 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 1:55 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 2:44 AM ET",
+    {
+     "published": "2026-11-12",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3%23&t=31&band_rank=16&Refer=top"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 12, 1:39 AM ET",
+   "first_missing_iso": "2026-11-12T01:39:00-05:00",
+   "first_seen_et": "Nov 12, 12:47 AM ET",
+   "key": "toutiao|韩红基金会回应张雪改口|2026-11-12T01:39:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 12, 1:35 AM ET",
+   "minutes_on_list": 48,
+   "notable": true,
+   "official_line": {
+    "published": "2026-11-12 17:11:00",
+    "source": "Jiemian 界面新闻",
+    "title": "张雪收回捐赠承诺转向扶持小车手，韩红基金会回应",
+    "url": "https://www.jiemian.com/article/15325469.html"
+   },
+   "official_line_zh": null,
+   "peak_rank": 2,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-9c437ef1e21a",
+   "title_en": "Han Hong Foundation Responds to Zhang Xue's Change of Heart",
+   "title_zh": "韩红基金会回应张雪改口",
+   "url": "https://www.toutiao.com/trending/7706212753371070527/"
+  }
+ ]
+}

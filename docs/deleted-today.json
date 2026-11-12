@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-12 03:17 ET",
+ "generated_at_et": "2026-11-12 04:31 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 4,
  "cut": {
-  "flagged": 72,
-  "came back once before": 0,
-  "gone under 60 min": 10,
+  "flagged": 66,
+  "came back once before": 1,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 19,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 24,
+  "on the list a normal length of time": 25,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 8,
+  "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 4,
   "retitled": 1,
   "topic still on the list": 0,
@@ -106,15 +106,42 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/finance/world/story20261112-9985962?ref=today-news-section-card-9",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: RFI 华语",
      "url": "https://t.me/RFI_Cn/38935",
      "published": null
+    }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "韩红基金会回应张雪改口",
+   "title_en": "Han Hong Foundation Responds to Zhang Xue's Change of Heart",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 12, 12:47 AM ET",
+   "last_seen_et": "Nov 12, 1:35 AM ET",
+   "first_missing_et": "Nov 12, 1:39 AM ET",
+   "minutes_on_list": 48,
+   "url": "https://www.toutiao.com/trending/7706212753371070527/",
+   "official_line": {
+    "source": "Jiemian 界面新闻",
+    "title": "张雪收回捐赠承诺转向扶持小车手，韩红基金会回应",
+    "url": "https://www.jiemian.com/article/15325469.html",
+    "published": "2026-11-12 17:11:00"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #18 → #5 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 1:55 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 2:44 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3%23&t=31&band_rank=16&Refer=top",
+     "published": "2026-11-12"
     }
    ]
   },
@@ -138,28 +165,6 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 5:01 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 5:57 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "特朗普写给拜登的信全文曝光",
-   "title_en": "Full Text of Trump's Letter to Biden Revealed",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 11, 3:22 AM ET",
-   "last_seen_et": "Nov 11, 4:09 AM ET",
-   "first_missing_et": "Nov 11, 4:14 AM ET",
-   "minutes_on_list": 46,
-   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%99%E7%BB%99%E6%8B%9C%E7%99%BB%E7%9A%84%E4%BF%A1%E5%85%A8%E6%96%87%E6%9B%9D%E5%85%89",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 4:26 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 5:21 AM ET"
    ]
   }
  ]
