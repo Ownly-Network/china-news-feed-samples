@@ -186,6 +186,12 @@
     },
     {
      "published": null,
+     "source": "Bannedbook 禁闻网",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.bannedbook.org/bnews/itnews/20261112/2380036.html"
+    },
+    {
+     "published": null,
      "source": "Telegram: RFI 华语",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/RFI_Cn/38935"
@@ -247,7 +253,8 @@
    "day": "2026-11-11",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #6 → #6 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 11, 8:57 PM ET"
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 11, 8:57 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 9:53 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 11, 8:43 PM ET",
