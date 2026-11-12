@@ -1,5 +1,5 @@
 {
- "count": 3,
+ "count": 5,
  "date": "2026-11-12",
  "items": [
   {
@@ -13,6 +13,12 @@
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "url": "https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3%23&t=31&band_rank=16&Refer=top"
+    },
+    {
+     "published": null,
+     "source": "World Journal 世界日報 (US)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.worldjournal.com/wj/story/121344/9874160"
     }
    ],
    "evidence_strength": "standard",
@@ -26,10 +32,10 @@
    "minutes_on_list": 48,
    "notable": true,
    "official_line": {
-    "published": "2026-11-12 18:09:15",
+    "published": "2026-11-12 19:40:00",
     "source": "Tencent News 腾讯网",
-    "title": "潮评丨不能因为张雪改捐，就认定韩红基金会有猫腻",
-    "url": "https://new.qq.com/rain/a/20261112A0C1BJ00"
+    "title": "张雪取消赛车捐赠！曾喊话韩红基金会晒救护车发票，官方体面回应",
+    "url": "https://new.qq.com/rain/a/20261112A0CZXD00"
    },
    "official_line_zh": null,
    "peak_rank": 2,
@@ -39,6 +45,38 @@
    "title_en": "Han Hong Foundation Responds to Zhang Xue's Change of Heart",
    "title_zh": "韩红基金会回应张雪改口",
    "url": "https://www.toutiao.com/trending/7706212753371070527/"
+  },
+  {
+   "day": "2026-11-12",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 2:23 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 3:14 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 12, 2:10 AM ET",
+   "first_missing_iso": "2026-11-12T02:10:00-05:00",
+   "first_seen_et": "Nov 12, 12:16 AM ET",
+   "key": "toutiao|50多岁老师因学生顶嘴崩溃大哭|2026-11-12T02:10:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 12, 2:06 AM ET",
+   "minutes_on_list": 110,
+   "notable": true,
+   "official_line": {
+    "published": "2026-11-12 18:52:55",
+    "source": "Tencent News 腾讯网",
+    "title": "炸裂！邝港杰全招了！得知蔡天凤被父亲肢解后崩溃大哭，直呼“画面震撼”",
+    "url": "https://new.qq.com/rain/a/20261112A0CNAV00"
+   },
+   "official_line_zh": null,
+   "peak_rank": 2,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-deb20304e947",
+   "title_en": "",
+   "title_zh": "50多岁老师因学生顶嘴崩溃大哭",
+   "url": "https://www.toutiao.com/trending/7707107258035110450/"
   },
   {
    "day": "2026-11-12",
@@ -110,6 +148,44 @@
    "title_en": "",
    "title_zh": "双11数据为何遇冷",
    "url": "https://www.toutiao.com/trending/7707190685211823635/"
+  },
+  {
+   "day": "2026-11-12",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 5:56 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 6:48 AM ET",
+    {
+     "published": "2026-10-23T18:02:15Z",
+     "source": "CDT 404 Archive 404文库",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://chinadigitaltimes.net/chinese/733163.html"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 12, 5:45 AM ET",
+   "first_missing_iso": "2026-11-12T05:45:00-05:00",
+   "first_seen_et": "Nov 12, 3:07 AM ET",
+   "key": "baidu|“甲醛白菜”等18起案件被挂牌督办|2026-11-12T05:45:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 12, 5:40 AM ET",
+   "minutes_on_list": 153,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-12 17:14:00",
+    "source": "Jiemian 界面新闻",
+    "title": "界面晚报 | “甲醛白菜”等食品安全重大案件被挂牌督办；“十五五”我国将重拳打击财务造假",
+    "url": "https://www.jiemian.com/article/15324202.html"
+   },
+   "official_line_zh": null,
+   "peak_rank": 5,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-c9290990781a",
+   "title_en": "",
+   "title_zh": "“甲醛白菜”等18起案件被挂牌督办",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E2%80%9D%E7%AD%8918%E8%B5%B7%E6%A1%88%E4%BB%B6%E8%A2%AB%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E"
   }
  ]
 }
