@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-11 22:53 ET",
+ "generated_at_et": "2026-11-12 01:05 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 5,
  "cut": {
-  "flagged": 71,
+  "flagged": 66,
   "came back once before": 0,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 22,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 17,
   "slid down before leaving": 0,
   "on the list a normal length of time": 27,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 3,
+  "still on another hot list": 2,
   "left with other flagged topics (batch drop)": 7,
-  "retitled": 1,
-  "topic still on the list": 1,
+  "retitled": 2,
+  "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 5
  },
  "items": [
   {
@@ -105,8 +105,8 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/itnews/20261112/2380036.html",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/finance/world/story20261112-9985962?ref=today-news-section-card-2",
      "published": null
     },
     {
@@ -175,56 +175,17 @@
    "first_missing_et": "Nov 11, 8:43 PM ET",
    "minutes_on_list": 50,
    "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E7%96%AF%E7%8B%82%E5%B0%8F%E9%A9%AC%E5%93%A5%E2%80%9D%E7%A6%BB%E4%B8%96",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "27岁网红“疯狂小马哥”离世 直播PK时被要求喝20瓶酒，中途猝死！类似的悲剧不是第一次了！拿命换流量何时休！",
+    "url": "https://new.qq.com/rain/a/20261112V087GO00",
+    "published": "2026-11-12 13:46:23"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #6 → #6 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 11, 8:57 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 9:53 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "山东回礼大连",
-   "title_en": "Shandong Returns the Favor to Dalian",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 10, 10:29 PM ET",
-   "last_seen_et": "Nov 10, 11:51 PM ET",
-   "first_missing_et": "Nov 10, 11:56 PM ET",
-   "minutes_on_list": 82,
-   "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9B%9E%E7%A4%BC%E5%A4%A7%E8%BF%9E",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #10 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 12:16 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 1:00 AM ET"
-   ]
-  },
-  {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "跟随记者探访航空航天特展",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 11, 12:01 AM ET",
-   "last_seen_et": "Nov 11, 12:42 AM ET",
-   "first_missing_et": "Nov 11, 12:49 AM ET",
-   "minutes_on_list": 41,
-   "url": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E9%9A%8F%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E7%89%B9%E5%B1%95",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #8 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 1:01 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 1:49 AM ET"
    ]
   }
  ]

@@ -186,9 +186,9 @@
     },
     {
      "published": null,
-     "source": "Bannedbook 禁闻网",
+     "source": "Lianhe Zaobao 联合早报",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.bannedbook.org/bnews/itnews/20261112/2380036.html"
+     "url": "https://www.zaobao.com.sg/finance/world/story20261112-9985962?ref=today-news-section-card-2"
     },
     {
      "published": null,
@@ -266,8 +266,13 @@
    "last_seen_et": "Nov 11, 8:40 PM ET",
    "minutes_on_list": 50,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-12 13:46:23",
+    "source": "Tencent News 腾讯网",
+    "title": "27岁网红“疯狂小马哥”离世 直播PK时被要求喝20瓶酒，中途猝死！类似的悲剧不是第一次了！拿命换流量何时休！",
+    "url": "https://new.qq.com/rain/a/20261112V087GO00"
+   },
+   "official_line_zh": null,
    "peak_rank": 5,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
