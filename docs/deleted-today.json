@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-11-12 02:10 ET",
+ "generated_at_et": "2026-11-12 03:17 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 4,
  "cut": {
-  "flagged": 67,
+  "flagged": 72,
   "came back once before": 0,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 18,
+  "gone under 60 min": 10,
+  "not in the top 10 when it left": 19,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 25,
+  "on the list a normal length of time": 24,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 7,
+  "still on another hot list": 8,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 1,
   "topic still on the list": 0,
   "same story as a kept item": 0,
@@ -107,7 +107,7 @@
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/finance/world/story20261112-9985962?ref=today-news-section-card-6",
+     "url": "https://www.zaobao.com.sg/finance/world/story20261112-9985962?ref=today-news-section-card-9",
      "published": null
     },
     {
