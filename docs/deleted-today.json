@@ -1,50 +1,114 @@
 {
- "generated_at_et": "2026-11-11 20:41 ET",
+ "generated_at_et": "2026-11-11 21:48 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 8,
  "cut": {
-  "flagged": 72,
+  "flagged": 70,
   "came back once before": 1,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 24,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 22,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 27,
+  "on the list a normal length of time": 26,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 0,
+  "still on another hot list": 1,
   "left with other flagged topics (batch drop)": 6,
   "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 8
  },
  "items": [
   {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "柏大卫的湟源乡愁跨越太平洋",
-   "title_en": "David Bai’s Nostalgia for Huan源 Crosses the Pacific",
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "美股科技股再续昂扬反弹",
+   "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 10, 8:23 PM ET",
-   "last_seen_et": "Nov 10, 9:07 PM ET",
-   "first_missing_et": "Nov 10, 9:12 PM ET",
-   "minutes_on_list": 43,
-   "url": "https://search.bilibili.com/all?keyword=%E6%9F%8F%E5%A4%A7%E5%8D%AB%E7%9A%84%E6%B9%9F%E6%BA%90%E4%B9%A1%E6%84%81%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 11, 6:12 PM ET",
+   "last_seen_et": "Nov 11, 8:09 PM ET",
+   "first_missing_et": "Nov 11, 8:15 PM ET",
+   "minutes_on_list": 117,
+   "url": "https://www.toutiao.com/trending/7707050204091911730/",
    "official_line": {
-    "source": "Xinhua 新华网",
-    "title": "美国老人柏大卫跨越太平洋的中国乡愁",
-    "url": "https://www.news.cn/politics/20261112/51352875ed324943b2e8e7bff325bbb0/c.html",
-    "published": "2026-11-12"
+    "source": "Cailian Press 财联社",
+    "title": "【早报】美股科技股，集体大幅走高；原油上行、黄金承压",
+    "url": "https://www.cls.cn/detail/2532081",
+    "published": ""
    },
    "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #3 → #3 → #8 → #6 → #6 → #3",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 9:23 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 10, 10:21 PM ET"
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #9 → #5 → #5 → #5 → #7 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 8:29 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 9:18 PM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "英伟达被曝考虑任命临时首席执行官",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 11, 7:07 PM ET",
+   "last_seen_et": "Nov 11, 8:05 PM ET",
+   "first_missing_et": "Nov 11, 8:09 PM ET",
+   "minutes_on_list": 58,
+   "url": "https://www.toutiao.com/trending/7707065433639095859/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 8:29 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 11, 9:18 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/38919",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/38920",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 美国之音 VOA",
+     "url": "https://t.me/voachinese/14766",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/38947",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "RFI Chinese 法广",
+     "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E7%88%86%E5%A9%9A%E5%A4%96%E6%83%85-%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%87%86%E5%A4%87%E8%A7%A3%E9%99%A4%E5%85%B6%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%81%8C%E5%8A%A1",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/38948",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/38935",
+     "published": null
+    }
    ]
   },
   {
@@ -94,28 +158,22 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "妈妈去学校探望儿子 儿子举动太暖了",
-   "title_en": "Mom Visits Her Son at School—His Gesture Is So Heartwarming",
+   "title_zh": "27岁网红“疯狂小马哥”离世",
+   "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
    "peak_rank": 5,
-   "first_seen_et": "Nov 11, 1:43 AM ET",
-   "last_seen_et": "Nov 11, 3:32 AM ET",
-   "first_missing_et": "Nov 11, 3:35 AM ET",
-   "minutes_on_list": 109,
-   "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%8E%BB%E5%AD%A6%E6%A0%A1%E6%8E%A2%E6%9C%9B%E5%84%BF%E5%AD%90+%E5%84%BF%E5%AD%90%E4%B8%BE%E5%8A%A8%E5%A4%AA%E6%9A%96%E4%BA%86",
-   "official_line": {
-    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "妈妈去学校探望儿子，男孩下意识举动好暖！",
-    "url": "https://www.peopleapp.com/column/30053536549-500007780864",
-    "published": "2026-11-10T23:41:26Z"
-   },
-   "official_line_zh": null,
+   "first_seen_et": "Nov 11, 7:50 PM ET",
+   "last_seen_et": "Nov 11, 8:40 PM ET",
+   "first_missing_et": "Nov 11, 8:43 PM ET",
+   "minutes_on_list": 50,
+   "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E7%96%AF%E7%8B%82%E5%B0%8F%E9%A9%AC%E5%93%A5%E2%80%9D%E7%A6%BB%E4%B8%96",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #50 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 3:50 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 11, 4:39 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #6 → #6 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 11, 8:57 PM ET"
    ]
   },
   {
