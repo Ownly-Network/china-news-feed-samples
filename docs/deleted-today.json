@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-12 05:34 ET",
+ "generated_at_et": "2026-11-12 06:41 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 5,
  "cut": {
-  "flagged": 70,
-  "came back once before": 1,
-  "gone under 60 min": 7,
+  "flagged": 81,
+  "came back once before": 2,
+  "gone under 60 min": 12,
   "not in the top 10 when it left": 18,
-  "slid down before leaving": 0,
-  "on the list a normal length of time": 26,
+  "slid down before leaving": 1,
+  "on the list a normal length of time": 28,
   "inside the list's normal rotation": 1,
   "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 4,
+  "left with other flagged topics (batch drop)": 6,
   "retitled": 2,
-  "topic still on the list": 0,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 5
  },
  "items": [
   {
@@ -106,12 +106,6 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/itnews/20261112/2380141.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: RFI 华语",
      "url": "https://t.me/RFI_Cn/38935",
      "published": null
@@ -133,10 +127,10 @@
    "minutes_on_list": 48,
    "url": "https://www.toutiao.com/trending/7706212753371070527/",
    "official_line": {
-    "source": "Jiemian 界面新闻",
-    "title": "张雪收回捐赠承诺转向扶持小车手，韩红基金会回应",
-    "url": "https://www.jiemian.com/article/15325469.html",
-    "published": "2026-11-12 17:11:00"
+    "source": "Tencent News 腾讯网",
+    "title": "潮评丨不能因为张雪改捐，就认定韩红基金会有猫腻",
+    "url": "https://new.qq.com/rain/a/20261112A0C1BJ00",
+    "published": "2026-11-12 18:09:15"
    },
    "official_line_zh": null,
    "evidence": [
@@ -148,45 +142,6 @@
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "url": "https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3%23&t=31&band_rank=16&Refer=top",
      "published": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "女子产后患病遭丈夫拒门外带女婴流浪",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 12, 2:40 AM ET",
-   "last_seen_et": "Nov 12, 3:31 AM ET",
-   "first_missing_et": "Nov 12, 3:37 AM ET",
-   "minutes_on_list": 51,
-   "url": "https://www.toutiao.com/trending/7706930479240512038/",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "女子在夜市摆摊卖花甲粉还债 和丈夫两年多已还50万元",
-    "url": "https://www.163.com/dy/article/LBGBE33P053469LG.html",
-    "published": "2026-11-12 13:51:43"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #6 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 3:52 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 4:45 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E9%81%AD%E4%B8%88%E5%A4%AB%E6%8B%92%E9%97%A8%E5%A4%96%E6%AF%8F%E6%9C%88%E8%8D%AF%E8%B4%B96%E5%8D%83%23&t=31&band_rank=7&Refer=top",
-     "published": "2026-11-12"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Kanzhongguo / Secret China 看中国",
-     "url": "https://www.secretchina.com/news/gb/2026/11/12/1107335.html",
-     "published": null
     }
    ]
   },
