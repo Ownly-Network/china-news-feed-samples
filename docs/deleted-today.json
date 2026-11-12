@@ -1,30 +1,30 @@
 {
- "generated_at_et": "2026-11-12 01:05 ET",
+ "generated_at_et": "2026-11-12 02:10 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 4,
  "cut": {
-  "flagged": 66,
+  "flagged": 67,
   "came back once before": 0,
   "gone under 60 min": 4,
-  "not in the top 10 when it left": 17,
+  "not in the top 10 when it left": 18,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 27,
+  "on the list a normal length of time": 25,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 2,
+  "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 7,
-  "retitled": 2,
+  "retitled": 1,
   "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 5
+  "kept": 4
  },
  "items": [
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "美股科技股再续昂扬反弹",
-   "title_en": "",
+   "title_en": "U.S. Tech Stocks Continue Their Strong Rebound",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -34,24 +34,25 @@
    "first_missing_et": "Nov 11, 8:15 PM ET",
    "minutes_on_list": 117,
    "url": "https://www.toutiao.com/trending/7707050204091911730/",
-   "official_line": {
-    "source": "Cailian Press 财联社",
-    "title": "【早报】美股科技股，集体大幅走高；原油上行、黄金承压",
-    "url": "https://www.cls.cn/detail/2532081",
-    "published": ""
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #9 → #5 → #5 → #5 → #7 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 8:29 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 9:18 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 9:18 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "FT Chinese FT中文网",
+     "url": "https://www.ftchinese.com/story/001111345",
+     "published": null
+    }
    ]
   },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "英伟达被曝考虑任命临时首席执行官",
-   "title_en": "",
+   "title_en": "NVIDIA Reportedly Considering Appointing an Interim CEO",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -106,7 +107,7 @@
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/finance/world/story20261112-9985962?ref=today-news-section-card-2",
+     "url": "https://www.zaobao.com.sg/finance/world/story20261112-9985962?ref=today-news-section-card-6",
      "published": null
     },
     {
@@ -121,7 +122,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "18岁“双11”不再疯狂",
-   "title_en": "",
+   "title_en": "At 18, “Double 11” Is No Longer a Frenzy",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -143,7 +144,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "特朗普写给拜登的信全文曝光",
-   "title_en": "",
+   "title_en": "Full Text of Trump's Letter to Biden Revealed",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -159,33 +160,6 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 4:26 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 5:21 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "27岁网红“疯狂小马哥”离世",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 11, 7:50 PM ET",
-   "last_seen_et": "Nov 11, 8:40 PM ET",
-   "first_missing_et": "Nov 11, 8:43 PM ET",
-   "minutes_on_list": 50,
-   "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E7%96%AF%E7%8B%82%E5%B0%8F%E9%A9%AC%E5%93%A5%E2%80%9D%E7%A6%BB%E4%B8%96",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "27岁网红“疯狂小马哥”离世 直播PK时被要求喝20瓶酒，中途猝死！类似的悲剧不是第一次了！拿命换流量何时休！",
-    "url": "https://new.qq.com/rain/a/20261112V087GO00",
-    "published": "2026-11-12 13:46:23"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #6 → #6 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 11, 8:57 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 9:53 PM ET"
    ]
   }
  ]
