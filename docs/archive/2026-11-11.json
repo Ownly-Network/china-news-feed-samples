@@ -138,7 +138,7 @@
    "platform": "bilibili",
    "platform_name": "Bilibili 哔哩哔哩",
    "slug": "bilibili-9764d992de41",
-   "title_en": "",
+   "title_en": "2026 Golden Joystick Awards",
    "title_zh": "2026金摇杆年度游戏颁奖",
    "url": "https://search.bilibili.com/all?keyword=2026%E9%87%91%E6%91%87%E6%9D%86%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E9%A2%81%E5%A5%96"
   },
@@ -183,6 +183,12 @@
      "source": "Telegram: RFI 华语",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/RFI_Cn/38948"
+    },
+    {
+     "published": null,
+     "source": "Bannedbook 禁闻网",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.bannedbook.org/bnews/itnews/20261112/2380141.html"
     },
     {
      "published": null,

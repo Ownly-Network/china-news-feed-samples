@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-12 04:31 ET",
+ "generated_at_et": "2026-11-12 05:34 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 6,
  "cut": {
-  "flagged": 66,
+  "flagged": 70,
   "came back once before": 1,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 19,
+  "gone under 60 min": 7,
+  "not in the top 10 when it left": 18,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 25,
-  "inside the list's normal rotation": 2,
-  "still on another hot list": 6,
+  "on the list a normal length of time": 26,
+  "inside the list's normal rotation": 1,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 4,
-  "retitled": 1,
+  "retitled": 2,
   "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 4
+  "kept": 6
  },
  "items": [
   {
@@ -106,6 +106,12 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Bannedbook 禁闻网",
+     "url": "https://www.bannedbook.org/bnews/itnews/20261112/2380141.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: RFI 华语",
      "url": "https://t.me/RFI_Cn/38935",
      "published": null
@@ -146,25 +152,86 @@
    ]
   },
   {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "18岁“双11”不再疯狂",
-   "title_en": "At 18, “Double 11” Is No Longer a Frenzy",
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "女子产后患病遭丈夫拒门外带女婴流浪",
+   "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 11, 3:00 AM ET",
-   "last_seen_et": "Nov 11, 4:40 AM ET",
-   "first_missing_et": "Nov 11, 4:45 AM ET",
-   "minutes_on_list": 100,
-   "url": "https://www.baidu.com/s?wd=18%E5%B2%81%E2%80%9C%E5%8F%8C11%E2%80%9D%E4%B8%8D%E5%86%8D%E7%96%AF%E7%8B%82",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 12, 2:40 AM ET",
+   "last_seen_et": "Nov 12, 3:31 AM ET",
+   "first_missing_et": "Nov 12, 3:37 AM ET",
+   "minutes_on_list": 51,
+   "url": "https://www.toutiao.com/trending/7706930479240512038/",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "女子在夜市摆摊卖花甲粉还债 和丈夫两年多已还50万元",
+    "url": "https://www.163.com/dy/article/LBGBE33P053469LG.html",
+    "published": "2026-11-12 13:51:43"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #6 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 3:52 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 4:45 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E9%81%AD%E4%B8%88%E5%A4%AB%E6%8B%92%E9%97%A8%E5%A4%96%E6%AF%8F%E6%9C%88%E8%8D%AF%E8%B4%B96%E5%8D%83%23&t=31&band_rank=7&Refer=top",
+     "published": "2026-11-12"
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Kanzhongguo / Secret China 看中国",
+     "url": "https://www.secretchina.com/news/gb/2026/11/12/1107335.html",
+     "published": null
+    }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "双11数据为何遇冷",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 12, 3:37 AM ET",
+   "last_seen_et": "Nov 12, 4:10 AM ET",
+   "first_missing_et": "Nov 12, 4:16 AM ET",
+   "minutes_on_list": 33,
+   "url": "https://www.toutiao.com/trending/7707190685211823635/",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 5:01 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 5:57 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #8 → #8 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 4:45 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 5:17 AM ET"
+   ]
+  },
+  {
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "title_zh": "2026金摇杆年度游戏颁奖",
+   "title_en": "2026 Golden Joystick Awards",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 11, 1:05 PM ET",
+   "last_seen_et": "Nov 11, 2:27 PM ET",
+   "first_missing_et": "Nov 11, 2:32 PM ET",
+   "minutes_on_list": 82,
+   "url": "https://search.bilibili.com/all?keyword=2026%E9%87%91%E6%91%87%E6%9D%86%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E9%A2%81%E5%A5%96",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 2:44 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 3:32 PM ET"
    ]
   }
  ]

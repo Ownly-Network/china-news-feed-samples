@@ -1,5 +1,5 @@
 {
- "count": 1,
+ "count": 3,
  "date": "2026-11-12",
  "items": [
   {
@@ -39,6 +39,77 @@
    "title_en": "Han Hong Foundation Responds to Zhang Xue's Change of Heart",
    "title_zh": "韩红基金会回应张雪改口",
    "url": "https://www.toutiao.com/trending/7706212753371070527/"
+  },
+  {
+   "day": "2026-11-12",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #6 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 3:52 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 4:45 AM ET",
+    {
+     "published": "2026-11-12",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E9%81%AD%E4%B8%88%E5%A4%AB%E6%8B%92%E9%97%A8%E5%A4%96%E6%AF%8F%E6%9C%88%E8%8D%AF%E8%B4%B96%E5%8D%83%23&t=31&band_rank=7&Refer=top"
+    },
+    {
+     "published": null,
+     "source": "Kanzhongguo / Secret China 看中国",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.secretchina.com/news/gb/2026/11/12/1107335.html"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 12, 3:37 AM ET",
+   "first_missing_iso": "2026-11-12T03:37:00-05:00",
+   "first_seen_et": "Nov 12, 2:40 AM ET",
+   "key": "toutiao|女子产后患病遭丈夫拒门外带女婴流浪|2026-11-12T03:37:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 12, 3:31 AM ET",
+   "minutes_on_list": 51,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-12 13:51:43",
+    "source": "NetEase News 网易新闻",
+    "title": "女子在夜市摆摊卖花甲粉还债 和丈夫两年多已还50万元",
+    "url": "https://www.163.com/dy/article/LBGBE33P053469LG.html"
+   },
+   "official_line_zh": null,
+   "peak_rank": 5,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-dc5d54fe3003",
+   "title_en": "",
+   "title_zh": "女子产后患病遭丈夫拒门外带女婴流浪",
+   "url": "https://www.toutiao.com/trending/7706930479240512038/"
+  },
+  {
+   "day": "2026-11-12",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #8 → #8 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 4:45 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 5:17 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 12, 4:16 AM ET",
+   "first_missing_iso": "2026-11-12T04:16:00-05:00",
+   "first_seen_et": "Nov 12, 3:37 AM ET",
+   "key": "toutiao|双11数据为何遇冷|2026-11-12T04:16:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 12, 4:10 AM ET",
+   "minutes_on_list": 33,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-d8a6ba6cfc71",
+   "title_en": "",
+   "title_zh": "双11数据为何遇冷",
+   "url": "https://www.toutiao.com/trending/7707190685211823635/"
   }
  ]
 }
