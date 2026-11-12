@@ -7,19 +7,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #18 → #5 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 1:55 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 2:44 AM ET",
-    {
-     "published": "2026-11-12",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3%23&t=31&band_rank=16&Refer=top"
-    },
-    {
-     "published": null,
-     "source": "World Journal 世界日報 (US)",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.worldjournal.com/wj/story/121344/9874160"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 2:44 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 12, 1:39 AM ET",
@@ -31,13 +19,8 @@
    "last_seen_et": "Nov 12, 1:35 AM ET",
    "minutes_on_list": 48,
    "notable": true,
-   "official_line": {
-    "published": "2026-11-12 19:40:00",
-    "source": "Tencent News 腾讯网",
-    "title": "张雪取消赛车捐赠！曾喊话韩红基金会晒救护车发票，官方体面回应",
-    "url": "https://new.qq.com/rain/a/20261112A0CZXD00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 2,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",

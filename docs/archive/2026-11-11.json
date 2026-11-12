@@ -227,12 +227,6 @@
      "source": "FT Chinese FT中文网",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.ftchinese.com/story/001111345"
-    },
-    {
-     "published": null,
-     "source": "Epoch Times Chinese 大纪元",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.epochtimes.com/b5/26/11/12/n14887837.htm"
     }
    ],
    "evidence_strength": "standard",
@@ -245,13 +239,8 @@
    "last_seen_et": "Nov 11, 8:09 PM ET",
    "minutes_on_list": 117,
    "notable": true,
-   "official_line": {
-    "published": "2026-11-12T20:47:06",
-    "source": "Yicai 第一财经",
-    "title": "科技股频频冲高回落，谁在借反弹离场？",
-    "url": "https://www.yicai.com/news/103438573.html"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 1,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",

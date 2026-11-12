@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-12 09:03 ET",
+ "generated_at_et": "2026-11-12 10:11 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 5,
  "cut": {
-  "flagged": 87,
-  "came back once before": 3,
-  "gone under 60 min": 4,
+  "flagged": 91,
+  "came back once before": 5,
+  "gone under 60 min": 3,
   "not in the top 10 when it left": 26,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 26,
+  "on the list a normal length of time": 27,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 6,
+  "still on another hot list": 10,
   "left with other flagged topics (batch drop)": 6,
   "retitled": 2,
-  "topic still on the list": 3,
+  "topic still on the list": 2,
   "same story as a kept item": 2,
-  "kept": 6
+  "kept": 5
  },
  "items": [
   {
@@ -34,13 +34,8 @@
    "first_missing_et": "Nov 11, 8:15 PM ET",
    "minutes_on_list": 117,
    "url": "https://www.toutiao.com/trending/7707050204091911730/",
-   "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "科技股频频冲高回落，谁在借反弹离场？",
-    "url": "https://www.yicai.com/news/103438573.html",
-    "published": "2026-11-12T20:47:06"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #9 → #5 → #5 → #5 → #7 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 8:29 PM ET",
@@ -49,81 +44,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "FT Chinese FT中文网",
      "url": "https://www.ftchinese.com/story/001111345",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Epoch Times Chinese 大纪元",
-     "url": "https://www.epochtimes.com/b5/26/11/12/n14887837.htm",
-     "published": null
-    }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "英伟达被曝考虑任命临时首席执行官",
-   "title_en": "NVIDIA Reportedly Considering Appointing an Interim CEO",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 11, 7:07 PM ET",
-   "last_seen_et": "Nov 11, 8:05 PM ET",
-   "first_missing_et": "Nov 11, 8:09 PM ET",
-   "minutes_on_list": 58,
-   "url": "https://www.toutiao.com/trending/7707065433639095859/",
-   "official_line": {
-    "source": "36Kr",
-    "title": "英伟达首席执行官黄仁勋辞职",
-    "url": "https://36kr.com/newsflashes/4066827553543043?f=rss",
-    "published": "2026-11-12T13:50:55Z"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 8:29 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 11, 9:18 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: RFI 华语",
-     "url": "https://t.me/RFI_Cn/38919",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: RFI 华语",
-     "url": "https://t.me/RFI_Cn/38920",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 美国之音 VOA",
-     "url": "https://t.me/voachinese/14766",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: RFI 华语",
-     "url": "https://t.me/RFI_Cn/38947",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "RFI Chinese 法广",
-     "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E7%88%86%E5%A9%9A%E5%A4%96%E6%83%85-%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%87%86%E5%A4%87%E8%A7%A3%E9%99%A4%E5%85%B6%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%81%8C%E5%8A%A1",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: RFI 华语",
-     "url": "https://t.me/RFI_Cn/38948",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: RFI 华语",
-     "url": "https://t.me/RFI_Cn/38935",
      "published": null
     }
    ]
@@ -164,29 +84,12 @@
    "first_missing_et": "Nov 12, 1:39 AM ET",
    "minutes_on_list": 48,
    "url": "https://www.toutiao.com/trending/7706212753371070527/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "张雪取消赛车捐赠！曾喊话韩红基金会晒救护车发票，官方体面回应",
-    "url": "https://new.qq.com/rain/a/20261112A0CZXD00",
-    "published": "2026-11-12 19:40:00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #18 → #5 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 1:55 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 2:44 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3%23&t=31&band_rank=16&Refer=top",
-     "published": "2026-11-12"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "World Journal 世界日報 (US)",
-     "url": "https://www.worldjournal.com/wj/story/121344/9874160",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 2:44 AM ET"
    ]
   },
   {
