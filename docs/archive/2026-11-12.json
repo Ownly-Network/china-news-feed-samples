@@ -362,6 +362,12 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 7:58 PM ET",
     {
      "published": null,
+     "source": "Epoch Times Chinese 大纪元",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.epochtimes.com/b5/26/11/13/n14888474.htm"
+    },
+    {
+     "published": null,
      "source": "DW Chinese 德国之声",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.dw.com/zh/黄仁勋辞职-中企忧美收紧监管-忙抢租海外英伟达算力/a-79929183?maca=chi-rss-chi-all-1127-rdf"
@@ -380,21 +386,27 @@
     },
     {
      "published": null,
-     "source": "NTD 新唐人電視台",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.ntdtv.com/b5/2026/11/13/a104150507.html"
-    },
-    {
-     "published": null,
      "source": "NZ Chinese Herald 新西兰中文先驱报",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.chineseherald.co.nz/news/property/musk-speaks-out-for-jensen-huang/"
     },
     {
      "published": null,
+     "source": "Ming Pao 明報",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQbkE2QWNvbEhnbUZkZ01FdllUNGhjdHZFc3BZMFVFQjktemItUjNXMFhMSnpZVlBxM1FhTnR5M3o3RUNsdks5UjI1Tm5xankyLXNHYkU0T0tqdUd4N1Ewc2c0TEhCTGhwYnBQRHFybnJUY1gtSnM0TzNBQWRnalZqUkdpeHlmQW16WGhlT0ZFWHB0MnBucHBHbFA0SjBOd29PbGtwR3RyQWlLVHZUQ29aNDh0R3RPWXZfY2xWYk1OVTNzWDRXMzZCZnlkOTlVOXRNSlVMN0lUTnIyenF5dEc0cG5DMDExMHd2MnFQS2t6cEU3RDYzdnhhT2xKNDhrd3dwZXNnWEJOZWhTa3FDSC1aYlVFVHZFVk1wUEo5ZDVzZjN5RlpKdUdQanprLW9TVi1YUFhybTRvME1KU1p6MEJLUXZuNm5nUzJJbXZjYm9WZDZqSV9QUXJsOHJwUEp5UzloaVNReEtxOHh6bnpkYUFWZEo4UnZPX0puRXVlZTN5VnR3eEpRREczX2ZDSHY1QXhQaFljZzdTU0xFb1F5ZVgzdmI0R1h3NjFyTTNhamZpTE5aMXhTVzZ0Qk5uNHNSV3dHYnFtOTFTQ3FvTnllR0k4RGxpTkI3X09LS1ZRUTAzc2o5VkxsenJqOEVwcw?oc=5"
+    },
+    {
+     "published": null,
      "source": "BBC News Chinese BBC中文",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/trad?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "published": null,
+     "source": "YouTube: BBC News 中文",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/bBetV532WZI"
     },
     {
      "published": null,
@@ -428,9 +440,15 @@
     },
     {
      "published": null,
-     "source": "United Daily News 聯合新聞網",
+     "source": "Sing Tao Daily USA 星島日報 (美國)",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://udn.com/news/story/7339/9877952"
+     "url": "https://www.singtaousa.com/2026/11/13/news/usa/news-nvidia-jensen-huang-dennys-founding-plaque/"
+    },
+    {
+     "published": null,
+     "source": "Sing Tao Daily USA 星島日報 (美國)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.singtaousa.com/2026/11/13/news/usa/how-jensen-huang-reportedly-unraveled-during-his-last-hours-at-nvidia-im-a-piece-of-s-t/"
     }
    ],
    "evidence_strength": "standard",
@@ -478,6 +496,12 @@
     },
     {
      "published": null,
+     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQTmVzZG1pY1o5YkpWYWVpYm1fdFNnbFBqZE1ib0tCOG00YjBCd21uV0Z0ZDEtQmdwb0NsaUhzXzlqeWFIZC14S1pyUFBIOXkzbjVFTDNRRU9PekpGVFVpMDkyUzhGSjV6NldpbloxbXJhVHRmU1VwMGdLOXVCRFFwSkJVam03OG1UVUdTSnZ6bXh3SzZ2UUJwYUYtN1M3Ukp0UlJKTnlDaktRLWdqR2hBTXFCQWVFMm9NTW5rLTJPNWxNTHNBQXh6WlhFSkVSQVQtbHZnMTlUbG03RGZKQUE4eHEwZWtsMmhUeV9Wd2Q0d2FyWEdiN1Z1bWVudG5Ba3JQVmhCUy12Ml8tQzdFcTZ5LWZ1cjNNV3MzaWI4cE94dllKY0VjMVpOMWdzMHZtR2RGOFd3VG1ocWV3cF9XaW8xQ1hKd1ZKb2xGcTlfZmF2em1JZEp3RXFGNXNRNUt5MUJRQ1NCc1k2STJLbGM2Z0I5ejBBVW5MdzdHUWFjVHJrUnRwaVVmSHhjTXNqWVhLUWRJbUNQb2dkZG5mNjRXNXVBdFVwTC1sZFZPX1I5b2RINlY3V2FUNVpZVw?oc=5"
+    },
+    {
+     "published": null,
      "source": "YouTube: RFI 华语",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.youtube.com/shorts/4abeZ_8UWis"
@@ -496,9 +520,15 @@
     },
     {
      "published": null,
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
+     "source": "Ming Pao 明報",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.singtaousa.com/2026/11/13/news/usa/what-know-outlook-365-other-apps-remain-down/"
+     "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNVTRwWmY3MjlLWkdpc1pXdkwwNnhPVlgwVUdXRmU0bjYwT0tqTnNOcEdQWFVVeW56dFNiRFRLWGE5cFpDd2ptam1OenhrYUdSZktHeEE5X19qcndEa0t1OTM5ZXlwbzVmeVBhWFVHbkJpTnUybXlTLWFYb0xYbDQ2X1NEZ1FXb2hBR0tNMGV0bVMyNmppVXBFRGh2QWtsX2pCajhvSFVaemRhVF9PWGlhWVl5NVk3SzI4cjB0TkhBR1pVWDJrcGdWbjNydVNDWU1XRmc3WXhfY3pzVzBVRXNFUi1JOXNiSC15N3pNYnJDc21ZN1Y5TG5udlhsUzU0bTlIcTJqUEVkV0RtVl9JOWZucVR3T3JPdUhEU1VyT0I0R0pzbE1UVzdlLVdnSEhlN0RucFNfNVRmU2VPRGxZN25JOS0waFlYbFo1MUNCTG9GcGRfOGdXdHFGYnluc1BvWTlSM01jZWpLSGctWDVsTjdBMW40MmVGVUQ2bkxXQ3piTDZRcXlSbFVXX1lhcE1qeVFqZVVzREdud2Y0Q1VQSWVCTDhtaFFIUFhtZk1RNEdCVlMxYzhIQ0FYb1RWdU8weGVOTWkxQjV6SXl2bFpnQlVoMURseVpQSmV2SHd4QmdDaXYzWmJXTnNWV2dmbFplUzhIdWJXSHNDX215bkUxd1F0WjR4X25uZW1KMHY4QjZ1bm44dGNQUFpNRmc0ajJKRTg?oc=5"
+    },
+    {
+     "published": null,
+     "source": "Telegram: 美国之音 VOA",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/voachinese/14815"
     }
    ],
    "evidence_strength": "standard",
@@ -512,10 +542,10 @@
    "minutes_on_list": 35,
    "notable": false,
    "official_line": {
-    "published": "2026-11-13T15:38:20Z",
-    "source": "IT Home IT之家",
-    "title": "大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展",
-    "url": "https://www.ithome.com/1/026/992.htm"
+    "published": "2026-11-14T02:32:07",
+    "source": "Yicai 第一财经",
+    "title": "微软就全球服务中断道歉 称故障非网络攻击所致",
+    "url": "https://www.yicai.com/news/103440622.html"
    },
    "official_line_zh": null,
    "peak_rank": 7,

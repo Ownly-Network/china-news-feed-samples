@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-13 13:02 ET",
+ "generated_at_et": "2026-11-13 15:27 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 12,
+ "count": 11,
  "cut": {
-  "flagged": 111,
+  "flagged": 108,
   "came back once before": 4,
   "gone under 60 min": 0,
   "not in the top 10 when it left": 51,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 26,
-  "inside the list's normal rotation": 1,
+  "on the list a normal length of time": 25,
+  "inside the list's normal rotation": 0,
   "still on another hot list": 2,
   "left with other flagged topics (batch drop)": 9,
   "retitled": 2,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 12
+  "kept": 11
  },
  "items": [
   {
@@ -39,13 +39,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:51 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:44 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 新唐人電視台 NTD Chinese",
-     "url": "https://t.me/NTDChinese/87171",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:44 AM ET"
    ]
   },
   {
@@ -128,23 +122,12 @@
    "first_missing_et": "Nov 13, 7:28 AM ET",
    "minutes_on_list": 63,
    "url": "https://www.toutiao.com/trending/7707610420705496639/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "高市早苗收到坏消息，北约二选一，先保欧洲抗俄，日本战略杠杆落空",
-    "url": "https://new.qq.com/rain/a/20261113A0BIM600",
-    "published": "2026-11-14 00:00:01"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #6 → #6 → #6 → #6 → #4 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "World Journal 世界日報 (US)",
-     "url": "https://www.worldjournal.com/wj/story/121480/9877980",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET"
    ]
   },
   {
@@ -174,6 +157,12 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 7:58 PM ET",
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Epoch Times Chinese 大纪元",
+     "url": "https://www.epochtimes.com/b5/26/11/13/n14888474.htm",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "DW Chinese 德国之声",
      "url": "https://www.dw.com/zh/黄仁勋辞职-中企忧美收紧监管-忙抢租海外英伟达算力/a-79929183?maca=chi-rss-chi-all-1127-rdf",
      "published": null
@@ -192,20 +181,26 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/11/13/a104150507.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "NZ Chinese Herald 新西兰中文先驱报",
      "url": "https://www.chineseherald.co.nz/news/property/musk-speaks-out-for-jensen-huang/",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Ming Pao 明報",
+     "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQbkE2QWNvbEhnbUZkZ01FdllUNGhjdHZFc3BZMFVFQjktemItUjNXMFhMSnpZVlBxM1FhTnR5M3o3RUNsdks5UjI1Tm5xankyLXNHYkU0T0tqdUd4N1Ewc2c0TEhCTGhwYnBQRHFybnJUY1gtSnM0TzNBQWRnalZqUkdpeHlmQW16WGhlT0ZFWHB0MnBucHBHbFA0SjBOd29PbGtwR3RyQWlLVHZUQ29aNDh0R3RPWXZfY2xWYk1OVTNzWDRXMzZCZnlkOTlVOXRNSlVMN0lUTnIyenF5dEc0cG5DMDExMHd2MnFQS2t6cEU3RDYzdnhhT2xKNDhrd3dwZXNnWEJOZWhTa3FDSC1aYlVFVHZFVk1wUEo5ZDVzZjN5RlpKdUdQanprLW9TVi1YUFhybTRvME1KU1p6MEJLUXZuNm5nUzJJbXZjYm9WZDZqSV9QUXJsOHJwUEp5UzloaVNReEtxOHh6bnpkYUFWZEo4UnZPX0puRXVlZTN5VnR3eEpRREczX2ZDSHY1QXhQaFljZzdTU0xFb1F5ZVgzdmI0R1h3NjFyTTNhamZpTE5aMXhTVzZ0Qk5uNHNSV3dHYnFtOTFTQ3FvTnllR0k4RGxpTkI3X09LS1ZRUTAzc2o5VkxsenJqOEVwcw?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "BBC News Chinese BBC中文",
      "url": "https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/trad?at_medium=RSS&at_campaign=rss",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: BBC News 中文",
+     "url": "https://www.youtube.com/shorts/bBetV532WZI",
      "published": null
     },
     {
@@ -240,41 +235,14 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "United Daily News 聯合新聞網",
-     "url": "https://udn.com/news/story/7339/9877952",
+     "source": "Sing Tao Daily USA 星島日報 (美國)",
+     "url": "https://www.singtaousa.com/2026/11/13/news/usa/news-nvidia-jensen-huang-dennys-founding-plaque/",
      "published": null
-    }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "乌前总理顾问在莫斯科汽车爆炸中受伤",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 13, 9:40 AM ET",
-   "last_seen_et": "Nov 13, 11:24 AM ET",
-   "first_missing_et": "Nov 13, 11:30 AM ET",
-   "minutes_on_list": 104,
-   "url": "https://www.toutiao.com/trending/7707572021672247834/",
-   "official_line": {
-    "source": "RTHK 香港電台",
-    "title": "莫斯科发生汽车炸弹袭击 亲普京乌克兰前总理的顾问受伤 HKT 00:25",
-    "url": "https://news.rthk.hk/rthk/ch/component/k2/1877754-20261114.htm",
-    "published": "2026-11-14"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #29 → #32 → #37 → #38 → #38 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 11:41 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 12:31 PM ET",
+    },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 竹新社 (@tnews365)",
-     "url": "https://t.me/tnews365/35781",
+     "source": "Sing Tao Daily USA 星島日報 (美國)",
+     "url": "https://www.singtaousa.com/2026/11/13/news/usa/how-jensen-huang-reportedly-unraveled-during-his-last-hours-at-nvidia-im-a-piece-of-s-t/",
      "published": null
     }
    ]
@@ -316,10 +284,10 @@
    "minutes_on_list": 35,
    "url": "https://www.toutiao.com/trending/7707447963303284233/",
    "official_line": {
-    "source": "IT Home IT之家",
-    "title": "大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展",
-    "url": "https://www.ithome.com/1/026/992.htm",
-    "published": "2026-11-13T15:38:20Z"
+    "source": "Yicai 第一财经",
+    "title": "微软就全球服务中断道歉 称故障非网络攻击所致",
+    "url": "https://www.yicai.com/news/103440622.html",
+    "published": "2026-11-14T02:32:07"
    },
    "official_line_zh": null,
    "evidence": [
@@ -336,6 +304,12 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Lianhe Zaobao 联合早报",
      "url": "https://www.zaobao.com.sg/finance/singapore/story20261113-9991236?ref=today-news-section-card-1",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
+     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQTmVzZG1pY1o5YkpWYWVpYm1fdFNnbFBqZE1ib0tCOG00YjBCd21uV0Z0ZDEtQmdwb0NsaUhzXzlqeWFIZC14S1pyUFBIOXkzbjVFTDNRRU9PekpGVFVpMDkyUzhGSjV6NldpbloxbXJhVHRmU1VwMGdLOXVCRFFwSkJVam03OG1UVUdTSnZ6bXh3SzZ2UUJwYUYtN1M3Ukp0UlJKTnlDaktRLWdqR2hBTXFCQWVFMm9NTW5rLTJPNWxNTHNBQXh6WlhFSkVSQVQtbHZnMTlUbG03RGZKQUE4eHEwZWtsMmhUeV9Wd2Q0d2FyWEdiN1Z1bWVudG5Ba3JQVmhCUy12Ml8tQzdFcTZ5LWZ1cjNNV3MzaWI4cE94dllKY0VjMVpOMWdzMHZtR2RGOFd3VG1ocWV3cF9XaW8xQ1hKd1ZKb2xGcTlfZmF2em1JZEp3RXFGNXNRNUt5MUJRQ1NCc1k2STJLbGM2Z0I5ejBBVW5MdzdHUWFjVHJrUnRwaVVmSHhjTXNqWVhLUWRJbUNQb2dkZG5mNjRXNXVBdFVwTC1sZFZPX1I5b2RINlY3V2FUNVpZVw?oc=5",
      "published": null
     },
     {
@@ -358,8 +332,14 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
-     "url": "https://www.singtaousa.com/2026/11/13/news/usa/what-know-outlook-365-other-apps-remain-down/",
+     "source": "Ming Pao 明報",
+     "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNVTRwWmY3MjlLWkdpc1pXdkwwNnhPVlgwVUdXRmU0bjYwT0tqTnNOcEdQWFVVeW56dFNiRFRLWGE5cFpDd2ptam1OenhrYUdSZktHeEE5X19qcndEa0t1OTM5ZXlwbzVmeVBhWFVHbkJpTnUybXlTLWFYb0xYbDQ2X1NEZ1FXb2hBR0tNMGV0bVMyNmppVXBFRGh2QWtsX2pCajhvSFVaemRhVF9PWGlhWVl5NVk3SzI4cjB0TkhBR1pVWDJrcGdWbjNydVNDWU1XRmc3WXhfY3pzVzBVRXNFUi1JOXNiSC15N3pNYnJDc21ZN1Y5TG5udlhsUzU0bTlIcTJqUEVkV0RtVl9JOWZucVR3T3JPdUhEU1VyT0I0R0pzbE1UVzdlLVdnSEhlN0RucFNfNVRmU2VPRGxZN25JOS0waFlYbFo1MUNCTG9GcGRfOGdXdHFGYnluc1BvWTlSM01jZWpLSGctWDVsTjdBMW40MmVGVUQ2bkxXQ3piTDZRcXlSbFVXX1lhcE1qeVFqZVVzREdud2Y0Q1VQSWVCTDhtaFFIUFhtZk1RNEdCVlMxYzhIQ0FYb1RWdU8weGVOTWkxQjV6SXl2bFpnQlVoMURseVpQSmV2SHd4QmdDaXYzWmJXTnNWV2dmbFplUzhIdWJXSHNDX215bkUxd1F0WjR4X25uZW1KMHY4QjZ1bm44dGNQUFpNRmc0ajJKRTg?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 美国之音 VOA",
+     "url": "https://t.me/voachinese/14815",
      "published": null
     }
    ]

@@ -153,13 +153,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #6 → #6 → #6 → #6 → #4 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET",
-    {
-     "published": null,
-     "source": "World Journal 世界日報 (US)",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.worldjournal.com/wj/story/121480/9877980"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 13, 7:28 AM ET",
@@ -171,13 +165,8 @@
    "last_seen_et": "Nov 13, 7:20 AM ET",
    "minutes_on_list": 63,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-14 00:00:01",
-    "source": "Tencent News 腾讯网",
-    "title": "高市早苗收到坏消息，北约二选一，先保欧洲抗俄，日本战略杠杆落空",
-    "url": "https://new.qq.com/rain/a/20261113A0BIM600"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 4,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -191,13 +180,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:51 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:44 AM ET",
-    {
-     "published": null,
-     "source": "Telegram: 新唐人電視台 NTD Chinese",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://t.me/NTDChinese/87171"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:44 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 13, 8:40 AM ET",
