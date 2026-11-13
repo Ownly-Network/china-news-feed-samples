@@ -1,5 +1,5 @@
 {
- "count": 10,
+ "count": 11,
  "date": "2026-11-12",
  "items": [
   {
@@ -134,10 +134,10 @@
    "minutes_on_list": 153,
    "notable": false,
    "official_line": {
-    "published": "2026-11-12 16:05:00",
-    "source": "NetEase News 网易新闻",
-    "title": "“甲醛白菜”等18起涉食品安全重大犯罪案件被挂牌督办",
-    "url": "https://www.163.com/news/article/LBI0RQ9S0001899O.html"
+    "published": "2026-11-12 16:01:31",
+    "source": "Xuexi Qiangguo 学习强国",
+    "title": "18起涉食品安全重大犯罪案件被挂牌督办",
+    "url": "https://www.xuexi.cn/lgpage/detail/index.html?id=1621639437815035831&item_id=1621639437815035831"
    },
    "official_line_zh": null,
    "peak_rank": 5,
@@ -147,6 +147,33 @@
    "title_en": "",
    "title_zh": "“甲醛白菜”等18起案件被挂牌督办",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E2%80%9D%E7%AD%8918%E8%B5%B7%E6%A1%88%E4%BB%B6%E8%A2%AB%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E"
+  },
+  {
+   "day": "2026-11-12",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 7:17 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 8:04 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 12, 7:01 AM ET",
+   "first_missing_iso": "2026-11-12T07:01:00-05:00",
+   "first_seen_et": "Nov 12, 5:11 AM ET",
+   "key": "baidu|班主任崩溃大哭 教育不能只靠硬扛|2026-11-12T07:01:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 12, 6:56 AM ET",
+   "minutes_on_list": 105,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 8,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-36634db286cd",
+   "title_en": "",
+   "title_zh": "班主任崩溃大哭 教育不能只靠硬扛",
+   "url": "https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD+%E6%95%99%E8%82%B2%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E7%A1%AC%E6%89%9B"
   },
   {
    "day": "2026-11-12",
@@ -165,13 +192,8 @@
    "last_seen_et": "Nov 12, 7:56 AM ET",
    "minutes_on_list": 61,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-13 13:19:50",
-    "source": "Tencent News 腾讯网",
-    "title": "德芙广告宣扬错误婚恋观被罚80万：消费者买的是商品，别兜售价值观",
-    "url": "https://new.qq.com/rain/a/20261113A07IIS00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 6,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -410,10 +432,10 @@
    "minutes_on_list": 78,
    "notable": true,
    "official_line": {
-    "published": "2026-11-13 11:37:03",
-    "source": "Tencent News 腾讯网",
-    "title": "国内金饰价格集体下跌，金价回至一年前",
-    "url": "https://new.qq.com/rain/a/20261113A0670W00"
+    "published": "2026-11-13",
+    "source": "Caixin 财新网",
+    "title": "财新闻｜金价，跌回一年前",
+    "url": "https://mini.caixin.com/2026-11-13/102504289.html"
    },
    "official_line_zh": null,
    "peak_rank": 1,
