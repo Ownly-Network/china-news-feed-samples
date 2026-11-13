@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-13 17:35 ET",
+ "generated_at_et": "2026-11-13 18:40 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 11,
+ "count": 10,
  "cut": {
-  "flagged": 97,
+  "flagged": 98,
   "came back once before": 4,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 46,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 43,
   "slid down before leaving": 1,
   "on the list a normal length of time": 24,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 4,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 2,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 11
+  "kept": 10
  },
  "items": [
   {
@@ -39,7 +39,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:51 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:44 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:44 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/87171",
+     "published": null
+    }
    ]
   },
   {
@@ -133,111 +139,6 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "特朗普回应黄仁勋辞职",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 12, 6:17 PM ET",
-   "last_seen_et": "Nov 12, 6:47 PM ET",
-   "first_missing_et": "Nov 12, 6:52 PM ET",
-   "minutes_on_list": 31,
-   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "英伟达迎来“黄金坑”？黄仁勋辞职当天，散户30分钟创历史纪录买入",
-    "url": "https://new.qq.com/rain/a/20261114A0422A00",
-    "published": "2026-11-14 05:59:49"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 7:07 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 7:58 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Epoch Times Chinese 大纪元",
-     "url": "https://www.epochtimes.com/b5/26/11/13/n14888474.htm",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "DW Chinese 德国之声",
-     "url": "https://www.dw.com/zh/黄仁勋辞职-中企忧美收紧监管-忙抢租海外英伟达算力/a-79929183?maca=chi-rss-chi-all-1127-rdf",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 新唐人電視台 NTD Chinese",
-     "url": "https://t.me/NTDChinese/87188",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "BBC News Chinese BBC中文",
-     "url": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sing Tao Daily Canada 加拿大星島日報",
-     "url": "https://www.singtao.ca/7683830/2026-11-13/news-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7%EF%BD%9CNvidia%E6%93%AC%E6%89%BE%E8%88%8A%E5%B0%87%E6%8E%8CAI%E7%8E%8B%E5%9C%8B%EF%BC%9F%E5%82%B3%E8%91%A3%E4%BA%8B%E6%9C%83%E5%B7%B2%E6%8E%A5%E8%A7%B8Arm%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81Rene+Haas/",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "BBC News Chinese BBC中文",
-     "url": "https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/trad?at_medium=RSS&at_campaign=rss",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: BBC News 中文",
-     "url": "https://www.youtube.com/shorts/bBetV532WZI",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/nvidious/",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/jensen-huang-last-hours-before-resignation/",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "BBC News Chinese BBC中文",
-     "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "DW Chinese 德国之声",
-     "url": "https://www.dw.com/zh/黄仁勋辞职后，美国司法部长称-从没说过alice-huang是中国间谍/a-79938408?maca=chi-rss-chi-all-1127-rdf",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 联合早报 zaobao.sg",
-     "url": "https://www.youtube.com/watch?v=WQGSFJJwKds",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sing Tao Headline 星島頭條",
-     "url": "https://www.stheadline.com/realtime-world/3636972/黃仁勳辭職Nvidia擬找舊將掌AI王國傳董事會已接觸Arm行政總裁Rene-Haas",
-     "published": null
-    }
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
    "title_zh": "荷兰法院驳回路虎取证比亚迪申请",
    "title_en": "",
    "label": "Dropped off",
@@ -296,14 +197,14 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/finance/singapore/story20261113-9991236?ref=today-news-section-card-1",
+     "source": "Sing Tao Daily Europe 星島日報 (歐洲版)",
+     "url": "https://www.singtao.co.uk/2026-11-13/microsoft%e5%a4%a7%e3%80%8c%e6%ad%bb%e6%a9%9f%e3%80%8d%ef%bd%9c%e5%be%ae%e8%bb%9f%e7%a8%b1%e6%9c%8d%e5%8b%99%e5%b7%b2%e5%bb%a3%e6%b3%9b%e4%bf%ae%e5%be%a9-%e6%83%9f%e6%9a%ab%e7%84%a1%e5%85%a8%e9%9d%a2/4766928",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
-     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQTmVzZG1pY1o5YkpWYWVpYm1fdFNnbFBqZE1ib0tCOG00YjBCd21uV0Z0ZDEtQmdwb0NsaUhzXzlqeWFIZC14S1pyUFBIOXkzbjVFTDNRRU9PekpGVFVpMDkyUzhGSjV6NldpbloxbXJhVHRmU1VwMGdLOXVCRFFwSkJVam03OG1UVUdTSnZ6bXh3SzZ2UUJwYUYtN1M3Ukp0UlJKTnlDaktRLWdqR2hBTXFCQWVFMm9NTW5rLTJPNWxNTHNBQXh6WlhFSkVSQVQtbHZnMTlUbG03RGZKQUE4eHEwZWtsMmhUeV9Wd2Q0d2FyWEdiN1Z1bWVudG5Ba3JQVmhCUy12Ml8tQzdFcTZ5LWZ1cjNNV3MzaWI4cE94dllKY0VjMVpOMWdzMHZtR2RGOFd3VG1ocWV3cF9XaW8xQ1hKd1ZKb2xGcTlfZmF2em1JZEp3RXFGNXNRNUt5MUJRQ1NCc1k2STJLbGM2Z0I5ejBBVW5MdzdHUWFjVHJrUnRwaVVmSHhjTXNqWVhLUWRJbUNQb2dkZG5mNjRXNXVBdFVwTC1sZFZPX1I5b2RINlY3V2FUNVpZVw?oc=5",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/finance/singapore/story20261113-9991236?ref=today-news-section-card-1",
      "published": null
     },
     {
@@ -340,12 +241,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Sing Tao Headline 星島頭條",
      "url": "https://www.stheadline.com/realtime-world/3636978/Microsoft大死機微軟稱服務已廣泛修復-惟暫無全面恢復時間表",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 美国之音 VOA",
-     "url": "https://t.me/voachinese/14814",
      "published": null
     }
    ]

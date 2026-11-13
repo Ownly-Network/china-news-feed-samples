@@ -174,7 +174,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:51 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:44 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:44 AM ET",
+    {
+     "published": null,
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/NTDChinese/87171"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 13, 8:40 AM ET",
