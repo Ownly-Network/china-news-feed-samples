@@ -1,5 +1,5 @@
 {
- "count": 8,
+ "count": 9,
  "date": "2026-11-12",
  "items": [
   {
@@ -121,6 +121,12 @@
      "source": "CDT 404 Archive 404文库",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "url": "https://chinadigitaltimes.net/chinese/733163.html"
+    },
+    {
+     "published": null,
+     "source": "on.cc 東網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261113/bkn-20261113092620466-1113_00822_001.html"
     }
    ],
    "evidence_strength": "standard",
@@ -359,6 +365,37 @@
    "title_en": "",
    "title_zh": "黄仁勋辞职",
    "url": "https://www.toutiao.com/trending/7706197903018377242/"
+  },
+  {
+   "day": "2026-11-12",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:33 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 12, 10:21 PM ET",
+   "first_missing_iso": "2026-11-12T22:21:00-05:00",
+   "first_seen_et": "Nov 12, 8:57 PM ET",
+   "key": "toutiao|金价跌回一年前|2026-11-12T22:21:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 12, 10:15 PM ET",
+   "minutes_on_list": 78,
+   "notable": true,
+   "official_line": {
+    "published": "2026-11-13 11:42:24",
+    "source": "Tencent News 腾讯网",
+    "title": "跌回一年前！金饰年内降价超500 元，多家品牌跌破每克1200元",
+    "url": "https://new.qq.com/rain/a/20261113A069NN00"
+   },
+   "official_line_zh": null,
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-ee89a3fe776a",
+   "title_en": "",
+   "title_zh": "金价跌回一年前",
+   "url": "https://www.toutiao.com/trending/7706807749732548618/"
   }
  ]
 }
