@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-13 04:00 ET",
+ "generated_at_et": "2026-11-13 06:11 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 11,
  "cut": {
-  "flagged": 113,
-  "came back once before": 6,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 38,
-  "slid down before leaving": 2,
-  "on the list a normal length of time": 26,
+  "flagged": 101,
+  "came back once before": 5,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 40,
+  "slid down before leaving": 1,
+  "on the list a normal length of time": 22,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 13,
-  "retitled": 3,
-  "topic still on the list": 4,
-  "same story as a kept item": 2,
-  "kept": 9
+  "still on another hot list": 1,
+  "left with other flagged topics (batch drop)": 11,
+  "retitled": 2,
+  "topic still on the list": 5,
+  "same story as a kept item": 1,
+  "kept": 11
  },
  "items": [
   {
@@ -34,13 +34,8 @@
    "first_missing_et": "Nov 12, 10:21 PM ET",
    "minutes_on_list": 78,
    "url": "https://www.toutiao.com/trending/7706807749732548618/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "金价跌回850附近，品牌柜台还在1200，差在哪",
-    "url": "https://new.qq.com/rain/a/20261113A08QD600",
-    "published": "2026-11-13 14:48:56"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:33 PM ET",
@@ -61,13 +56,8 @@
    "first_missing_et": "Nov 13, 1:30 AM ET",
    "minutes_on_list": 54,
    "url": "https://www.baidu.com/s?wd=%E2%80%9C5%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%99%9A%E4%B8%8A%E5%9C%A8%E6%88%91%E5%AE%B6%E6%A5%BC%E9%A1%B6%E4%B8%8A%E9%97%B9%E8%85%BE%E2%80%9D",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "“楼上5个小孩晚上闹腾”，住户展示反击“绝招”，法规提示",
-    "url": "https://new.qq.com/rain/a/20261113A09XO600",
-    "published": "2026-11-13 16:11:13"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #19 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 1:52 AM ET",
@@ -89,10 +79,10 @@
    "minutes_on_list": 116,
    "url": "https://www.toutiao.com/trending/7706197903018377242/",
    "official_line": {
-    "source": "TMTPost 钛媒体",
-    "title": "黄仁勋辞职，英伟达为什么偏偏选中她…...",
-    "url": "https://www.tmtpost.com/8203680.html",
-    "published": "2026-11-13T08:41:42Z"
+    "source": "Yicai 第一财经",
+    "title": "黄仁勋辞职，英伟达路在何方",
+    "url": "https://www.yicai.com/news/103440238.html",
+    "published": "2026-11-13T18:29:15"
    },
    "official_line_zh": null,
    "evidence": [
@@ -104,12 +94,6 @@
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "url": "https://s.weibo.com//weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%23&t=31&band_rank=11&Refer=top",
      "published": "2026-11-13"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Up Media 上報",
-     "url": "https://www.upmedia.mg/tw/commentary/columnists/274091",
-     "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
@@ -137,6 +121,12 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/property/musk-speaks-out-for-jensen-huang/",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Ming Pao 明報",
      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQbkE2QWNvbEhnbUZkZ01FdllUNGhjdHZFc3BZMFVFQjktemItUjNXMFhMSnpZVlBxM1FhTnR5M3o3RUNsdks5UjI1Tm5xankyLXNHYkU0T0tqdUd4N1Ewc2c0TEhCTGhwYnBQRHFybnJUY1gtSnM0TzNBQWRnalZqUkdpeHlmQW16WGhlT0ZFWHB0MnBucHBHbFA0SjBOd29PbGtwR3RyQWlLVHZUQ29aNDh0R3RPWXZfY2xWYk1OVTNzWDRXMzZCZnlkOTlVOXRNSlVMN0lUTnIyenF5dEc0cG5DMDExMHd2MnFQS2t6cEU3RDYzdnhhT2xKNDhrd3dwZXNnWEJOZWhTa3FDSC1aYlVFVHZFVk1wUEo5ZDVzZjN5RlpKdUdQanprLW9TVi1YUFhybTRvME1KU1p6MEJLUXZuNm5nUzJJbXZjYm9WZDZqSV9QUXJsOHJwUEp5UzloaVNReEtxOHh6bnpkYUFWZEo4UnZPX0puRXVlZTN5VnR3eEpRREczX2ZDSHY1QXhQaFljZzdTU0xFb1F5ZVgzdmI0R1h3NjFyTTNhamZpTE5aMXhTVzZ0Qk5uNHNSV3dHYnFtOTFTQ3FvTnllR0k4RGxpTkI3X09LS1ZRUTAzc2o5VkxsenJqOEVwcw?oc=5",
      "published": null
@@ -149,20 +139,32 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
-     "url": "https://www.singtaousa.com/2026/11/12/news/usa/chinas-access-to-some-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress/",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/sohnews/20261113/2380515.html",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/international/nvidious/",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/nvidious/",
+     "url": "https://www.chineseherald.co.nz/news/international/jensen-huang-last-hours-before-resignation/",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "8world News 8视界",
+     "url": "https://www.8world.com/world/jensen-huangs-resignation-sparks-wave-of-support-from-nvidia-employees-3339741",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "BBC News Chinese BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Bannedbook 禁闻网",
+     "url": "https://www.bannedbook.org/bnews/sohnews/20261113/2380393.html",
      "published": null
     }
    ]
@@ -190,39 +192,6 @@
    ]
   },
   {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "“甲醛白菜”等18起案件被挂牌督办",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 12, 3:07 AM ET",
-   "last_seen_et": "Nov 12, 5:40 AM ET",
-   "first_missing_et": "Nov 12, 5:45 AM ET",
-   "minutes_on_list": 153,
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E2%80%9D%E7%AD%8918%E8%B5%B7%E6%A1%88%E4%BB%B6%E8%A2%AB%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E",
-   "official_line": {
-    "source": "Xuexi Qiangguo 学习强国",
-    "title": "18起涉食品安全重大犯罪案件被挂牌督办",
-    "url": "https://www.xuexi.cn/lgpage/detail/index.html?id=1621639437815035831&item_id=1621639437815035831",
-    "published": "2026-11-12 16:01:31"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #9 → #9 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 5:56 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 6:48 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "CDT 404 Archive 404文库",
-     "url": "https://chinadigitaltimes.net/chinese/733163.html",
-     "published": "2026-10-23T18:02:15Z"
-    }
-   ]
-  },
-  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "德芙广告宣扬错误婚恋观被罚80万",
@@ -247,6 +216,84 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
+   "title_zh": "荷兰法院驳回路虎取证比亚迪申请",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 13, 2:04 AM ET",
+   "last_seen_et": "Nov 13, 3:00 AM ET",
+   "first_missing_et": "Nov 13, 3:05 AM ET",
+   "minutes_on_list": 56,
+   "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%E8%B7%AF%E8%99%8E%E5%8F%96%E8%AF%81%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%94%B3%E8%AF%B7",
+   "official_line": {
+    "source": "Yicai 第一财经",
+    "title": "*ST闻泰：荷兰法院驳回Nexperia B.V.关于商标侵权临时禁令的请求",
+    "url": "https://www.yicai.com/news/103440231.html",
+    "published": "2026-11-13T18:27:16"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 3:17 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 4:08 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "微软多项服务宕机",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 12, 9:15 PM ET",
+   "last_seen_et": "Nov 12, 9:50 PM ET",
+   "first_missing_et": "Nov 12, 9:51 PM ET",
+   "minutes_on_list": 35,
+   "url": "https://www.toutiao.com/trending/7707447963303284233/",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "微软大规模宕机持续数小时 OpenAI和Anthropic遭波及",
+    "url": "https://www.163.com/dy/article/LBK9782K0550B1DU.html",
+    "published": "2026-11-13 13:07:09"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:09 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 11:04 PM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%E5%BE%AE%E8%BD%AFOutlook%E6%9C%8D%E5%8A%A1%E5%AE%95%E6%9C%BA&t=31&band_rank=7&Refer=top",
+     "published": "2026-11-13"
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
+     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQTmVzZG1pY1o5YkpWYWVpYm1fdFNnbFBqZE1ib0tCOG00YjBCd21uV0Z0ZDEtQmdwb0NsaUhzXzlqeWFIZC14S1pyUFBIOXkzbjVFTDNRRU9PekpGVFVpMDkyUzhGSjV6NldpbloxbXJhVHRmU1VwMGdLOXVCRFFwSkJVam03OG1UVUdTSnZ6bXh3SzZ2UUJwYUYtN1M3Ukp0UlJKTnlDaktRLWdqR2hBTXFCQWVFMm9NTW5rLTJPNWxNTHNBQXh6WlhFSkVSQVQtbHZnMTlUbG03RGZKQUE4eHEwZWtsMmhUeV9Wd2Q0d2FyWEdiN1Z1bWVudG5Ba3JQVmhCUy12Ml8tQzdFcTZ5LWZ1cjNNV3MzaWI4cE94dllKY0VjMVpOMWdzMHZtR2RGOFd3VG1ocWV3cF9XaW8xQ1hKd1ZKb2xGcTlfZmF2em1JZEp3RXFGNXNRNUt5MUJRQ1NCc1k2STJLbGM2Z0I5ejBBVW5MdzdHUWFjVHJrUnRwaVVmSHhjTXNqWVhLUWRJbUNQb2dkZG5mNjRXNXVBdFVwTC1sZFZPX1I5b2RINlY3V2FUNVpZVw?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Ming Pao 明報",
+     "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPcnZOem1uSmI3QXE4Vk4zZk93S2hKSDZLbzdhR1ZqYUNlMS14Rm1uZmdHNXRsRDN2cHdhNmFWMmhhWlFqb0ttLUpYNmw4N21POTRLMnJZcVN2WE1Yd04wODl4VURKUnVITUY2bURqRzR5ZWl1YzFuV3JvVDYydXA1RVJzc2JpYUMzSUZ2R081RUdhOHp1cFpFU0xDTUFYM01Hek9aaTRwSWUyN1ZBXzI2WldwaDdvb3ZtRG9yWVh5WnBXY1Y2cElMY2JMdXo3RU1OVVVfWmloSmNHaVlOZXY1LU5oNDFTUmM1Mk03dWRvNE15UWNlWWRuRU9tUkFxdDl1NXltZW42ZHBsZFo0MzJ5UUhTYWpES0JsUkR1RnoyTVQzd3ZWdWtoVFVCODh5QmVRVVdsWXJpczk5NklkamVRd25jemhXUHQ1N21udzlVM19QOG1JOEljYU9icDVjSG1TME5iVExZTmxKbkVNRDZ6dW5xTVhSMnpnV19vU2g5aDgtSlFseTZGb3pyLXNrdlc3a2ZvMFdR?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "8world News 8视界",
+     "url": "https://www.8world.com/world/microsoft-recovery-3339796",
+     "published": null
+    }
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
    "title_zh": "男子疑遭多人拘禁殴打 被解救后死亡",
    "title_en": "",
    "label": "Dropped off",
@@ -258,46 +305,29 @@
    "first_missing_et": "Nov 12, 9:13 AM ET",
    "minutes_on_list": 72,
    "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8B%98%E7%A6%81%E6%AE%B4%E6%89%93+%E8%A2%AB%E8%A7%A3%E6%95%91%E5%90%8E%E6%AD%BB%E4%BA%A1",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "河北20岁男子疑遭多人拘禁20天并殴打，被警方解救送回家中次日死亡，5人被提起公诉；公诉书显示参与的共8人，其中3人在案发时不满18周岁",
+    "url": "https://new.qq.com/rain/a/20261113A0AZC000",
+    "published": "2026-11-13 17:10:32"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #8 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 9:26 AM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 12, 10:19 AM ET",
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%2320%E5%B2%81%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E6%8B%98%E7%A6%81%E6%AE%B4%E6%89%93%E6%AD%BB%E5%9B%A0%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2320%E5%B2%81%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E6%8B%98%E7%A6%81%E6%AE%B4%E6%89%93%E8%A2%AB%E8%A7%A3%E6%95%91%E5%90%8E%E5%8E%BB%E4%B8%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D35%26flag%3D0%26lcate%3D5001%26c_type%3D31%26q%3D%252320%25E5%25B2%2581%25E7%2594%25B7%25E5%25AD%2590%25E7%2596%2591%25E9%2581%25AD%25E6%258B%2598%25E7%25A6%2581%25E6%25AE%25B4%25E6%2589%2593%25E8%25A2%25AB%25E8%25A7%25A3%25E6%2595%2591%25E5%2590%258E%25E5%258E%25BB%25E4%25B8%2596%2523%26cate%3D5001%26dgr%3D0%26band_rank%3D35%26stream_entry_id%3D31%26pos%3D36%26filter_type%3Drealtimehot%26display_time%3D1794507048%26pre_seqid%3D179450704855902459041125&launchid=10000360-page_H5",
      "published": "2026-11-13"
     },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2320%E5%B2%81%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E6%8B%98%E7%A6%81%E6%AE%B4%E6%89%93%E8%A2%AB%E8%A7%A3%E6%95%91%E5%90%8E%E5%8E%BB%E4%B8%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D35%26flag%3D0%26lcate%3D5001%26c_type%3D31%26q%3D%252320%25E5%25B2%2581%25E7%2594%25B7%25E5%25AD%2590%25E7%2596%2591%25E9%2581%25AD%25E6%258B%2598%25E7%25A6%2581%25E6%25AE%25B4%25E6%2589%2593%25E8%25A2%25AB%25E8%25A7%25A3%25E6%2595%2591%25E5%2590%258E%25E5%258E%25BB%25E4%25B8%2596%2523%26cate%3D5001%26dgr%3D0%26band_rank%3D35%26stream_entry_id%3D31%26pos%3D36%26filter_type%3Drealtimehot%26display_time%3D1794507048%26pre_seqid%3D179450704855902459041125&launchid=10000360-page_H5",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%2320%E5%B2%81%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E6%8B%98%E7%A6%81%E6%AE%B4%E6%89%93%E6%AD%BB%E5%9B%A0%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
      "published": "2026-11-13"
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "双11数据为何遇冷",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 12, 3:37 AM ET",
-   "last_seen_et": "Nov 12, 4:10 AM ET",
-   "first_missing_et": "Nov 12, 4:16 AM ET",
-   "minutes_on_list": 33,
-   "url": "https://www.toutiao.com/trending/7707190685211823635/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #8 → #8 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 4:45 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 5:17 AM ET"
    ]
   },
   {
@@ -320,6 +350,50 @@
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 7:17 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 8:04 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "短剧越追越长 做剧的人却更难赚钱",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Nov 13, 3:35 AM ET",
+   "last_seen_et": "Nov 13, 4:06 AM ET",
+   "first_missing_et": "Nov 13, 4:12 AM ET",
+   "minutes_on_list": 31,
+   "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E8%B6%8A%E8%BF%BD%E8%B6%8A%E9%95%BF+%E5%81%9A%E5%89%A7%E7%9A%84%E4%BA%BA%E5%8D%B4%E6%9B%B4%E9%9A%BE%E8%B5%9A%E9%92%B1",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #9 → #9 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 4:27 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 5:17 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "创业板指高开低走跌3.32%",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Nov 13, 2:15 AM ET",
+   "last_seen_et": "Nov 13, 3:10 AM ET",
+   "first_missing_et": "Nov 13, 3:15 AM ET",
+   "minutes_on_list": 56,
+   "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C3.32%25",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 3:27 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 13, 4:27 AM ET"
    ]
   }
  ]
