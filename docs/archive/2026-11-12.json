@@ -1,5 +1,5 @@
 {
- "count": 9,
+ "count": 10,
  "date": "2026-11-12",
  "items": [
   {
@@ -121,12 +121,6 @@
      "source": "CDT 404 Archive 404文库",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "url": "https://chinadigitaltimes.net/chinese/733163.html"
-    },
-    {
-     "published": null,
-     "source": "on.cc 東網",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261113/bkn-20261113092620466-1113_00822_001.html"
     }
    ],
    "evidence_strength": "standard",
@@ -140,10 +134,10 @@
    "minutes_on_list": 153,
    "notable": false,
    "official_line": {
-    "published": "2026-11-12 17:14:00",
-    "source": "Jiemian 界面新闻",
-    "title": "界面晚报 | “甲醛白菜”等食品安全重大案件被挂牌督办；“十五五”我国将重拳打击财务造假",
-    "url": "https://www.jiemian.com/article/15324202.html"
+    "published": "2026-11-12 16:05:00",
+    "source": "NetEase News 网易新闻",
+    "title": "“甲醛白菜”等18起涉食品安全重大犯罪案件被挂牌督办",
+    "url": "https://www.163.com/news/article/LBI0RQ9S0001899O.html"
    },
    "official_line_zh": null,
    "peak_rank": 5,
@@ -153,6 +147,38 @@
    "title_en": "",
    "title_zh": "“甲醛白菜”等18起案件被挂牌督办",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E2%80%9D%E7%AD%8918%E8%B5%B7%E6%A1%88%E4%BB%B6%E8%A2%AB%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E"
+  },
+  {
+   "day": "2026-11-12",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 8:14 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 9:05 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 12, 8:02 AM ET",
+   "first_missing_iso": "2026-11-12T08:02:00-05:00",
+   "first_seen_et": "Nov 12, 6:56 AM ET",
+   "key": "toutiao|德芙广告宣扬错误婚恋观被罚80万|2026-11-12T08:02:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 12, 7:56 AM ET",
+   "minutes_on_list": 61,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-13 13:19:50",
+    "source": "Tencent News 腾讯网",
+    "title": "德芙广告宣扬错误婚恋观被罚80万：消费者买的是商品，别兜售价值观",
+    "url": "https://new.qq.com/rain/a/20261113A07IIS00"
+   },
+   "official_line_zh": null,
+   "peak_rank": 6,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-4fe45369b188",
+   "title_en": "",
+   "title_zh": "德芙广告宣扬错误婚恋观被罚80万",
+   "url": "https://www.toutiao.com/trending/7707155178143433226/"
   },
   {
    "day": "2026-11-12",
@@ -197,7 +223,7 @@
      "published": "2026-11-13",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%2320%E5%B2%81%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E6%8B%98%E7%A6%81%E6%AE%B4%E6%89%93%E8%A2%AB%E8%A7%A3%E6%95%91%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top"
+     "url": "https://s.weibo.com//weibo?q=%2320%E5%B2%81%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E6%8B%98%E7%A6%81%E6%AE%B4%E6%89%93%E6%AD%BB%E5%9B%A0%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top"
     }
    ],
    "evidence_strength": "standard",
@@ -370,7 +396,8 @@
    "day": "2026-11-12",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:33 PM ET"
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:33 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 11:35 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 12, 10:21 PM ET",
@@ -383,10 +410,10 @@
    "minutes_on_list": 78,
    "notable": true,
    "official_line": {
-    "published": "2026-11-13 11:42:24",
+    "published": "2026-11-13 11:37:03",
     "source": "Tencent News 腾讯网",
-    "title": "跌回一年前！金饰年内降价超500 元，多家品牌跌破每克1200元",
-    "url": "https://new.qq.com/rain/a/20261113A069NN00"
+    "title": "国内金饰价格集体下跌，金价回至一年前",
+    "url": "https://new.qq.com/rain/a/20261113A0670W00"
    },
    "official_line_zh": null,
    "peak_rank": 1,
