@@ -19,8 +19,13 @@
    "last_seen_et": "Nov 13, 1:25 AM ET",
    "minutes_on_list": 54,
    "notable": true,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-13 16:11:13",
+    "source": "Tencent News 腾讯网",
+    "title": "“楼上5个小孩晚上闹腾”，住户展示反击“绝招”，法规提示",
+    "url": "https://new.qq.com/rain/a/20261113A09XO600"
+   },
+   "official_line_zh": null,
    "peak_rank": 2,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
