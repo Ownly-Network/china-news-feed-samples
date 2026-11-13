@@ -1,5 +1,5 @@
 {
- "count": 5,
+ "count": 6,
  "date": "2026-11-13",
  "items": [
   {
@@ -46,13 +46,8 @@
    "last_seen_et": "Nov 13, 3:00 AM ET",
    "minutes_on_list": 56,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-13 18:09:59",
-    "source": "Tencent News 腾讯网",
-    "title": "路虎输了！突击搜索比亚迪被判钓鱼取证，钛7抄袭卫士还未定！",
-    "url": "https://new.qq.com/rain/a/20261113A0BWHM00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 7,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -146,6 +141,33 @@
    "title_en": "",
    "title_zh": "全球最性感男人出炉 就这样？",
    "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E6%80%A7%E6%84%9F%E7%94%B7%E4%BA%BA%E5%87%BA%E7%82%89+%E5%B0%B1%E8%BF%99%E6%A0%B7%EF%BC%9F"
+  },
+  {
+   "day": "2026-11-13",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #6 → #6 → #6 → #6 → #4 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:39 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 13, 7:28 AM ET",
+   "first_missing_iso": "2026-11-13T07:28:00-05:00",
+   "first_seen_et": "Nov 13, 6:17 AM ET",
+   "key": "toutiao|高市早苗想见普京有何意图|2026-11-13T07:28:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 13, 7:20 AM ET",
+   "minutes_on_list": 63,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 4,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-25e835379e69",
+   "title_en": "",
+   "title_zh": "高市早苗想见普京有何意图",
+   "url": "https://www.toutiao.com/trending/7707610420705496639/"
   }
  ]
 }
