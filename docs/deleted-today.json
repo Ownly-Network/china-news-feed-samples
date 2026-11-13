@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-13 10:55 ET",
+ "generated_at_et": "2026-11-13 12:00 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 11,
  "cut": {
-  "flagged": 110,
-  "came back once before": 3,
-  "gone under 60 min": 4,
+  "flagged": 111,
+  "came back once before": 4,
+  "gone under 60 min": 3,
   "not in the top 10 when it left": 50,
   "slid down before leaving": 1,
   "on the list a normal length of time": 26,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 8,
+  "still on another hot list": 2,
+  "left with other flagged topics (batch drop)": 9,
   "retitled": 2,
   "topic still on the list": 3,
-  "same story as a kept item": 1,
-  "kept": 9
+  "same story as a kept item": 0,
+  "kept": 11
  },
  "items": [
   {
@@ -95,17 +95,61 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "黄仁勋辞职",
+   "title_zh": "段永平：目前不会卖出英伟达",
    "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 12, 9:00 AM ET",
-   "last_seen_et": "Nov 12, 10:56 AM ET",
-   "first_missing_et": "Nov 12, 11:02 AM ET",
-   "minutes_on_list": 116,
-   "url": "https://www.toutiao.com/trending/7706197903018377242/",
+   "peak_rank": 4,
+   "first_seen_et": "Nov 13, 8:54 AM ET",
+   "last_seen_et": "Nov 13, 10:36 AM ET",
+   "first_missing_et": "Nov 13, 10:41 AM ET",
+   "minutes_on_list": 102,
+   "url": "https://www.toutiao.com/trending/7707144944334405674/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 10:57 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 11:46 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "高市早苗想见普京有何意图",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Nov 13, 6:17 AM ET",
+   "last_seen_et": "Nov 13, 7:20 AM ET",
+   "first_missing_et": "Nov 13, 7:28 AM ET",
+   "minutes_on_list": 63,
+   "url": "https://www.toutiao.com/trending/7707610420705496639/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #6 → #6 → #6 → #6 → #4 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:39 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "特朗普回应黄仁勋辞职",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Nov 12, 6:17 PM ET",
+   "last_seen_et": "Nov 12, 6:47 PM ET",
+   "first_missing_et": "Nov 12, 6:52 PM ET",
+   "minutes_on_list": 31,
+   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C",
    "official_line": {
     "source": "TMTPost 钛媒体",
     "title": "黄仁勋辞职，英伟达为什么偏偏选中她…...",
@@ -114,9 +158,9 @@
    },
    "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 11:14 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 12:07 PM ET",
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 7:07 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 7:58 PM ET",
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "DW Chinese 德国之声",
@@ -139,12 +183,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "NZ Chinese Herald 新西兰中文先驱报",
      "url": "https://www.chineseherald.co.nz/news/property/musk-speaks-out-for-jensen-huang/",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Ming Pao 明報",
-     "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQbkE2QWNvbEhnbUZkZ01FdllUNGhjdHZFc3BZMFVFQjktemItUjNXMFhMSnpZVlBxM1FhTnR5M3o3RUNsdks5UjI1Tm5xankyLXNHYkU0T0tqdUd4N1Ewc2c0TEhCTGhwYnBQRHFybnJUY1gtSnM0TzNBQWRnalZqUkdpeHlmQW16WGhlT0ZFWHB0MnBucHBHbFA0SjBOd29PbGtwR3RyQWlLVHZUQ29aNDh0R3RPWXZfY2xWYk1OVTNzWDRXMzZCZnlkOTlVOXRNSlVMN0lUTnIyenF5dEc0cG5DMDExMHd2MnFQS2t6cEU3RDYzdnhhT2xKNDhrd3dwZXNnWEJOZWhTa3FDSC1aYlVFVHZFVk1wUEo5ZDVzZjN5RlpKdUdQanprLW9TVi1YUFhybTRvME1KU1p6MEJLUXZuNm5nUzJJbXZjYm9WZDZqSV9QUXJsOHJwUEp5UzloaVNReEtxOHh6bnpkYUFWZEo4UnZPX0puRXVlZTN5VnR3eEpRREczX2ZDSHY1QXhQaFljZzdTU0xFb1F5ZVgzdmI0R1h3NjFyTTNhamZpTE5aMXhTVzZ0Qk5uNHNSV3dHYnFtOTFTQ3FvTnllR0k4RGxpTkI3X09LS1ZRUTAzc2o5VkxsenJqOEVwcw?oc=5",
      "published": null
     },
     {
@@ -176,29 +214,19 @@
      "source": "DW Chinese 德国之声",
      "url": "https://www.dw.com/zh/黄仁勋辞职后，美国司法部长称-从没说过alice-huang是中国间谍/a-79938408?maca=chi-rss-chi-all-1127-rdf",
      "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 联合早报 zaobao.sg",
+     "url": "https://www.youtube.com/watch?v=WQGSFJJwKds",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "United Daily News 聯合新聞網",
+     "url": "https://udn.com/news/story/7339/9877952",
+     "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "高市早苗想见普京有何意图",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 13, 6:17 AM ET",
-   "last_seen_et": "Nov 13, 7:20 AM ET",
-   "first_missing_et": "Nov 13, 7:28 AM ET",
-   "minutes_on_list": 63,
-   "url": "https://www.toutiao.com/trending/7707610420705496639/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #6 → #6 → #6 → #6 → #4 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET"
    ]
   },
   {
@@ -221,6 +249,45 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 3:17 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 4:08 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "微软多项服务宕机",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 12, 9:15 PM ET",
+   "last_seen_et": "Nov 12, 9:50 PM ET",
+   "first_missing_et": "Nov 12, 9:51 PM ET",
+   "minutes_on_list": 35,
+   "url": "https://www.toutiao.com/trending/7707447963303284233/",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "微软大规模宕机持续数小时 OpenAI和Anthropic遭波及",
+    "url": "https://www.163.com/dy/article/LBK9782K0550B1DU.html",
+    "published": "2026-11-13 13:07:09"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:09 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 11:04 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "8world News 8视界",
+     "url": "https://www.8world.com/world/microsoft-services-gradually-resumes-3340051",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sing Tao Daily USA 星島日報 (美國)",
+     "url": "https://www.singtaousa.com/2026/11/13/news/usa/microsoft-services-outage/",
+     "published": null
+    }
    ]
   },
   {
@@ -247,7 +314,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 6:24 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:10 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:10 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sing Tao Daily Canada 加拿大星島日報",
+     "url": "https://www.singtao.ca/7683628/2026-11-13/news-%E5%85%A8%E7%90%83%E5%9F%8E%E5%B8%82%E6%8E%92%E5%90%8D%E6%A6%9C%E5%87%BA%E7%88%90%E3%80%8011%E5%80%8B%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%BA%8B%E8%BA%AB200%E5%BC%B7/",
+     "published": null
+    }
    ]
   },
   {

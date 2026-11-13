@@ -1,5 +1,5 @@
 {
- "count": 7,
+ "count": 8,
  "date": "2026-11-13",
  "items": [
   {
@@ -115,7 +115,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 6:24 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:10 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:10 AM ET",
+    {
+     "published": null,
+     "source": "Sing Tao Daily Canada 加拿大星島日報",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.singtao.ca/7683628/2026-11-13/news-%E5%85%A8%E7%90%83%E5%9F%8E%E5%B8%82%E6%8E%92%E5%90%8D%E6%A6%9C%E5%87%BA%E7%88%90%E3%80%8011%E5%80%8B%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%BA%8B%E8%BA%AB200%E5%BC%B7/"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 13, 6:10 AM ET",
@@ -201,6 +207,33 @@
    "title_en": "",
    "title_zh": "双11的时代结束了",
    "url": "https://www.baidu.com/s?wd=%E5%8F%8C11%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86"
+  },
+  {
+   "day": "2026-11-13",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 10:57 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 11:46 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 13, 10:41 AM ET",
+   "first_missing_iso": "2026-11-13T10:41:00-05:00",
+   "first_seen_et": "Nov 13, 8:54 AM ET",
+   "key": "toutiao|段永平：目前不会卖出英伟达|2026-11-13T10:41:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 13, 10:36 AM ET",
+   "minutes_on_list": 102,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 4,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-6d1a250cae22",
+   "title_en": "",
+   "title_zh": "段永平：目前不会卖出英伟达",
+   "url": "https://www.toutiao.com/trending/7707144944334405674/"
   }
  ]
 }
