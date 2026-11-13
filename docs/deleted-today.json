@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-11-13 16:30 ET",
+ "generated_at_et": "2026-11-13 17:35 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 11,
  "cut": {
-  "flagged": 108,
+  "flagged": 97,
   "came back once before": 4,
   "gone under 60 min": 0,
-  "not in the top 10 when it left": 51,
+  "not in the top 10 when it left": 46,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 25,
+  "on the list a normal length of time": 24,
   "inside the list's normal rotation": 0,
   "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 9,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 2,
   "topic still on the list": 3,
   "same story as a kept item": 0,
@@ -56,13 +56,8 @@
    "first_missing_et": "Nov 12, 10:21 PM ET",
    "minutes_on_list": 78,
    "url": "https://www.toutiao.com/trending/7706807749732548618/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "金价跌回一年前，多数品牌金饰克价跌破1200元",
-    "url": "https://new.qq.com/rain/a/20261114V028J400",
-    "published": "2026-11-14 02:35:33"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:33 PM ET",
@@ -150,10 +145,10 @@
    "minutes_on_list": 31,
    "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C",
    "official_line": {
-    "source": "TMTPost 钛媒体",
-    "title": "黄仁勋辞职，英伟达为什么偏偏选中她…...",
-    "url": "https://www.tmtpost.com/8203680.html",
-    "published": "2026-11-13T08:41:42Z"
+    "source": "Tencent News 腾讯网",
+    "title": "英伟达迎来“黄金坑”？黄仁勋辞职当天，散户30分钟创历史纪录买入",
+    "url": "https://new.qq.com/rain/a/20261114A0422A00",
+    "published": "2026-11-14 05:59:49"
    },
    "official_line_zh": null,
    "evidence": [
@@ -186,8 +181,8 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/property/musk-speaks-out-for-jensen-huang/",
+     "source": "Sing Tao Daily Canada 加拿大星島日報",
+     "url": "https://www.singtao.ca/7683830/2026-11-13/news-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7%EF%BD%9CNvidia%E6%93%AC%E6%89%BE%E8%88%8A%E5%B0%87%E6%8E%8CAI%E7%8E%8B%E5%9C%8B%EF%BC%9F%E5%82%B3%E8%91%A3%E4%BA%8B%E6%9C%83%E5%B7%B2%E6%8E%A5%E8%A7%B8Arm%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81Rene+Haas/",
      "published": null
     },
     {
@@ -234,8 +229,8 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
-     "url": "https://www.singtaousa.com/2026/11/13/news/usa/how-jensen-huang-reportedly-unraveled-during-his-last-hours-at-nvidia-im-a-piece-of-s-t/",
+     "source": "Sing Tao Headline 星島頭條",
+     "url": "https://www.stheadline.com/realtime-world/3636972/黃仁勳辭職Nvidia擬找舊將掌AI王國傳董事會已接觸Arm行政總裁Rene-Haas",
      "published": null
     }
    ]
@@ -295,6 +290,12 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sing Tao Daily Canada 加拿大星島日報",
+     "url": "https://www.singtao.ca/7683842/2026-11-13/news-Microsoft%E5%A4%A7%E3%80%8C%E6%AD%BB%E6%A9%9F%E3%80%8D%EF%BD%9C%E5%BE%AE%E8%BB%9F%E7%A8%B1%E6%9C%8D%E5%8B%99%E5%B7%B2%E5%BB%A3%E6%B3%9B%E4%BF%AE%E5%BE%A9+%E6%83%9F%E6%9A%AB%E7%84%A1%E5%85%A8%E9%9D%A2%E6%81%A2%E5%BE%A9%E6%99%82%E9%96%93%E8%A1%A8%C2%A0/",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Lianhe Zaobao 联合早报",
      "url": "https://www.zaobao.com.sg/finance/singapore/story20261113-9991236?ref=today-news-section-card-1",
      "published": null
@@ -327,6 +328,24 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: 美国之音 VOA",
      "url": "https://t.me/voachinese/14815",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Ming Pao 明報",
+     "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOOEt4cUpxeVFoNzA3NXRLT3BtdkdydjNaMVpjTlRxNXJNUnJyZUY1OUk4d2ZEc19RQ0NHc1o5eWJkcVlJMEdWYUkwaklaMVpadFN6UVh3ZXFSVXlhMmJkRGR0YVJQYlVaYms1c2E0TUlIMzRiUVd4OGFTTkhROC1GcnBkZEppZGFYMDR5ckxNVDhYbmhCLTRhano5clRVLW12OWtQc1YzbzJjNUkwVDk3Wnp4ZEl6dktqSzFnZXFTQ25ja2plcEoydnEyWFZFY01nUGRsbjJ3YTNNOTZ1c2RXRFVYWkV1ajlaN1k3QVNXVC1SZWx5ck9MUmdjOGU4Qk94V05jU3NrQnByNlV1dUFabm56eTdKcFA0UmZuaU1PWWRNSlpKYWRGRzVmSDNVZXNXNDFGNTE5T2R3YmI3eUtUVnZyTy04RHhJYTh5QlJqTjhaTHQxRVR1SXB1eXFsdkM5VzJBSl9FLVhKOHU0SW5iZWFZMmVBY01aWTV4c0NGeWhYTnJ3UlBoakZwU0taWG9fN0N2V1NKam9zc2NIUXNDNDlpU0Zpdw?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sing Tao Headline 星島頭條",
+     "url": "https://www.stheadline.com/realtime-world/3636978/Microsoft大死機微軟稱服務已廣泛修復-惟暫無全面恢復時間表",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 美国之音 VOA",
+     "url": "https://t.me/voachinese/14814",
      "published": null
     }
    ]
