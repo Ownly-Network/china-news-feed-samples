@@ -1,5 +1,5 @@
 {
- "count": 6,
+ "count": 7,
  "date": "2026-11-12",
  "items": [
   {
@@ -151,10 +151,10 @@
    "minutes_on_list": 153,
    "notable": false,
    "official_line": {
-    "published": "2026-11-12 21:43:11",
-    "source": "The Paper 澎湃新闻",
-    "title": "广西忻城发生一起道路运输事故致3死2伤，自治区安委会挂牌督办",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34462471"
+    "published": "2026-11-12 17:14:00",
+    "source": "Jiemian 界面新闻",
+    "title": "界面晚报 | “甲醛白菜”等食品安全重大案件被挂牌督办；“十五五”我国将重拳打击财务造假",
+    "url": "https://www.jiemian.com/article/15324202.html"
    },
    "official_line_zh": null,
    "peak_rank": 5,
@@ -164,6 +164,33 @@
    "title_en": "",
    "title_zh": "“甲醛白菜”等18起案件被挂牌督办",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E2%80%9D%E7%AD%8918%E8%B5%B7%E6%A1%88%E4%BB%B6%E8%A2%AB%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E"
+  },
+  {
+   "day": "2026-11-12",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #5 → #5 → #5 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 9:16 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:02 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 12, 9:00 AM ET",
+   "first_missing_iso": "2026-11-12T09:00:00-05:00",
+   "first_seen_et": "Nov 12, 8:06 AM ET",
+   "key": "toutiao|马化腾内部训话|2026-11-12T09:00:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 12, 8:57 AM ET",
+   "minutes_on_list": 51,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 2,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-4db03b4bb830",
+   "title_en": "",
+   "title_zh": "马化腾内部训话",
+   "url": "https://www.toutiao.com/trending/7707167523023634970/"
   },
   {
    "day": "2026-11-12",

@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-12 17:50 ET",
+ "generated_at_et": "2026-11-12 18:58 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 7,
  "cut": {
-  "flagged": 109,
-  "came back once before": 6,
-  "gone under 60 min": 14,
-  "not in the top 10 when it left": 26,
+  "flagged": 103,
+  "came back once before": 5,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 31,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 29,
+  "on the list a normal length of time": 26,
   "inside the list's normal rotation": 3,
   "still on another hot list": 11,
-  "left with other flagged topics (batch drop)": 7,
+  "left with other flagged topics (batch drop)": 10,
   "retitled": 2,
   "topic still on the list": 3,
   "same story as a kept item": 2,
-  "kept": 5
+  "kept": 7
  },
  "items": [
   {
@@ -46,6 +46,28 @@
      "url": "https://www.ftchinese.com/story/001111345",
      "published": null
     }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "马化腾内部训话",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 12, 8:06 AM ET",
+   "last_seen_et": "Nov 12, 8:57 AM ET",
+   "first_missing_et": "Nov 12, 9:00 AM ET",
+   "minutes_on_list": 51,
+   "url": "https://www.toutiao.com/trending/7707167523023634970/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #5 → #5 → #5 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 9:16 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:02 AM ET"
    ]
   },
   {
@@ -107,10 +129,10 @@
    "minutes_on_list": 153,
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E2%80%9D%E7%AD%8918%E8%B5%B7%E6%A1%88%E4%BB%B6%E8%A2%AB%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E",
    "official_line": {
-    "source": "The Paper 澎湃新闻",
-    "title": "广西忻城发生一起道路运输事故致3死2伤，自治区安委会挂牌督办",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34462471",
-    "published": "2026-11-12 21:43:11"
+    "source": "Jiemian 界面新闻",
+    "title": "界面晚报 | “甲醛白菜”等食品安全重大案件被挂牌督办；“十五五”我国将重拳打击财务造假",
+    "url": "https://www.jiemian.com/article/15324202.html",
+    "published": "2026-11-12 17:14:00"
    },
    "official_line_zh": null,
    "evidence": [
@@ -123,6 +145,28 @@
      "url": "https://chinadigitaltimes.net/chinese/733163.html",
      "published": "2026-10-23T18:02:15Z"
     }
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "27岁网红“疯狂小马哥”离世",
+   "title_en": "27-Year-Old Internet Celebrity \"Crazy Little Horse\" Passes Away",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 11, 7:50 PM ET",
+   "last_seen_et": "Nov 11, 8:40 PM ET",
+   "first_missing_et": "Nov 11, 8:43 PM ET",
+   "minutes_on_list": 50,
+   "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E7%96%AF%E7%8B%82%E5%B0%8F%E9%A9%AC%E5%93%A5%E2%80%9D%E7%A6%BB%E4%B8%96",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #6 → #6 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 11, 8:57 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 11, 9:53 PM ET"
    ]
   },
   {
