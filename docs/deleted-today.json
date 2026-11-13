@@ -1,22 +1,22 @@
 {
- "generated_at_et": "2026-11-13 09:41 ET",
+ "generated_at_et": "2026-11-13 10:55 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 9,
  "cut": {
-  "flagged": 107,
-  "came back once before": 2,
-  "gone under 60 min": 12,
-  "not in the top 10 when it left": 41,
+  "flagged": 110,
+  "came back once before": 3,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 50,
   "slid down before leaving": 1,
-  "on the list a normal length of time": 24,
-  "inside the list's normal rotation": 1,
-  "still on another hot list": 4,
+  "on the list a normal length of time": 26,
+  "inside the list's normal rotation": 0,
+  "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 8,
   "retitled": 2,
   "topic still on the list": 3,
-  "same story as a kept item": 0,
+  "same story as a kept item": 1,
   "kept": 9
  },
  "items": [
@@ -38,7 +38,14 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:51 AM ET"
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:51 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:44 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/87171",
+     "published": null
+    }
    ]
   },
   {
@@ -88,6 +95,93 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
+   "title_zh": "黄仁勋辞职",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 12, 9:00 AM ET",
+   "last_seen_et": "Nov 12, 10:56 AM ET",
+   "first_missing_et": "Nov 12, 11:02 AM ET",
+   "minutes_on_list": 116,
+   "url": "https://www.toutiao.com/trending/7706197903018377242/",
+   "official_line": {
+    "source": "TMTPost 钛媒体",
+    "title": "黄仁勋辞职，英伟达为什么偏偏选中她…...",
+    "url": "https://www.tmtpost.com/8203680.html",
+    "published": "2026-11-13T08:41:42Z"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 11:14 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 12:07 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "DW Chinese 德国之声",
+     "url": "https://www.dw.com/zh/黄仁勋辞职-中企忧美收紧监管-忙抢租海外英伟达算力/a-79929183?maca=chi-rss-chi-all-1127-rdf",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/87188",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "BBC News Chinese BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/property/musk-speaks-out-for-jensen-huang/",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Ming Pao 明報",
+     "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQbkE2QWNvbEhnbUZkZ01FdllUNGhjdHZFc3BZMFVFQjktemItUjNXMFhMSnpZVlBxM1FhTnR5M3o3RUNsdks5UjI1Tm5xankyLXNHYkU0T0tqdUd4N1Ewc2c0TEhCTGhwYnBQRHFybnJUY1gtSnM0TzNBQWRnalZqUkdpeHlmQW16WGhlT0ZFWHB0MnBucHBHbFA0SjBOd29PbGtwR3RyQWlLVHZUQ29aNDh0R3RPWXZfY2xWYk1OVTNzWDRXMzZCZnlkOTlVOXRNSlVMN0lUTnIyenF5dEc0cG5DMDExMHd2MnFQS2t6cEU3RDYzdnhhT2xKNDhrd3dwZXNnWEJOZWhTa3FDSC1aYlVFVHZFVk1wUEo5ZDVzZjN5RlpKdUdQanprLW9TVi1YUFhybTRvME1KU1p6MEJLUXZuNm5nUzJJbXZjYm9WZDZqSV9QUXJsOHJwUEp5UzloaVNReEtxOHh6bnpkYUFWZEo4UnZPX0puRXVlZTN5VnR3eEpRREczX2ZDSHY1QXhQaFljZzdTU0xFb1F5ZVgzdmI0R1h3NjFyTTNhamZpTE5aMXhTVzZ0Qk5uNHNSV3dHYnFtOTFTQ3FvTnllR0k4RGxpTkI3X09LS1ZRUTAzc2o5VkxsenJqOEVwcw?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "BBC News Chinese BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/trad?at_medium=RSS&at_campaign=rss",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/international/nvidious/",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/international/jensen-huang-last-hours-before-resignation/",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "BBC News Chinese BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "DW Chinese 德国之声",
+     "url": "https://www.dw.com/zh/黄仁勋辞职后，美国司法部长称-从没说过alice-huang是中国间谍/a-79938408?maca=chi-rss-chi-all-1127-rdf",
+     "published": null
+    }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
    "title_zh": "高市早苗想见普京有何意图",
    "title_en": "",
    "label": "Dropped off",
@@ -127,57 +221,6 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 3:17 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 4:08 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "微软多项服务宕机",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 12, 9:15 PM ET",
-   "last_seen_et": "Nov 12, 9:50 PM ET",
-   "first_missing_et": "Nov 12, 9:51 PM ET",
-   "minutes_on_list": 35,
-   "url": "https://www.toutiao.com/trending/7707447963303284233/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "微软全球宕机蔓延74国，多国政务瘫痪，全球打工人刷屏感谢微软",
-    "url": "https://new.qq.com/rain/a/20261113A0DZJH00",
-    "published": "2026-11-13 21:10:38"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:09 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 11:04 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Epoch Times Chinese 大纪元",
-     "url": "https://www.epochtimes.com/b5/26/11/12/n14888058.htm",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
-     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQTmVzZG1pY1o5YkpWYWVpYm1fdFNnbFBqZE1ib0tCOG00YjBCd21uV0Z0ZDEtQmdwb0NsaUhzXzlqeWFIZC14S1pyUFBIOXkzbjVFTDNRRU9PekpGVFVpMDkyUzhGSjV6NldpbloxbXJhVHRmU1VwMGdLOXVCRFFwSkJVam03OG1UVUdTSnZ6bXh3SzZ2UUJwYUYtN1M3Ukp0UlJKTnlDaktRLWdqR2hBTXFCQWVFMm9NTW5rLTJPNWxNTHNBQXh6WlhFSkVSQVQtbHZnMTlUbG03RGZKQUE4eHEwZWtsMmhUeV9Wd2Q0d2FyWEdiN1Z1bWVudG5Ba3JQVmhCUy12Ml8tQzdFcTZ5LWZ1cjNNV3MzaWI4cE94dllKY0VjMVpOMWdzMHZtR2RGOFd3VG1ocWV3cF9XaW8xQ1hKd1ZKb2xGcTlfZmF2em1JZEp3RXFGNXNRNUt5MUJRQ1NCc1k2STJLbGM2Z0I5ejBBVW5MdzdHUWFjVHJrUnRwaVVmSHhjTXNqWVhLUWRJbUNQb2dkZG5mNjRXNXVBdFVwTC1sZFZPX1I5b2RINlY3V2FUNVpZVw?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Ming Pao 明報",
-     "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNaEROQmlKMDAzdnhhV2o0alluSzl5VDlmQ0g2SEtxc0c1MUxBZGlXd0paSE5KSFRINXBzZWRFa3dnTHQ2Z2l2eXlXMzNKcktZd2VPLVI4bkN3LWpvRjBBUTZTWGk4MEV5MHcwOFBEQjR4OGVUM3dteHczd21qcm9GSVB6X2RVbUFWdV9xMWtFQmtQNFktYTUtUWZid0hpN0JyYnJHVTBNd05xTk1iNTc4bjZPbkJjMzJoSGtKZ3JiTVpHdjN0NnMzeDQ4MEhxVXd1aW1UYkluemJYZ3JQSXRLU1hNVktPYVBPeDlZcXVHLU9NT1NpZ1hHTDRnUGEtOWJZMkVpZnJFeVEwQ2xoeERwbk8wNnV0S3kwMF9tNHpkUGhmTExFQ1ZzSVA1MFJ6enRybkgtUzJUOTIwX0tKSEZlMkRGaUZNVHlTR0VXdkhRT3Nvc0JWTUdsUkxENDdwS3RDa0tTQ21JZ2Z5M1VHaGVKQW11cVRBQnpTMnlpVEZ0WTdBdExmZHAtR1ZR?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Ming Pao 明報",
-     "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQZEl4VGR4N1NyaDVqZWRRcWVsSjVDSGt4ZjJKZk5EVlp0UmtPbVR3c0IxUi0yWEliMDcwZ3hMaUh3UGFwUndDYk9tS1ZONlZOak9YYW9qWDRXME1LLXAwd21Pak5XdGkya29mdWhyQTBZdDU2SjZPQlFKV2VBRGxSOEZad3YydVlxWk8xWUJHWmljS010VlRJcDNkcjcycUwyVVZiWmxvS3dEdEt1UzZ4b05HTDVVUU5leXNrWlVxcktDOVAyenAxR1dUX090OG5XUTdWaklPbjRKeGJWQzRyWk9WNXVsSWY5QnU4cjVSX2hJSTRaXzd1TzZJQ0dTR1ctWHNrdmRXMFNXeXlTbTgyakRUS3A0aTgtdGJ1anBGd0Z1VFpuRXhoZUtUNkZ4eW9NbFdoNWJYdEd2UGVXSVQ2MzllbS1zLVRXU0s1QjFFTFM3LUFSdmZSaEZqSTF0Qm9tY09LMA?oc=5",
-     "published": null
-    }
    ]
   },
   {
