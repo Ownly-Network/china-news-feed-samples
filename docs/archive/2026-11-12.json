@@ -392,12 +392,6 @@
     },
     {
      "published": null,
-     "source": "Ming Pao 明報",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQbkE2QWNvbEhnbUZkZ01FdllUNGhjdHZFc3BZMFVFQjktemItUjNXMFhMSnpZVlBxM1FhTnR5M3o3RUNsdks5UjI1Tm5xankyLXNHYkU0T0tqdUd4N1Ewc2c0TEhCTGhwYnBQRHFybnJUY1gtSnM0TzNBQWRnalZqUkdpeHlmQW16WGhlT0ZFWHB0MnBucHBHbFA0SjBOd29PbGtwR3RyQWlLVHZUQ29aNDh0R3RPWXZfY2xWYk1OVTNzWDRXMzZCZnlkOTlVOXRNSlVMN0lUTnIyenF5dEc0cG5DMDExMHd2MnFQS2t6cEU3RDYzdnhhT2xKNDhrd3dwZXNnWEJOZWhTa3FDSC1aYlVFVHZFVk1wUEo5ZDVzZjN5RlpKdUdQanprLW9TVi1YUFhybTRvME1KU1p6MEJLUXZuNm5nUzJJbXZjYm9WZDZqSV9QUXJsOHJwUEp5UzloaVNReEtxOHh6bnpkYUFWZEo4UnZPX0puRXVlZTN5VnR3eEpRREczX2ZDSHY1QXhQaFljZzdTU0xFb1F5ZVgzdmI0R1h3NjFyTTNhamZpTE5aMXhTVzZ0Qk5uNHNSV3dHYnFtOTFTQ3FvTnllR0k4RGxpTkI3X09LS1ZRUTAzc2o5VkxsenJqOEVwcw?oc=5"
-    },
-    {
-     "published": null,
      "source": "BBC News Chinese BBC中文",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/trad?at_medium=RSS&at_campaign=rss"
@@ -437,12 +431,6 @@
      "source": "YouTube: 联合早报 zaobao.sg",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.youtube.com/watch?v=WQGSFJJwKds"
-    },
-    {
-     "published": null,
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.singtaousa.com/2026/11/13/news/usa/news-nvidia-jensen-huang-dennys-founding-plaque/"
     },
     {
      "published": null,
@@ -520,12 +508,6 @@
     },
     {
      "published": null,
-     "source": "Ming Pao 明報",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNVTRwWmY3MjlLWkdpc1pXdkwwNnhPVlgwVUdXRmU0bjYwT0tqTnNOcEdQWFVVeW56dFNiRFRLWGE5cFpDd2ptam1OenhrYUdSZktHeEE5X19qcndEa0t1OTM5ZXlwbzVmeVBhWFVHbkJpTnUybXlTLWFYb0xYbDQ2X1NEZ1FXb2hBR0tNMGV0bVMyNmppVXBFRGh2QWtsX2pCajhvSFVaemRhVF9PWGlhWVl5NVk3SzI4cjB0TkhBR1pVWDJrcGdWbjNydVNDWU1XRmc3WXhfY3pzVzBVRXNFUi1JOXNiSC15N3pNYnJDc21ZN1Y5TG5udlhsUzU0bTlIcTJqUEVkV0RtVl9JOWZucVR3T3JPdUhEU1VyT0I0R0pzbE1UVzdlLVdnSEhlN0RucFNfNVRmU2VPRGxZN25JOS0waFlYbFo1MUNCTG9GcGRfOGdXdHFGYnluc1BvWTlSM01jZWpLSGctWDVsTjdBMW40MmVGVUQ2bkxXQ3piTDZRcXlSbFVXX1lhcE1qeVFqZVVzREdud2Y0Q1VQSWVCTDhtaFFIUFhtZk1RNEdCVlMxYzhIQ0FYb1RWdU8weGVOTWkxQjV6SXl2bFpnQlVoMURseVpQSmV2SHd4QmdDaXYzWmJXTnNWV2dmbFplUzhIdWJXSHNDX215bkUxd1F0WjR4X25uZW1KMHY4QjZ1bm44dGNQUFpNRmc0ajJKRTg?oc=5"
-    },
-    {
-     "published": null,
      "source": "Telegram: 美国之音 VOA",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/voachinese/14815"
@@ -573,8 +555,13 @@
    "last_seen_et": "Nov 12, 10:15 PM ET",
    "minutes_on_list": 78,
    "notable": true,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-14 02:35:33",
+    "source": "Tencent News 腾讯网",
+    "title": "金价跌回一年前，多数品牌金饰克价跌破1200元",
+    "url": "https://new.qq.com/rain/a/20261114V028J400"
+   },
+   "official_line_zh": null,
    "peak_rank": 1,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
