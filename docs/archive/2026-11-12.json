@@ -380,6 +380,12 @@
     },
     {
      "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/11/13/a104150507.html"
+    },
+    {
+     "published": null,
      "source": "NZ Chinese Herald 新西兰中文先驱报",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.chineseherald.co.nz/news/property/musk-speaks-out-for-jensen-huang/"
@@ -460,15 +466,39 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 11:04 PM ET",
     {
      "published": null,
+     "source": "Epoch Times Chinese 大纪元",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.epochtimes.com/b5/26/11/13/n14888491.htm"
+    },
+    {
+     "published": null,
+     "source": "Lianhe Zaobao 联合早报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.zaobao.com.sg/finance/singapore/story20261113-9991236?ref=today-news-section-card-1"
+    },
+    {
+     "published": null,
+     "source": "YouTube: RFI 华语",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/4abeZ_8UWis"
+    },
+    {
+     "published": null,
      "source": "8world News 8视界",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.8world.com/world/microsoft-services-gradually-resumes-3340051"
     },
     {
      "published": null,
+     "source": "Telegram: 竹新社 (@tnews365)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/tnews365/35782"
+    },
+    {
+     "published": null,
      "source": "Sing Tao Daily USA 星島日報 (美國)",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.singtaousa.com/2026/11/13/news/usa/microsoft-services-outage/"
+     "url": "https://www.singtaousa.com/2026/11/13/news/usa/what-know-outlook-365-other-apps-remain-down/"
     }
    ],
    "evidence_strength": "standard",
@@ -482,10 +512,10 @@
    "minutes_on_list": 35,
    "notable": false,
    "official_line": {
-    "published": "2026-11-13 13:07:09",
-    "source": "NetEase News 网易新闻",
-    "title": "微软大规模宕机持续数小时 OpenAI和Anthropic遭波及",
-    "url": "https://www.163.com/dy/article/LBK9782K0550B1DU.html"
+    "published": "2026-11-13T15:38:20Z",
+    "source": "IT Home IT之家",
+    "title": "大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展",
+    "url": "https://www.ithome.com/1/026/992.htm"
    },
    "official_line_zh": null,
    "peak_rank": 7,
