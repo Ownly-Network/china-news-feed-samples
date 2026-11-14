@@ -1,20 +1,20 @@
 {
- "generated_at_et": "2026-11-13 19:47 ET",
+ "generated_at_et": "2026-11-13 20:55 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 10,
  "cut": {
-  "flagged": 93,
-  "came back once before": 4,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 44,
+  "flagged": 90,
+  "came back once before": 3,
+  "gone under 60 min": 7,
+  "not in the top 10 when it left": 40,
   "slid down before leaving": 1,
   "on the list a normal length of time": 22,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 2,
-  "left with other flagged topics (batch drop)": 3,
-  "retitled": 2,
+  "still on another hot list": 1,
+  "left with other flagged topics (batch drop)": 2,
+  "retitled": 1,
   "topic still on the list": 3,
   "same story as a kept item": 0,
   "kept": 10
@@ -177,8 +177,13 @@
    "first_missing_et": "Nov 12, 9:51 PM ET",
    "minutes_on_list": 35,
    "url": "https://www.toutiao.com/trending/7707447963303284233/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Yicai 第一财经",
+    "title": "微软就全球服务中断道歉 称故障非网络攻击所致",
+    "url": "https://www.yicai.com/news/103440622.html",
+    "published": "2026-11-14T02:32:07"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 12, 10:09 PM ET",
@@ -229,12 +234,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Ming Pao 明報",
      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOOEt4cUpxeVFoNzA3NXRLT3BtdkdydjNaMVpjTlRxNXJNUnJyZUY1OUk4d2ZEc19RQ0NHc1o5eWJkcVlJMEdWYUkwaklaMVpadFN6UVh3ZXFSVXlhMmJkRGR0YVJQYlVaYms1c2E0TUlIMzRiUVd4OGFTTkhROC1GcnBkZEppZGFYMDR5ckxNVDhYbmhCLTRhano5clRVLW12OWtQc1YzbzJjNUkwVDk3Wnp4ZEl6dktqSzFnZXFTQ25ja2plcEoydnEyWFZFY01nUGRsbjJ3YTNNOTZ1c2RXRFVYWkV1ajlaN1k3QVNXVC1SZWx5ck9MUmdjOGU4Qk94V05jU3NrQnByNlV1dUFabm56eTdKcFA0UmZuaU1PWWRNSlpKYWRGRzVmSDNVZXNXNDFGNTE5T2R3YmI3eUtUVnZyTy04RHhJYTh5QlJqTjhaTHQxRVR1SXB1eXFsdkM5VzJBSl9FLVhKOHU0SW5iZWFZMmVBY01aWTV4c0NGeWhYTnJ3UlBoakZwU0taWG9fN0N2V1NKam9zc2NIUXNDNDlpU0Zpdw?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/worldnews/20261114/2380760.html",
      "published": null
     }
    ]
