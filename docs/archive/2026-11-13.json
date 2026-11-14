@@ -191,13 +191,8 @@
    "last_seen_et": "Nov 13, 8:29 AM ET",
    "minutes_on_list": 52,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-14",
-    "source": "Sina News 新浪新闻",
-    "title": "谈及梅艳芳骨灰被盗 刘德华：很心痛",
-    "url": "https://news.sina.com.cn/c/2026-11-14/doc-iniysepi0763822.shtml"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 6,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -315,6 +310,12 @@
      "source": "NZ Chinese Herald 新西兰中文先驱报",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.chineseherald.co.nz/news/international/article-1794608813016/"
+    },
+    {
+     "published": null,
+     "source": "on.cc 東網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114160521410-1114_00822_001.html"
     }
    ],
    "evidence_strength": "standard",
