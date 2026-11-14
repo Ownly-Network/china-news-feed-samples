@@ -478,12 +478,6 @@
     },
     {
      "published": null,
-     "source": "Sing Tao Daily Canada 加拿大星島日報",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.singtao.ca/7683842/2026-11-13/news-Microsoft%E5%A4%A7%E3%80%8C%E6%AD%BB%E6%A9%9F%E3%80%8D%EF%BD%9C%E5%BE%AE%E8%BB%9F%E7%A8%B1%E6%9C%8D%E5%8B%99%E5%B7%B2%E5%BB%A3%E6%B3%9B%E4%BF%AE%E5%BE%A9+%E6%83%9F%E6%9A%AB%E7%84%A1%E5%85%A8%E9%9D%A2%E6%81%A2%E5%BE%A9%E6%99%82%E9%96%93%E8%A1%A8%C2%A0/"
-    },
-    {
-     "published": null,
      "source": "Sing Tao Daily Europe 星島日報 (歐洲版)",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.singtao.co.uk/2026-11-13/microsoft%e5%a4%a7%e3%80%8c%e6%ad%bb%e6%a9%9f%e3%80%8d%ef%bd%9c%e5%be%ae%e8%bb%9f%e7%a8%b1%e6%9c%8d%e5%8b%99%e5%b7%b2%e5%bb%a3%e6%b3%9b%e4%bf%ae%e5%be%a9-%e6%83%9f%e6%9a%ab%e7%84%a1%e5%85%a8%e9%9d%a2/4766928"
@@ -492,19 +486,19 @@
      "published": null,
      "source": "Lianhe Zaobao 联合早报",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.zaobao.com.sg/finance/singapore/story20261113-9991236?ref=today-news-section-card-1"
+     "url": "https://www.zaobao.com.sg/finance/singapore/story20261113-9991236?ref=today-news-section-card-7"
+    },
+    {
+     "published": null,
+     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQTmVzZG1pY1o5YkpWYWVpYm1fdFNnbFBqZE1ib0tCOG00YjBCd21uV0Z0ZDEtQmdwb0NsaUhzXzlqeWFIZC14S1pyUFBIOXkzbjVFTDNRRU9PekpGVFVpMDkyUzhGSjV6NldpbloxbXJhVHRmU1VwMGdLOXVCRFFwSkJVam03OG1UVUdTSnZ6bXh3SzZ2UUJwYUYtN1M3Ukp0UlJKTnlDaktRLWdqR2hBTXFCQWVFMm9NTW5rLTJPNWxNTHNBQXh6WlhFSkVSQVQtbHZnMTlUbG03RGZKQUE4eHEwZWtsMmhUeV9Wd2Q0d2FyWEdiN1Z1bWVudG5Ba3JQVmhCUy12Ml8tQzdFcTZ5LWZ1cjNNV3MzaWI4cE94dllKY0VjMVpOMWdzMHZtR2RGOFd3VG1ocWV3cF9XaW8xQ1hKd1ZKb2xGcTlfZmF2em1JZEp3RXFGNXNRNUt5MUJRQ1NCc1k2STJLbGM2Z0I5ejBBVW5MdzdHUWFjVHJrUnRwaVVmSHhjTXNqWVhLUWRJbUNQb2dkZG5mNjRXNXVBdFVwTC1sZFZPX1I5b2RINlY3V2FUNVpZVw?oc=5"
     },
     {
      "published": null,
      "source": "YouTube: RFI 华语",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.youtube.com/shorts/4abeZ_8UWis"
-    },
-    {
-     "published": null,
-     "source": "8world News 8视界",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.8world.com/world/microsoft-services-gradually-resumes-3340051"
     },
     {
      "published": null,
@@ -526,9 +520,9 @@
     },
     {
      "published": null,
-     "source": "Sing Tao Headline 星島頭條",
+     "source": "Bannedbook 禁闻网",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.stheadline.com/realtime-world/3636978/Microsoft大死機微軟稱服務已廣泛修復-惟暫無全面恢復時間表"
+     "url": "https://www.bannedbook.org/bnews/worldnews/20261114/2380760.html"
     }
    ],
    "evidence_strength": "standard",
@@ -541,13 +535,8 @@
    "last_seen_et": "Nov 12, 9:50 PM ET",
    "minutes_on_list": 35,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-14T02:32:07",
-    "source": "Yicai 第一财经",
-    "title": "微软就全球服务中断道歉 称故障非网络攻击所致",
-    "url": "https://www.yicai.com/news/103440622.html"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 7,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
