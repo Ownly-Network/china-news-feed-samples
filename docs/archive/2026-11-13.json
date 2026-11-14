@@ -152,13 +152,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #6 → #6 → #6 → #6 → #4 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET",
-    {
-     "published": null,
-     "source": "World Journal 世界日報 (US)",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.worldjournal.com/wj/story/121488/9878891"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 13, 7:28 AM ET",
@@ -316,12 +310,6 @@
      "source": "NZ Chinese Herald 新西兰中文先驱报",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.chineseherald.co.nz/news/international/article-1794608813016/"
-    },
-    {
-     "published": null,
-     "source": "on.cc 東網",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114160521410-1114_00822_001.html"
     }
    ],
    "evidence_strength": "standard",

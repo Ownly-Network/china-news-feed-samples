@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-14 04:55 ET",
+ "generated_at_et": "2026-11-14 07:09 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 7,
  "cut": {
-  "flagged": 85,
-  "came back once before": 2,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 39,
+  "flagged": 89,
+  "came back once before": 4,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 37,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 25,
-  "inside the list's normal rotation": 0,
-  "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 2,
+  "on the list a normal length of time": 27,
+  "inside the list's normal rotation": 1,
+  "still on another hot list": 5,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 0,
-  "topic still on the list": 2,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 8
+  "kept": 7
  },
  "items": [
   {
@@ -59,8 +59,8 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "SCMP South China Morning Post",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3374333/midterm-losses-could-give-trump-quest-emerge-apec-summit-winner",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/38972",
      "published": null
     }
    ]
@@ -118,12 +118,6 @@
      "source": "NZ Chinese Herald 新西兰中文先驱报",
      "url": "https://www.chineseherald.co.nz/news/international/article-1794608813016/",
      "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "on.cc 東網",
-     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114160521410-1114_00822_001.html",
-     "published": null
     }
    ]
   },
@@ -168,13 +162,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #6 → #6 → #6 → #6 → #4 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "World Journal 世界日報 (US)",
-     "url": "https://www.worldjournal.com/wj/story/121488/9878891",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET"
    ]
   },
   {
@@ -219,33 +207,6 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #8 → #7 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:27 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 10:22 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "全球最性感男人出炉 就这样？",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 8,
-   "first_seen_et": "Nov 13, 3:43 AM ET",
-   "last_seen_et": "Nov 13, 6:03 AM ET",
-   "first_missing_et": "Nov 13, 6:10 AM ET",
-   "minutes_on_list": 140,
-   "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E6%80%A7%E6%84%9F%E7%94%B7%E4%BA%BA%E5%87%BA%E7%82%89+%E5%B0%B1%E8%BF%99%E6%A0%B7%EF%BC%9F",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "一年一度全球最性感男人出炉 55岁实力派演员夺冠",
-    "url": "https://www.163.com/dy/article/LBKB7UHR0550A0OW.html",
-    "published": "2026-11-13 14:41:19"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 6:24 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:10 AM ET"
    ]
   }
  ]
