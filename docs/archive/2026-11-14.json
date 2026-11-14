@@ -10,6 +10,24 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 4:23 AM ET",
     {
      "published": null,
+     "source": "United Daily News 聯合新聞網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://udn.com/news/story/125069/9879317"
+    },
+    {
+     "published": null,
+     "source": "Ming Pao 明報",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUkRrZHV2Q2xTM2hKZ3VpUmZKQWVPZ3dsVWxMWlVibk5qZm9aSldYT3E0SnBhdVltMWlVR0MzMnQ4czFZeXI1Yi0wOXpUTkFYQWdSLXRtdmZJM01zSXVLa0pDbjhoZzZNVWMwa2RWMGp1TDZzNXZZTGtYZDFodVNVQ3hLdmp1OTZMNTFCMFl2REg1LVlJRzVwUjZOTGFSVzRiYTFmYmFqYy1takE1TDZfSnlqM1lUbmZKcURyS184OEJ1LTNtam4tUXVURjU2R0RtNnJrVDhfSnFrc0tteEx1THFYcnNZVy14ZThyQk1NR3FvZkZuT1NUVVR0NC10Z3hqakc1OVZaWTItNEVBRHc?oc=5"
+    },
+    {
+     "published": null,
+     "source": "Central News Agency Taiwan 中央社",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.cna.com.tw/news/aopl/202611150003.aspx"
+    },
+    {
+     "published": null,
      "source": "Telegram: RFI 华语",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/RFI_Cn/38972"
