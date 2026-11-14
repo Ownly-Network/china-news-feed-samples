@@ -152,7 +152,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #6 → #6 → #6 → #6 → #4 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 7:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 8:31 AM ET",
+    {
+     "published": null,
+     "source": "World Journal 世界日報 (US)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.worldjournal.com/wj/story/121488/9878891"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 13, 7:28 AM ET",

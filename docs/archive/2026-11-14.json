@@ -1,0 +1,56 @@
+{
+ "count": 1,
+ "date": "2026-11-14",
+ "items": [
+  {
+   "day": "2026-11-14",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 3:35 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 4:23 AM ET",
+    {
+     "published": "2026-11-14",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E6%96%B0%E6%9C%BA%E9%81%87%23&t=31&band_rank=12&Refer=top"
+    },
+    {
+     "published": "2026-11-14",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%9A%84%E6%96%B0%E7%9C%8B%E7%82%B9%23&t=31&band_rank=16&Refer=top"
+    },
+    {
+     "published": null,
+     "source": "SCMP South China Morning Post",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374333/midterm-losses-could-give-trump-quest-emerge-apec-summit-winner"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 14, 3:21 AM ET",
+   "first_missing_iso": "2026-11-14T03:21:00-05:00",
+   "first_seen_et": "Nov 14, 1:24 AM ET",
+   "key": "toutiao|白宫：中美俄领导人计划APEC期间会晤|2026-11-14T03:21:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 14, 3:15 AM ET",
+   "minutes_on_list": 111,
+   "notable": true,
+   "official_line": {
+    "published": "2026-11-13T12:15:36+00:00",
+    "source": "YouTube: 鳳凰衛視 Phoenix TV",
+    "title": "💢“绝对不可接受”❗️普京会见美总统特使重申反对外国部队驻守乌克兰❗️俄总统助理：俄美元首计划在APEC峰会期间会晤 #凤凰卫视 #普京 #特朗普 #俄乌 #apec",
+    "url": "https://www.youtube.com/shorts/5tAciIPa5aY"
+   },
+   "official_line_zh": null,
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-c6e3c3272e1f",
+   "title_en": "",
+   "title_zh": "白宫：中美俄领导人计划APEC期间会晤",
+   "url": "https://www.toutiao.com/trending/7707473359264546870/"
+  }
+ ]
+}
