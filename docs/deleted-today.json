@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-14 11:36 ET",
+ "generated_at_et": "2026-11-14 12:48 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 6,
  "cut": {
-  "flagged": 79,
+  "flagged": 77,
   "came back once before": 3,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 25,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 26,
+  "on the list a normal length of time": 29,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 6,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 3,
   "retitled": 0,
   "topic still on the list": 1,
@@ -54,6 +54,28 @@
    ]
   },
   {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "国足比赛裁判惹众怒",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 14, 9:15 AM ET",
+   "last_seen_et": "Nov 14, 10:53 AM ET",
+   "first_missing_et": "Nov 14, 11:00 AM ET",
+   "minutes_on_list": 98,
+   "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%AF%94%E8%B5%9B%E8%A3%81%E5%88%A4%E6%83%B9%E4%BC%97%E6%80%92",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 11:16 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 12:04 PM ET"
+   ]
+  },
+  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "武汉市委连夜开会就王忠林被查表态",
@@ -77,6 +99,12 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "DW Chinese 德国之声",
      "url": "https://www.dw.com/zh/武汉前-一把手-王忠林被查-新冠期间曾火线空降/a-79942549?maca=chi-rss-chi-all-1127-rdf",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/international/article-1794608813016/",
      "published": null
     }
    ]
@@ -123,34 +151,6 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #15 → #15 → #15 → #15 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 6:26 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:14 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "张玉宁禁区内被对手放倒 主裁无表示",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 14, 8:29 AM ET",
-   "last_seen_et": "Nov 14, 9:05 AM ET",
-   "first_missing_et": "Nov 14, 9:07 AM ET",
-   "minutes_on_list": 36,
-   "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%8E%89%E5%AE%81%E7%A6%81%E5%8C%BA%E5%86%85%E8%A2%AB%E5%AF%B9%E6%89%8B%E6%94%BE%E5%80%92+%E4%B8%BB%E8%A3%81%E6%97%A0%E8%A1%A8%E7%A4%BA",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:27 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 10:08 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%A0%E7%8E%89%E5%AE%81%E8%B8%A2%E5%88%B0%E5%AF%B9%E6%89%8B%20%E4%B8%8D%E6%98%AF%E7%82%B9%E7%90%83&t=31&band_rank=29&Refer=top",
-     "published": "2026-11-14"
-    }
    ]
   },
   {
