@@ -9,16 +9,10 @@
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 5:20 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 6:14 AM ET",
     {
-     "published": "2026-11-15",
+     "published": "2026-11-16",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=15&Refer=top"
-    },
-    {
-     "published": "2026-11-15",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BE%97%E9%AA%84%E5%82%B2%E5%9D%8F%E4%BA%86%23&t=31&band_rank=20&Refer=top"
+     "url": "https://s.weibo.com//weibo?q=%23%E4%B8%9A%E5%86%85%E8%B0%88BLG%E5%A4%BA%E5%86%A0%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%AB%9E%E5%B8%82%E5%9C%BA%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=19&Refer=top"
     }
    ],
    "evidence_strength": "standard",
@@ -54,10 +48,28 @@
      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%232%E5%88%86%E9%92%9F%E5%BF%AB%E9%97%AA%E8%A7%86%E9%A2%91%E7%9C%8BAPEC%E7%83%AD%E8%AF%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26pos%3D2%26q%3D%25232%25E5%2588%2586%25E9%2592%259F%25E5%25BF%25AB%25E9%2597%25AA%25E8%25A7%2586%25E9%25A2%2591%25E7%259C%258BAPEC%25E7%2583%25AD%25E8%25AF%258D%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D3%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D3%26display_time%3D1794764599%26pre_seqid%3D17947645998120126973181&launchid=10000360-page_H5"
     },
     {
+     "published": "2026-11-16",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%ADAPEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%23&Refer=new_time"
+    },
+    {
+     "published": "2026-11-16",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%BF%AB%E9%97%AA%E8%A7%86%E9%A2%91%E7%9C%8BAPEC%E7%83%AD%E8%AF%8D%23&t=31&band_rank=3&Refer=top"
+    },
+    {
      "published": null,
      "source": "Storm Media 風傳媒",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.storm.mg/articles/1181540"
+    },
+    {
+     "published": null,
+     "source": "RFA Mandarin 自由亚洲电台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://rfa.org/mandarin/shehui/2026/11/04/china-apec-heightened-security-shenzhen-restrictions-on-kitchen-knives/"
     },
     {
      "published": null,
@@ -89,10 +101,10 @@
    "minutes_on_list": 70,
    "notable": true,
    "official_line": {
-    "published": "2026-11-15T11:41:59+00:00",
-    "source": "YouTube: 中国新闻社 China News Service",
-    "title": "APEC来了，深圳拿出了“顶配”场馆",
-    "url": "https://www.youtube.com/watch?v=cTFb9o-Dqmk"
+    "published": "2026-11-16 01:07:17",
+    "source": "Tencent News 腾讯网",
+    "title": "高市赴深圳APEC前，美方提出驻日经费翻三倍要求，出访前遇谈判压力",
+    "url": "https://new.qq.com/rain/a/20261116V016NS00"
    },
    "official_line_zh": null,
    "peak_rank": 1,
