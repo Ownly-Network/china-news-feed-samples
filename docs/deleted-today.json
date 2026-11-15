@@ -1,25 +1,76 @@
 {
- "generated_at_et": "2026-11-15 03:56 ET",
+ "generated_at_et": "2026-11-15 04:58 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 8,
  "cut": {
-  "flagged": 96,
+  "flagged": 94,
   "came back once before": 5,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 36,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 33,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 24,
-  "inside the list's normal rotation": 1,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 5,
+  "on the list a normal length of time": 25,
+  "inside the list's normal rotation": 0,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 6,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 8
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "SpaceX首次完成“筷子夹飞船”",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 14, 6:25 PM ET",
+   "last_seen_et": "Nov 14, 6:55 PM ET",
+   "first_missing_et": "Nov 14, 7:00 PM ET",
+   "minutes_on_list": 30,
+   "url": "https://www.toutiao.com/trending/7708169343216930347/",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "马斯克再创历史，人类首次用“筷子”夹住星舰飞船",
+    "url": "https://new.qq.com/rain/a/20261115V0ALB000",
+    "published": "2026-11-15 17:12:01"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:17 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 8:03 PM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94SpaceX%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%AD%B7%E5%AD%90%E5%A4%B9%E9%A3%9E%E8%88%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D8%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E5%259B%259E%25E5%25BA%2594SpaceX%25E9%25A6%2596%25E6%25AC%25A1%25E5%25AE%259E%25E7%258E%25B0%25E7%25AD%25B7%25E5%25AD%2590%25E5%25A4%25B9%25E9%25A3%259E%25E8%2588%25B9%2523%26dgr%3D0%26band_rank%3D8%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D7%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5",
+     "published": "2026-11-15"
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Epoch Times Chinese 大纪元",
+     "url": "https://www.epochtimes.com/b5/26/11/14/n14888962.htm",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/international/spacex-achieves-historic-catch-of-starship/",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sin Chew Daily 星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6OFFhOXkwOHZqS3VhcVpnejZfLTg5SFBta1lWUFVxb2w4UVhIaUJBSHFJTWNpR2FaUkt1akFHWlZ0Y3hyOTZ6ZDRrSjU3RVRmZk9maE05TVBTdlFEUlpicFRzeW4xd016UVg1SkpRcw?oc=5",
+     "published": null
+    }
+   ]
+  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -56,13 +107,8 @@
    "first_missing_et": "Nov 14, 9:55 PM ET",
    "minutes_on_list": 75,
    "url": "https://www.toutiao.com/trending/7707991494052938249/",
-   "official_line": {
-    "source": "Shanghai Observer 上观新闻 (Jiefang Daily)",
-    "title": "女子借给陌生男子10元救急，十年后公交偶遇反被打致骨折，法院判了",
-    "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1214277&sid=11",
-    "published": "2026-11-15"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #4 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 14, 10:06 PM ET",
@@ -187,12 +233,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: 新唐人電視台 NTD Chinese",
      "url": "https://t.me/NTDChinese/87243",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "on.cc 東網",
-     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261115/bkn-20261115150103952-1115_00822_001.html",
      "published": null
     }
    ]
