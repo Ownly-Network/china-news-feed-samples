@@ -10,33 +10,15 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 6:14 AM ET",
     {
      "published": "2026-11-15",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D2%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26band_rank%3D1%26q%3D%2523BLG%25E5%25A4%25BA%25E5%2586%25A0%25E8%25B5%259E%25E5%258A%25A9%25E5%2595%2586%25E8%25B5%25A2%25E9%25BA%25BB%25E4%25BA%2586%2523%26dgr%3D0%26pos%3D0%26filter_type%3Drealtimehot%26display_time%3D1794739412%26pre_seqid%3D17947394127710107244806&launchid=10000360-page_H5"
+     "url": "https://s.weibo.com//weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=15&Refer=top"
     },
     {
      "published": "2026-11-15",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23BLG%E5%A4%BA%E5%86%A0B%E7%AB%99%E9%80%81%E5%A4%A7%E4%BC%9A%E5%91%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D4%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523BLG%25E5%25A4%25BA%25E5%2586%25A0B%25E7%25AB%2599%25E9%2580%2581%25E5%25A4%25A7%25E4%25BC%259A%25E5%2591%2598%2523%26dgr%3D0%26band_rank%3D4%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D3%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5"
-    },
-    {
-     "published": "2026-11-15",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DBLG%E5%A4%BA%E5%86%A0&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D5%26lcate%3D5001%26stream_entry_id%3D31%26q%3DBLG%25E5%25A4%25BA%25E5%2586%25A0%26dgr%3D0%26band_rank%3D5%26filter_type%3Drealtimehot%26flag%3D2%26c_type%3D31%26pos%3D4%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5"
-    },
-    {
-     "published": "2026-11-15",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23BLG%E5%A4%BA%E5%86%A0%E5%BC%95%E6%9D%A5%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D11%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523BLG%25E5%25A4%25BA%25E5%2586%25A0%25E5%25BC%2595%25E6%259D%25A5%25E5%258D%258A%25E4%25B8%25AA%25E5%25A8%25B1%25E4%25B9%2590%25E5%259C%2588%2523%26dgr%3D0%26band_rank%3D11%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D10%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5"
-    },
-    {
-     "published": "2026-11-15",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D21%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25E5%25A4%25AE%25E8%25A7%2586%25E6%2596%25B0%25E9%2597%25BB%25E7%25A5%259D%25E8%25B4%25BABLG%25E5%25A4%25BA%25E5%2586%25A0%26dgr%3D0%26band_rank%3D21%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D20%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5"
+     "url": "https://s.weibo.com//weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BE%97%E9%AA%84%E5%82%B2%E5%9D%8F%E4%BA%86%23&t=31&band_rank=20&Refer=top"
     }
    ],
    "evidence_strength": "standard",
@@ -49,13 +31,8 @@
    "last_seen_et": "Nov 15, 5:00 AM ET",
    "minutes_on_list": 105,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-15T16:26:49+00:00",
-    "source": "Sohu News 搜狐新闻",
-    "title": "中考冲刺想逆风翻盘？初三全日制别盲目报｜启航给家长讲透",
-    "url": "https://www.sohu.com/a/1101937548_122837751"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 7,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -71,10 +48,10 @@
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:28 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 11:18 AM ET",
     {
-     "published": "2026-11-15",
+     "published": "2026-11-16",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D3%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25234%25E5%2588%2586%25E9%2592%259F%25E8%25AF%25BB%25E6%2587%2582APEC%2523%26dgr%3D0%26band_rank%3D3%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D2%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5"
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%232%E5%88%86%E9%92%9F%E5%BF%AB%E9%97%AA%E8%A7%86%E9%A2%91%E7%9C%8BAPEC%E7%83%AD%E8%AF%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26pos%3D2%26q%3D%25232%25E5%2588%2586%25E9%2592%259F%25E5%25BF%25AB%25E9%2597%25AA%25E8%25A7%2586%25E9%25A2%2591%25E7%259C%258BAPEC%25E7%2583%25AD%25E8%25AF%258D%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D3%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D3%26display_time%3D1794764599%26pre_seqid%3D17947645998120126973181&launchid=10000360-page_H5"
     },
     {
      "published": null,
