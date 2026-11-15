@@ -1,76 +1,25 @@
 {
- "generated_at_et": "2026-11-15 00:19 ET",
+ "generated_at_et": "2026-11-15 01:32 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 9,
  "cut": {
-  "flagged": 93,
+  "flagged": 98,
   "came back once before": 4,
-  "gone under 60 min": 1,
-  "not in the top 10 when it left": 34,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 35,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 26,
+  "on the list a normal length of time": 27,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 7,
-  "left with other flagged topics (batch drop)": 2,
+  "still on another hot list": 6,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 6,
   "topic still on the list": 3,
-  "same story as a kept item": 1,
-  "kept": 8
+  "same story as a kept item": 0,
+  "kept": 9
  },
  "items": [
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "SpaceX首次完成“筷子夹飞船”",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 14, 6:25 PM ET",
-   "last_seen_et": "Nov 14, 6:55 PM ET",
-   "first_missing_et": "Nov 14, 7:00 PM ET",
-   "minutes_on_list": 30,
-   "url": "https://www.toutiao.com/trending/7708169343216930347/",
-   "official_line": {
-    "source": "36Kr",
-    "title": "SpaceX首次实现“筷子夹飞船”",
-    "url": "https://36kr.com/newsflashes/4070331143214215?f=rss",
-    "published": "2026-11-15T01:30:39Z"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:17 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 8:03 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94SpaceX%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%AD%B7%E5%AD%90%E5%A4%B9%E9%A3%9E%E8%88%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D8%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E5%259B%259E%25E5%25BA%2594SpaceX%25E9%25A6%2596%25E6%25AC%25A1%25E5%25AE%259E%25E7%258E%25B0%25E7%25AD%25B7%25E5%25AD%2590%25E5%25A4%25B9%25E9%25A3%259E%25E8%2588%25B9%2523%26dgr%3D0%26band_rank%3D8%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D7%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5",
-     "published": "2026-11-15"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23SpaceX%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%AD%B7%E5%AD%90%E5%A4%B9%E9%A3%9E%E8%88%B9%23&t=31&band_rank=12&Refer=top",
-     "published": "2026-11-15"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Epoch Times Chinese 大纪元",
-     "url": "https://www.epochtimes.com/b5/26/11/14/n14888962.htm",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/spacex-achieves-historic-catch-of-starship/",
-     "published": null
-    }
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -85,17 +34,24 @@
    "first_missing_et": "Nov 14, 3:21 AM ET",
    "minutes_on_list": 111,
    "url": "https://www.toutiao.com/trending/7707473359264546870/",
-   "official_line": {
-    "source": "YouTube: 中国新闻社 China News Service",
-    "title": "外卡内绑、外包内用……APEC会议周期间推进支付便利化！",
-    "url": "https://www.youtube.com/shorts/vvUyD9Frsvk",
-    "published": "2026-11-14T09:55:53+00:00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 3:35 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 4:23 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&t=31&band_rank=3&Refer=top",
+     "published": "2026-11-15"
+    },
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=APEC&t=31&band_rank=19&Refer=top",
+     "published": "2026-11-15"
+    },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
@@ -105,13 +61,13 @@
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: RFI 华语",
-     "url": "https://t.me/RFI_Cn/38972",
+     "url": "https://t.me/RFI_Cn/38991",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: RFI 华语",
-     "url": "https://t.me/RFI_Cn/39006",
+     "source": "Ming Pao 明報",
+     "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQYklRQWZYR0pnZThKRHlNWDlQNXpNYVktNExoTm1UWGppQ3FfZjBFcXZQdU9YSFY5UjNma2RZUXVCc2hfNk16MkVheml1M0R4QlVWazNTQlVyOFJxRVpGdTY1U0JDRlRrbkE1M2ZIdi1ERm9OUXZRQmY5Y0xkTG5yRU5Kbi0wM055NXNsWFU5UF9hZGpMdnFzLUdwSXhOaEQtOWh3QnNMMWxQSHU0OHQ1QVRYS2ZYSWhzaEZSWUVoa1hKM2dOWWNZRXQ0YnBYdWlHaWhqUV9nT01ucDA2LUJNWjNtWkd2MWVUaUp0U0hGa0NYRXVXOXpRVTRBbUpaMmIxUm9lc3dCQWtTRnMtSlEzZFlOREZMN2daUG5tY0hLYWZrdzJja1UwUkM0WWhqU1lBVzhfa0dHUWF2Z0NibHM0UC1PLWtoNEY4TTItQng2MXI2bks0RVNfSjFhRzJmbHBXYkNMckQzQlRKRkFuSXhGOTZjS1RucWtfNFdrQ1hTMUNGTWZiemdEUmJzajZEQ0Q0SVMtRlFfTGVQZGFFUGdIMkpTMjdKcE91eHBlTm9CZk55cmNsUW8zUmFFMDdSMzJHUlQtd2pjRHYySzBnR2Y0eml1Yk16N1hIM2VydnRMN01VTTZtZWplQ0JSdEIwd0NTOXI0TFgzSmZmMFpUQVpNaA?oc=5",
      "published": null
     }
    ]
@@ -136,6 +92,46 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 11:16 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 12:04 PM ET"
+   ]
+  },
+  {
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "title_zh": "行影中国之APEC深圳篇",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 3,
+   "first_seen_et": "Nov 14, 1:06 AM ET",
+   "last_seen_et": "Nov 14, 2:42 AM ET",
+   "first_missing_et": "Nov 14, 2:50 AM ET",
+   "minutes_on_list": 96,
+   "url": "https://search.bilibili.com/all?keyword=%E8%A1%8C%E5%BD%B1%E4%B8%AD%E5%9B%BD%E4%B9%8BAPEC%E6%B7%B1%E5%9C%B3%E7%AF%87",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #8 → #8 → #8 → #8 → #8 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 3:05 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 3:53 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&t=31&band_rank=3&Refer=top",
+     "published": "2026-11-15"
+    },
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=APEC&t=31&band_rank=19&Refer=top",
+     "published": "2026-11-15"
+    },
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D3%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25234%25E5%2588%2586%25E9%2592%259F%25E8%25AF%25BB%25E6%2587%2582APEC%2523%26dgr%3D0%26band_rank%3D3%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D2%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5",
+     "published": "2026-11-15"
+    }
    ]
   },
   {
@@ -185,7 +181,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #12 → #15 → #12 → #15 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:00 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:56 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:56 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "FT Chinese FT中文网",
+     "url": "https://www.ftchinese.com/story/001111309",
+     "published": null
+    }
    ]
   },
   {
@@ -208,6 +210,28 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #7 → #7 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:52 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 8:40 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "董明珠：格力对文凭的考虑已逐步取消",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Nov 14, 5:10 AM ET",
+   "last_seen_et": "Nov 14, 6:10 AM ET",
+   "first_missing_et": "Nov 14, 6:12 AM ET",
+   "minutes_on_list": 60,
+   "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%A0%BC%E5%8A%9B%E5%AF%B9%E6%96%87%E5%87%AD%E7%9A%84%E8%80%83%E8%99%91%E5%B7%B2%E9%80%90%E6%AD%A5%E5%8F%96%E6%B6%88",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #15 → #15 → #15 → #15 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 6:26 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:14 AM ET"
    ]
   },
   {
