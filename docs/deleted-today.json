@@ -1,77 +1,25 @@
 {
- "generated_at_et": "2026-11-15 01:32 ET",
+ "generated_at_et": "2026-11-15 03:56 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 7,
  "cut": {
-  "flagged": 98,
-  "came back once before": 4,
+  "flagged": 96,
+  "came back once before": 5,
   "gone under 60 min": 4,
-  "not in the top 10 when it left": 35,
+  "not in the top 10 when it left": 36,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 27,
+  "on the list a normal length of time": 24,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 3,
+  "still on another hot list": 5,
+  "left with other flagged topics (batch drop)": 5,
   "retitled": 6,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 7
  },
  "items": [
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "白宫：中美俄领导人计划APEC期间会晤",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 14, 1:24 AM ET",
-   "last_seen_et": "Nov 14, 3:15 AM ET",
-   "first_missing_et": "Nov 14, 3:21 AM ET",
-   "minutes_on_list": 111,
-   "url": "https://www.toutiao.com/trending/7707473359264546870/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 3:35 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 4:23 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&t=31&band_rank=3&Refer=top",
-     "published": "2026-11-15"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=APEC&t=31&band_rank=19&Refer=top",
-     "published": "2026-11-15"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D3%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25234%25E5%2588%2586%25E9%2592%259F%25E8%25AF%25BB%25E6%2587%2582APEC%2523%26dgr%3D0%26band_rank%3D3%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D2%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5",
-     "published": "2026-11-15"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: RFI 华语",
-     "url": "https://t.me/RFI_Cn/38991",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Ming Pao 明報",
-     "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQYklRQWZYR0pnZThKRHlNWDlQNXpNYVktNExoTm1UWGppQ3FfZjBFcXZQdU9YSFY5UjNma2RZUXVCc2hfNk16MkVheml1M0R4QlVWazNTQlVyOFJxRVpGdTY1U0JDRlRrbkE1M2ZIdi1ERm9OUXZRQmY5Y0xkTG5yRU5Kbi0wM055NXNsWFU5UF9hZGpMdnFzLUdwSXhOaEQtOWh3QnNMMWxQSHU0OHQ1QVRYS2ZYSWhzaEZSWUVoa1hKM2dOWWNZRXQ0YnBYdWlHaWhqUV9nT01ucDA2LUJNWjNtWkd2MWVUaUp0U0hGa0NYRXVXOXpRVTRBbUpaMmIxUm9lc3dCQWtTRnMtSlEzZFlOREZMN2daUG5tY0hLYWZrdzJja1UwUkM0WWhqU1lBVzhfa0dHUWF2Z0NibHM0UC1PLWtoNEY4TTItQng2MXI2bks0RVNfSjFhRzJmbHBXYkNMckQzQlRKRkFuSXhGOTZjS1RucWtfNFdrQ1hTMUNGTWZiemdEUmJzajZEQ0Q0SVMtRlFfTGVQZGFFUGdIMkpTMjdKcE91eHBlTm9CZk55cmNsUW8zUmFFMDdSMzJHUlQtd2pjRHYySzBnR2Y0eml1Yk16N1hIM2VydnRMN01VTTZtZWplQ0JSdEIwd0NTOXI0TFgzSmZmMFpUQVpNaA?oc=5",
-     "published": null
-    }
-   ]
-  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -95,46 +43,6 @@
    ]
   },
   {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "行影中国之APEC深圳篇",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 3,
-   "first_seen_et": "Nov 14, 1:06 AM ET",
-   "last_seen_et": "Nov 14, 2:42 AM ET",
-   "first_missing_et": "Nov 14, 2:50 AM ET",
-   "minutes_on_list": 96,
-   "url": "https://search.bilibili.com/all?keyword=%E8%A1%8C%E5%BD%B1%E4%B8%AD%E5%9B%BD%E4%B9%8BAPEC%E6%B7%B1%E5%9C%B3%E7%AF%87",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #8 → #8 → #8 → #8 → #8 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 3:05 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 3:53 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&t=31&band_rank=3&Refer=top",
-     "published": "2026-11-15"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=APEC&t=31&band_rank=19&Refer=top",
-     "published": "2026-11-15"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D3%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25234%25E5%2588%2586%25E9%2592%259F%25E8%25AF%25BB%25E6%2587%2582APEC%2523%26dgr%3D0%26band_rank%3D3%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D2%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5",
-     "published": "2026-11-15"
-    }
-   ]
-  },
-  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "男子欠10元10年不还将债主打骨折",
@@ -148,18 +56,17 @@
    "first_missing_et": "Nov 14, 9:55 PM ET",
    "minutes_on_list": 75,
    "url": "https://www.toutiao.com/trending/7707991494052938249/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Shanghai Observer 上观新闻 (Jiefang Daily)",
+    "title": "女子借给陌生男子10元救急，十年后公交偶遇反被打致骨折，法院判了",
+    "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1214277&sid=11",
+    "published": "2026-11-15"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #4 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 14, 10:06 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 10:59 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "8world News 8视界",
-     "url": "https://www.8world.com/greater-china/wuxi-man-jailed-for-7-months-for-assaulting-creditor-on-bus-over-unpaid-3340841",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 10:59 PM ET"
    ]
   },
   {
@@ -280,6 +187,12 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: 新唐人電視台 NTD Chinese",
      "url": "https://t.me/NTDChinese/87243",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "on.cc 東網",
+     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261115/bkn-20261115150103952-1115_00822_001.html",
      "published": null
     }
    ]

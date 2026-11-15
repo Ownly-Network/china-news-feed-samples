@@ -318,6 +318,12 @@
      "source": "Telegram: 新唐人電視台 NTD Chinese",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/NTDChinese/87243"
+    },
+    {
+     "published": null,
+     "source": "on.cc 東網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261115/bkn-20261115150103952-1115_00822_001.html"
     }
    ],
    "evidence_strength": "standard",
@@ -345,13 +351,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #4 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 14, 10:06 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 10:59 PM ET",
-    {
-     "published": null,
-     "source": "8world News 8视界",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.8world.com/greater-china/wuxi-man-jailed-for-7-months-for-assaulting-creditor-on-bus-over-unpaid-3340841"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 10:59 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 14, 9:55 PM ET",
@@ -363,8 +363,13 @@
    "last_seen_et": "Nov 14, 9:50 PM ET",
    "minutes_on_list": 75,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-15",
+    "source": "Shanghai Observer 上观新闻 (Jiefang Daily)",
+    "title": "女子借给陌生男子10元救急，十年后公交偶遇反被打致骨折，法院判了",
+    "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1214277&sid=11"
+   },
+   "official_line_zh": null,
    "peak_rank": 4,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
