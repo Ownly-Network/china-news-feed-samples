@@ -1,45 +1,80 @@
 {
- "generated_at_et": "2026-11-15 10:36 ET",
+ "generated_at_et": "2026-11-15 11:41 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 6,
  "cut": {
-  "flagged": 90,
-  "came back once before": 2,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 38,
+  "flagged": 81,
+  "came back once before": 1,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 37,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 23,
+  "on the list a normal length of time": 20,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 7,
+  "still on another hot list": 8,
   "left with other flagged topics (batch drop)": 3,
   "retitled": 6,
-  "topic still on the list": 2,
+  "topic still on the list": 0,
   "same story as a kept item": 0,
   "kept": 6
  },
  "items": [
   {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "国足比赛裁判惹众怒",
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "深圳APEC近700辆豪华车队来了",
    "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 14, 9:15 AM ET",
-   "last_seen_et": "Nov 14, 10:53 AM ET",
-   "first_missing_et": "Nov 14, 11:00 AM ET",
-   "minutes_on_list": 98,
-   "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%AF%94%E8%B5%9B%E8%A3%81%E5%88%A4%E6%83%B9%E4%BC%97%E6%80%92",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 15, 9:01 AM ET",
+   "last_seen_et": "Nov 15, 10:10 AM ET",
+   "first_missing_et": "Nov 15, 10:16 AM ET",
+   "minutes_on_list": 70,
+   "url": "https://www.toutiao.com/trending/7708389349225844274/",
+   "official_line": {
+    "source": "YouTube: 中国新闻社 China News Service",
+    "title": "APEC来了，深圳拿出了“顶配”场馆",
+    "url": "https://www.youtube.com/watch?v=cTFb9o-Dqmk",
+    "published": "2026-11-15T11:41:59+00:00"
+   },
+   "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 11:16 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 12:04 PM ET"
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 11:18 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D3%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25234%25E5%2588%2586%25E9%2592%259F%25E8%25AF%25BB%25E6%2587%2582APEC%2523%26dgr%3D0%26band_rank%3D3%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D2%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5",
+     "published": "2026-11-15"
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Storm Media 風傳媒",
+     "url": "https://www.storm.mg/articles/1181540",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 联合早报 zaobao.sg",
+     "url": "https://t.me/zaobaosg/57138",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sound of Hope 希望之声",
+     "url": "https://www.soundofhope.org/post/949707",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 希望之聲TV Sound of Hope",
+     "url": "https://www.youtube.com/watch?v=yTAKTLBDZIg",
+     "published": null
+    }
    ]
   },
   {
@@ -122,8 +157,13 @@
    "first_missing_et": "Nov 15, 5:06 AM ET",
    "minutes_on_list": 105,
    "url": "https://www.baidu.com/s?wd=BLG%E5%A4%BA%E5%86%A0+%E4%B8%8D%E5%8F%AA%E6%98%AF%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Sohu News 搜狐新闻",
+    "title": "中考冲刺想逆风翻盘？初三全日制别盲目报｜启航给家长讲透",
+    "url": "https://www.sohu.com/a/1101937548_122837751",
+    "published": "2026-11-15T16:26:49+00:00"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 5:20 AM ET",
