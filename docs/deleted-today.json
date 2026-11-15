@@ -1,94 +1,25 @@
 {
- "generated_at_et": "2026-11-14 20:52 ET",
+ "generated_at_et": "2026-11-14 21:58 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 4,
  "cut": {
-  "flagged": 89,
+  "flagged": 91,
   "came back once before": 3,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 27,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 33,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 29,
+  "on the list a normal length of time": 26,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 8,
-  "left with other flagged topics (batch drop)": 3,
+  "still on another hot list": 11,
+  "left with other flagged topics (batch drop)": 2,
   "retitled": 4,
-  "topic still on the list": 0,
-  "same story as a kept item": 1,
-  "kept": 5
+  "topic still on the list": 1,
+  "same story as a kept item": 0,
+  "kept": 4
  },
  "items": [
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "SpaceX首次完成“筷子夹飞船”",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 14, 6:25 PM ET",
-   "last_seen_et": "Nov 14, 6:55 PM ET",
-   "first_missing_et": "Nov 14, 7:00 PM ET",
-   "minutes_on_list": 30,
-   "url": "https://www.toutiao.com/trending/7708169343216930347/",
-   "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "SpaceX首次实现“筷子夹飞船”，马斯克称“飞船状态很好”",
-    "url": "https://www.yicai.com/news/103440901.html",
-    "published": "2026-11-15T08:44:31"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:17 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 8:03 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23SpaceX%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%AD%B7%E5%AD%90%E5%A4%B9%E9%A3%9E%E8%88%B9%23&t=31&band_rank=12&Refer=top",
-     "published": "2026-11-15"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Epoch Times Chinese 大纪元",
-     "url": "https://www.epochtimes.com/b5/26/11/14/n14888962.htm",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/11/14/a104150797.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "8world News 8视界",
-     "url": "https://www.8world.com/world/spacex-starship-returns-to-landing-pad-from-orbit-acing-test-for-reusable-3340751",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "China Times 中時新聞網",
-     "url": "https://www.chinatimes.com/realtimenews/20261115000818-260408?ctrack=mo_main_alert_p02",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/international/spacex-achieves-historic-catch-of-starship/",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/itnews/20261115/2381100.html",
-     "published": null
-    }
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -114,6 +45,12 @@
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 3:35 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 4:23 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D3%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25234%25E5%2588%2586%25E9%2592%259F%25E8%25AF%25BB%25E6%2587%2582APEC%2523%26dgr%3D0%26band_rank%3D3%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D2%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5",
+     "published": "2026-11-15"
+    },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Ming Pao 明報",
@@ -159,6 +96,28 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
+   "title_zh": "中芯国际产能利用率97.3%意味着什么",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Nov 14, 6:25 PM ET",
+   "last_seen_et": "Nov 14, 8:38 PM ET",
+   "first_missing_et": "Nov 14, 8:47 PM ET",
+   "minutes_on_list": 133,
+   "url": "https://www.toutiao.com/trending/7708159026869046827/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #12 → #15 → #12 → #15 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:00 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:56 PM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
    "title_zh": "乌军大举空袭俄罗斯想达到什么目的",
    "title_en": "",
    "label": "Dropped off",
@@ -176,28 +135,6 @@
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #7 → #7 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:52 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 8:40 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "李天阳 男单8强国乒独苗",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 13, 7:57 PM ET",
-   "last_seen_et": "Nov 13, 9:10 PM ET",
-   "first_missing_et": "Nov 13, 9:16 PM ET",
-   "minutes_on_list": 73,
-   "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A9%E9%98%B3+%E7%94%B7%E5%8D%958%E5%BC%BA%E5%9B%BD%E4%B9%92%E7%8B%AC%E8%8B%97",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #8 → #8 → #7 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 9:27 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 13, 10:22 PM ET"
    ]
   }
  ]
