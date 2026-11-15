@@ -1,25 +1,70 @@
 {
- "generated_at_et": "2026-11-15 07:20 ET",
+ "generated_at_et": "2026-11-15 08:25 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 6,
  "cut": {
-  "flagged": 87,
+  "flagged": 92,
   "came back once before": 2,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 36,
+  "gone under 60 min": 8,
+  "not in the top 10 when it left": 37,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 23,
+  "on the list a normal length of time": 22,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 2,
-  "retitled": 6,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 3,
+  "retitled": 7,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 6
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "SpaceX首次完成“筷子夹飞船”",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 14, 6:25 PM ET",
+   "last_seen_et": "Nov 14, 6:55 PM ET",
+   "first_missing_et": "Nov 14, 7:00 PM ET",
+   "minutes_on_list": 30,
+   "url": "https://www.toutiao.com/trending/7708169343216930347/",
+   "official_line": {
+    "source": "IT Home IT之家",
+    "title": "SpaceX 星舰首次实现“筷子夹飞船”，但完全重复使用仍面临多重挑战",
+    "url": "https://www.ithome.com/1/027/434.htm",
+    "published": "2026-11-15T11:36:58Z"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:17 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 8:03 PM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94SpaceX%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%AD%B7%E5%AD%90%E5%A4%B9%E9%A3%9E%E8%88%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D8%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E5%259B%259E%25E5%25BA%2594SpaceX%25E9%25A6%2596%25E6%25AC%25A1%25E5%25AE%259E%25E7%258E%25B0%25E7%25AD%25B7%25E5%25AD%2590%25E5%25A4%25B9%25E9%25A3%259E%25E8%2588%25B9%2523%26dgr%3D0%26band_rank%3D8%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D7%26display_time%3D1794710120%26pre_seqid%3D17947101200350466818145&launchid=10000360-page_H5",
+     "published": "2026-11-15"
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Epoch Times Chinese 大纪元",
+     "url": "https://www.epochtimes.com/b5/26/11/14/n14888962.htm",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/international/spacex-achieves-historic-catch-of-starship/",
+     "published": null
+    }
+   ]
+  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -45,28 +90,6 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "男子欠10元10年不还将债主打骨折",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 14, 8:35 PM ET",
-   "last_seen_et": "Nov 14, 9:50 PM ET",
-   "first_missing_et": "Nov 14, 9:55 PM ET",
-   "minutes_on_list": 75,
-   "url": "https://www.toutiao.com/trending/7707991494052938249/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #4 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 14, 10:06 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 10:59 PM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
    "title_zh": "中芯国际产能利用率97.3%意味着什么",
    "title_en": "",
    "label": "Dropped off",
@@ -83,35 +106,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #12 → #15 → #12 → #15 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:00 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:56 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "FT Chinese FT中文网",
-     "url": "https://www.ftchinese.com/story/001111309",
-     "published": null
-    }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "乌军大举空袭俄罗斯想达到什么目的",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 14, 6:48 AM ET",
-   "last_seen_et": "Nov 14, 7:35 AM ET",
-   "first_missing_et": "Nov 14, 7:38 AM ET",
-   "minutes_on_list": 47,
-   "url": "https://www.toutiao.com/trending/7707988176672919081/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #7 → #7 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:52 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 8:40 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:56 PM ET"
    ]
   },
   {
