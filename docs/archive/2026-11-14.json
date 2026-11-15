@@ -1,5 +1,5 @@
 {
- "count": 5,
+ "count": 6,
  "date": "2026-11-14",
  "items": [
   {
@@ -19,6 +19,12 @@
      "source": "Telegram: RFI 华语",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/RFI_Cn/38972"
+    },
+    {
+     "published": null,
+     "source": "Telegram: RFI 华语",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/RFI_Cn/39006"
     }
    ],
    "evidence_strength": "standard",
@@ -159,6 +165,80 @@
    "title_en": "",
    "title_zh": "国足比赛裁判惹众怒",
    "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%AF%94%E8%B5%9B%E8%A3%81%E5%88%A4%E6%83%B9%E4%BC%97%E6%80%92"
+  },
+  {
+   "day": "2026-11-14",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 7:17 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 8:03 PM ET",
+    {
+     "published": "2026-11-15",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23SpaceX%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%AD%B7%E5%AD%90%E5%A4%B9%E9%A3%9E%E8%88%B9%23&t=31&band_rank=12&Refer=top"
+    },
+    {
+     "published": null,
+     "source": "Epoch Times Chinese 大纪元",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.epochtimes.com/b5/26/11/14/n14888962.htm"
+    },
+    {
+     "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/11/14/a104150797.html"
+    },
+    {
+     "published": null,
+     "source": "8world News 8视界",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.8world.com/world/spacex-starship-returns-to-landing-pad-from-orbit-acing-test-for-reusable-3340751"
+    },
+    {
+     "published": null,
+     "source": "China Times 中時新聞網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.chinatimes.com/realtimenews/20261115000818-260408?ctrack=mo_main_alert_p02"
+    },
+    {
+     "published": null,
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.chineseherald.co.nz/news/international/spacex-achieves-historic-catch-of-starship/"
+    },
+    {
+     "published": null,
+     "source": "Bannedbook 禁闻网",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.bannedbook.org/bnews/itnews/20261115/2381100.html"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 14, 7:00 PM ET",
+   "first_missing_iso": "2026-11-14T19:00:00-05:00",
+   "first_seen_et": "Nov 14, 6:25 PM ET",
+   "key": "toutiao|SpaceX首次完成“筷子夹飞船”|2026-11-14T19:00:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 14, 6:55 PM ET",
+   "minutes_on_list": 30,
+   "notable": true,
+   "official_line": {
+    "published": "2026-11-15T08:44:31",
+    "source": "Yicai 第一财经",
+    "title": "SpaceX首次实现“筷子夹飞船”，马斯克称“飞船状态很好”",
+    "url": "https://www.yicai.com/news/103440901.html"
+   },
+   "official_line_zh": null,
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-6570336c050d",
+   "title_en": "",
+   "title_zh": "SpaceX首次完成“筷子夹飞船”",
+   "url": "https://www.toutiao.com/trending/7708169343216930347/"
   }
  ]
 }
