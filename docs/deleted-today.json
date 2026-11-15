@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-15 15:04 ET",
+ "generated_at_et": "2026-11-15 16:09 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 5,
  "cut": {
-  "flagged": 80,
+  "flagged": 78,
   "came back once before": 1,
   "gone under 60 min": 0,
   "not in the top 10 when it left": 37,
   "slid down before leaving": 0,
   "on the list a normal length of time": 19,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 8,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 3,
   "retitled": 6,
   "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 5
  },
  "items": [
   {
@@ -35,10 +35,10 @@
    "minutes_on_list": 70,
    "url": "https://www.toutiao.com/trending/7708389349225844274/",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "高市赴深圳APEC前，美方提出驻日经费翻三倍要求，出访前遇谈判压力",
-    "url": "https://new.qq.com/rain/a/20261116V016NS00",
-    "published": "2026-11-16 01:07:17"
+    "source": "YouTube: 中国新闻社 China News Service",
+    "title": "【深圳APEC】APEC媒体记者打卡深圳城市天际线 领略“深圳之眼”",
+    "url": "https://www.youtube.com/watch?v=A8EXSNnjvGM",
+    "published": "2026-11-15T14:47:18+00:00"
    },
    "official_line_zh": null,
    "evidence": [
@@ -73,6 +73,54 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "RFA Mandarin 自由亚洲电台",
      "url": "https://rfa.org/mandarin/shehui/2026/11/04/china-apec-heightened-security-shenzhen-restrictions-on-kitchen-knives/",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/38987",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 竹新社 (@tnews365)",
+     "url": "https://t.me/tnews365/35784",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "DW Chinese 德国之声",
+     "url": "https://www.dw.com/zh/深圳三方会晤谈核裁军，让中国坐上-大人的桌子-？/a-79947810?maca=chi-rss-chi-all-1127-rdf",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/39000",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/39006",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "BBC News Chinese BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/trad?at_medium=RSS&at_campaign=rss",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "SCMP South China Morning Post",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374484/china-calls-ai-cooperation-us-ahead-shenzhen-apec-summit",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
+     "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOTlVnMmY4U3FhbWZDcEVQRERBWlotOUhyeWNLVGk1TlBNU1lYWGpvQ2hpSktzOF9jZ1J2dmNxeGZfdHdLRlFWLWoxZmpFS3VwTzVwcFRTVU5Wems4YV9sUjB4ZHRzX1k2bDZqTEhlN2tKVUVzVF9IbnJNOVlna0lieW96YVhTaWNUNjNCZEVtOXNvTko5ZG5SUlA3ZTRwaEliLU9PZ3BNcEpUaW9TM1FVWjg2a3pZM1NSUHRhWl9tMjd6WGdQZHh0c2puSFNKNEtwVGZOS1VvSDM4WFRxSjBYU19iUzhPQmlqZTcxVGx1Zmpqb1BXbkoxQUh4LTQ1UEFTd29lZ0lvUFBuZkhmQ25pT003QWlTbm1NNUtIZ1Jva1B4NTZMUVFIRE82UnNTTm05TjdjU3lEVkZXWWdxY0VVOW9pcVZMSFdrUnUtLUY1c29VVWVtSHhnZVVrLUE1NXBIZlVka0tIUVBBVnYzczdYQ3BsakhIY3pjbHFMZW5IeExnZHExSHdYcUQ0c1ZGZmVzYU9MTTdFT0o1MzBSOU1hTW5CS0syNmpTT0NqUnZnQjhIYkZmMnFrT2M3M055WFFpSlZBWFhKV1hwUVVTSUt5S3U2U1kzR3VYTFpsMlR0UTBud05SREliSVl4eDNfemx1cWpfVlJfOXFHb2ZaNUQzTVYzcThlVUc1cHpEck84WnR5dGdwUENEaExzZzFXWHFlZHZMNE50SkxXcXFFU1NOX0pGbm5vdW9TQ2JxTlIxX25NSWhSNFE?oc=5",
      "published": null
     },
     {
@@ -159,34 +207,6 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #5 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 11:13 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 12:05 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "BLG夺冠 不只是逆风翻盘",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 15, 3:15 AM ET",
-   "last_seen_et": "Nov 15, 5:00 AM ET",
-   "first_missing_et": "Nov 15, 5:06 AM ET",
-   "minutes_on_list": 105,
-   "url": "https://www.baidu.com/s?wd=BLG%E5%A4%BA%E5%86%A0+%E4%B8%8D%E5%8F%AA%E6%98%AF%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 5:20 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 6:14 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E4%B8%9A%E5%86%85%E8%B0%88BLG%E5%A4%BA%E5%86%A0%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%AB%9E%E5%B8%82%E5%9C%BA%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=19&Refer=top",
-     "published": "2026-11-16"
-    }
    ]
   },
   {
