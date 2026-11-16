@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 ET = ZoneInfo("America/New_York")
-ACTOR = "https://apify.com/china.unofficial/china-news-feed"
+ACTOR = "https://apify.com/china.unofficial/china-hot-search-english"
 HF = "https://huggingface.co/datasets/ownly-network/china-news-feed-sample"
 X402 = "https://ownly-cmf-x402.joyd-ai-2026.workers.dev/"
 REPO = "https://github.com/Ownly-Network/china-news-feed-samples"
@@ -462,7 +462,7 @@ def render(gen, rows, hours):
 <div class="filters">{''.join(btns)}</div>
 <section class="grid">{body}</section>
 <div class="links">
-<a href="{ACTOR}"><b>Get today's live data →</b>The downloadable samples are frozen snapshots. The live feed on Apify, with English where available and the deletion watch, costs $8 per 1,000 rows.</a>
+<a href="{ACTOR}"><b>Get today's live data →</b>The downloadable samples are frozen snapshots. The live feed on Apify, with English where available and the deletion watch, costs $8 per 1,000 rows (rising to $15 in December).</a>
 <a href="{HF}"><b>Free sample on Hugging Face →</b>Load it with <code>datasets</code>.</a><a href="https://huggingface.co/spaces/ownly-network/china-deletion-watch"><b>What vanished this week (Hugging Face Space) →</b>A searchable table of likely-censored hot-list deletions, with peak rank and evidence.</a>
 <a href="{X402}"><b>Pay-per-call API (x402) →</b>$0.01 USDC per call on Base; free <code>/sample</code>.</a>
 <a href="deleted-today.json"><b>This page as JSON →</b>Same items, machine-readable.</a>

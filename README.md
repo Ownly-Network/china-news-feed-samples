@@ -3,7 +3,7 @@
 Free discovery samples from **Ownly's China News Feed with Deletion Watch**, a bilingual (Chinese / English) China news feed plus a deletion watch on Chinese hot-search lists.
 
 ## Get today's live data
-This sample is frozen: it is a one-time snapshot from 2026-10-19 and is not updated. For today's live feed, run the Apify actor: **https://apify.com/china.unofficial/china-news-feed**. The live feed costs $8 per 1,000 rows ($0.008 per row), and it includes the deletion watch with **likely censored 疑似被删** flags and their evidence.
+This sample is frozen: it is a one-time snapshot from 2026-10-19 and is not updated. For today's live feed, run the Apify actor: **https://apify.com/china.unofficial/china-hot-search-english**. The live feed costs $8 per 1,000 rows (rising to $15 in December) ($0.008 per row), and it includes the deletion watch with **likely censored 疑似被删** flags and their evidence.
 
 ## What is in a sample
 Headlines, short excerpts, and links only (not full article text). English text is machine-translated.
@@ -24,7 +24,7 @@ Generated from the live pipeline on 2026-10-19 by `tools/build_sample.py`.
 
 ## Full product
 Language choice (Chinese, English, or both) and the deletion watch are on the Apify listing:
-https://apify.com/china.unofficial/china-news-feed
+https://apify.com/china.unofficial/china-hot-search-english
 
 ## Dropped off today / 今日下榜 (live page)
 https://ownly-network.github.io/china-news-feed-samples/ lists hot-list topics that left a list abruptly in the last 24 hours and didn't return (some may be normal rotation). A topic with hard evidence is labeled **Likely censored 疑似被删**; the rest are labeled **Dropped off 已下榜**. Each card shows its evidence (timeline in ET, link re-checks, tracker matches). It's rebuilt hourly from the live pipeline by `tools/publish_deleted_today.sh`, and the same data is at `docs/deleted-today.json`. It contains hot-list headlines and public links only, no user data.
@@ -34,7 +34,7 @@ https://ownly-network.github.io/china-news-feed-samples/ lists hot-list topics t
 - Hugging Face dataset (weekly Deletion Watch snapshots, loadable with `datasets`): https://huggingface.co/datasets/ownly-network/china-news-feed-sample
 - Hugging Face Space, *What vanished from China's hot lists this week*: https://huggingface.co/spaces/ownly-network/china-deletion-watch
 - MCP server for Claude Desktop, Cursor and other MCP clients: https://github.com/Ownly-Network/china-news-feed-mcp
-- Apify actor (full feed, $8 per 1,000 rows): https://apify.com/china.unofficial/china-news-feed
+- Apify actor (full feed, $8 per 1,000 rows (rising to $15 in December)): https://apify.com/china.unofficial/china-hot-search-english
 
 ## License
 CC BY 4.0 for Ownly's compilation, labels, summaries and translations (see `LICENSE`). Headlines, excerpts and linked articles remain with their publishers.

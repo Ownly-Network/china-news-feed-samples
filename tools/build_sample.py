@@ -32,7 +32,7 @@ def main(src, out):
     meta = {"generated_at_et": et(gen), "product": "Ownly China News Feed with Deletion Watch",
             "license": "CC BY 4.0 for Ownly's compilation, labels and summaries; headlines, excerpts and linked articles remain with their publishers.",
             "note": "Free discovery sample: headlines, short excerpts and links only. English is machine-translated. Deletion-watch flags are not included; see the live page.",
-            "full_feed": "https://apify.com/china.unofficial/china-news-feed",
+            "full_feed": "https://apify.com/china.unofficial/china-hot-search-english",
             "deleted_today": "https://ownly-network.github.io/china-news-feed-samples/"}
     fe = json.load(open(os.path.join(src, "feed_en.json")))["items"]
     en = [i for i in fe if i.get("kind") == "news" and i.get("headline_en")]

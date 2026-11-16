@@ -11,7 +11,7 @@
 - [Archive index](https://ownly-network.github.io/china-news-feed-samples/archive/index.html): every past day, newest first.
 
 ## Full product
-- [Apify actor — full live feed, $8 per 1,000 rows](https://apify.com/china.unofficial/china-news-feed)
+- [Apify actor — full live feed, $8 per 1,000 rows (rising to $15 in December)](https://apify.com/china.unofficial/china-hot-search-english)
 - [Hugging Face dataset — free sample](https://huggingface.co/datasets/ownly-network/china-news-feed-sample)
 - [Hugging Face Space — What vanished this week](https://huggingface.co/spaces/ownly-network/china-deletion-watch)
 - [GitHub repo](https://github.com/Ownly-Network/china-news-feed-samples)

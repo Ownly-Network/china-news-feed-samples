@@ -320,7 +320,7 @@ def render_llms_txt(days):
 - [Archive index]({SITE}archive/index.html): every past day, newest first.
 
 ## Full product
-- [Apify actor — full live feed, $8 per 1,000 rows]({b.ACTOR})
+- [Apify actor — full live feed, $8 per 1,000 rows (rising to $15 in December)]({b.ACTOR})
 - [Hugging Face dataset — free sample]({b.HF})
 - [Hugging Face Space — What vanished this week](https://huggingface.co/spaces/ownly-network/china-deletion-watch)
 - [GitHub repo]({REPO})
