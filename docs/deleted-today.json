@@ -1,25 +1,53 @@
 {
- "generated_at_et": "2026-11-15 19:36 ET",
+ "generated_at_et": "2026-11-15 20:44 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 5,
  "cut": {
-  "flagged": 76,
-  "came back once before": 1,
-  "gone under 60 min": 7,
+  "flagged": 73,
+  "came back once before": 2,
+  "gone under 60 min": 4,
   "not in the top 10 when it left": 35,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 18,
+  "on the list a normal length of time": 17,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 6,
+  "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 3,
-  "retitled": 2,
+  "retitled": 4,
   "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 4
+  "kept": 5
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "深圳APEC近700辆豪华车队来了",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 15, 9:01 AM ET",
+   "last_seen_et": "Nov 15, 10:10 AM ET",
+   "first_missing_et": "Nov 15, 10:16 AM ET",
+   "minutes_on_list": 70,
+   "url": "https://www.toutiao.com/trending/7708389349225844274/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 11:18 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%232%E5%88%86%E9%92%9F%E5%BF%AB%E9%97%AA%E8%A7%86%E9%A2%91%E7%9C%8BAPEC%E7%83%AD%E8%AF%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26pos%3D2%26q%3D%25232%25E5%2588%2586%25E9%2592%259F%25E5%25BF%25AB%25E9%2597%25AA%25E8%25A7%2586%25E9%25A2%2591%25E7%259C%258BAPEC%25E7%2583%25AD%25E8%25AF%258D%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D3%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D3%26display_time%3D1794764599%26pre_seqid%3D17947645998120126973181&launchid=10000360-page_H5",
+     "published": "2026-11-16"
+    }
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -34,13 +62,8 @@
    "first_missing_et": "Nov 14, 9:55 PM ET",
    "minutes_on_list": 75,
    "url": "https://www.toutiao.com/trending/7707991494052938249/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "男子借10元救急，十多年仍不归还，债主公交车上讨要被打骨折，判了",
-    "url": "https://new.qq.com/rain/a/20261116A03LJ100",
-    "published": "2026-11-16 07:01:22"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #4 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 14, 10:06 PM ET",
@@ -66,13 +89,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #12 → #15 → #12 → #15 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:00 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:56 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "United Daily News 聯合新聞網",
-     "url": "https://udn.com/news/story/7333/9880802",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:56 PM ET"
    ]
   },
   {
