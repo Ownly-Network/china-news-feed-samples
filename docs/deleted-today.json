@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-16 15:07 ET",
+ "generated_at_et": "2026-11-16 16:10 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -35,22 +35,16 @@
    "minutes_on_list": 61,
    "url": "https://www.toutiao.com/trending/7707529746686594601/",
    "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "媒体:34岁方博夺冠 不该被视为对国乒男队整体的嘲讽",
-    "url": "https://www.163.com/dy/article/LBS5UE520550A0OW.html",
-    "published": "2026-11-16 17:21:49"
+    "source": "Tencent News 腾讯网",
+    "title": "34岁方博复出夺冠！4-1击败姜东硕，时隔13年再夺国际男单冠军",
+    "url": "https://new.qq.com/rain/a/20261117V01RQM00",
+    "published": "2026-11-17 02:45:43"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 9:22 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:09 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D2%26pos%3D0%26q%3D%2523%25E5%259B%25BD%25E4%25B9%2592%25E5%2585%25A8%25E5%2586%259B%25E8%25A6%2586%25E6%25B2%25A134%25E5%25B2%2581%25E6%2596%25B9%25E5%258D%259A%25E5%25A4%25BA%25E5%2586%25A0%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26display_time%3D1794764599%26pre_seqid%3D17947645998120126973181&launchid=10000360-page_H5",
-     "published": "2026-11-16"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:09 PM ET"
    ]
   },
   {
@@ -112,10 +106,10 @@
    "minutes_on_list": 37,
    "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E2%80%9C%E9%9A%BE%E5%81%9A%E2%80%9D%E4%BA%86",
    "official_line": {
-    "source": "The Paper 澎湃新闻",
-    "title": "马上评｜老师，为何越来越“难做”了",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34489128",
-    "published": "2026-11-16 13:14:53"
+    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
+    "title": "老师，为何越来越“难做”了",
+    "url": "https://www.peopleapp.com/column/30053573259-500007788493",
+    "published": "2026-11-16T10:41:36Z"
    },
    "official_line_zh": null,
    "evidence": [
