@@ -1,5 +1,5 @@
 {
- "count": 7,
+ "count": 8,
  "date": "2026-11-16",
  "items": [
   {
@@ -197,8 +197,13 @@
    "last_seen_et": "Nov 16, 5:32 AM ET",
    "minutes_on_list": 39,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-16T22:03:42",
+    "source": "Yicai 第一财经",
+    "title": "金价跌回一年前：黄金的定价逻辑如何改变？丨夜话",
+    "url": "https://www.yicai.com/news/103442626.html"
+   },
+   "official_line_zh": null,
    "peak_rank": 6,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -206,6 +211,33 @@
    "title_en": "",
    "title_zh": "黄金跌至逾一年新低",
    "url": "https://www.toutiao.com/trending/7708698413059034675/"
+  },
+  {
+   "day": "2026-11-16",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #13 → #13 → #13 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 8:25 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 9:17 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 16, 8:14 AM ET",
+   "first_missing_iso": "2026-11-16T08:14:00-05:00",
+   "first_seen_et": "Nov 16, 6:50 AM ET",
+   "key": "baidu|英前首相遭灌酒？扎哈罗娃：自愿喝的|2026-11-16T08:14:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 16, 8:09 AM ET",
+   "minutes_on_list": 79,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 4,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-662cb4763554",
+   "title_en": "",
+   "title_zh": "英前首相遭灌酒？扎哈罗娃：自愿喝的",
+   "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%89%8D%E9%A6%96%E7%9B%B8%E9%81%AD%E7%81%8C%E9%85%92%EF%BC%9F%E6%89%8E%E5%93%88%E7%BD%97%E5%A8%83%EF%BC%9A%E8%87%AA%E6%84%BF%E5%96%9D%E7%9A%84"
   }
  ]
 }
