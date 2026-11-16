@@ -273,7 +273,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #12 → #15 → #12 → #15 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:00 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:56 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 14, 9:56 PM ET",
+    {
+     "published": null,
+     "source": "United Daily News 聯合新聞網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://udn.com/news/story/7333/9880802"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 14, 8:47 PM ET",
@@ -345,8 +351,13 @@
    "last_seen_et": "Nov 14, 9:50 PM ET",
    "minutes_on_list": 75,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-16 07:01:22",
+    "source": "Tencent News 腾讯网",
+    "title": "男子借10元救急，十多年仍不归还，债主公交车上讨要被打骨折，判了",
+    "url": "https://new.qq.com/rain/a/20261116A03LJ100"
+   },
+   "official_line_zh": null,
    "peak_rank": 4,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
