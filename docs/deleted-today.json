@@ -1,25 +1,53 @@
 {
- "generated_at_et": "2026-11-16 07:22 ET",
+ "generated_at_et": "2026-11-16 08:27 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 10,
  "cut": {
-  "flagged": 116,
+  "flagged": 117,
   "came back once before": 4,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 31,
+  "gone under 60 min": 8,
+  "not in the top 10 when it left": 30,
   "slid down before leaving": 5,
   "on the list a normal length of time": 33,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 7,
-  "left with other flagged topics (batch drop)": 10,
-  "retitled": 8,
+  "still on another hot list": 6,
+  "left with other flagged topics (batch drop)": 9,
+  "retitled": 9,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 10
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "深圳APEC近700辆豪华车队来了",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 15, 9:01 AM ET",
+   "last_seen_et": "Nov 15, 10:10 AM ET",
+   "first_missing_et": "Nov 15, 10:16 AM ET",
+   "minutes_on_list": 70,
+   "url": "https://www.toutiao.com/trending/7708389349225844274/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 11:18 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E4%BA%9BAPEC%E5%8D%B0%E8%AE%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26band_rank%3D3%26pos%3D2%26lcate%3D5001%26realpos%3D3%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E7%2595%2599%25E4%25B8%258B%25E7%259A%2584%25E9%2582%25A3%25E4%25BA%259BAPEC%25E5%258D%25B0%25E8%25AE%25B0%2523%26display_time%3D1794826849%26pre_seqid%3D1794826849049071436785&launchid=10000360-page_H5",
+     "published": "2026-11-16"
+    }
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -149,8 +177,13 @@
    "first_missing_et": "Nov 16, 4:10 AM ET",
    "minutes_on_list": 85,
    "url": "https://www.toutiao.com/trending/7707522230556557348/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "大不一样！华为Mate X8官宣定档11月24日，外观与配置爆料汇总",
+    "url": "https://new.qq.com/rain/a/20261116A0DCIW00",
+    "published": "2026-11-16 20:28:11"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #34 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 4:22 AM ET",

@@ -45,49 +45,7 @@
      "published": "2026-11-16",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%232%E5%88%86%E9%92%9F%E5%BF%AB%E9%97%AA%E8%A7%86%E9%A2%91%E7%9C%8BAPEC%E7%83%AD%E8%AF%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26pos%3D2%26q%3D%25232%25E5%2588%2586%25E9%2592%259F%25E5%25BF%25AB%25E9%2597%25AA%25E8%25A7%2586%25E9%25A2%2591%25E7%259C%258BAPEC%25E7%2583%25AD%25E8%25AF%258D%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D3%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D3%26display_time%3D1794764599%26pre_seqid%3D17947645998120126973181&launchid=10000360-page_H5"
-    },
-    {
-     "published": null,
-     "source": "RFA Mandarin 自由亚洲电台",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://rfa.org/mandarin/shehui/2026/11/04/china-apec-heightened-security-shenzhen-restrictions-on-kitchen-knives/"
-    },
-    {
-     "published": null,
-     "source": "Hong Kong Economic Times 香港經濟日報 (HKET)",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOTlVnMmY4U3FhbWZDcEVQRERBWlotOUhyeWNLVGk1TlBNU1lYWGpvQ2hpSktzOF9jZ1J2dmNxeGZfdHdLRlFWLWoxZmpFS3VwTzVwcFRTVU5Wems4YV9sUjB4ZHRzX1k2bDZqTEhlN2tKVUVzVF9IbnJNOVlna0lieW96YVhTaWNUNjNCZEVtOXNvTko5ZG5SUlA3ZTRwaEliLU9PZ3BNcEpUaW9TM1FVWjg2a3pZM1NSUHRhWl9tMjd6WGdQZHh0c2puSFNKNEtwVGZOS1VvSDM4WFRxSjBYU19iUzhPQmlqZTcxVGx1Zmpqb1BXbkoxQUh4LTQ1UEFTd29lZ0lvUFBuZkhmQ25pT003QWlTbm1NNUtIZ1Jva1B4NTZMUVFIRE82UnNTTm05TjdjU3lEVkZXWWdxY0VVOW9pcVZMSFdrUnUtLUY1c29VVWVtSHhnZVVrLUE1NXBIZlVka0tIUVBBVnYzczdYQ3BsakhIY3pjbHFMZW5IeExnZHExSHdYcUQ0c1ZGZmVzYU9MTTdFT0o1MzBSOU1hTW5CS0syNmpTT0NqUnZnQjhIYkZmMnFrT2M3M055WFFpSlZBWFhKV1hwUVVTSUt5S3U2U1kzR3VYTFpsMlR0UTBud05SREliSVl4eDNfemx1cWpfVlJfOXFHb2ZaNUQzTVYzcThlVUc1cHpEck84WnR5dGdwUENEaExzZzFXWHFlZHZMNE50SkxXcXFFU1NOX0pGbm5vdW9TQ2JxTlIxX25NSWhSNFE?oc=5"
-    },
-    {
-     "published": null,
-     "source": "European Times / Oushinet 欧洲时报",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.oushinet.com/static/content/china/chinanews/2026-11-15/1571775540247310336.html"
-    },
-    {
-     "published": null,
-     "source": "Ming Pao 明報",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOU2RZaEhOVjdnNndYeXdMci14LUF1YlFPVXdZR3ZyRDhoR3JQRjdoVFFQaGhnc095dENBbk5BVW1QNDg5blZpdElvWHZvT2oySEtNMGQ1Rm1DZ0c4cjVRV0lteGdjaW9tb2FmMEdVZ0pJMTd2eWNxQVhyYUltNFVOQ1A0RHE2LVRGNGZURmVXQ2drQUtBM1htNi1kUThQRDlRTG1pbmJNQkpnTU1BYjZVaWR3STN5VDdlTC0xWGtORGc2V1YwVHVvN3lPeWZ3NDRQeFpxOWVfeV90bFFHN2VIUXpqYW01VjVESHJVRVlqZTVHZHJMS0ZyS05VYnlYOVFsOHUydUVQa2k3MXZtR3NkSXlrNUdqd3p6anNWTE5STWtEQlRnRG1xUVFKUTdGOFV3bG9CZlJEa1NEdnhvV3dRR2pRWV9IR051OGswTXNiU3pWN3JPNEg0VWtQalc1cjc0Uzcyb0UtYlBjcVRBTUpKZHNmSWxkeTItTm9fa0FBYjdjNlNYSEJEcEJMVTJrU2dKSHV3cXphcFlaZEQ5R1ZHbmZQRWlSYVY5RTk1eTI2aklMWHBWVENCWUp1RFZUWUtMZjVSUGlzWQ?oc=5"
-    },
-    {
-     "published": null,
-     "source": "Telegram: 联合早报 zaobao.sg",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://t.me/zaobaosg/57138"
-    },
-    {
-     "published": null,
-     "source": "Sound of Hope 希望之声",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.soundofhope.org/post/949707"
-    },
-    {
-     "published": null,
-     "source": "YouTube: 希望之聲TV Sound of Hope",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.youtube.com/watch?v=yTAKTLBDZIg"
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E4%BA%9BAPEC%E5%8D%B0%E8%AE%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26band_rank%3D3%26pos%3D2%26lcate%3D5001%26realpos%3D3%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E7%2595%2599%25E4%25B8%258B%25E7%259A%2584%25E9%2582%25A3%25E4%25BA%259BAPEC%25E5%258D%25B0%25E8%25AE%25B0%2523%26display_time%3D1794826849%26pre_seqid%3D1794826849049071436785&launchid=10000360-page_H5"
     }
    ],
    "evidence_strength": "standard",
@@ -100,13 +58,8 @@
    "last_seen_et": "Nov 15, 10:10 AM ET",
    "minutes_on_list": 70,
    "notable": true,
-   "official_line": {
-    "published": "2026-11-16",
-    "source": "Guangming Daily 光明网",
-    "title": "迎接APEC，深圳准备好了",
-    "url": "https://politics.gmw.cn/2026-11/16/content_39102175.htm"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 1,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
