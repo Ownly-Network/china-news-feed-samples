@@ -1,21 +1,21 @@
 {
- "generated_at_et": "2026-11-16 09:31 ET",
+ "generated_at_et": "2026-11-16 10:38 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 11,
  "cut": {
-  "flagged": 118,
+  "flagged": 120,
   "came back once before": 4,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 34,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 33,
   "slid down before leaving": 5,
-  "on the list a normal length of time": 34,
-  "inside the list's normal rotation": 1,
-  "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 9,
-  "retitled": 7,
-  "topic still on the list": 2,
+  "on the list a normal length of time": 35,
+  "inside the list's normal rotation": 3,
+  "still on another hot list": 5,
+  "left with other flagged topics (batch drop)": 10,
+  "retitled": 8,
+  "topic still on the list": 3,
   "same story as a kept item": 0,
   "kept": 11
  },
@@ -23,27 +23,32 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "深圳APEC近700辆豪华车队来了",
+   "title_zh": "国乒全军覆没34岁方博复出夺冠",
    "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 15, 9:01 AM ET",
-   "last_seen_et": "Nov 15, 10:10 AM ET",
-   "first_missing_et": "Nov 15, 10:16 AM ET",
-   "minutes_on_list": 70,
-   "url": "https://www.toutiao.com/trending/7708389349225844274/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 15, 8:00 PM ET",
+   "last_seen_et": "Nov 15, 9:01 PM ET",
+   "first_missing_et": "Nov 15, 9:07 PM ET",
+   "minutes_on_list": 61,
+   "url": "https://www.toutiao.com/trending/7707529746686594601/",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "媒体:34岁方博夺冠 不该被视为对国乒男队整体的嘲讽",
+    "url": "https://www.163.com/dy/article/LBS5UE520550A0OW.html",
+    "published": "2026-11-16 17:21:49"
+   },
+   "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:28 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 11:18 AM ET",
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 9:22 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:09 PM ET",
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E4%BA%9BAPEC%E5%8D%B0%E8%AE%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26band_rank%3D3%26pos%3D2%26lcate%3D5001%26realpos%3D3%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E7%2595%2599%25E4%25B8%258B%25E7%259A%2584%25E9%2582%25A3%25E4%25BA%259BAPEC%25E5%258D%25B0%25E8%25AE%25B0%2523%26display_time%3D1794826849%26pre_seqid%3D1794826849049071436785&launchid=10000360-page_H5",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D2%26pos%3D0%26q%3D%2523%25E5%259B%25BD%25E4%25B9%2592%25E5%2585%25A8%25E5%2586%259B%25E8%25A6%2586%25E6%25B2%25A134%25E5%25B2%2581%25E6%2596%25B9%25E5%258D%259A%25E5%25A4%25BA%25E5%2586%25A0%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26display_time%3D1794764599%26pre_seqid%3D17947645998120126973181&launchid=10000360-page_H5",
      "published": "2026-11-16"
     }
    ]
@@ -135,9 +140,9 @@
    "url": "https://www.toutiao.com/trending/7708698413059034675/",
    "official_line": {
     "source": "Yicai 第一财经",
-    "title": "金价跌回一年前：黄金的定价逻辑如何改变？丨夜话",
-    "url": "https://www.yicai.com/news/103442626.html",
-    "published": "2026-11-16T22:03:42"
+    "title": "金价跌回一年前：黄金的定价逻辑如何改变丨夜话",
+    "url": "https://www.yicai.com/news/103442640.html",
+    "published": "2026-11-16T22:32:15"
    },
    "official_line_zh": null,
    "evidence": [
@@ -205,10 +210,10 @@
    "minutes_on_list": 85,
    "url": "https://www.toutiao.com/trending/7707522230556557348/",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "大不一样！华为Mate X8官宣定档11月24日，外观与配置爆料汇总",
-    "url": "https://new.qq.com/rain/a/20261116A0DCIW00",
-    "published": "2026-11-16 20:28:11"
+    "source": "IT Home IT之家",
+    "title": "华为 WATCH Air 新款智能手表外观曝光：圆润机身 + 超轻薄设计，预装鸿蒙 HarmonyOS 系统",
+    "url": "https://www.ithome.com/1/027/992.htm",
+    "published": "2026-11-16T14:57:24Z"
    },
    "official_line_zh": null,
    "evidence": [
