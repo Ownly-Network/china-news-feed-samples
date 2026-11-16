@@ -1,5 +1,5 @@
 {
- "count": 2,
+ "count": 3,
  "date": "2026-11-15",
  "items": [
   {
@@ -101,10 +101,10 @@
    "minutes_on_list": 70,
    "notable": true,
    "official_line": {
-    "published": "2026-11-16 07:27:52",
-    "source": "CCTV News 央视新闻 (news.cctv.com)",
-    "title": "深圳小学生与APEC的约定：拍100期视频 把深圳讲给世界",
-    "url": "https://news.cctv.com/2026/11/16/ARTIQSWvwoV5ntwpSQRxaoWx261116.shtml"
+    "published": "2026-11-16",
+    "source": "Guangming Daily 光明网",
+    "title": "迎接APEC，深圳准备好了",
+    "url": "https://politics.gmw.cn/2026-11/16/content_39102175.htm"
    },
    "official_line_zh": null,
    "peak_rank": 1,
@@ -114,6 +114,33 @@
    "title_en": "",
    "title_zh": "深圳APEC近700辆豪华车队来了",
    "url": "https://www.toutiao.com/trending/7708389349225844274/"
+  },
+  {
+   "day": "2026-11-15",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:06 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 10:57 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 15, 9:46 PM ET",
+   "first_missing_iso": "2026-11-15T21:46:00-05:00",
+   "first_seen_et": "Nov 15, 9:07 PM ET",
+   "key": "toutiao|沪指跌破3600点|2026-11-15T21:46:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 15, 9:40 PM ET",
+   "minutes_on_list": 33,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-b7e0917a17cd",
+   "title_en": "",
+   "title_zh": "沪指跌破3600点",
+   "url": "https://www.toutiao.com/trending/7708164797392519222/"
   }
  ]
 }
