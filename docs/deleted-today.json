@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-16 05:02 ET",
+ "generated_at_et": "2026-11-16 07:22 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 9,
  "cut": {
-  "flagged": 104,
+  "flagged": 116,
   "came back once before": 4,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 33,
-  "slid down before leaving": 4,
-  "on the list a normal length of time": 25,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 31,
+  "slid down before leaving": 5,
+  "on the list a normal length of time": 33,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 8,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 10,
-  "retitled": 7,
-  "topic still on the list": 4,
+  "retitled": 8,
+  "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 5
+  "kept": 9
  },
  "items": [
   {
@@ -70,6 +70,28 @@
    ]
   },
   {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "黄金跌至逾一年新低",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 16, 4:53 AM ET",
+   "last_seen_et": "Nov 16, 5:32 AM ET",
+   "first_missing_et": "Nov 16, 5:35 AM ET",
+   "minutes_on_list": 39,
+   "url": "https://www.toutiao.com/trending/7708698413059034675/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #41 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 5:50 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 6:37 AM ET"
+   ]
+  },
+  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "雷军：崂山白花蛇草水挺好喝的",
@@ -89,6 +111,50 @@
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #8 → #7 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 15, 11:21 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 12:10 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "科技股现跌停潮不少股民爆仓",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 16, 4:00 AM ET",
+   "last_seen_et": "Nov 16, 4:38 AM ET",
+   "first_missing_et": "Nov 16, 4:43 AM ET",
+   "minutes_on_list": 38,
+   "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E8%82%A1%E7%8E%B0%E8%B7%8C%E5%81%9C%E6%BD%AE%E4%B8%8D%E5%B0%91%E8%82%A1%E6%B0%91%E7%88%86%E4%BB%93",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #9 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 4:58 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 5:50 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "华为星芒真机外观曝光",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 16, 2:40 AM ET",
+   "last_seen_et": "Nov 16, 4:05 AM ET",
+   "first_missing_et": "Nov 16, 4:10 AM ET",
+   "minutes_on_list": 85,
+   "url": "https://www.toutiao.com/trending/7707522230556557348/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #34 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 4:22 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 5:14 AM ET"
    ]
   },
   {
@@ -133,6 +199,34 @@
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 16, 4:21 AM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 16, 4:59 AM ET"
+   ]
+  },
+  {
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "title_zh": "如果不使用职业、学历、MBTI 等社会标签，你会如何向别人介绍你自己？",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Nov 16, 1:08 AM ET",
+   "last_seen_et": "Nov 16, 5:03 AM ET",
+   "first_missing_et": "Nov 16, 5:08 AM ET",
+   "minutes_on_list": 235,
+   "url": "https://www.zhihu.com/question/2103866732020332515",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 16, 5:32 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 16, 6:09 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "China Digital Times 中国数字时代",
+     "url": "https://chinadigitaltimes.net/chinese/733876.html",
+     "published": "2026-11-13T07:54:45Z"
+    }
    ]
   }
  ]
