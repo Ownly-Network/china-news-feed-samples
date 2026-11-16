@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-16 16:10 ET",
+ "generated_at_et": "2026-11-16 17:21 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -36,9 +36,9 @@
    "url": "https://www.toutiao.com/trending/7707529746686594601/",
    "official_line": {
     "source": "Tencent News 腾讯网",
-    "title": "34岁方博复出夺冠！4-1击败姜东硕，时隔13年再夺国际男单冠军",
-    "url": "https://new.qq.com/rain/a/20261117V01RQM00",
-    "published": "2026-11-17 02:45:43"
+    "title": "方博夺冠后首秀！3-1逆转晋级 国乒3人出局：王曼昱陪练1-3",
+    "url": "https://new.qq.com/rain/a/20261117A02MFA00",
+    "published": "2026-11-17 05:56:46"
    },
    "official_line_zh": null,
    "evidence": [
@@ -279,13 +279,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 16, 5:32 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 16, 6:09 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "China Digital Times 中国数字时代",
-     "url": "https://chinadigitaltimes.net/chinese/733876.html",
-     "published": "2026-11-13T07:54:45Z"
-    }
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 16, 6:09 AM ET"
    ]
   }
  ]

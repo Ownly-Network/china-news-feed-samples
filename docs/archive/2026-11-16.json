@@ -152,13 +152,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 16, 5:32 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 16, 6:09 AM ET",
-    {
-     "published": "2026-11-13T07:54:45Z",
-     "source": "China Digital Times 中国数字时代",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://chinadigitaltimes.net/chinese/733876.html"
-    }
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 16, 6:09 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 16, 5:08 AM ET",
