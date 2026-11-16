@@ -1,5 +1,5 @@
 {
- "count": 1,
+ "count": 3,
  "date": "2026-11-16",
  "items": [
   {
@@ -33,6 +33,60 @@
    "title_en": "",
    "title_zh": "老师为何越来越“难做”了",
    "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E2%80%9C%E9%9A%BE%E5%81%9A%E2%80%9D%E4%BA%86"
+  },
+  {
+   "day": "2026-11-16",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #6 → #6 → #6 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 4:21 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 4:59 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 16, 3:54 AM ET",
+   "first_missing_iso": "2026-11-16T03:54:00-05:00",
+   "first_seen_et": "Nov 16, 1:59 AM ET",
+   "key": "toutiao|片仔癀：从稀缺神话到库存压顶|2026-11-16T03:54:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 16, 3:50 AM ET",
+   "minutes_on_list": 111,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 4,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-b5395a16ab40",
+   "title_en": "",
+   "title_zh": "片仔癀：从稀缺神话到库存压顶",
+   "url": "https://www.toutiao.com/trending/7708651187544788543/"
+  },
+  {
+   "day": "2026-11-16",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 16, 4:21 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 16, 4:59 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 16, 3:54 AM ET",
+   "first_missing_iso": "2026-11-16T03:54:00-05:00",
+   "first_seen_et": "Nov 16, 2:49 AM ET",
+   "key": "weibo|厉娜新歌那是一瞬间的喜欢|2026-11-16T03:54:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 16, 3:50 AM ET",
+   "minutes_on_list": 61,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 8,
+   "platform": "weibo",
+   "platform_name": "Weibo 微博",
+   "slug": "weibo-c8ee44be22e5",
+   "title_en": "",
+   "title_zh": "厉娜新歌那是一瞬间的喜欢",
+   "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E6%96%B0%E6%AD%8C%E9%82%A3%E6%98%AF%E4%B8%80%E7%9E%AC%E9%97%B4%E7%9A%84%E5%96%9C%E6%AC%A2&t=31&band_rank=10"
   }
  ]
 }
