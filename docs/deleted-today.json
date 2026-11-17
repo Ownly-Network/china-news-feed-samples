@@ -1,53 +1,25 @@
 {
- "generated_at_et": "2026-11-17 01:52 ET",
+ "generated_at_et": "2026-11-17 03:07 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 8,
  "cut": {
-  "flagged": 100,
-  "came back once before": 4,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 26,
-  "slid down before leaving": 4,
-  "on the list a normal length of time": 36,
+  "flagged": 84,
+  "came back once before": 3,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 25,
+  "slid down before leaving": 2,
+  "on the list a normal length of time": 27,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 6,
-  "retitled": 3,
+  "still on another hot list": 7,
+  "left with other flagged topics (batch drop)": 2,
+  "retitled": 1,
   "topic still on the list": 0,
   "same story as a kept item": 1,
-  "kept": 10
+  "kept": 8
  },
  "items": [
-  {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "习近平同外国领导人举行双边会晤",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 16, 9:25 PM ET",
-   "last_seen_et": "Nov 16, 10:49 PM ET",
-   "first_missing_et": "Nov 16, 10:54 PM ET",
-   "minutes_on_list": 84,
-   "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%A4%96%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%BE%E8%A1%8C%E5%8F%8C%E8%BE%B9%E4%BC%9A%E6%99%A4",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 11:05 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 11:54 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=1&Refer=top",
-     "published": "2026-11-17"
-    }
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -178,33 +150,6 @@
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #41 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 5:50 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 6:37 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "华为星芒真机外观曝光",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 16, 2:40 AM ET",
-   "last_seen_et": "Nov 16, 4:05 AM ET",
-   "first_missing_et": "Nov 16, 4:10 AM ET",
-   "minutes_on_list": 85,
-   "url": "https://www.toutiao.com/trending/7707522230556557348/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "华为全新子品牌上手！星芒OSTA O1 Pro，阔直板抢眼",
-    "url": "https://new.qq.com/rain/a/20261117A06AOW00",
-    "published": "2026-11-17 12:20:06"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #34 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 4:22 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 5:14 AM ET"
    ]
   },
   {
