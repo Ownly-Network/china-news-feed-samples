@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-17 07:33 ET",
+ "generated_at_et": "2026-11-17 08:38 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 8,
  "cut": {
-  "flagged": 74,
+  "flagged": 73,
   "came back once before": 2,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 25,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 20,
-  "inside the list's normal rotation": 3,
+  "on the list a normal length of time": 22,
+  "inside the list's normal rotation": 2,
   "still on another hot list": 4,
-  "left with other flagged topics (batch drop)": 4,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 0,
   "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 8
  },
  "items": [
   {
@@ -34,8 +34,13 @@
    "first_missing_et": "Nov 16, 6:52 PM ET",
    "minutes_on_list": 38,
    "url": "https://www.toutiao.com/trending/7708905976568483391/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Yicai 第一财经",
+    "title": "美股盘前丨美股指期货涨跌不一 英伟达涨超1%",
+    "url": "https://www.yicai.com/news/103444208.html",
+    "published": "2026-11-17T21:28:46"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:04 PM ET",
@@ -84,28 +89,6 @@
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:29 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 8:24 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "英前首相遭灌酒？扎哈罗娃：自愿喝的",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 16, 6:50 AM ET",
-   "last_seen_et": "Nov 16, 8:09 AM ET",
-   "first_missing_et": "Nov 16, 8:14 AM ET",
-   "minutes_on_list": 79,
-   "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%89%8D%E9%A6%96%E7%9B%B8%E9%81%AD%E7%81%8C%E9%85%92%EF%BC%9F%E6%89%8E%E5%93%88%E7%BD%97%E5%A8%83%EF%BC%9A%E8%87%AA%E6%84%BF%E5%96%9D%E7%9A%84",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #13 → #13 → #13 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 8:25 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 9:17 AM ET"
    ]
   },
   {
