@@ -1,5 +1,5 @@
 {
- "count": 5,
+ "count": 7,
  "date": "2026-11-17",
  "items": [
   {
@@ -25,7 +25,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-70c531343f44",
-   "title_en": "",
+   "title_en": "The two of them died a year ago.",
    "title_zh": "老两口先后心梗 儿子1年前因心梗离世",
    "url": "https://www.toutiao.com/trending/7709024863414943785/"
   },
@@ -52,7 +52,7 @@
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-9c90b67308a6",
-   "title_en": "",
+   "title_en": "Fongbo's response to the withdrawal: serious injuries",
    "title_zh": "方博回应退赛：伤势比较严重",
    "url": "https://www.baidu.com/s?wd=%E6%96%B9%E5%8D%9A%E5%9B%9E%E5%BA%94%E9%80%80%E8%B5%9B%EF%BC%9A%E4%BC%A4%E5%8A%BF%E6%AF%94%E8%BE%83%E4%B8%A5%E9%87%8D"
   },
@@ -106,7 +106,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-e4fcdec73880",
-   "title_en": "",
+   "title_en": "Why did Fat Tung come to stop the expansion?",
    "title_zh": "胖东来为何要停止规模扩张",
    "url": "https://www.toutiao.com/trending/7709067609940954666/"
   },
@@ -121,6 +121,24 @@
      "source": "Telegram: 新唐人電視台 NTD Chinese",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/NTDChinese/87284"
+    },
+    {
+     "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/11/17/a104151418.html"
+    },
+    {
+     "published": null,
+     "source": "RFI Chinese 法广",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261117-%E4%B9%8C%E5%86%8D%E8%A2%AD%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5-%E8%B7%AF%E9%9D%A2%E6%8B%B1%E9%97%A8%E5%9D%A0%E6%B5%B7-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E6%88%98%E4%BA%89%E6%80%BB%E5%B0%86%E5%9B%9E%E5%88%B0%E5%88%9D%E5%A7%8B%E5%9C%B0"
+    },
+    {
+     "published": null,
+     "source": "Ming Pao 明報",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQkZfWjh0UWFsdy0ydkp0RDhQYmlqTzBLMEtkaTFnTXA0cElBQXFpRDRMTzQtenZrOUhHWWFHQTBxa085VVBxN3JsR0l4UmFuREttUFc0YUpBMklXV2xOc01zSUkyN2JseEN0cGNqSWVEaFpmYzRFWHlHVXBKVUNCb2VWSm9FUjZrS2RhaG9PZnA5aHhheDhuREhPOHhyZHQxQTB1VDcwR1NzQU5ieGhNRmx4dHNrRnY5NTBYLWZwYmF4aGJsQTAwNjhhVXFwNGJ0LWJ2ZUlUcnBkQWtLSjVPaDNpek9xcHJDUDRWbklUQkJKdjBObWRKNmNpSlhVY1Byd2lOOVYwYWFYVURYa2dDVlRHVThJX1Jvazg5U0hULURXZXFQYkN0Q21QZHJlU3F3cE1yMTZnUi01eVRyMDJyTHBKVFFCY1NxbmZheHJkOTZielZnVURMWGtvUW5maDR4d0RGQkI4ZGVpQS03aWU3TTJsa1E0aHR4TnRBdFRLb1hrdw?oc=5"
     }
    ],
    "evidence_strength": "standard",
@@ -144,9 +162,63 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-8aa715e741bd",
-   "title_en": "",
+   "title_en": "Crimea Bridge is suspected to have been blown up by a giant cruise missile.",
    "title_zh": "克里米亚大桥疑被巨型巡航导弹炸断",
    "url": "https://www.toutiao.com/trending/7709098747753614858/"
+  },
+  {
+   "day": "2026-11-17",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #8 → #9 → #6 → #6 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:20 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:09 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 17, 9:08 AM ET",
+   "first_missing_iso": "2026-11-17T09:08:00-05:00",
+   "first_seen_et": "Nov 17, 7:40 AM ET",
+   "key": "bilibili|U19中国vs韩国陪看|2026-11-17T09:08:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 17, 9:03 AM ET",
+   "minutes_on_list": 83,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 3,
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "slug": "bilibili-ef8e303db805",
+   "title_en": "U19 China vs Korea",
+   "title_zh": "U19中国vs韩国陪看",
+   "url": "https://search.bilibili.com/all?keyword=U19%E4%B8%AD%E5%9B%BDvs%E9%9F%A9%E5%9B%BD"
+  },
+  {
+   "day": "2026-11-17",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #10 → #12 → #12 → #5 → #5 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:20 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:09 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 17, 9:08 AM ET",
+   "first_missing_iso": "2026-11-17T09:08:00-05:00",
+   "first_seen_et": "Nov 17, 7:51 AM ET",
+   "key": "toutiao|市场何时见底|2026-11-17T09:08:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 17, 9:03 AM ET",
+   "minutes_on_list": 72,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 5,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-fe0737ab2fd2",
+   "title_en": "When does the market end?",
+   "title_zh": "市场何时见底",
+   "url": "https://www.toutiao.com/trending/7709116136037551657/"
   }
  ]
 }
