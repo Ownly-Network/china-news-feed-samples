@@ -79,7 +79,7 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-e7e4e220a587",
-   "title_en": "",
+   "title_en": "Sanae Takaichi almost fell on a red carpet.",
    "title_zh": "高市早苗踩红毯差点摔倒",
    "url": "https://www.toutiao.com/trending/7708751854922498098/"
   },
@@ -124,9 +124,9 @@
     },
     {
      "published": null,
-     "source": "NTD 新唐人電視台",
+     "source": "Telegram: 竹新社 (@tnews365)",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.ntdtv.com/b5/2026/11/17/a104151418.html"
+     "url": "https://t.me/tnews365/35791"
     },
     {
      "published": null,
@@ -139,6 +139,18 @@
      "source": "Ming Pao 明報",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQkZfWjh0UWFsdy0ydkp0RDhQYmlqTzBLMEtkaTFnTXA0cElBQXFpRDRMTzQtenZrOUhHWWFHQTBxa085VVBxN3JsR0l4UmFuREttUFc0YUpBMklXV2xOc01zSUkyN2JseEN0cGNqSWVEaFpmYzRFWHlHVXBKVUNCb2VWSm9FUjZrS2RhaG9PZnA5aHhheDhuREhPOHhyZHQxQTB1VDcwR1NzQU5ieGhNRmx4dHNrRnY5NTBYLWZwYmF4aGJsQTAwNjhhVXFwNGJ0LWJ2ZUlUcnBkQWtLSjVPaDNpek9xcHJDUDRWbklUQkJKdjBObWRKNmNpSlhVY1Byd2lOOVYwYWFYVURYa2dDVlRHVThJX1Jvazg5U0hULURXZXFQYkN0Q21QZHJlU3F3cE1yMTZnUi01eVRyMDJyTHBKVFFCY1NxbmZheHJkOTZielZnVURMWGtvUW5maDR4d0RGQkI4ZGVpQS03aWU3TTJsa1E0aHR4TnRBdFRLb1hrdw?oc=5"
+    },
+    {
+     "published": null,
+     "source": "World Journal 世界日報 (US)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.worldjournal.com/wj/story/121256/9885298"
+    },
+    {
+     "published": null,
+     "source": "Bannedbook 禁闻网",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.bannedbook.org/bnews/bannedvideo/20261118/2382031.html"
     }
    ],
    "evidence_strength": "standard",
