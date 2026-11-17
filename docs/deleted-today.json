@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-17 06:26 ET",
+ "generated_at_et": "2026-11-17 07:33 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 9,
  "cut": {
-  "flagged": 77,
-  "came back once before": 3,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 23,
+  "flagged": 74,
+  "came back once before": 2,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 25,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 26,
+  "on the list a normal length of time": 20,
   "inside the list's normal rotation": 3,
-  "still on another hot list": 5,
+  "still on another hot list": 4,
   "left with other flagged topics (batch drop)": 4,
-  "retitled": 1,
+  "retitled": 0,
   "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 9
  },
  "items": [
   {
@@ -111,6 +111,28 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
+   "title_zh": "胖东来为何要停止规模扩张",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 17, 4:55 AM ET",
+   "last_seen_et": "Nov 17, 6:10 AM ET",
+   "first_missing_et": "Nov 17, 6:11 AM ET",
+   "minutes_on_list": 75,
+   "url": "https://www.toutiao.com/trending/7709067609940954666/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #6 → #8 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 6:23 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 7:12 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
    "title_zh": "老两口先后心梗 儿子1年前因心梗离世",
    "title_en": "",
    "label": "Dropped off",
@@ -150,6 +172,45 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #6 → #6 → #6 → #6 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 11:00 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 11:49 PM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "人民日报曝光后 唐山成立联合调查组",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 16, 6:09 PM ET",
+   "last_seen_et": "Nov 16, 7:13 PM ET",
+   "first_missing_et": "Nov 16, 7:18 PM ET",
+   "minutes_on_list": 64,
+   "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%90%8E+%E5%94%90%E5%B1%B1%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84",
+   "official_line": {
+    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
+    "title": "我读人民日报｜深圳为什么",
+    "url": "https://www.peopleapp.com/column/30053580610-500007790087",
+    "published": "2026-11-17T08:45:05Z"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:29 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 8:24 PM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "CDT 404 Archive 404文库",
+     "url": "https://chinadigitaltimes.net/chinese/733480.html",
+     "published": "2026-11-02T13:49:27Z"
+    },
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "CDT 404 Archive 404文库",
+     "url": "https://chinadigitaltimes.net/chinese/733469.html",
+     "published": "2026-10-31T02:53:56Z"
+    }
    ]
   },
   {
