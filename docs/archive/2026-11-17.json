@@ -1,5 +1,5 @@
 {
- "count": 4,
+ "count": 5,
  "date": "2026-11-17",
  "items": [
   {
@@ -109,6 +109,44 @@
    "title_en": "",
    "title_zh": "胖东来为何要停止规模扩张",
    "url": "https://www.toutiao.com/trending/7709067609940954666/"
+  },
+  {
+   "day": "2026-11-17",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 8:19 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:05 AM ET",
+    {
+     "published": null,
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/NTDChinese/87284"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 17, 8:05 AM ET",
+   "first_missing_iso": "2026-11-17T08:05:00-05:00",
+   "first_seen_et": "Nov 17, 6:55 AM ET",
+   "key": "toutiao|克里米亚大桥疑被巨型巡航导弹炸断|2026-11-17T08:05:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 17, 8:00 AM ET",
+   "minutes_on_list": 65,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-17T14:18:37Z",
+    "source": "Beijing News 新京报",
+    "title": "国际｜泽连斯基公布导弹打击克里米亚大桥画面：桥拱和桥跨坍塌",
+    "url": "https://www.bjnews.com.cn/detail/1794918106129976.html"
+   },
+   "official_line_zh": null,
+   "peak_rank": 6,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-8aa715e741bd",
+   "title_en": "",
+   "title_zh": "克里米亚大桥疑被巨型巡航导弹炸断",
+   "url": "https://www.toutiao.com/trending/7709098747753614858/"
   }
  ]
 }
