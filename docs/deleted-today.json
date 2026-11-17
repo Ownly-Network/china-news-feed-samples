@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-17 11:56 ET",
+ "generated_at_et": "2026-11-17 13:03 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,15 +7,15 @@
  "cut": {
   "flagged": 80,
   "came back once before": 4,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 27,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 2,
   "on the list a normal length of time": 24,
   "inside the list's normal rotation": 1,
   "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 5,
+  "left with other flagged topics (batch drop)": 6,
   "retitled": 0,
-  "topic still on the list": 0,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
   "kept": 11
  },
@@ -66,7 +66,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 4:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 5:26 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 5:26 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/39061",
+     "published": null
+    }
    ]
   },
   {
@@ -252,14 +258,20 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "World Journal 世界日報 (US)",
-     "url": "https://www.worldjournal.com/wj/story/121256/9885298",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/39059",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/bannedvideo/20261118/2382031.html",
+     "url": "https://www.bannedbook.org/bnews/worldnews/20261118/2382041.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "url": "https://www.youtube.com/watch?v=051W7yKIXds",
      "published": null
     }
    ]

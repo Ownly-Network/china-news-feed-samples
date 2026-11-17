@@ -61,7 +61,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 4:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 5:26 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 5:26 AM ET",
+    {
+     "published": null,
+     "source": "Telegram: RFI 华语",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/RFI_Cn/39061"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 17, 4:25 AM ET",
@@ -142,15 +148,21 @@
     },
     {
      "published": null,
-     "source": "World Journal 世界日報 (US)",
+     "source": "Telegram: RFI 华语",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.worldjournal.com/wj/story/121256/9885298"
+     "url": "https://t.me/RFI_Cn/39059"
     },
     {
      "published": null,
      "source": "Bannedbook 禁闻网",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.bannedbook.org/bnews/bannedvideo/20261118/2382031.html"
+     "url": "https://www.bannedbook.org/bnews/worldnews/20261118/2382041.html"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/watch?v=051W7yKIXds"
     }
    ],
    "evidence_strength": "standard",
