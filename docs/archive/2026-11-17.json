@@ -1,0 +1,33 @@
+{
+ "count": 1,
+ "date": "2026-11-17",
+ "items": [
+  {
+   "day": "2026-11-17",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #20 → #10 → #7 → #6 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:09 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:58 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 17, 2:55 AM ET",
+   "first_missing_iso": "2026-11-17T02:55:00-05:00",
+   "first_seen_et": "Nov 17, 2:20 AM ET",
+   "key": "toutiao|老两口先后心梗 儿子1年前因心梗离世|2026-11-17T02:55:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 17, 2:50 AM ET",
+   "minutes_on_list": 30,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 5,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-70c531343f44",
+   "title_en": "",
+   "title_zh": "老两口先后心梗 儿子1年前因心梗离世",
+   "url": "https://www.toutiao.com/trending/7709024863414943785/"
+  }
+ ]
+}

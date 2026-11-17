@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-17 03:07 ET",
+ "generated_at_et": "2026-11-17 04:12 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 7,
  "cut": {
-  "flagged": 84,
+  "flagged": 82,
   "came back once before": 3,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 25,
-  "slid down before leaving": 2,
-  "on the list a normal length of time": 27,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 22,
+  "slid down before leaving": 3,
+  "on the list a normal length of time": 30,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 7,
+  "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 2,
   "retitled": 1,
   "topic still on the list": 0,
   "same story as a kept item": 1,
-  "kept": 8
+  "kept": 7
  },
  "items": [
   {
@@ -89,23 +89,23 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "片仔癀：从稀缺神话到库存压顶",
+   "title_zh": "老两口先后心梗 儿子1年前因心梗离世",
    "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 16, 1:59 AM ET",
-   "last_seen_et": "Nov 16, 3:50 AM ET",
-   "first_missing_et": "Nov 16, 3:54 AM ET",
-   "minutes_on_list": 111,
-   "url": "https://www.toutiao.com/trending/7708651187544788543/",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 17, 2:20 AM ET",
+   "last_seen_et": "Nov 17, 2:50 AM ET",
+   "first_missing_et": "Nov 17, 2:55 AM ET",
+   "minutes_on_list": 30,
+   "url": "https://www.toutiao.com/trending/7709024863414943785/",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #7 → #6 → #6 → #6 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 4:21 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 4:59 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #20 → #10 → #7 → #6 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:09 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:58 AM ET"
    ]
   },
   {
@@ -150,28 +150,6 @@
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #41 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 5:50 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 6:37 AM ET"
-   ]
-  },
-  {
-   "platform": "weibo",
-   "platform_name": "Weibo 微博",
-   "title_zh": "厉娜新歌那是一瞬间的喜欢",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 8,
-   "first_seen_et": "Nov 16, 2:49 AM ET",
-   "last_seen_et": "Nov 16, 3:50 AM ET",
-   "first_missing_et": "Nov 16, 3:54 AM ET",
-   "minutes_on_list": 61,
-   "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E6%96%B0%E6%AD%8C%E9%82%A3%E6%98%AF%E4%B8%80%E7%9E%AC%E9%97%B4%E7%9A%84%E5%96%9C%E6%AC%A2&t=31&band_rank=10",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 16, 4:21 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 16, 4:59 AM ET"
    ]
   },
   {
