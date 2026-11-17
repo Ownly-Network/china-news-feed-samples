@@ -7,13 +7,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #20 → #10 → #7 → #6 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:09 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:58 AM ET",
-    {
-     "published": "",
-     "source": "FreeWeChat 自由微信",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://freewechat.com/a/MjM5NjAxNTIyMA==/2658731671/7"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:58 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 17, 2:55 AM ET",
@@ -79,8 +73,13 @@
    "last_seen_et": "Nov 17, 4:19 AM ET",
    "minutes_on_list": 134,
    "notable": true,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-18 05:20:00",
+    "source": "Tencent News 腾讯网",
+    "title": "群嘲不断！高市早苗赴东盟参会，网友痛斥毫无外交真本事",
+    "url": "https://new.qq.com/rain/a/20261117A0E3WY00"
+   },
+   "official_line_zh": null,
    "peak_rank": 2,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -163,6 +162,12 @@
      "source": "Bannedbook 禁闻网",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.bannedbook.org/bnews/worldnews/usa/20261118/2382072.html"
+    },
+    {
+     "published": null,
+     "source": "Telegram: 美国之音 VOA",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/voachinese/14859"
     },
     {
      "published": null,
