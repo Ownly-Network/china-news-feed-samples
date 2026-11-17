@@ -111,8 +111,13 @@
    "last_seen_et": "Nov 16, 4:05 AM ET",
    "minutes_on_list": 85,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-17 12:20:06",
+    "source": "Tencent News 腾讯网",
+    "title": "华为全新子品牌上手！星芒OSTA O1 Pro，阔直板抢眼",
+    "url": "https://new.qq.com/rain/a/20261117A06AOW00"
+   },
+   "official_line_zh": null,
    "peak_rank": 7,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -246,13 +251,8 @@
    "last_seen_et": "Nov 16, 6:47 PM ET",
    "minutes_on_list": 38,
    "notable": true,
-   "official_line": {
-    "published": "2026-11-17",
-    "source": "Sina News 新浪新闻",
-    "title": "美股收盘：芯片板块遭血洗英伟达跌逾4% 纳指重挫",
-    "url": "https://news.sina.com.cn/w/2026-11-17/doc-iniyyvsr2317741.shtml"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 1,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
