@@ -1,22 +1,22 @@
 {
- "generated_at_et": "2026-11-17 04:12 ET",
+ "generated_at_et": "2026-11-17 05:20 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 7,
  "cut": {
   "flagged": 82,
-  "came back once before": 3,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 22,
+  "came back once before": 2,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 26,
   "slid down before leaving": 3,
-  "on the list a normal length of time": 30,
+  "on the list a normal length of time": 27,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 2,
+  "still on another hot list": 5,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 1,
   "topic still on the list": 0,
-  "same story as a kept item": 1,
+  "same story as a kept item": 0,
   "kept": 7
  },
  "items": [
@@ -153,25 +153,24 @@
    ]
   },
   {
-   "platform": "zhihu",
-   "platform_name": "Zhihu 知乎",
-   "title_zh": "如果不使用职业、学历、MBTI 等社会标签，你会如何向别人介绍你自己？",
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "方博回应退赛：伤势比较严重",
    "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
    "peak_rank": 10,
-   "first_seen_et": "Nov 16, 1:08 AM ET",
-   "last_seen_et": "Nov 16, 5:03 AM ET",
-   "first_missing_et": "Nov 16, 5:08 AM ET",
-   "minutes_on_list": 235,
-   "url": "https://www.zhihu.com/question/2103866732020332515",
+   "first_seen_et": "Nov 17, 3:32 AM ET",
+   "last_seen_et": "Nov 17, 4:15 AM ET",
+   "first_missing_et": "Nov 17, 4:19 AM ET",
+   "minutes_on_list": 43,
+   "url": "https://www.baidu.com/s?wd=%E6%96%B9%E5%8D%9A%E5%9B%9E%E5%BA%94%E9%80%80%E8%B5%9B%EF%BC%9A%E4%BC%A4%E5%8A%BF%E6%AF%94%E8%BE%83%E4%B8%A5%E9%87%8D",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 16, 5:32 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 16, 6:09 AM ET"
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 17, 4:33 AM ET"
    ]
   }
  ]
