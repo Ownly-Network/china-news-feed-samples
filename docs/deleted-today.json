@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-11-17 05:20 ET",
+ "generated_at_et": "2026-11-17 06:26 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 7,
  "cut": {
-  "flagged": 82,
-  "came back once before": 2,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 26,
-  "slid down before leaving": 3,
-  "on the list a normal length of time": 27,
-  "inside the list's normal rotation": 2,
+  "flagged": 77,
+  "came back once before": 3,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 23,
+  "slid down before leaving": 2,
+  "on the list a normal length of time": 26,
+  "inside the list's normal rotation": 3,
   "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 3,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 1,
   "topic still on the list": 0,
   "same story as a kept item": 0,
@@ -40,6 +40,28 @@
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:04 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:56 PM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "高市早苗踩红毯差点摔倒",
+   "title_en": "",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 17, 2:05 AM ET",
+   "last_seen_et": "Nov 17, 4:19 AM ET",
+   "first_missing_et": "Nov 17, 4:25 AM ET",
+   "minutes_on_list": 134,
+   "url": "https://www.toutiao.com/trending/7708751854922498098/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 4:39 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 5:26 AM ET"
    ]
   },
   {
@@ -131,28 +153,6 @@
    ]
   },
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "黄金跌至逾一年新低",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 16, 4:53 AM ET",
-   "last_seen_et": "Nov 16, 5:32 AM ET",
-   "first_missing_et": "Nov 16, 5:35 AM ET",
-   "minutes_on_list": 39,
-   "url": "https://www.toutiao.com/trending/7708698413059034675/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #41 → #6 → #6 → #6 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 5:50 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 6:37 AM ET"
-   ]
-  },
-  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "方博回应退赛：伤势比较严重",
@@ -170,7 +170,8 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 17, 4:33 AM ET"
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 17, 4:33 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 5:25 AM ET"
    ]
   }
  ]
