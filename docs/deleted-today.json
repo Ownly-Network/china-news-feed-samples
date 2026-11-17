@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-17 15:12 ET",
+ "generated_at_et": "2026-11-17 16:18 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -227,10 +227,10 @@
    "minutes_on_list": 65,
    "url": "https://www.toutiao.com/trending/7709098747753614858/",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "俄乌互炸战略大桥，基辅3座大桥被炸穿，俄克里米亚大桥被炸断",
-    "url": "https://new.qq.com/rain/a/20261118A01LQN00",
-    "published": "2026-11-18 01:57:54"
+    "source": "Beijing News 新京报",
+    "title": "国际｜泽连斯基公布导弹打击克里米亚大桥画面：桥拱和桥跨坍塌",
+    "url": "https://www.bjnews.com.cn/detail/1794918106129976.html",
+    "published": "2026-11-17T14:18:37Z"
    },
    "official_line_zh": null,
    "evidence": [
@@ -257,26 +257,44 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Ming Pao 明報",
-     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQkZfWjh0UWFsdy0ydkp0RDhQYmlqTzBLMEtkaTFnTXA0cElBQXFpRDRMTzQtenZrOUhHWWFHQTBxa085VVBxN3JsR0l4UmFuREttUFc0YUpBMklXV2xOc01zSUkyN2JseEN0cGNqSWVEaFpmYzRFWHlHVXBKVUNCb2VWSm9FUjZrS2RhaG9PZnA5aHhheDhuREhPOHhyZHQxQTB1VDcwR1NzQU5ieGhNRmx4dHNrRnY5NTBYLWZwYmF4aGJsQTAwNjhhVXFwNGJ0LWJ2ZUlUcnBkQWtLSjVPaDNpek9xcHJDUDRWbklUQkJKdjBObWRKNmNpSlhVY1Byd2lOOVYwYWFYVURYa2dDVlRHVThJX1Jvazg5U0hULURXZXFQYkN0Q21QZHJlU3F3cE1yMTZnUi01eVRyMDJyTHBKVFFCY1NxbmZheHJkOTZielZnVURMWGtvUW5maDR4d0RGQkI4ZGVpQS03aWU3TTJsa1E0aHR4TnRBdFRLb1hrdw?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Ming Pao 明報",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbENvWFZCTEpXZnI5WHA0NkpoZG0ySTIxRVpSTnVrYkM2cnIzYXRCV094ZW8xUDgzRTVOTzRXaU1YaWVKd0ctUTdTcllkeGtZdlhvdTZUYWt4MGdYOTJ4b0pZWEowb04wZXE0TGdycVVPY1JOaEY5U2tUdldTbGg3MUNPTG9RSTVvSVZWdEVJQ1kxZFNpZlE2cHVSYjdOMU5MX3NLRU92NA?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: RFI 华语",
      "url": "https://t.me/RFI_Cn/39059",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "VOA Chinese 美国之音",
+     "url": "https://www.voachinese.com/a/ukrainian-strike-collapses-part-of-crimea-bridge-as-russia-reports-record-1-441-drones-20261117/8224723.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 新唐人 NTD Chinese",
+     "url": "https://www.youtube.com/watch?v=gHWWAMlLJ6k",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Bannedbook 禁闻网",
+     "url": "https://www.bannedbook.org/bnews/worldnews/usa/20261118/2382072.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/87337",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "YouTube: 王剑每日观察 Wang Jian",
      "url": "https://www.youtube.com/watch?v=051W7yKIXds",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "url": "https://www.youtube.com/shorts/6H33d0VH-RA",
      "published": null
     }
    ]
