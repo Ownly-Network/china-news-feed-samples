@@ -296,10 +296,10 @@
    "minutes_on_list": 64,
    "notable": false,
    "official_line": {
-    "published": "2026-11-17T08:45:05Z",
-    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "我读人民日报｜深圳为什么",
-    "url": "https://www.peopleapp.com/column/30053580610-500007790087"
+    "published": "2026-11-17T13:23:34Z",
+    "source": "People's Daily+ 人民网+ app",
+    "title": "人民日报刊文：避免科技“八股文”蔓延",
+    "url": "https://app.people.cn/h5/detail/normal/7096130580857856"
    },
    "official_line_zh": null,
    "peak_rank": 6,
@@ -327,8 +327,13 @@
    "last_seen_et": "Nov 16, 7:13 PM ET",
    "minutes_on_list": 64,
    "notable": true,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "",
+    "source": "TMTPost 钛媒体",
+    "title": "黄仁勋辞职，对中国企业影响几何？",
+    "url": "https://www.tmtpost.com/8204069.html"
+   },
+   "official_line_zh": null,
    "peak_rank": 2,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",

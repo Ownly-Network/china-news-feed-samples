@@ -1,13 +1,13 @@
 {
- "generated_at_et": "2026-11-17 13:03 ET",
+ "generated_at_et": "2026-11-17 14:07 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 11,
  "cut": {
-  "flagged": 80,
+  "flagged": 81,
   "came back once before": 4,
-  "gone under 60 min": 0,
+  "gone under 60 min": 1,
   "not in the top 10 when it left": 28,
   "slid down before leaving": 2,
   "on the list a normal length of time": 24,
@@ -66,13 +66,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 4:39 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 5:26 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: RFI 华语",
-     "url": "https://t.me/RFI_Cn/39061",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 5:26 AM ET"
    ]
   },
   {
@@ -89,8 +83,13 @@
    "first_missing_et": "Nov 16, 7:18 PM ET",
    "minutes_on_list": 64,
    "url": "https://www.toutiao.com/trending/7708818396095188499/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "TMTPost 钛媒体",
+    "title": "黄仁勋辞职，对中国企业影响几何？",
+    "url": "https://www.tmtpost.com/8204069.html",
+    "published": ""
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:29 PM ET",
@@ -182,7 +181,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #20 → #10 → #7 → #6 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:09 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:58 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 3:58 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "FreeWeChat 自由微信",
+     "url": "https://freewechat.com/a/MjM5NjAxNTIyMA==/2658731671/7",
+     "published": ""
+    }
    ]
   },
   {
@@ -222,10 +227,10 @@
    "minutes_on_list": 65,
    "url": "https://www.toutiao.com/trending/7709098747753614858/",
    "official_line": {
-    "source": "Beijing News 新京报",
-    "title": "国际｜泽连斯基公布导弹打击克里米亚大桥画面：桥拱和桥跨坍塌",
-    "url": "https://www.bjnews.com.cn/detail/1794918106129976.html",
-    "published": "2026-11-17T14:18:37Z"
+    "source": "Tencent News 腾讯网",
+    "title": "俄乌互炸战略大桥，基辅3座大桥被炸穿，俄克里米亚大桥被炸断",
+    "url": "https://new.qq.com/rain/a/20261118A01LQN00",
+    "published": "2026-11-18 01:57:54"
    },
    "official_line_zh": null,
    "evidence": [
@@ -258,20 +263,26 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Ming Pao 明報",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbENvWFZCTEpXZnI5WHA0NkpoZG0ySTIxRVpSTnVrYkM2cnIzYXRCV094ZW8xUDgzRTVOTzRXaU1YaWVKd0ctUTdTcllkeGtZdlhvdTZUYWt4MGdYOTJ4b0pZWEowb04wZXE0TGdycVVPY1JOaEY5U2tUdldTbGg3MUNPTG9RSTVvSVZWdEVJQ1kxZFNpZlE2cHVSYjdOMU5MX3NLRU92NA?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: RFI 华语",
      "url": "https://t.me/RFI_Cn/39059",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/worldnews/20261118/2382041.html",
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "url": "https://www.youtube.com/watch?v=051W7yKIXds",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 王剑每日观察 Wang Jian",
-     "url": "https://www.youtube.com/watch?v=051W7yKIXds",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/87331",
      "published": null
     }
    ]
@@ -291,10 +302,10 @@
    "minutes_on_list": 64,
    "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%90%8E+%E5%94%90%E5%B1%B1%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84",
    "official_line": {
-    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "我读人民日报｜深圳为什么",
-    "url": "https://www.peopleapp.com/column/30053580610-500007790087",
-    "published": "2026-11-17T08:45:05Z"
+    "source": "People's Daily+ 人民网+ app",
+    "title": "人民日报刊文：避免科技“八股文”蔓延",
+    "url": "https://app.people.cn/h5/detail/normal/7096130580857856",
+    "published": "2026-11-17T13:23:34Z"
    },
    "official_line_zh": null,
    "evidence": [
