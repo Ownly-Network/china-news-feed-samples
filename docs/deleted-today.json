@@ -1,14 +1,14 @@
 {
- "generated_at_et": "2026-11-18 16:24 ET",
+ "generated_at_et": "2026-11-18 17:29 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 9,
  "cut": {
-  "flagged": 132,
+  "flagged": 130,
   "came back once before": 4,
   "gone under 60 min": 0,
-  "not in the top 10 when it left": 62,
+  "not in the top 10 when it left": 60,
   "slid down before leaving": 0,
   "on the list a normal length of time": 33,
   "inside the list's normal rotation": 3,
@@ -61,13 +61,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 7:59 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 8:49 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/11/18/a104151804.html",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 8:49 PM ET"
    ]
   },
   {
@@ -164,27 +158,15 @@
    "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%BF%BB%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88",
    "official_line": {
     "source": "Tencent News 腾讯网",
-    "title": "赵本山《慌啥子嘛》被任贤齐唱火了！满是江湖从容，听完瞬间不焦虑了",
-    "url": "https://new.qq.com/rain/a/20261118V0A86000",
-    "published": "2026-11-19 04:35:00"
+    "title": "女孩电车后座翻唱《慌啥子嘛》，视频拿下百万点赞，唱出独有的松弛感",
+    "url": "https://new.qq.com/rain/a/20261118V0I1OP00",
+    "published": "2026-11-19 04:50:00"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:07 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:57 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%8E%A5%E4%BD%8F%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%84%A6%E8%99%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D14%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E8%25B5%25B5%25E6%259C%25AC%25E5%25B1%25B1%25E6%2585%258C%25E5%2595%25A5%25E5%25AD%2590%25E5%2598%259B%25E6%258E%25A5%25E4%25BD%258F%25E4%25B8%2580%25E4%25BB%25A3%25E4%25BA%25BA%25E7%2584%25A6%25E8%2599%2591%2523%26cate%3D5001%26pos%3D15%26realpos%3D14%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1794975119%26pre_seqid%3D179497511924701538164124&launchid=10000360-page_H5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E5%8E%9F%E5%94%B1%E6%98%AF%E6%9D%91%E5%8F%A3%E5%90%B4%E8%80%81%E4%BA%8C&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D8%26cate%3D5001%26q%3D%25E6%2585%258C%25E5%2595%25A5%25E5%25AD%2590%25E5%2598%259B%25E5%258E%259F%25E5%2594%25B1%25E6%2598%25AF%25E6%259D%2591%25E5%258F%25A3%25E5%2590%25B4%25E8%2580%2581%25E4%25BA%258C%26realpos%3D8%26lcate%3D5001%26pos%3D9%26stream_entry_id%3D31%26flag%3D0%26display_time%3D1795009862%26pre_seqid%3D17950098619740385580329&launchid=10000360-page_H5",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:57 PM ET"
    ]
   },
   {
@@ -267,13 +249,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 9:31 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 10:06 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%B8%E5%AE%A2%E6%9B%9D1600%E7%9A%84%E7%83%A4%E5%85%A8%E7%BE%8A%E5%89%A5%E4%B8%8D%E5%87%BA1%E4%B8%A4%E8%82%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D12%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E6%25B8%25B8%25E5%25AE%25A2%25E6%259B%259D1600%25E7%259A%2584%25E7%2583%25A4%25E5%2585%25A8%25E7%25BE%258A%25E5%2589%25A5%25E4%25B8%258D%25E5%2587%25BA1%25E4%25B8%25A4%25E8%2582%2589%2523%26cate%3D5001%26pos%3D13%26realpos%3D12%26flag%3D2%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1794975119%26pre_seqid%3D179497511924701538164124&launchid=10000360-page_H5",
-     "published": "2026-11-18"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 10:06 AM ET"
    ]
   }
  ]
