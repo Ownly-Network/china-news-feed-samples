@@ -1,52 +1,25 @@
 {
- "generated_at_et": "2026-11-17 18:32 ET",
+ "generated_at_et": "2026-11-17 19:37 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 12,
+ "count": 9,
  "cut": {
-  "flagged": 90,
-  "came back once before": 4,
+  "flagged": 101,
+  "came back once before": 6,
   "gone under 60 min": 11,
-  "not in the top 10 when it left": 28,
+  "not in the top 10 when it left": 42,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 23,
+  "on the list a normal length of time": 21,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 5,
+  "still on another hot list": 2,
+  "left with other flagged topics (batch drop)": 6,
   "retitled": 0,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 12
+  "kept": 9
  },
  "items": [
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "美股收盘：英伟达跌逾4%",
-   "title_en": "♪ We're going to be the best ♪ ♪ We're going to be the best ♪",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 16, 6:09 PM ET",
-   "last_seen_et": "Nov 16, 6:47 PM ET",
-   "first_missing_et": "Nov 16, 6:52 PM ET",
-   "minutes_on_list": 38,
-   "url": "https://www.toutiao.com/trending/7708905976568483391/",
-   "official_line": {
-    "source": "36Kr",
-    "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
-    "url": "https://36kr.com/newsflashes/4073846673282183?f=rss",
-    "published": "2026-11-17T12:51:08Z"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:04 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:56 PM ET"
-   ]
-  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -61,34 +34,17 @@
    "first_missing_et": "Nov 17, 4:25 AM ET",
    "minutes_on_list": 134,
    "url": "https://www.toutiao.com/trending/7708751854922498098/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "红毯险些摔倒，高市早苗祭出“魅力攻势”外交，晚宴变秀场",
+    "url": "https://new.qq.com/rain/a/20261118V03KIJ00",
+    "published": "2026-11-18 07:50:00"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 4:39 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 5:26 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "乌发起开战以来最大规模空袭影响几何",
-   "title_en": "The largest air strikes since the beginning of the war have had a geometric impact.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 16, 6:09 PM ET",
-   "last_seen_et": "Nov 16, 7:13 PM ET",
-   "first_missing_et": "Nov 16, 7:18 PM ET",
-   "minutes_on_list": 64,
-   "url": "https://www.toutiao.com/trending/7708818396095188499/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #2 → #2 → #2 → #2 → #2",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:29 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 8:24 PM ET"
    ]
   },
   {
@@ -216,10 +172,10 @@
    "minutes_on_list": 65,
    "url": "https://www.toutiao.com/trending/7709098747753614858/",
    "official_line": {
-    "source": "Beijing News 新京报",
-    "title": "国际｜泽连斯基公布导弹打击克里米亚大桥画面：桥拱和桥跨坍塌",
-    "url": "https://www.bjnews.com.cn/detail/1794918106129976.html",
-    "published": "2026-11-17T14:18:37Z"
+    "source": "Tencent News 腾讯网",
+    "title": "乌克兰声称重创克里米亚大桥 俄运输通道受冲击“星盾”替代方案引关注",
+    "url": "https://new.qq.com/rain/a/20261118A045Q500",
+    "published": "2026-11-18 06:54:08"
    },
    "official_line_zh": null,
    "evidence": [
@@ -276,6 +232,18 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "VOA Chinese 美国之音",
+     "url": "https://www.voachinese.com/a/8221571.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sing Tao Headline 星島頭條",
+     "url": "https://www.stheadline.com/realtime-world/3638350/俄烏戰爭烏軍襲克里米亞大橋-拱門倒塌墜海交通中斷",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "YouTube: 王剑每日观察 Wang Jian",
      "url": "https://www.youtube.com/watch?v=051W7yKIXds",
      "published": null
@@ -284,6 +252,12 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: 新唐人電視台 NTD Chinese",
      "url": "https://t.me/NTDChinese/87331",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "url": "https://www.youtube.com/shorts/6H33d0VH-RA",
      "published": null
     }
    ]
@@ -308,45 +282,6 @@
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #29 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 10:12 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 11:04 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "人民日报曝光后 唐山成立联合调查组",
-   "title_en": "People's Daily has set up a joint investigation team in Tangshan.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 16, 6:09 PM ET",
-   "last_seen_et": "Nov 16, 7:13 PM ET",
-   "first_missing_et": "Nov 16, 7:18 PM ET",
-   "minutes_on_list": 64,
-   "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%90%8E+%E5%94%90%E5%B1%B1%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84",
-   "official_line": {
-    "source": "The Paper 澎湃新闻",
-    "title": "人民日报：促进普惠包容发展，共享亚太合作成果",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34499837",
-    "published": "2026-11-18 07:07:01"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:29 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 8:24 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "CDT 404 Archive 404文库",
-     "url": "https://chinadigitaltimes.net/chinese/733480.html",
-     "published": "2026-11-02T13:49:27Z"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "CDT 404 Archive 404文库",
-     "url": "https://chinadigitaltimes.net/chinese/733469.html",
-     "published": "2026-10-31T02:53:56Z"
-    }
    ]
   },
   {
