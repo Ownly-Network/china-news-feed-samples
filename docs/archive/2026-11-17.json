@@ -279,7 +279,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 7:59 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 8:49 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 8:49 PM ET",
+    {
+     "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/11/18/a104151804.html"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 17, 7:45 PM ET",
@@ -364,10 +370,10 @@
    "minutes_on_list": 90,
    "notable": false,
    "official_line": {
-    "published": "2026-11-18T09:04:38Z",
-    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "慌啥子嘛，慢慢来",
-    "url": "https://www.peopleapp.com/column/30053588596-500007792202"
+    "published": "2026-11-19 04:35:00",
+    "source": "Tencent News 腾讯网",
+    "title": "赵本山《慌啥子嘛》被任贤齐唱火了！满是江湖从容，听完瞬间不焦虑了",
+    "url": "https://new.qq.com/rain/a/20261118V0A86000"
    },
    "official_line_zh": null,
    "peak_rank": 8,
