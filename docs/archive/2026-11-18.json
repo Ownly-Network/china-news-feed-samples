@@ -1,0 +1,39 @@
+{
+ "count": 1,
+ "date": "2026-11-18",
+ "items": [
+  {
+   "day": "2026-11-18",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #7 → #7 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 18, 1:47 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 18, 2:32 AM ET",
+    {
+     "published": "2026-11-09T16:00:50Z",
+     "source": "CDT 404 Archive 404文库",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://chinadigitaltimes.net/chinese/733744.html"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 18, 1:26 AM ET",
+   "first_missing_iso": "2026-11-18T01:26:00-05:00",
+   "first_seen_et": "Nov 17, 10:30 PM ET",
+   "key": "zhihu|小孩耍脾气躺地不起，家长撒手离去，随后孩子被轿车碾压，在孩子闹情绪时，家长如何引导才有效又解决问题？|2026-11-18T01:26:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 18, 1:22 AM ET",
+   "minutes_on_list": 172,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 6,
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "slug": "zhihu-02958890de46",
+   "title_en": "How can parents guide their children when they are in a mood when they can't afford to lie down, when their parents leave and then they are run over by cars?",
+   "title_zh": "小孩耍脾气躺地不起，家长撒手离去，随后孩子被轿车碾压，在孩子闹情绪时，家长如何引导才有效又解决问题？",
+   "url": "https://www.zhihu.com/question/664242324"
+  }
+ ]
+}
