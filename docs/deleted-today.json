@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-18 00:59 ET",
+ "generated_at_et": "2026-11-18 02:06 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 11,
+ "count": 10,
  "cut": {
-  "flagged": 120,
+  "flagged": 119,
   "came back once before": 7,
   "gone under 60 min": 3,
-  "not in the top 10 when it left": 57,
+  "not in the top 10 when it left": 56,
   "slid down before leaving": 1,
   "on the list a normal length of time": 24,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 7,
+  "still on another hot list": 7,
+  "left with other flagged topics (batch drop)": 6,
   "retitled": 2,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 11
+  "kept": 10
  },
  "items": [
   {
@@ -43,28 +43,6 @@
    ]
   },
   {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "雷军“早八状态”演我",
-   "title_en": "The R.A.I.E.L.D. is playing me.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 17, 9:18 PM ET",
-   "last_seen_et": "Nov 17, 10:56 PM ET",
-   "first_missing_et": "Nov 17, 11:01 PM ET",
-   "minutes_on_list": 98,
-   "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E2%80%9C%E6%97%A9%E5%85%AB%E7%8A%B6%E6%80%81%E2%80%9D%E6%BC%94%E6%88%91",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 11:12 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 12:06 AM ET"
-   ]
-  },
-  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "浑水做空英伟达",
@@ -79,10 +57,10 @@
    "minutes_on_list": 64,
    "url": "https://www.toutiao.com/trending/7708199848868200502/",
    "official_line": {
-    "source": "Cailian Press 财联社",
-    "title": "浑水做空英伟达 质疑公司前高管与超微前高管有关联",
-    "url": "https://www.cls.cn/detail/2537591",
-    "published": ""
+    "source": "Jiemian 界面新闻",
+    "title": "浑水做空英伟达，黄仁勋能否重返公司仍是未知数",
+    "url": "https://www.jiemian.com/article/15345892.html",
+    "published": "2026-11-18 14:52:00"
    },
    "official_line_zh": null,
    "evidence": [
@@ -194,10 +172,10 @@
    "minutes_on_list": 65,
    "url": "https://www.toutiao.com/trending/7709098747753614858/",
    "official_line": {
-    "source": "Caixin 财新网",
-    "title": "俄控克里米亚大桥四度遭乌军攻击桥拱坍塌 同日基辅关键桥梁亦毁损(含视频)",
-    "url": "https://international.caixin.com/2026-11-18/102506050.html",
-    "published": "2026-11-18"
+    "source": "Tencent News 腾讯网",
+    "title": "克里米亚大桥被炸断， 乌克兰玩了一手调虎离山",
+    "url": "https://new.qq.com/rain/a/20261118V0ARR200",
+    "published": "2026-11-18 14:38:35"
    },
    "official_line_zh": null,
    "evidence": [
@@ -321,10 +299,10 @@
    "minutes_on_list": 90,
    "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%BF%BB%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "AI翻唱火出圈本尊买版权，赵本山一句慌啥子嘛，劝醒多少焦虑的人",
-    "url": "https://new.qq.com/rain/a/20261118V09VWM00",
-    "published": "2026-11-18 13:41:05"
+    "source": "NetEase News 网易新闻",
+    "title": "赵本山祖孙三代齐唱《慌啥子嘛》 录音时问＂像不像AI＂",
+    "url": "https://www.163.com/news/article/LBVFKL8J0001899O.html",
+    "published": "2026-11-17 21:30:58"
    },
    "official_line_zh": null,
    "evidence": [
