@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-17 22:50 ET",
+ "generated_at_et": "2026-11-17 23:56 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 9,
  "cut": {
-  "flagged": 113,
-  "came back once before": 5,
-  "gone under 60 min": 12,
-  "not in the top 10 when it left": 50,
-  "slid down before leaving": 2,
-  "on the list a normal length of time": 22,
+  "flagged": 117,
+  "came back once before": 7,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 55,
+  "slid down before leaving": 1,
+  "on the list a normal length of time": 23,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 5,
-  "retitled": 0,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 7,
+  "retitled": 1,
   "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 8
+  "kept": 9
  },
  "items": [
   {
@@ -56,13 +56,8 @@
    "first_missing_et": "Nov 17, 7:45 PM ET",
    "minutes_on_list": 64,
    "url": "https://www.toutiao.com/trending/7708199848868200502/",
-   "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "浑水宣布做空英伟达",
-    "url": "https://www.yicai.com/news/103444749.html",
-    "published": "2026-11-18T11:02:04"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 7:59 PM ET",
@@ -173,15 +168,21 @@
    "url": "https://www.toutiao.com/trending/7709098747753614858/",
    "official_line": {
     "source": "Tencent News 腾讯网",
-    "title": "克里米亚大桥又又又被炸了！为什么乌军选择此时动手？",
-    "url": "https://new.qq.com/rain/a/20261118A06IJ000",
-    "published": "2026-11-18 10:10:02"
+    "title": "227米主拱坠海，俄方修复工期超一年，乌军是如何把克里米亚大桥打塌的？",
+    "url": "https://new.qq.com/rain/a/20261118A08SEB00",
+    "published": "2026-11-18 12:15:27"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 8:19 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:05 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: RFI 华语",
+     "url": "https://t.me/RFI_Cn/39032",
+     "published": null
+    },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: 新唐人電視台 NTD Chinese",
@@ -220,12 +221,6 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 王剑每日观察 Wang Jian",
-     "url": "https://www.youtube.com/shorts/6H33d0VH-RA",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: 美国之音 VOA",
      "url": "https://t.me/voachinese/14859",
      "published": null
@@ -247,7 +242,46 @@
      "source": "YouTube: 美国之音中文网 VOA Chinese",
      "url": "https://www.youtube.com/watch?v=PYu-VwV-jPw",
      "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "url": "https://www.youtube.com/watch?v=051W7yKIXds",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "url": "https://www.youtube.com/shorts/6H33d0VH-RA",
+     "published": null
     }
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "小女孩翻唱《慌啥子嘛》爆火出圈",
+   "title_en": "The little girl sings \"What's the matter with you\"?",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 8,
+   "first_seen_et": "Nov 17, 8:18 PM ET",
+   "last_seen_et": "Nov 17, 9:48 PM ET",
+   "first_missing_et": "Nov 17, 9:54 PM ET",
+   "minutes_on_list": 90,
+   "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%BF%BB%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "赵本山祖孙三代齐唱《慌啥子嘛》 录音时问＂像不像AI＂",
+    "url": "https://www.163.com/news/article/LBVFKL8J0001899O.html",
+    "published": "2026-11-17 21:30:58"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:07 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:57 PM ET"
    ]
   },
   {

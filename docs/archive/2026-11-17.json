@@ -1,5 +1,5 @@
 {
- "count": 9,
+ "count": 10,
  "date": "2026-11-17",
  "items": [
   {
@@ -118,6 +118,12 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:05 AM ET",
     {
      "published": null,
+     "source": "Telegram: RFI 华语",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/RFI_Cn/39032"
+    },
+    {
+     "published": null,
      "source": "Telegram: 新唐人電視台 NTD Chinese",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/NTDChinese/87284"
@@ -154,12 +160,6 @@
     },
     {
      "published": null,
-     "source": "YouTube: 王剑每日观察 Wang Jian",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.youtube.com/shorts/6H33d0VH-RA"
-    },
-    {
-     "published": null,
      "source": "Telegram: 美国之音 VOA",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/voachinese/14859"
@@ -181,6 +181,18 @@
      "source": "YouTube: 美国之音中文网 VOA Chinese",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.youtube.com/watch?v=PYu-VwV-jPw"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/watch?v=051W7yKIXds"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/6H33d0VH-RA"
     }
    ],
    "evidence_strength": "standard",
@@ -194,10 +206,10 @@
    "minutes_on_list": 65,
    "notable": false,
    "official_line": {
-    "published": "2026-11-18 10:10:02",
+    "published": "2026-11-18 12:15:27",
     "source": "Tencent News 腾讯网",
-    "title": "克里米亚大桥又又又被炸了！为什么乌军选择此时动手？",
-    "url": "https://new.qq.com/rain/a/20261118A06IJ000"
+    "title": "227米主拱坠海，俄方修复工期超一年，乌军是如何把克里米亚大桥打塌的？",
+    "url": "https://new.qq.com/rain/a/20261118A08SEB00"
    },
    "official_line_zh": null,
    "peak_rank": 6,
@@ -279,13 +291,8 @@
    "last_seen_et": "Nov 17, 7:42 PM ET",
    "minutes_on_list": 64,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-18T11:02:04",
-    "source": "Yicai 第一财经",
-    "title": "浑水宣布做空英伟达",
-    "url": "https://www.yicai.com/news/103444749.html"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 5,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -320,6 +327,38 @@
    "title_en": "Another major breakthrough in the cancer vaccine.",
    "title_zh": "又一癌症疫苗迎来重大突破 股价暴涨",
    "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4+%E8%82%A1%E4%BB%B7%E6%9A%B4%E6%B6%A8"
+  },
+  {
+   "day": "2026-11-17",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:07 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:57 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 17, 9:54 PM ET",
+   "first_missing_iso": "2026-11-17T21:54:00-05:00",
+   "first_seen_et": "Nov 17, 8:18 PM ET",
+   "key": "baidu|小女孩翻唱《慌啥子嘛》爆火出圈|2026-11-17T21:54:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 17, 9:48 PM ET",
+   "minutes_on_list": 90,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-17 21:30:58",
+    "source": "NetEase News 网易新闻",
+    "title": "赵本山祖孙三代齐唱《慌啥子嘛》 录音时问＂像不像AI＂",
+    "url": "https://www.163.com/news/article/LBVFKL8J0001899O.html"
+   },
+   "official_line_zh": null,
+   "peak_rank": 8,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-2425357aeec7",
+   "title_en": "The little girl sings \"What's the matter with you\"?",
+   "title_zh": "小女孩翻唱《慌啥子嘛》爆火出圈",
+   "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%BF%BB%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88"
   }
  ]
 }
