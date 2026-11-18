@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-17 21:47 ET",
+ "generated_at_et": "2026-11-17 22:50 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 8,
  "cut": {
-  "flagged": 100,
-  "came back once before": 6,
-  "gone under 60 min": 7,
-  "not in the top 10 when it left": 47,
+  "flagged": 113,
+  "came back once before": 5,
+  "gone under 60 min": 12,
+  "not in the top 10 when it left": 50,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 17,
+  "on the list a normal length of time": 22,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 4,
+  "still on another hot list": 5,
   "left with other flagged topics (batch drop)": 5,
   "retitled": 0,
-  "topic still on the list": 1,
+  "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 8
  },
  "items": [
   {
@@ -56,8 +56,13 @@
    "first_missing_et": "Nov 17, 7:45 PM ET",
    "minutes_on_list": 64,
    "url": "https://www.toutiao.com/trending/7708199848868200502/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Yicai 第一财经",
+    "title": "浑水宣布做空英伟达",
+    "url": "https://www.yicai.com/news/103444749.html",
+    "published": "2026-11-18T11:02:04"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 7:59 PM ET",
@@ -131,25 +136,25 @@
    ]
   },
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "老股民抄底科技一个月亏了20万",
-   "title_en": "Old stockholders lost $200,000 a month on the technology.",
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "又一癌症疫苗迎来重大突破 股价暴涨",
+   "title_en": "Another major breakthrough in the cancer vaccine.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 16, 9:50 PM ET",
-   "last_seen_et": "Nov 16, 10:44 PM ET",
-   "first_missing_et": "Nov 16, 10:49 PM ET",
-   "minutes_on_list": 54,
-   "url": "https://www.toutiao.com/trending/7708950282453041715/",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 17, 6:26 PM ET",
+   "last_seen_et": "Nov 17, 9:13 PM ET",
+   "first_missing_et": "Nov 17, 9:18 PM ET",
+   "minutes_on_list": 166,
+   "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4+%E8%82%A1%E4%BB%B7%E6%9A%B4%E6%B6%A8",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #6 → #6 → #6 → #6 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 11:00 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 11:49 PM ET"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:29 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:22 PM ET"
    ]
   },
   {
@@ -168,9 +173,9 @@
    "url": "https://www.toutiao.com/trending/7709098747753614858/",
    "official_line": {
     "source": "Tencent News 腾讯网",
-    "title": "克里米亚大桥被炸！乌军使用10多种武器“猛轰”，谁最关键？",
-    "url": "https://new.qq.com/rain/a/20261118A06KTM00",
-    "published": "2026-11-18 10:12:58"
+    "title": "克里米亚大桥又又又被炸了！为什么乌军选择此时动手？",
+    "url": "https://new.qq.com/rain/a/20261118A06IJ000",
+    "published": "2026-11-18 10:10:02"
    },
    "official_line_zh": null,
    "evidence": [
@@ -215,6 +220,12 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "url": "https://www.youtube.com/shorts/6H33d0VH-RA",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: 美国之音 VOA",
      "url": "https://t.me/voachinese/14859",
      "published": null
@@ -236,53 +247,7 @@
      "source": "YouTube: 美国之音中文网 VOA Chinese",
      "url": "https://www.youtube.com/watch?v=PYu-VwV-jPw",
      "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
-     "url": "https://www.singtaousa.com/2026/11/17/news/world/ukrainian-drones-and-missiles-strike-kerch-bridge-that-links-russia-with-crimea/",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "8world News 8视界",
-     "url": "https://www.8world.com/world/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-3344086",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 王剑每日观察 Wang Jian",
-     "url": "https://www.youtube.com/watch?v=051W7yKIXds",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 王剑每日观察 Wang Jian",
-     "url": "https://www.youtube.com/shorts/6H33d0VH-RA",
-     "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "腾讯总办谈AI内容曝光",
-   "title_en": "Tencent, talk about AI.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 16, 9:25 PM ET",
-   "last_seen_et": "Nov 16, 9:57 PM ET",
-   "first_missing_et": "Nov 16, 10:00 PM ET",
-   "minutes_on_list": 32,
-   "url": "https://www.toutiao.com/trending/7708689941852684809/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #29 → #6 → #6 → #6 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 10:12 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 11:04 PM ET"
    ]
   },
   {

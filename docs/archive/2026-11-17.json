@@ -1,5 +1,5 @@
 {
- "count": 8,
+ "count": 9,
  "date": "2026-11-17",
  "items": [
   {
@@ -154,6 +154,12 @@
     },
     {
      "published": null,
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/6H33d0VH-RA"
+    },
+    {
+     "published": null,
      "source": "Telegram: 美国之音 VOA",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/voachinese/14859"
@@ -175,30 +181,6 @@
      "source": "YouTube: 美国之音中文网 VOA Chinese",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.youtube.com/watch?v=PYu-VwV-jPw"
-    },
-    {
-     "published": null,
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.singtaousa.com/2026/11/17/news/world/ukrainian-drones-and-missiles-strike-kerch-bridge-that-links-russia-with-crimea/"
-    },
-    {
-     "published": null,
-     "source": "8world News 8视界",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.8world.com/world/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-3344086"
-    },
-    {
-     "published": null,
-     "source": "YouTube: 王剑每日观察 Wang Jian",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.youtube.com/watch?v=051W7yKIXds"
-    },
-    {
-     "published": null,
-     "source": "YouTube: 王剑每日观察 Wang Jian",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.youtube.com/shorts/6H33d0VH-RA"
     }
    ],
    "evidence_strength": "standard",
@@ -212,10 +194,10 @@
    "minutes_on_list": 65,
    "notable": false,
    "official_line": {
-    "published": "2026-11-18 10:12:58",
+    "published": "2026-11-18 10:10:02",
     "source": "Tencent News 腾讯网",
-    "title": "克里米亚大桥被炸！乌军使用10多种武器“猛轰”，谁最关键？",
-    "url": "https://new.qq.com/rain/a/20261118A06KTM00"
+    "title": "克里米亚大桥又又又被炸了！为什么乌军选择此时动手？",
+    "url": "https://new.qq.com/rain/a/20261118A06IJ000"
    },
    "official_line_zh": null,
    "peak_rank": 6,
@@ -297,8 +279,13 @@
    "last_seen_et": "Nov 17, 7:42 PM ET",
    "minutes_on_list": 64,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-18T11:02:04",
+    "source": "Yicai 第一财经",
+    "title": "浑水宣布做空英伟达",
+    "url": "https://www.yicai.com/news/103444749.html"
+   },
+   "official_line_zh": null,
    "peak_rank": 5,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -306,6 +293,33 @@
    "title_en": "It's empty, Nvidia.",
    "title_zh": "浑水做空英伟达",
    "url": "https://www.toutiao.com/trending/7708199848868200502/"
+  },
+  {
+   "day": "2026-11-17",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:29 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:22 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 17, 9:18 PM ET",
+   "first_missing_iso": "2026-11-17T21:18:00-05:00",
+   "first_seen_et": "Nov 17, 6:26 PM ET",
+   "key": "baidu|又一癌症疫苗迎来重大突破 股价暴涨|2026-11-17T21:18:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 17, 9:13 PM ET",
+   "minutes_on_list": 166,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 6,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-dd28fd7ae474",
+   "title_en": "Another major breakthrough in the cancer vaccine.",
+   "title_zh": "又一癌症疫苗迎来重大突破 股价暴涨",
+   "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4+%E8%82%A1%E4%BB%B7%E6%9A%B4%E6%B6%A8"
   }
  ]
 }
