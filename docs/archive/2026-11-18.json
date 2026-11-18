@@ -1,5 +1,5 @@
 {
- "count": 1,
+ "count": 2,
  "date": "2026-11-18",
  "items": [
   {
@@ -34,6 +34,50 @@
    "title_en": "How can parents guide their children when they are in a mood when they can't afford to lie down, when their parents leave and then they are run over by cars?",
    "title_zh": "小孩耍脾气躺地不起，家长撒手离去，随后孩子被轿车碾压，在孩子闹情绪时，家长如何引导才有效又解决问题？",
    "url": "https://www.zhihu.com/question/664242324"
+  },
+  {
+   "day": "2026-11-18",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #10 → #10 → #10 → #10 → #10 → #9",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 18, 9:24 AM ET",
+    {
+     "published": "2026-11-13T01:50:08Z",
+     "source": "CDT 404 Archive 404文库",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://chinadigitaltimes.net/chinese/733827.html"
+    },
+    {
+     "published": "2026-11-02T13:49:27Z",
+     "source": "CDT 404 Archive 404文库",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://chinadigitaltimes.net/chinese/733480.html"
+    },
+    {
+     "published": "2026-10-25T01:35:57Z",
+     "source": "CDT 404 Archive 404文库",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://chinadigitaltimes.net/chinese/733223.html"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 18, 8:05 AM ET",
+   "first_missing_iso": "2026-11-18T08:05:00-05:00",
+   "first_seen_et": "Nov 18, 5:55 AM ET",
+   "key": "zhihu|钟表远没有细胞复杂，为什么自然界不能自发形成钟表这样的结构?|2026-11-18T08:05:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 18, 8:00 AM ET",
+   "minutes_on_list": 125,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 9,
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "slug": "zhihu-4dc51c9416de",
+   "title_en": "The clocks are far from complex. Why can't nature automatically form a structure like clocks?",
+   "title_zh": "钟表远没有细胞复杂，为什么自然界不能自发形成钟表这样的结构?",
+   "url": "https://www.zhihu.com/question/659497953"
   }
  ]
 }
