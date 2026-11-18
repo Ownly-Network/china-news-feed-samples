@@ -184,6 +184,12 @@
     },
     {
      "published": null,
+     "source": "Bannedbook 禁闻网",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.bannedbook.org/bnews/worldnews/20261118/2382294.html"
+    },
+    {
+     "published": null,
      "source": "Telegram: 新唐人電視台 NTD Chinese",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://t.me/NTDChinese/87331"
@@ -356,13 +362,8 @@
    "last_seen_et": "Nov 17, 9:48 PM ET",
    "minutes_on_list": 90,
    "notable": false,
-   "official_line": {
-    "published": "2026-11-18T09:04:38Z",
-    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "慌啥子嘛，慢慢来",
-    "url": "https://www.peopleapp.com/column/30053588596-500007792202"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 8,
    "platform": "baidu",
    "platform_name": "Baidu 百度",

@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-18 05:25 ET",
+ "generated_at_et": "2026-11-18 06:33 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 10,
+ "count": 9,
  "cut": {
-  "flagged": 115,
+  "flagged": 116,
   "came back once before": 6,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 54,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 53,
   "slid down before leaving": 0,
   "on the list a normal length of time": 25,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 6,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 4,
   "retitled": 3,
-  "topic still on the list": 3,
+  "topic still on the list": 4,
   "same story as a kept item": 0,
-  "kept": 10
+  "kept": 9
  },
  "items": [
   {
@@ -111,28 +111,6 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #10 → #12 → #12 → #5 → #5 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:20 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:09 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "胖东来为何要停止规模扩张",
-   "title_en": "Why did Fat Tung come to stop the expansion?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 17, 4:55 AM ET",
-   "last_seen_et": "Nov 17, 6:10 AM ET",
-   "first_missing_et": "Nov 17, 6:11 AM ET",
-   "minutes_on_list": 75,
-   "url": "https://www.toutiao.com/trending/7709067609940954666/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #6 → #8 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 6:23 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 7:12 AM ET"
    ]
   },
   {
@@ -284,6 +262,12 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Bannedbook 禁闻网",
+     "url": "https://www.bannedbook.org/bnews/worldnews/20261118/2382294.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: 新唐人電視台 NTD Chinese",
      "url": "https://t.me/NTDChinese/87331",
      "published": null
@@ -326,13 +310,8 @@
    "first_missing_et": "Nov 17, 9:54 PM ET",
    "minutes_on_list": 90,
    "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%BF%BB%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88",
-   "official_line": {
-    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
-    "title": "慌啥子嘛，慢慢来",
-    "url": "https://www.peopleapp.com/column/30053588596-500007792202",
-    "published": "2026-11-18T09:04:38Z"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:07 PM ET",
