@@ -1,5 +1,5 @@
 {
- "count": 7,
+ "count": 8,
  "date": "2026-11-17",
  "items": [
   {
@@ -178,12 +178,6 @@
     },
     {
      "published": null,
-     "source": "NTD 新唐人電視台",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.ntdtv.com/b5/2026/11/18/a104151603.html"
-    },
-    {
-     "published": null,
      "source": "Sing Tao Daily USA 星島日報 (美國)",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.singtaousa.com/2026/11/17/news/world/ukrainian-drones-and-missiles-strike-kerch-bridge-that-links-russia-with-crimea/"
@@ -199,12 +193,6 @@
      "source": "YouTube: 王剑每日观察 Wang Jian",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.youtube.com/watch?v=051W7yKIXds"
-    },
-    {
-     "published": null,
-     "source": "Telegram: 新唐人電視台 NTD Chinese",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://t.me/NTDChinese/87331"
     },
     {
      "published": null,
@@ -224,10 +212,10 @@
    "minutes_on_list": 65,
    "notable": false,
    "official_line": {
-    "published": "2026-11-18",
-    "source": "Caixin 财新网",
-    "title": "俄控克里米亚大桥四度遭乌军攻击桥拱坍塌 同日基辅关键桥梁亦毁损",
-    "url": "https://international.caixin.com/2026-11-18/102506050.html"
+    "published": "2026-11-18 10:12:58",
+    "source": "Tencent News 腾讯网",
+    "title": "克里米亚大桥被炸！乌军使用10多种武器“猛轰”，谁最关键？",
+    "url": "https://new.qq.com/rain/a/20261118A06KTM00"
    },
    "official_line_zh": null,
    "peak_rank": 6,
@@ -291,6 +279,33 @@
    "title_en": "When does the market end?",
    "title_zh": "市场何时见底",
    "url": "https://www.toutiao.com/trending/7709116136037551657/"
+  },
+  {
+   "day": "2026-11-17",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 7:59 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 8:49 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 17, 7:45 PM ET",
+   "first_missing_iso": "2026-11-17T19:45:00-05:00",
+   "first_seen_et": "Nov 17, 6:38 PM ET",
+   "key": "toutiao|浑水做空英伟达|2026-11-17T19:45:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 17, 7:42 PM ET",
+   "minutes_on_list": 64,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 5,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-8b0fb5a82d8c",
+   "title_en": "It's empty, Nvidia.",
+   "title_zh": "浑水做空英伟达",
+   "url": "https://www.toutiao.com/trending/7708199848868200502/"
   }
  ]
 }
