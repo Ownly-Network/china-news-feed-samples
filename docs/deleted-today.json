@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-18 10:36 ET",
+ "generated_at_et": "2026-11-18 11:44 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 9,
  "cut": {
-  "flagged": 132,
-  "came back once before": 5,
-  "gone under 60 min": 3,
-  "not in the top 10 when it left": 62,
+  "flagged": 133,
+  "came back once before": 4,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 61,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 30,
+  "on the list a normal length of time": 31,
   "inside the list's normal rotation": 2,
-  "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 4,
+  "still on another hot list": 8,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 4,
-  "topic still on the list": 6,
+  "topic still on the list": 5,
   "same story as a kept item": 0,
-  "kept": 7
+  "kept": 9
  },
  "items": [
   {
@@ -143,6 +143,67 @@
    ]
   },
   {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "小女孩翻唱《慌啥子嘛》爆火出圈",
+   "title_en": "The little girl sings \"What's the matter with you\"?",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 8,
+   "first_seen_et": "Nov 17, 8:18 PM ET",
+   "last_seen_et": "Nov 17, 9:48 PM ET",
+   "first_missing_et": "Nov 17, 9:54 PM ET",
+   "minutes_on_list": 90,
+   "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%BF%BB%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88",
+   "official_line": {
+    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
+    "title": "慌啥子嘛，慢慢来",
+    "url": "https://www.peopleapp.com/column/30053588596-500007792202",
+    "published": "2026-11-18T09:04:38Z"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:07 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:57 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%8E%A5%E4%BD%8F%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%84%A6%E8%99%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D14%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E8%25B5%25B5%25E6%259C%25AC%25E5%25B1%25B1%25E6%2585%258C%25E5%2595%25A5%25E5%25AD%2590%25E5%2598%259B%25E6%258E%25A5%25E4%25BD%258F%25E4%25B8%2580%25E4%25BB%25A3%25E4%25BA%25BA%25E7%2584%25A6%25E8%2599%2591%2523%26cate%3D5001%26pos%3D15%26realpos%3D14%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1794975119%26pre_seqid%3D179497511924701538164124&launchid=10000360-page_H5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E5%8E%9F%E5%94%B1%E6%98%AF%E6%9D%91%E5%8F%A3%E5%90%B4%E8%80%81%E4%BA%8C&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D8%26cate%3D5001%26q%3D%25E6%2585%258C%25E5%2595%25A5%25E5%25AD%2590%25E5%2598%259B%25E5%258E%259F%25E5%2594%25B1%25E6%2598%25AF%25E6%259D%2591%25E5%258F%25A3%25E5%2590%25B4%25E8%2580%2581%25E4%25BA%258C%26realpos%3D8%26lcate%3D5001%26pos%3D9%26stream_entry_id%3D31%26flag%3D0%26display_time%3D1795009862%26pre_seqid%3D17950098619740385580329&launchid=10000360-page_H5",
+     "published": null
+    }
+   ]
+  },
+  {
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "title_zh": "万物皆可交互的2D像素游戏",
+   "title_en": "An interactive 2D pixel game for everything",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Nov 18, 9:21 AM ET",
+   "last_seen_et": "Nov 18, 10:03 AM ET",
+   "first_missing_et": "Nov 18, 10:08 AM ET",
+   "minutes_on_list": 42,
+   "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%BA%A4%E4%BA%92%E7%9A%842D%E5%83%8F%E7%B4%A0%E6%B8%B8%E6%88%8F",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #10 → #9 → #37 → #9 → #9 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 10:20 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 11:10 AM ET"
+   ]
+  },
+  {
    "platform": "zhihu",
    "platform_name": "Zhihu 知乎",
    "title_zh": "钟表远没有细胞复杂，为什么自然界不能自发形成钟表这样的结构?",
@@ -173,12 +234,6 @@
      "source": "CDT 404 Archive 404文库",
      "url": "https://chinadigitaltimes.net/chinese/733480.html",
      "published": "2026-11-02T13:49:27Z"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "CDT 404 Archive 404文库",
-     "url": "https://chinadigitaltimes.net/chinese/733223.html",
-     "published": "2026-10-25T01:35:57Z"
     }
    ]
   },
@@ -211,12 +266,6 @@
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%B8%E5%AE%A2%E6%9B%9D1600%E7%9A%84%E7%83%A4%E5%85%A8%E7%BE%8A%E5%89%A5%E4%B8%8D%E5%87%BA1%E4%B8%A4%E8%82%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D12%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E6%25B8%25B8%25E5%25AE%25A2%25E6%259B%259D1600%25E7%259A%2584%25E7%2583%25A4%25E5%2585%25A8%25E7%25BE%258A%25E5%2589%25A5%25E4%25B8%258D%25E5%2587%25BA1%25E4%25B8%25A4%25E8%2582%2589%2523%26cate%3D5001%26pos%3D13%26realpos%3D12%26flag%3D2%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1794975119%26pre_seqid%3D179497511924701538164124&launchid=10000360-page_H5",
-     "published": "2026-11-18"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%9B%9D1600%E7%9A%84%E7%83%A4%E5%85%A8%E7%BE%8A%E5%89%A5%E4%B8%8D%E5%87%BA1%E4%B8%A4%E8%82%89%23&t=31&band_rank=15&Refer=top",
      "published": "2026-11-18"
     }
    ]
