@@ -73,13 +73,8 @@
    "last_seen_et": "Nov 17, 4:19 AM ET",
    "minutes_on_list": 134,
    "notable": true,
-   "official_line": {
-    "published": "2026-11-18 07:50:00",
-    "source": "Tencent News 腾讯网",
-    "title": "红毯险些摔倒，高市早苗祭出“魅力攻势”外交，晚宴变秀场",
-    "url": "https://new.qq.com/rain/a/20261118V03KIJ00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 2,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -177,9 +172,27 @@
     },
     {
      "published": null,
-     "source": "Sing Tao Headline 星島頭條",
+     "source": "YouTube: 美国之音中文网 VOA Chinese",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.stheadline.com/realtime-world/3638350/俄烏戰爭烏軍襲克里米亞大橋-拱門倒塌墜海交通中斷"
+     "url": "https://www.youtube.com/watch?v=PYu-VwV-jPw"
+    },
+    {
+     "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/11/18/a104151603.html"
+    },
+    {
+     "published": null,
+     "source": "Sing Tao Daily USA 星島日報 (美國)",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.singtaousa.com/2026/11/17/news/world/ukrainian-drones-and-missiles-strike-kerch-bridge-that-links-russia-with-crimea/"
+    },
+    {
+     "published": null,
+     "source": "8world News 8视界",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.8world.com/world/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-3344086"
     },
     {
      "published": null,
@@ -211,10 +224,10 @@
    "minutes_on_list": 65,
    "notable": false,
    "official_line": {
-    "published": "2026-11-18 06:54:08",
-    "source": "Tencent News 腾讯网",
-    "title": "乌克兰声称重创克里米亚大桥 俄运输通道受冲击“星盾”替代方案引关注",
-    "url": "https://new.qq.com/rain/a/20261118A045Q500"
+    "published": "2026-11-18",
+    "source": "Caixin 财新网",
+    "title": "俄控克里米亚大桥四度遭乌军攻击桥拱坍塌 同日基辅关键桥梁亦毁损",
+    "url": "https://international.caixin.com/2026-11-18/102506050.html"
    },
    "official_line_zh": null,
    "peak_rank": 6,
