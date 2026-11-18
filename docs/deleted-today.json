@@ -1,25 +1,52 @@
 {
- "generated_at_et": "2026-11-17 17:25 ET",
+ "generated_at_et": "2026-11-17 18:32 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 11,
+ "count": 12,
  "cut": {
-  "flagged": 81,
+  "flagged": 90,
   "came back once before": 4,
-  "gone under 60 min": 1,
+  "gone under 60 min": 11,
   "not in the top 10 when it left": 28,
   "slid down before leaving": 2,
-  "on the list a normal length of time": 24,
+  "on the list a normal length of time": 23,
   "inside the list's normal rotation": 1,
-  "still on another hot list": 4,
+  "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 5,
   "retitled": 0,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 11
+  "kept": 12
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "美股收盘：英伟达跌逾4%",
+   "title_en": "♪ We're going to be the best ♪ ♪ We're going to be the best ♪",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 16, 6:09 PM ET",
+   "last_seen_et": "Nov 16, 6:47 PM ET",
+   "first_missing_et": "Nov 16, 6:52 PM ET",
+   "minutes_on_list": 38,
+   "url": "https://www.toutiao.com/trending/7708905976568483391/",
+   "official_line": {
+    "source": "36Kr",
+    "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
+    "url": "https://36kr.com/newsflashes/4073846673282183?f=rss",
+    "published": "2026-11-17T12:51:08Z"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:04 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:56 PM ET"
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -34,13 +61,8 @@
    "first_missing_et": "Nov 17, 4:25 AM ET",
    "minutes_on_list": 134,
    "url": "https://www.toutiao.com/trending/7708751854922498098/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "群嘲不断！高市早苗赴东盟参会，网友痛斥毫无外交真本事",
-    "url": "https://new.qq.com/rain/a/20261117A0E3WY00",
-    "published": "2026-11-18 05:20:00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 4:39 AM ET",
@@ -61,13 +83,8 @@
    "first_missing_et": "Nov 16, 7:18 PM ET",
    "minutes_on_list": 64,
    "url": "https://www.toutiao.com/trending/7708818396095188499/",
-   "official_line": {
-    "source": "TMTPost 钛媒体",
-    "title": "黄仁勋辞职，对中国企业影响几何？",
-    "url": "https://www.tmtpost.com/8204069.html",
-    "published": ""
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #5 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 16, 7:29 PM ET",
@@ -247,12 +264,6 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Bannedbook 禁闻网",
-     "url": "https://www.bannedbook.org/bnews/worldnews/usa/20261118/2382072.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Telegram: 美国之音 VOA",
      "url": "https://t.me/voachinese/14859",
      "published": null
@@ -271,8 +282,8 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 王剑每日观察 Wang Jian",
-     "url": "https://www.youtube.com/shorts/6H33d0VH-RA",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/87331",
      "published": null
     }
    ]
@@ -314,10 +325,10 @@
    "minutes_on_list": 64,
    "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%90%8E+%E5%94%90%E5%B1%B1%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84",
    "official_line": {
-    "source": "People's Daily+ 人民网+ app",
-    "title": "人民日报刊文：避免科技“八股文”蔓延",
-    "url": "https://app.people.cn/h5/detail/normal/7096130580857856",
-    "published": "2026-11-17T13:23:34Z"
+    "source": "The Paper 澎湃新闻",
+    "title": "人民日报：促进普惠包容发展，共享亚太合作成果",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34499837",
+    "published": "2026-11-18 07:07:01"
    },
    "official_line_zh": null,
    "evidence": [
