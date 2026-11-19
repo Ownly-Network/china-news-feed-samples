@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-18 17:29 ET",
+ "generated_at_et": "2026-11-18 18:38 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 9,
+ "count": 8,
  "cut": {
-  "flagged": 130,
+  "flagged": 116,
   "came back once before": 4,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 60,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 46,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 33,
+  "on the list a normal length of time": 32,
   "inside the list's normal rotation": 3,
   "still on another hot list": 8,
   "left with other flagged topics (batch drop)": 4,
   "retitled": 4,
   "topic still on the list": 5,
   "same story as a kept item": 0,
-  "kept": 9
+  "kept": 8
  },
  "items": [
   {
@@ -111,13 +111,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:29 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:22 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/property/sellas-succeeds-in-clinical-trial/",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:22 PM ET"
    ]
   },
   {
@@ -158,37 +152,15 @@
    "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%BF%BB%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88",
    "official_line": {
     "source": "Tencent News 腾讯网",
-    "title": "女孩电车后座翻唱《慌啥子嘛》，视频拿下百万点赞，唱出独有的松弛感",
-    "url": "https://new.qq.com/rain/a/20261118V0I1OP00",
-    "published": "2026-11-19 04:50:00"
+    "title": "赵本山《慌啥子嘛》被任贤齐唱火了！满是江湖从容，听完瞬间不焦虑了",
+    "url": "https://new.qq.com/rain/a/20261118V0A86000",
+    "published": "2026-11-19 04:35:00"
    },
    "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:07 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:57 PM ET"
-   ]
-  },
-  {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "万物皆可交互的2D像素游戏",
-   "title_en": "An interactive 2D pixel game for everything",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 9,
-   "first_seen_et": "Nov 18, 9:21 AM ET",
-   "last_seen_et": "Nov 18, 10:03 AM ET",
-   "first_missing_et": "Nov 18, 10:08 AM ET",
-   "minutes_on_list": 42,
-   "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%BA%A4%E4%BA%92%E7%9A%842D%E5%83%8F%E7%B4%A0%E6%B8%B8%E6%88%8F",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #10 → #9 → #37 → #9 → #9 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 10:20 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 11:10 AM ET"
    ]
   },
   {
@@ -240,10 +212,10 @@
    "minutes_on_list": 70,
    "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C1600%E5%85%83%E7%83%A4%E5%85%A8%E7%BE%8A1%E4%B8%A4%E8%82%89%E2%80%9D",
    "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "游客花1600元买的烤全羊剥不出1两肉 官方通报",
-    "url": "https://www.163.com/news/article/LC1NEI970001899O.html",
-    "published": "2026-11-18 18:34:58"
+    "source": "Tencent News 腾讯网",
+    "title": "四川平武县通报“1600元烤全羊剥不出一两肉”",
+    "url": "https://new.qq.com/rain/a/20261119A03T1U00",
+    "published": "2026-11-19 07:00:45"
    },
    "official_line_zh": null,
    "evidence": [

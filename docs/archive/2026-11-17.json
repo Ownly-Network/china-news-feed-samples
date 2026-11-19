@@ -306,13 +306,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 9:29 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:22 PM ET",
-    {
-     "published": null,
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.chineseherald.co.nz/news/property/sellas-succeeds-in-clinical-trial/"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 10:22 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 17, 9:18 PM ET",
@@ -352,10 +346,10 @@
    "minutes_on_list": 90,
    "notable": false,
    "official_line": {
-    "published": "2026-11-19 04:50:00",
+    "published": "2026-11-19 04:35:00",
     "source": "Tencent News 腾讯网",
-    "title": "女孩电车后座翻唱《慌啥子嘛》，视频拿下百万点赞，唱出独有的松弛感",
-    "url": "https://new.qq.com/rain/a/20261118V0I1OP00"
+    "title": "赵本山《慌啥子嘛》被任贤齐唱火了！满是江湖从容，听完瞬间不焦虑了",
+    "url": "https://new.qq.com/rain/a/20261118V0A86000"
    },
    "official_line_zh": null,
    "peak_rank": 8,
