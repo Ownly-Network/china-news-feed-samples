@@ -147,9 +147,9 @@
     },
     {
      "published": null,
-     "source": "Sin Chew Daily 星洲日报",
+     "source": "NTD 新唐人電視台",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16eGtJTFU1ZFF1YVh5c2VTODdpdmdZWk95YlhQLXh6TUhXVzZRZkhrTTVNZTh5S0Y3UmhORVpWNUIzN1QwVHh0aU5yMFoyRE05N3RhMUJDMHBqOHlHZ2VuZjJlcDBkNlU?oc=5"
+     "url": "https://www.ntdtv.com/b5/2026/11/19/a104152091.html"
     },
     {
      "published": null,
@@ -159,15 +159,33 @@
     },
     {
      "published": null,
-     "source": "United Daily News 聯合新聞網",
+     "source": "Sing Tao Headline 星島頭條",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://udn.com/news/story/7238/9890141"
+     "url": "https://www.stheadline.com/stock-market/3639034/Anthropic上市開市報111美元-較招股價升34-創全球最大IPO紀錄"
     },
     {
      "published": null,
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
+     "source": "China Times 中時新聞網",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.singtaousa.com/2026/11/19/news/usa/anthropic-ipo-funding/"
+     "url": "https://www.chinatimes.com/newspapers/20261120000548-260119?ctrack=mo_main_recmd_p10"
+    },
+    {
+     "published": null,
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.chineseherald.co.nz/news/property/anthropic-biggest-ever-ipo/"
+    },
+    {
+     "published": null,
+     "source": "Sin Chew Daily 星洲日报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jcUpWZUFUSmNuc0lrODVFTF9vdDJteGF1ZzBfblJxdkNLRDJjVDZ0TnlWcDg1SW0wU0tyMC1GbzZ4MmJDNnpaN3MzWENyb1JVRkNrZklyNHVEWElfYUpvLWtGRGRneEU?oc=5"
+    },
+    {
+     "published": null,
+     "source": "Kanzhongguo / Secret China 看中国",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.secretchina.com/news/gb/2026/11/20/1107691.html"
     }
    ],
    "evidence_strength": "standard",
@@ -181,10 +199,10 @@
    "minutes_on_list": 52,
    "notable": false,
    "official_line": {
-    "published": "2026-11-19T22:48:17",
-    "source": "Yicai 第一财经",
-    "title": "Anthropic IPO中约15%股份售予散户投资者",
-    "url": "https://www.yicai.com/news/103447222.html"
+    "published": "2026-11-20",
+    "source": "National Business Daily 每经网",
+    "title": "见证历史！纳斯达克门外在抗议，门内暴涨36%，Anthropic上市，成史上最大IPO，市值近1.5万亿美元！",
+    "url": "https://www.nbd.com.cn/articles/2026-11-20/4653243.html"
    },
    "official_line_zh": null,
    "peak_rank": 7,
@@ -228,7 +246,9 @@
   {
    "day": "2026-11-18",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7"
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 19, 1:05 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 19, 3:46 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 18, 11:20 PM ET",

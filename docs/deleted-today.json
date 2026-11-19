@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-19 11:57 ET",
+ "generated_at_et": "2026-11-19 18:07 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 5,
  "cut": {
-  "flagged": 99,
+  "flagged": 97,
   "came back once before": 0,
   "gone under 60 min": 0,
-  "not in the top 10 when it left": 36,
+  "not in the top 10 when it left": 35,
   "slid down before leaving": 1,
   "on the list a normal length of time": 35,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 9,
-  "left with other flagged topics (batch drop)": 5,
-  "retitled": 3,
-  "topic still on the list": 4,
+  "still on another hot list": 10,
+  "left with other flagged topics (batch drop)": 6,
+  "retitled": 2,
+  "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 5
  },
  "items": [
   {
@@ -62,32 +62,9 @@
    },
    "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "普京下榻酒店有军官携带核公文包",
-   "title_en": "Putin, there's an officer in the hotel with a nuclear briefcase.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 18, 9:10 PM ET",
-   "last_seen_et": "Nov 18, 10:00 PM ET",
-   "first_missing_et": "Nov 18, 10:04 PM ET",
-   "minutes_on_list": 50,
-   "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E6%9C%89%E5%86%9B%E5%AE%98%E6%90%BA%E5%B8%A6%E6%A0%B8%E5%85%AC%E6%96%87%E5%8C%85",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "普京参加完APEC晚宴返回下榻酒店 该酒店坐拥一线海景",
-    "url": "https://www.163.com/dy/article/LC2E60P1053469LG.html",
-    "published": "2026-11-19 13:39:14"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #27 → #28 → #7 → #7 → #7 → #7"
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 19, 1:05 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 19, 3:46 PM ET"
    ]
   },
   {
@@ -105,10 +82,10 @@
    "minutes_on_list": 52,
    "url": "https://www.baidu.com/s?wd=Anthropic+IPO%E6%AF%8F%E8%82%A1%E5%AE%9A%E4%BB%B783%E7%BE%8E%E5%85%83",
    "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "Anthropic IPO中约15%股份售予散户投资者",
-    "url": "https://www.yicai.com/news/103447222.html",
-    "published": "2026-11-19T22:48:17"
+    "source": "National Business Daily 每经网",
+    "title": "见证历史！纳斯达克门外在抗议，门内暴涨36%，Anthropic上市，成史上最大IPO，市值近1.5万亿美元！",
+    "url": "https://www.nbd.com.cn/articles/2026-11-20/4653243.html",
+    "published": "2026-11-20"
    },
    "official_line_zh": null,
    "evidence": [
@@ -123,8 +100,8 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sin Chew Daily 星洲日报",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16eGtJTFU1ZFF1YVh5c2VTODdpdmdZWk95YlhQLXh6TUhXVzZRZkhrTTVNZTh5S0Y3UmhORVpWNUIzN1QwVHh0aU5yMFoyRE05N3RhMUJDMHBqOHlHZ2VuZjJlcDBkNlU?oc=5",
+     "source": "NTD 新唐人電視台",
+     "url": "https://www.ntdtv.com/b5/2026/11/19/a104152091.html",
      "published": null
     },
     {
@@ -135,14 +112,32 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "United Daily News 聯合新聞網",
-     "url": "https://udn.com/news/story/7238/9890141",
+     "source": "Sing Tao Headline 星島頭條",
+     "url": "https://www.stheadline.com/stock-market/3639034/Anthropic上市開市報111美元-較招股價升34-創全球最大IPO紀錄",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sing Tao Daily USA 星島日報 (美國)",
-     "url": "https://www.singtaousa.com/2026/11/19/news/usa/anthropic-ipo-funding/",
+     "source": "China Times 中時新聞網",
+     "url": "https://www.chinatimes.com/newspapers/20261120000548-260119?ctrack=mo_main_recmd_p10",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/property/anthropic-biggest-ever-ipo/",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sin Chew Daily 星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jcUpWZUFUSmNuc0lrODVFTF9vdDJteGF1ZzBfblJxdkNLRDJjVDZ0TnlWcDg1SW0wU0tyMC1GbzZ4MmJDNnpaN3MzWENyb1JVRkNrZklyNHVEWElfYUpvLWtGRGRneEU?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Kanzhongguo / Secret China 看中国",
+     "url": "https://www.secretchina.com/news/gb/2026/11/20/1107691.html",
      "published": null
     }
    ]
@@ -185,6 +180,20 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #35 → #35 → #34 → #18 → #8",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 19, 3:51 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 19, 3:52 PM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23APEC%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%88%B7%E5%B1%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26pos%3D7%26filter_type%3Drealtimehot%26realpos%3D7%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523APEC%25E5%259C%25A8%25E5%258F%25B0%25E6%25B9%25BE%25E5%2588%25B7%25E5%25B1%258F%25E4%25BA%2586%2523%26band_rank%3D7%26display_time%3D1795123483%26pre_seqid%3D1795123483457047609359&launchid=10000360-page_H5",
+     "published": "2026-11-20"
+    },
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E9%85%92%E5%B7%B2%E9%99%90%E8%B4%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26pos%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523APEC%25E6%2599%259A%25E5%25AE%25B4%25E7%2594%25A8%25E8%258D%2594%25E6%259E%259D%25E9%2585%2592%25E5%25B7%25B2%25E9%2599%2590%25E8%25B4%25AD%2523%26band_rank%3D21%26display_time%3D1795123483%26pre_seqid%3D1795123483457047609359&launchid=10000360-page_H5",
+     "published": "2026-11-20"
+    },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "source": "China Digital Times 中国数字时代",
@@ -193,27 +202,15 @@
     },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E9%94%80%E9%87%8F%E6%9A%B4%E5%A2%9E900%E5%80%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26realpos%3D4%26cate%3D5001%26filter_type%3Drealtimehot%26pos%3D4%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523APEC%25E6%2599%259A%25E5%25AE%25B4%25E7%2594%25A8%25E8%258D%2594%25E6%259E%259D%25E5%2586%25B0%25E9%2585%2592%25E9%2594%2580%25E9%2587%258F%25E6%259A%25B4%25E5%25A2%259E900%25E5%2580%258D%2523%26band_rank%3D4%26flag%3D0%26display_time%3D1795092695%26pre_seqid%3D179509269549003339628125&launchid=10000360-page_H5",
-     "published": "2026-11-19"
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E9%85%92%E5%B7%B2%E9%99%90%E8%B4%AD%23&t=31&band_rank=4&Refer=top",
+     "published": "2026-11-20"
     },
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23APEC%E7%AC%AC33%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523APEC%25E7%25AC%25AC33%25E6%25AC%25A1%25E9%25A2%2586%25E5%25AF%25BC%25E4%25BA%25BA%25E9%259D%259E%25E6%25AD%25A3%25E5%25BC%258F%25E4%25BC%259A%25E8%25AE%25AE%25E4%25B8%25BE%25E8%25A1%258C%2523%26band_rank%3D1%26dgr%3D0%26pos%3D0%26filter_type%3Drealtimehot%26flag%3D0%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26realpos%3D1%26stream_entry_id%3D31%26display_time%3D1795057956%26pre_seqid%3D1795057956864018957821&launchid=10000360-page_H5",
-     "published": "2026-11-19"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23APEC%E8%AE%B0%E8%80%85%E4%BB%AC%E5%B7%B2%E7%BB%8F%E7%B4%AF%E7%98%AB%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26realpos%3D10%26cate%3D5001%26filter_type%3Drealtimehot%26pos%3D11%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523APEC%25E8%25AE%25B0%25E8%2580%2585%25E4%25BB%25AC%25E5%25B7%25B2%25E7%25BB%258F%25E7%25B4%25AF%25E7%2598%25AB%25E4%25BA%2586%2523%26band_rank%3D10%26flag%3D0%26display_time%3D1795092695%26pre_seqid%3D179509269549003339628125&launchid=10000360-page_H5",
-     "published": "2026-11-19"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%B8%8EAPEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25B8%2580%25E5%259B%25BE%25E7%259C%258B%25E4%25B8%25AD%25E5%259B%25BD%25E4%25B8%258EAPEC%25E7%25BB%258F%25E6%25B5%258E%25E4%25BD%2593%25E5%258F%258C%25E5%2590%2591%25E5%25A5%2594%25E8%25B5%25B4%2523%26band_rank%3D3%26dgr%3D0%26pos%3D2%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26realpos%3D3%26stream_entry_id%3D31%26display_time%3D1795057956%26pre_seqid%3D1795057956864018957821&launchid=10000360-page_H5",
-     "published": "2026-11-19"
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E9%94%80%E9%87%8F%E6%9A%B4%E5%A2%9E900%E5%80%8D%23&t=31&band_rank=6&Refer=top",
+     "published": "2026-11-20"
     }
    ]
   }
