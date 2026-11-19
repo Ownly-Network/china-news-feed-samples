@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-18 18:38 ET",
+ "generated_at_et": "2026-11-18 21:13 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 8,
+ "count": 7,
  "cut": {
-  "flagged": 116,
-  "came back once before": 4,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 46,
+  "flagged": 98,
+  "came back once before": 2,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 34,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 32,
-  "inside the list's normal rotation": 3,
+  "on the list a normal length of time": 33,
+  "inside the list's normal rotation": 2,
   "still on another hot list": 8,
-  "left with other flagged topics (batch drop)": 4,
+  "left with other flagged topics (batch drop)": 2,
   "retitled": 4,
-  "topic still on the list": 5,
+  "topic still on the list": 6,
   "same story as a kept item": 0,
-  "kept": 8
+  "kept": 7
  },
  "items": [
   {
@@ -40,28 +40,6 @@
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 11:12 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 12:06 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "浑水做空英伟达",
-   "title_en": "It's empty, Nvidia.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 17, 6:38 PM ET",
-   "last_seen_et": "Nov 17, 7:42 PM ET",
-   "first_missing_et": "Nov 17, 7:45 PM ET",
-   "minutes_on_list": 64,
-   "url": "https://www.toutiao.com/trending/7708199848868200502/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 7:59 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 17, 8:49 PM ET"
    ]
   },
   {
@@ -151,10 +129,10 @@
    "minutes_on_list": 90,
    "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%BF%BB%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "赵本山《慌啥子嘛》被任贤齐唱火了！满是江湖从容，听完瞬间不焦虑了",
-    "url": "https://new.qq.com/rain/a/20261118V0A86000",
-    "published": "2026-11-19 04:35:00"
+    "source": "People's Daily app 人民日报客户端 (peopleapp.com)",
+    "title": "慌啥子嘛，慢慢来",
+    "url": "https://www.peopleapp.com/column/30053588596-500007792202",
+    "published": "2026-11-18T09:04:38Z"
    },
    "official_line_zh": null,
    "evidence": [
