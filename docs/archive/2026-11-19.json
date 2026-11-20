@@ -112,7 +112,9 @@
   {
    "day": "2026-11-19",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #10 → #7 → #6 → #6 → #8"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #10 → #7 → #6 → #6 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:22 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:27 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 19, 9:15 PM ET",
@@ -162,7 +164,9 @@
   {
    "day": "2026-11-19",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #27 → #26 → #26 → #25 → #6"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #27 → #26 → #26 → #25 → #6",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 20, 3:32 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 20, 3:36 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 19, 10:45 PM ET",
@@ -187,7 +191,9 @@
   {
    "day": "2026-11-19",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #26 → #26 → #24 → #6 → #6"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #26 → #26 → #24 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 20, 3:32 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 20, 3:37 PM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 19, 11:00 PM ET",

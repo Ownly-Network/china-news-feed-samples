@@ -1,14 +1,14 @@
 {
- "generated_at_et": "2026-11-20 15:11 ET",
+ "generated_at_et": "2026-11-20 16:26 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 6,
  "cut": {
-  "flagged": 100,
+  "flagged": 97,
   "came back once before": 0,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 34,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 33,
   "slid down before leaving": 0,
   "on the list a normal length of time": 44,
   "inside the list's normal rotation": 0,
@@ -42,7 +42,9 @@
    },
    "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #7 → #7 → #5 → #5"
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #7 → #7 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 4:02 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 4:07 PM ET"
    ]
   },
   {
@@ -62,7 +64,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #26 → #26 → #24 → #6 → #6"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #26 → #26 → #24 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 20, 3:32 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 20, 3:37 PM ET"
    ]
   },
   {
@@ -82,7 +86,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #27 → #26 → #26 → #25 → #6"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #27 → #26 → #26 → #25 → #6",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 20, 3:32 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 20, 3:36 PM ET"
    ]
   },
   {
@@ -102,7 +108,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #10 → #7 → #6 → #6 → #8"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #10 → #7 → #6 → #6 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:22 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:27 PM ET"
    ]
   },
   {
@@ -122,7 +130,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7"
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:46 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:47 PM ET"
    ]
   },
   {
