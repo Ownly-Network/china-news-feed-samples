@@ -1,7 +1,32 @@
 {
- "count": 1,
+ "count": 2,
  "date": "2026-11-20",
  "items": [
+  {
+   "day": "2026-11-20",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 20, 2:35 AM ET",
+   "first_missing_iso": "2026-11-20T02:35:00-05:00",
+   "first_seen_et": "Nov 20, 1:30 AM ET",
+   "key": "baidu|鸿蒙智行 享界V8及星芒品牌发布会|2026-11-20T02:35:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 20, 2:30 AM ET",
+   "minutes_on_list": 60,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-c24306a2cc7d",
+   "title_en": "Hong Meng's Intelligence, V8 and Starming Brands.",
+   "title_zh": "鸿蒙智行 享界V8及星芒品牌发布会",
+   "url": "https://www.baidu.com/s?wd=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C+%E4%BA%AB%E7%95%8CV8%E5%8F%8A%E6%98%9F%E8%8A%92%E5%93%81%E7%89%8C%E5%8F%91%E5%B8%83%E4%BC%9A"
+  },
   {
    "day": "2026-11-20",
    "evidence": [
@@ -18,17 +43,17 @@
    "minutes_on_list": 100,
    "notable": false,
    "official_line": {
-    "published": "2026-11-20 23:44:02",
-    "source": "Tencent News 腾讯网",
-    "title": "在任仅一年，娃哈哈董事长许思敏被曝离职！",
-    "url": "https://new.qq.com/rain/a/20261120A0GPPY00"
+    "published": "2026-11-20 18:32:00",
+    "source": "Jiemian 界面新闻",
+    "title": "娃哈哈董事长许思敏辞职，商标归属仍悬而未决",
+    "url": "https://www.jiemian.com/article/15356482.html"
    },
    "official_line_zh": null,
    "peak_rank": 5,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "slug": "baidu-b26e2aa2dacd",
-   "title_en": "",
+   "title_en": "Chairman Hsui-min has been officially resigned.",
    "title_zh": "娃哈哈董事长许思敏被曝已正式辞职",
    "url": "https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E8%91%A3%E4%BA%8B%E9%95%BF%E8%AE%B8%E6%80%9D%E6%95%8F%E8%A2%AB%E6%9B%9D%E5%B7%B2%E6%AD%A3%E5%BC%8F%E8%BE%9E%E8%81%8C"
   }
