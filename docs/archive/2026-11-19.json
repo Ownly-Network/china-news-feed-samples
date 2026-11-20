@@ -1,5 +1,5 @@
 {
- "count": 3,
+ "count": 7,
  "date": "2026-11-19",
  "items": [
   {
@@ -108,6 +108,106 @@
    "title_en": "Why does it often happen when we get to the intersection that vehicles rush (70 or 80 kilometres per hour) from the left to the straight lane?",
    "title_zh": "为什么快到路口的时候，经常有车辆急加速（时速70甚至80公里）从左转车道往直行车道上挤？",
    "url": "https://www.zhihu.com/question/1025508257"
+  },
+  {
+   "day": "2026-11-19",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #10 → #7 → #6 → #6 → #8"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 19, 9:15 PM ET",
+   "first_missing_iso": "2026-11-19T21:15:00-05:00",
+   "first_seen_et": "Nov 19, 8:15 PM ET",
+   "key": "toutiao|金店人流量激增|2026-11-19T21:15:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 19, 9:10 PM ET",
+   "minutes_on_list": 55,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 6,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-6808ae4c8309",
+   "title_en": "Gold store traffic surged.",
+   "title_zh": "金店人流量激增",
+   "url": "https://www.toutiao.com/trending/7708975168470745130/"
+  },
+  {
+   "day": "2026-11-19",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 19, 10:00 PM ET",
+   "first_missing_iso": "2026-11-19T22:00:00-05:00",
+   "first_seen_et": "Nov 19, 9:15 PM ET",
+   "key": "zhihu|为什么“煎饺”和“葱油饼”会变成了广州的“地道美食”？|2026-11-19T22:00:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 19, 9:55 PM ET",
+   "minutes_on_list": 40,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "slug": "zhihu-bac57ada08db",
+   "title_en": "Why would the \"fried dumplings\" and \"onion cakes\" turn into \"gangzhou's groceries\"?",
+   "title_zh": "为什么“煎饺”和“葱油饼”会变成了广州的“地道美食”？",
+   "url": "https://www.zhihu.com/question/1892735259856072700"
+  },
+  {
+   "day": "2026-11-19",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #27 → #26 → #26 → #25 → #6"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 19, 10:45 PM ET",
+   "first_missing_iso": "2026-11-19T22:45:00-05:00",
+   "first_seen_et": "Nov 19, 10:10 PM ET",
+   "key": "zhihu|直属领导的管理水平，是不是直接决定了职场幸福感？|2026-11-19T22:45:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 19, 10:40 PM ET",
+   "minutes_on_list": 30,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 6,
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "slug": "zhihu-f4609661a105",
+   "title_en": "",
+   "title_zh": "直属领导的管理水平，是不是直接决定了职场幸福感？",
+   "url": "https://www.zhihu.com/question/2059075711210674200"
+  },
+  {
+   "day": "2026-11-19",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #26 → #26 → #24 → #6 → #6"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 19, 11:00 PM ET",
+   "first_missing_iso": "2026-11-19T23:00:00-05:00",
+   "first_seen_et": "Nov 19, 10:20 PM ET",
+   "key": "zhihu|你家乡最值得专程去吃的非遗美食是什么，为什么？|2026-11-19T23:00:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 19, 10:55 PM ET",
+   "minutes_on_list": 35,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 6,
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "slug": "zhihu-f265928bd9aa",
+   "title_en": "",
+   "title_zh": "你家乡最值得专程去吃的非遗美食是什么，为什么？",
+   "url": "https://www.zhihu.com/question/2075463766326638300"
   }
  ]
 }

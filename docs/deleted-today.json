@@ -1,217 +1,128 @@
 {
- "generated_at_et": "2026-11-19 18:07 ET",
+ "generated_at_et": "2026-11-20 13:39 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 5,
  "cut": {
-  "flagged": 97,
+  "flagged": 88,
   "came back once before": 0,
   "gone under 60 min": 0,
-  "not in the top 10 when it left": 35,
-  "slid down before leaving": 1,
-  "on the list a normal length of time": 35,
+  "not in the top 10 when it left": 29,
+  "slid down before leaving": 0,
+  "on the list a normal length of time": 40,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 10,
-  "left with other flagged topics (batch drop)": 6,
+  "still on another hot list": 5,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 2,
-  "topic still on the list": 3,
+  "topic still on the list": 4,
   "same story as a kept item": 0,
   "kept": 5
  },
  "items": [
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "老人每天泡脚半小时泡出脑梗前兆",
-   "title_en": "Old people have a premonition of brain infestation for half an hour a day.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 19, 7:50 AM ET",
-   "last_seen_et": "Nov 19, 8:40 AM ET",
-   "first_missing_et": "Nov 19, 8:45 AM ET",
-   "minutes_on_list": 50,
-   "url": "https://www.toutiao.com/trending/7709764178722243110/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #8 → #18 → #12 → #6 → #6 → #7"
-   ]
-  },
-  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "格力电器成被执行人",
-   "title_en": "Glycerine is executed.",
+   "title_zh": "娃哈哈董事长许思敏被曝已正式辞职",
+   "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 18, 10:30 PM ET",
-   "last_seen_et": "Nov 18, 11:15 PM ET",
-   "first_missing_et": "Nov 18, 11:20 PM ET",
-   "minutes_on_list": 45,
-   "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 20, 5:50 AM ET",
+   "last_seen_et": "Nov 20, 7:30 AM ET",
+   "first_missing_et": "Nov 20, 7:35 AM ET",
+   "minutes_on_list": 100,
+   "url": "https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E8%91%A3%E4%BA%8B%E9%95%BF%E8%AE%B8%E6%80%9D%E6%95%8F%E8%A2%AB%E6%9B%9D%E5%B7%B2%E6%AD%A3%E5%BC%8F%E8%BE%9E%E8%81%8C",
    "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "格力电器成被执行人 执行标的150元",
-    "url": "https://www.163.com/dy/article/LC3GL7J40534A4SC.html",
-    "published": "2026-11-19 11:05:44"
+    "source": "Tencent News 腾讯网",
+    "title": "在任仅一年，娃哈哈董事长许思敏被曝离职！",
+    "url": "https://new.qq.com/rain/a/20261120A0GPPY00",
+    "published": "2026-11-20 23:44:02"
    },
    "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 19, 1:05 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 19, 3:46 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "Anthropic IPO每股定价83美元",
-   "title_en": "Anthropic IPO priced $83 per share",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 18, 6:08 PM ET",
-   "last_seen_et": "Nov 18, 7:00 PM ET",
-   "first_missing_et": "Nov 18, 7:05 PM ET",
-   "minutes_on_list": 52,
-   "url": "https://www.baidu.com/s?wd=Anthropic+IPO%E6%AF%8F%E8%82%A1%E5%AE%9A%E4%BB%B783%E7%BE%8E%E5%85%83",
-   "official_line": {
-    "source": "National Business Daily 每经网",
-    "title": "见证历史！纳斯达克门外在抗议，门内暴涨36%，Anthropic上市，成史上最大IPO，市值近1.5万亿美元！",
-    "url": "https://www.nbd.com.cn/articles/2026-11-20/4653243.html",
-    "published": "2026-11-20"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 7:43 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 18, 10:02 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23Anthropic%E4%B8%8A%E5%B8%82%23&t=31&band_rank=5&Refer=top",
-     "published": "2026-11-20"
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/11/19/a104152091.html",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sin Chew Daily 星洲日报",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ODR0eERMaTVLcXAtZmQ1RWVNV0xRQTNPWk8xREZhdXZIS3ZIQ1FtV0lSRWkwUTJaVV9hYk5ZUFktMERfajZsQ1RzMzFNdDAwNHBxTldWZ19BSlRMYW1VeF9QaGVwdVU?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sing Tao Headline 星島頭條",
-     "url": "https://www.stheadline.com/stock-market/3639034/Anthropic上市開市報111美元-較招股價升34-創全球最大IPO紀錄",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "China Times 中時新聞網",
-     "url": "https://www.chinatimes.com/newspapers/20261120000548-260119?ctrack=mo_main_recmd_p10",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/property/anthropic-biggest-ever-ipo/",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sin Chew Daily 星洲日报",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jcUpWZUFUSmNuc0lrODVFTF9vdDJteGF1ZzBfblJxdkNLRDJjVDZ0TnlWcDg1SW0wU0tyMC1GbzZ4MmJDNnpaN3MzWENyb1JVRkNrZklyNHVEWElfYUpvLWtGRGRneEU?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Kanzhongguo / Secret China 看中国",
-     "url": "https://www.secretchina.com/news/gb/2026/11/20/1107691.html",
-     "published": null
-    }
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #7 → #7 → #5 → #5"
    ]
   },
   {
    "platform": "zhihu",
    "platform_name": "Zhihu 知乎",
-   "title_zh": "为什么快到路口的时候，经常有车辆急加速（时速70甚至80公里）从左转车道往直行车道上挤？",
-   "title_en": "Why does it often happen when we get to the intersection that vehicles rush (70 or 80 kilometres per hour) from the left to the straight lane?",
+   "title_zh": "你家乡最值得专程去吃的非遗美食是什么，为什么？",
+   "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 8,
-   "first_seen_et": "Nov 19, 4:30 AM ET",
-   "last_seen_et": "Nov 19, 9:10 AM ET",
-   "first_missing_et": "Nov 19, 9:15 AM ET",
-   "minutes_on_list": 280,
-   "url": "https://www.zhihu.com/question/1025508257",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 19, 10:20 PM ET",
+   "last_seen_et": "Nov 19, 10:55 PM ET",
+   "first_missing_et": "Nov 19, 11:00 PM ET",
+   "minutes_on_list": 35,
+   "url": "https://www.zhihu.com/question/2075463766326638300",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #26 → #26 → #24 → #6 → #6"
    ]
   },
   {
-   "platform": "weibo",
-   "platform_name": "Weibo 微博",
-   "title_zh": "谁帮我在APEC看看普京写啥呢",
-   "title_en": "Somebody help me see Putin at APEC. What's it say?",
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "title_zh": "直属领导的管理水平，是不是直接决定了职场幸福感？",
+   "title_en": "",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 8,
-   "first_seen_et": "Nov 18, 11:55 PM ET",
-   "last_seen_et": "Nov 19, 12:55 AM ET",
-   "first_missing_et": "Nov 19, 1:00 AM ET",
-   "minutes_on_list": 60,
-   "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%B8%AE%E6%88%91%E5%9C%A8APEC%E7%9C%8B%E7%9C%8B%E6%99%AE%E4%BA%AC%E5%86%99%E5%95%A5%E5%91%A2%23&t=31&band_rank=8",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 19, 10:10 PM ET",
+   "last_seen_et": "Nov 19, 10:40 PM ET",
+   "first_missing_et": "Nov 19, 10:45 PM ET",
+   "minutes_on_list": 30,
+   "url": "https://www.zhihu.com/question/2059075711210674200",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #35 → #35 → #34 → #18 → #8",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 19, 3:51 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 19, 3:52 PM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23APEC%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%88%B7%E5%B1%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26pos%3D7%26filter_type%3Drealtimehot%26realpos%3D7%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523APEC%25E5%259C%25A8%25E5%258F%25B0%25E6%25B9%25BE%25E5%2588%25B7%25E5%25B1%258F%25E4%25BA%2586%2523%26band_rank%3D7%26display_time%3D1795123483%26pre_seqid%3D1795123483457047609359&launchid=10000360-page_H5",
-     "published": "2026-11-20"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E9%85%92%E5%B7%B2%E9%99%90%E8%B4%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26pos%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523APEC%25E6%2599%259A%25E5%25AE%25B4%25E7%2594%25A8%25E8%258D%2594%25E6%259E%259D%25E9%2585%2592%25E5%25B7%25B2%25E9%2599%2590%25E8%25B4%25AD%2523%26band_rank%3D21%26display_time%3D1795123483%26pre_seqid%3D1795123483457047609359&launchid=10000360-page_H5",
-     "published": "2026-11-20"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "China Digital Times 中国数字时代",
-     "url": "https://chinadigitaltimes.net/chinese/734021.html",
-     "published": "2026-11-18T16:05:02Z"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E9%85%92%E5%B7%B2%E9%99%90%E8%B4%AD%23&t=31&band_rank=4&Refer=top",
-     "published": "2026-11-20"
-    },
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E9%94%80%E9%87%8F%E6%9A%B4%E5%A2%9E900%E5%80%8D%23&t=31&band_rank=6&Refer=top",
-     "published": "2026-11-20"
-    }
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #27 → #26 → #26 → #25 → #6"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "金店人流量激增",
+   "title_en": "Gold store traffic surged.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 19, 8:15 PM ET",
+   "last_seen_et": "Nov 19, 9:10 PM ET",
+   "first_missing_et": "Nov 19, 9:15 PM ET",
+   "minutes_on_list": 55,
+   "url": "https://www.toutiao.com/trending/7708975168470745130/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #10 → #7 → #6 → #6 → #8"
+   ]
+  },
+  {
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "title_zh": "为什么“煎饺”和“葱油饼”会变成了广州的“地道美食”？",
+   "title_en": "Why would the \"fried dumplings\" and \"onion cakes\" turn into \"gangzhou's groceries\"?",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 19, 9:15 PM ET",
+   "last_seen_et": "Nov 19, 9:55 PM ET",
+   "first_missing_et": "Nov 19, 10:00 PM ET",
+   "minutes_on_list": 40,
+   "url": "https://www.zhihu.com/question/1892735259856072700",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7"
    ]
   }
  ]
