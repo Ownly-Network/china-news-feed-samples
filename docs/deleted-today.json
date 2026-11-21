@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-21 12:27 ET",
+ "generated_at_et": "2026-11-21 13:47 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 3,
  "cut": {
-  "flagged": 73,
+  "flagged": 67,
   "came back once before": 2,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 30,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 19,
-  "inside the list's normal rotation": 0,
+  "on the list a normal length of time": 16,
+  "inside the list's normal rotation": 1,
   "still on another hot list": 4,
   "left with other flagged topics (batch drop)": 11,
   "retitled": 1,
@@ -61,13 +61,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 8:12 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 9:05 PM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Epoch Times Chinese 大纪元",
-     "url": "https://www.epochtimes.com/b5/26/11/21/n14892523.htm",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 9:05 PM ET"
    ]
   },
   {
