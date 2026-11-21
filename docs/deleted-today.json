@@ -1,25 +1,47 @@
 {
- "generated_at_et": "2026-11-20 21:28 ET",
+ "generated_at_et": "2026-11-21 08:26 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 2,
  "cut": {
-  "flagged": 84,
-  "came back once before": 0,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 27,
+  "flagged": 72,
+  "came back once before": 1,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 31,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 36,
+  "on the list a normal length of time": 18,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 4,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 8,
   "retitled": 2,
-  "topic still on the list": 2,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 4
+  "kept": 2
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "金价为什么跌这么狠",
+   "title_en": "Why is the price of gold so bad?",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 21, 12:50 AM ET",
+   "last_seen_et": "Nov 21, 1:35 AM ET",
+   "first_missing_et": "Nov 21, 1:40 AM ET",
+   "minutes_on_list": 45,
+   "url": "https://www.toutiao.com/trending/7710490250212019753/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #4 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 7:21 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 7:22 AM ET"
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -34,83 +56,18 @@
    "first_missing_et": "Nov 20, 7:50 PM ET",
    "minutes_on_list": 85,
    "url": "https://www.toutiao.com/trending/7710394324583714355/",
-   "official_line": {
-    "source": "Yicai 第一财经",
-    "title": "英伟达暴泻14%，Anthropic跌8.5%，纳指抹去年内涨幅，标普七连跌，黄金重挫",
-    "url": "https://www.yicai.com/news/103448914.html",
-    "published": "2026-11-21T07:38:45"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 8:12 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 9:05 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "娃哈哈董事长许思敏被曝已正式辞职",
-   "title_en": "Chairman Hsui-min has been officially resigned.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 5,
-   "first_seen_et": "Nov 20, 5:50 AM ET",
-   "last_seen_et": "Nov 20, 7:30 AM ET",
-   "first_missing_et": "Nov 20, 7:35 AM ET",
-   "minutes_on_list": 100,
-   "url": "https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E8%91%A3%E4%BA%8B%E9%95%BF%E8%AE%B8%E6%80%9D%E6%95%8F%E8%A2%AB%E6%9B%9D%E5%B7%B2%E6%AD%A3%E5%BC%8F%E8%BE%9E%E8%81%8C",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #7 → #7 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 4:02 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 4:07 PM ET"
-   ]
-  },
-  {
-   "platform": "zhihu",
-   "platform_name": "Zhihu 知乎",
-   "title_zh": "你家乡最值得专程去吃的非遗美食是什么，为什么？",
-   "title_en": "What's the most valuable non-remains food in your hometown? Why?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 19, 10:20 PM ET",
-   "last_seen_et": "Nov 19, 10:55 PM ET",
-   "first_missing_et": "Nov 19, 11:00 PM ET",
-   "minutes_on_list": 35,
-   "url": "https://www.zhihu.com/question/2075463766326638300",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #26 → #26 → #24 → #6 → #6",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 20, 3:32 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 20, 3:37 PM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "鸿蒙智行 享界V8及星芒品牌发布会",
-   "title_en": "Hong Meng's Intelligence, V8 and Starming Brands.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 20, 1:30 AM ET",
-   "last_seen_et": "Nov 20, 2:30 AM ET",
-   "first_missing_et": "Nov 20, 2:35 AM ET",
-   "minutes_on_list": 60,
-   "url": "https://www.baidu.com/s?wd=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C+%E4%BA%AB%E7%95%8CV8%E5%8F%8A%E6%98%9F%E8%8A%92%E5%93%81%E7%89%8C%E5%8F%91%E5%B8%83%E4%BC%9A",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:46 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:47 PM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 9:05 PM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Epoch Times Chinese 大纪元",
+     "url": "https://www.epochtimes.com/b5/26/11/21/n14892523.htm",
+     "published": null
+    }
    ]
   }
  ]

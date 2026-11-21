@@ -1,0 +1,33 @@
+{
+ "count": 1,
+ "date": "2026-11-21",
+ "items": [
+  {
+   "day": "2026-11-21",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #4 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 7:21 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 7:22 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 21, 1:40 AM ET",
+   "first_missing_iso": "2026-11-21T01:40:00-05:00",
+   "first_seen_et": "Nov 21, 12:50 AM ET",
+   "key": "toutiao|金价为什么跌这么狠|2026-11-21T01:40:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 21, 1:35 AM ET",
+   "minutes_on_list": 45,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-2bfeb5c21557",
+   "title_en": "Why is the price of gold so bad?",
+   "title_zh": "金价为什么跌这么狠",
+   "url": "https://www.toutiao.com/trending/7710490250212019753/"
+  }
+ ]
+}
