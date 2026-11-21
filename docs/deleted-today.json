@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-21 10:52 ET",
+ "generated_at_et": "2026-11-21 12:27 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 2,
+ "count": 3,
  "cut": {
-  "flagged": 75,
+  "flagged": 73,
   "came back once before": 2,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 32,
+  "gone under 60 min": 2,
+  "not in the top 10 when it left": 30,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 18,
+  "on the list a normal length of time": 19,
   "inside the list's normal rotation": 0,
   "still on another hot list": 4,
-  "left with other flagged topics (batch drop)": 9,
-  "retitled": 2,
+  "left with other flagged topics (batch drop)": 11,
+  "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 2
+  "kept": 3
  },
  "items": [
   {
@@ -68,6 +68,28 @@
      "url": "https://www.epochtimes.com/b5/26/11/21/n14892523.htm",
      "published": null
     }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "美联储为何成黄金最大压力来源",
+   "title_en": "Why is the Fed the largest source of pressure on gold?",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 21, 9:00 AM ET",
+   "last_seen_et": "Nov 21, 9:55 AM ET",
+   "first_missing_et": "Nov 21, 10:00 AM ET",
+   "minutes_on_list": 55,
+   "url": "https://www.toutiao.com/trending/7710618584287809060/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #15 → #19 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 10:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 11:24 AM ET"
    ]
   }
  ]

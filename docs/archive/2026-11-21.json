@@ -1,5 +1,5 @@
 {
- "count": 1,
+ "count": 2,
  "date": "2026-11-21",
  "items": [
   {
@@ -28,6 +28,33 @@
    "title_en": "Why is the price of gold so bad?",
    "title_zh": "金价为什么跌这么狠",
    "url": "https://www.toutiao.com/trending/7710490250212019753/"
+  },
+  {
+   "day": "2026-11-21",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #15 → #19 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 10:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 11:24 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 21, 10:00 AM ET",
+   "first_missing_iso": "2026-11-21T10:00:00-05:00",
+   "first_seen_et": "Nov 21, 9:00 AM ET",
+   "key": "toutiao|美联储为何成黄金最大压力来源|2026-11-21T10:00:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 21, 9:55 AM ET",
+   "minutes_on_list": 55,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 6,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-9381072e23c7",
+   "title_en": "Why is the Fed the largest source of pressure on gold?",
+   "title_zh": "美联储为何成黄金最大压力来源",
+   "url": "https://www.toutiao.com/trending/7710618584287809060/"
   }
  ]
 }
