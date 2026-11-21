@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-20 16:26 ET",
+ "generated_at_et": "2026-11-20 19:29 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 4,
  "cut": {
-  "flagged": 97,
+  "flagged": 88,
   "came back once before": 0,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 33,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 30,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 44,
+  "on the list a normal length of time": 36,
   "inside the list's normal rotation": 0,
   "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 3,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 2,
   "topic still on the list": 4,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 4
  },
  "items": [
   {
@@ -34,13 +34,8 @@
    "first_missing_et": "Nov 20, 7:35 AM ET",
    "minutes_on_list": 100,
    "url": "https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E8%91%A3%E4%BA%8B%E9%95%BF%E8%AE%B8%E6%80%9D%E6%95%8F%E8%A2%AB%E6%9B%9D%E5%B7%B2%E6%AD%A3%E5%BC%8F%E8%BE%9E%E8%81%8C",
-   "official_line": {
-    "source": "Jiemian 界面新闻",
-    "title": "娃哈哈董事长许思敏辞职，商标归属仍悬而未决",
-    "url": "https://www.jiemian.com/article/15356482.html",
-    "published": "2026-11-20 18:32:00"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #5, last ranks #7 → #7 → #7 → #7 → #5 → #5",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 4:02 PM ET",
@@ -67,28 +62,6 @@
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #26 → #26 → #24 → #6 → #6",
     "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 20, 3:32 PM ET",
     "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 20, 3:37 PM ET"
-   ]
-  },
-  {
-   "platform": "zhihu",
-   "platform_name": "Zhihu 知乎",
-   "title_zh": "直属领导的管理水平，是不是直接决定了职场幸福感？",
-   "title_en": "Does the level of management of the immediate leadership directly determine the sense of happiness in the workplace?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 19, 10:10 PM ET",
-   "last_seen_et": "Nov 19, 10:40 PM ET",
-   "first_missing_et": "Nov 19, 10:45 PM ET",
-   "minutes_on_list": 30,
-   "url": "https://www.zhihu.com/question/2059075711210674200",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #28 → #27 → #26 → #26 → #25 → #6",
-    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 20, 3:32 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 20, 3:36 PM ET"
    ]
   },
   {
@@ -133,26 +106,6 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:46 PM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 20, 3:47 PM ET"
-   ]
-  },
-  {
-   "platform": "zhihu",
-   "platform_name": "Zhihu 知乎",
-   "title_zh": "为什么“煎饺”和“葱油饼”会变成了广州的“地道美食”？",
-   "title_en": "Why would the \"fried dumplings\" and \"onion cakes\" turn into \"gangzhou's groceries\"?",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 19, 9:15 PM ET",
-   "last_seen_et": "Nov 19, 9:55 PM ET",
-   "first_missing_et": "Nov 19, 10:00 PM ET",
-   "minutes_on_list": 40,
-   "url": "https://www.zhihu.com/question/1892735259856072700",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #7 → #7 → #7 → #7 → #7 → #7"
    ]
   }
  ]
