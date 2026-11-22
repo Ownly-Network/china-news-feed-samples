@@ -1,5 +1,5 @@
 {
- "count": 11,
+ "count": 12,
  "date": "2026-11-22",
  "items": [
   {
@@ -7,7 +7,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #24 → #24 → #24 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET",
+    {
+     "published": null,
+     "source": "8world News 8视界",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.8world.com/singapore/president-tharman-national-awards-investiture-3348331"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 22, 12:10 AM ET",
@@ -20,10 +26,10 @@
    "minutes_on_list": 80,
    "notable": false,
    "official_line": {
-    "published": "",
-    "source": "Kankan News 看看新闻 (SMG)",
-    "title": "祝贺！郎平获国际排联最高荣誉\"排球勋章\"",
-    "url": "https://www.kankanews.com/detail/djQKK7n10QO"
+    "published": "2026-11-23 00:30:00",
+    "source": "Tencent News 腾讯网",
+    "title": "人民日报发文祝贺，盛赞郎平，拿下最高荣誉，奖项实至名归！",
+    "url": "https://new.qq.com/rain/a/20261122A0CVDN00"
    },
    "official_line_zh": null,
    "peak_rank": 9,
@@ -72,6 +78,12 @@
      "source": "Sin Chew Daily 星洲日报",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QR3h1alIwbnRLZkg5MVdjOUIxU0h5cEJxQXpTem9vRzY0ZDNjU08teDhVd1labEhqUVNBYS03c1J5OEFyaDhsNWV4NzZyM0dSZG5fNW5HZ2hnTDBIUFZuNGRoVG85ak0?oc=5"
+    },
+    {
+     "published": null,
+     "source": "Telegram: 联合早报 zaobao.sg",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/zaobaosg/57229"
     }
    ],
    "evidence_strength": "standard",
@@ -165,8 +177,13 @@
    "last_seen_et": "Nov 22, 4:10 AM ET",
    "minutes_on_list": 70,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-22",
+    "source": "Caixin 财新网",
+    "title": "荷兰法院初步认定比亚迪钛7外观侵权颁布临时禁令 产品未在欧盟销售",
+    "url": "https://www.caixin.com/2026-11-22/102507649.html"
+   },
+   "official_line_zh": null,
    "peak_rank": 6,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -234,13 +251,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #6 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:33 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:38 AM ET",
-    {
-     "published": "2026-11-22",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%8F%8B%E8%8E%B7%E5%88%91%E4%B8%89%E5%B9%B4&t=31&band_rank=17&Refer=top"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:38 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 22, 5:20 AM ET",
@@ -288,6 +299,38 @@
    "title_en": "The Stars and the Two Generations will come to the table.",
    "title_zh": "“星二代”集体上桌",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%98%9F%E4%BA%8C%E4%BB%A3%E2%80%9D%E9%9B%86%E4%BD%93%E4%B8%8A%E6%A1%8C"
+  },
+  {
+   "day": "2026-11-22",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #9 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:13 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:35 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 22, 8:10 AM ET",
+   "first_missing_iso": "2026-11-22T08:10:00-05:00",
+   "first_seen_et": "Nov 22, 5:35 AM ET",
+   "key": "baidu|“所有金条都卖光了”|2026-11-22T08:10:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 22, 8:03 AM ET",
+   "minutes_on_list": 148,
+   "notable": true,
+   "official_line": {
+    "published": "2026-11-22",
+    "source": "Sina News 新浪新闻",
+    "title": "“所有金条都卖光了” 菜百股份紧急提示！",
+    "url": "https://news.sina.com.cn/c/2026-11-22/doc-inizrapa2760710.shtml"
+   },
+   "official_line_zh": null,
+   "peak_rank": 2,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-1a40ecb5583d",
+   "title_en": "\"All the gold bars are sold out.\"",
+   "title_zh": "“所有金条都卖光了”",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%80%E6%9C%89%E9%87%91%E6%9D%A1%E9%83%BD%E5%8D%96%E5%85%89%E4%BA%86%E2%80%9D"
   },
   {
    "day": "2026-11-22",
