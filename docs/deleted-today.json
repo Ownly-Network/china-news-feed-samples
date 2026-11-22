@@ -1,21 +1,21 @@
 {
- "generated_at_et": "2026-11-22 09:32 ET",
+ "generated_at_et": "2026-11-22 10:51 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 13,
  "cut": {
-  "flagged": 69,
+  "flagged": 67,
   "came back once before": 1,
   "gone under 60 min": 2,
-  "not in the top 10 when it left": 25,
+  "not in the top 10 when it left": 24,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 15,
+  "on the list a normal length of time": 17,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 6,
-  "left with other flagged topics (batch drop)": 6,
+  "still on another hot list": 5,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 1,
-  "topic still on the list": 0,
+  "topic still on the list": 1,
   "same story as a kept item": 0,
   "kept": 13
  },
@@ -38,7 +38,8 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:14 AM ET"
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:14 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:35 AM ET"
    ]
   },
   {
@@ -116,12 +117,6 @@
      "source": "Sin Chew Daily 星洲日报",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QR3h1alIwbnRLZkg5MVdjOUIxU0h5cEJxQXpTem9vRzY0ZDNjU08teDhVd1labEhqUVNBYS03c1J5OEFyaDhsNWV4NzZyM0dSZG5fNW5HZ2hnTDBIUFZuNGRoVG85ak0?oc=5",
      "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 联合早报 zaobao.sg",
-     "url": "https://t.me/zaobaosg/57229",
-     "published": null
     }
    ]
   },
@@ -194,23 +189,23 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "美联储为何成黄金最大压力来源",
-   "title_en": "Why is the Fed the largest source of pressure on gold?",
+   "title_zh": "荷兰法院禁售比亚迪Ti7",
+   "title_en": "Prohibition of sale by Dutch courts BYD Ti7",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
    "peak_rank": 6,
-   "first_seen_et": "Nov 21, 9:00 AM ET",
-   "last_seen_et": "Nov 21, 9:55 AM ET",
-   "first_missing_et": "Nov 21, 10:00 AM ET",
-   "minutes_on_list": 55,
-   "url": "https://www.toutiao.com/trending/7710618584287809060/",
+   "first_seen_et": "Nov 22, 3:00 AM ET",
+   "last_seen_et": "Nov 22, 4:10 AM ET",
+   "first_missing_et": "Nov 22, 4:15 AM ET",
+   "minutes_on_list": 70,
+   "url": "https://www.toutiao.com/trending/7710458995118653476/",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #15 → #19 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 10:28 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 21, 11:24 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #6 → #6 → #6 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:33 AM ET"
    ]
   },
   {
@@ -294,10 +289,10 @@
    "minutes_on_list": 80,
    "url": "https://www.baidu.com/s?wd=%E9%83%8E%E5%B9%B3%E8%8E%B7%E5%9B%BD%E9%99%85%E6%8E%92%E8%81%94%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89",
    "official_line": {
-    "source": "China Daily Chinese 中国日报网",
-    "title": "郎平获国际排联最高荣誉“排球勋章”",
-    "url": "https://cn.chinadaily.com.cn/a/202611/22/WS6b02a73ae4b0e14252fcca14.html",
-    "published": "2026-11-22"
+    "source": "Kankan News 看看新闻 (SMG)",
+    "title": "祝贺！郎平获国际排联最高荣誉\"排球勋章\"",
+    "url": "https://www.kankanews.com/detail/djQKK7n10QO",
+    "published": ""
    },
    "official_line_zh": null,
    "evidence": [
