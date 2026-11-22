@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-22 15:16 ET",
+ "generated_at_et": "2026-11-22 16:27 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -56,13 +56,8 @@
    "first_missing_et": "Nov 22, 8:10 AM ET",
    "minutes_on_list": 148,
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%80%E6%9C%89%E9%87%91%E6%9D%A1%E9%83%BD%E5%8D%96%E5%85%89%E4%BA%86%E2%80%9D",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "贵金属价格波动显著加剧 菜百股份发布提示",
-    "url": "https://www.163.com/dy/article/LCBM7F980534A4SC.html",
-    "published": "2026-11-22 15:33:24"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #9 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:13 AM ET",
