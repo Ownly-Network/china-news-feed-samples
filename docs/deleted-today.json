@@ -1,25 +1,46 @@
 {
- "generated_at_et": "2026-11-22 08:24 ET",
+ "generated_at_et": "2026-11-22 09:32 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 12,
+ "count": 13,
  "cut": {
   "flagged": 69,
   "came back once before": 1,
   "gone under 60 min": 2,
   "not in the top 10 when it left": 25,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 16,
+  "on the list a normal length of time": 15,
   "inside the list's normal rotation": 0,
   "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 6,
   "retitled": 1,
   "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 12
+  "kept": 13
  },
  "items": [
+  {
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "title_zh": "国创动画作品发布会",
+   "title_en": "The launch of the National Animation.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 22, 7:19 AM ET",
+   "last_seen_et": "Nov 22, 8:03 AM ET",
+   "first_missing_et": "Nov 22, 8:24 AM ET",
+   "minutes_on_list": 44,
+   "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%88%9B%E5%8A%A8%E7%94%BB%E4%BD%9C%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:14 AM ET"
+   ]
+  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
@@ -37,7 +58,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #5 → #5 → #5 → #5 → #5"
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:38 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:43 AM ET"
    ]
   },
   {
@@ -58,6 +81,8 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #6 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:33 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:38 AM ET",
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
@@ -85,7 +110,19 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #21 → #7 → #5 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:05 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:21 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:21 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sin Chew Daily 星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QR3h1alIwbnRLZkg5MVdjOUIxU0h5cEJxQXpTem9vRzY0ZDNjU08teDhVd1labEhqUVNBYS03c1J5OEFyaDhsNWV4NzZyM0dSZG5fNW5HZ2hnTDBIUFZuNGRoVG85ak0?oc=5",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 联合早报 zaobao.sg",
+     "url": "https://t.me/zaobaosg/57229",
+     "published": null
+    }
    ]
   },
   {
@@ -105,7 +142,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5"
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #5 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:27 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:27 AM ET"
    ]
   },
   {
@@ -147,7 +186,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #8 → #8 → #8 → #6 → #6 → #6"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #8 → #8 → #8 → #6 → #6 → #6",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:33 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:34 AM ET"
    ]
   },
   {
@@ -189,7 +230,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #48 → #7 → #7 → #7 → #7 → #7"
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #48 → #7 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:33 AM ET"
    ]
   },
   {
@@ -231,7 +274,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #26 → #24 → #24 → #23 → #21 → #9"
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #26 → #24 → #24 → #23 → #21 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:28 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:33 AM ET"
    ]
   },
   {
@@ -249,10 +294,10 @@
    "minutes_on_list": 80,
    "url": "https://www.baidu.com/s?wd=%E9%83%8E%E5%B9%B3%E8%8E%B7%E5%9B%BD%E9%99%85%E6%8E%92%E8%81%94%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89",
    "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "郎平荣获国际排联最高荣誉！全球排球偶像，成就激励几代人",
-    "url": "https://new.qq.com/rain/a/20261122V0BX0W00",
-    "published": "2026-11-22 20:45:27"
+    "source": "China Daily Chinese 中国日报网",
+    "title": "郎平获国际排联最高荣誉“排球勋章”",
+    "url": "https://cn.chinadaily.com.cn/a/202611/22/WS6b02a73ae4b0e14252fcca14.html",
+    "published": "2026-11-22"
    },
    "official_line_zh": null,
    "evidence": [
