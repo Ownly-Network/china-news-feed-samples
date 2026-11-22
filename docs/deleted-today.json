@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-11-22 12:05 ET",
+ "generated_at_et": "2026-11-22 13:26 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 14,
  "cut": {
-  "flagged": 68,
+  "flagged": 67,
   "came back once before": 1,
-  "gone under 60 min": 1,
+  "gone under 60 min": 0,
   "not in the top 10 when it left": 26,
   "slid down before leaving": 0,
   "on the list a normal length of time": 17,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 4,
-  "left with other flagged topics (batch drop)": 3,
+  "still on another hot list": 3,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 0,
@@ -57,10 +57,10 @@
    "minutes_on_list": 148,
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%80%E6%9C%89%E9%87%91%E6%9D%A1%E9%83%BD%E5%8D%96%E5%85%89%E4%BA%86%E2%80%9D",
    "official_line": {
-    "source": "Sina News 新浪新闻",
-    "title": "“所有金条都卖光了” 菜百股份紧急提示！",
-    "url": "https://news.sina.com.cn/c/2026-11-22/doc-inizrapa2760710.shtml",
-    "published": "2026-11-22"
+    "source": "Tencent News 腾讯网",
+    "title": "“所有金条都卖光了”，金价持续暴跌，北京“大妈”抄底来了，菜百紧急提示：请理性投资",
+    "url": "https://new.qq.com/rain/a/20261123A005EN00",
+    "published": "2026-11-23 00:12:07"
    },
    "official_line_zh": null,
    "evidence": [
