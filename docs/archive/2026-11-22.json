@@ -13,6 +13,12 @@
      "source": "8world News 8视界",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.8world.com/singapore/president-tharman-national-awards-investiture-3348331"
+    },
+    {
+     "published": null,
+     "source": "8world News 8视界",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.8world.com/movies-shows/golden-horse-awards-3348396"
     }
    ],
    "evidence_strength": "standard",
@@ -26,10 +32,10 @@
    "minutes_on_list": 80,
    "notable": false,
    "official_line": {
-    "published": "2026-11-23 00:30:00",
-    "source": "Tencent News 腾讯网",
-    "title": "人民日报发文祝贺，盛赞郎平，拿下最高荣誉，奖项实至名归！",
-    "url": "https://new.qq.com/rain/a/20261122A0CVDN00"
+    "published": "2026-11-22T08:25:48Z",
+    "source": "People's Daily+ 人民网+ app",
+    "title": "郎平获国际排联最高荣誉“排球勋章”",
+    "url": "https://app.people.cn/h5/detail/normal/7103813806179328"
    },
    "official_line_zh": null,
    "peak_rank": 9,
@@ -318,10 +324,10 @@
    "minutes_on_list": 148,
    "notable": true,
    "official_line": {
-    "published": "2026-11-23 00:12:07",
-    "source": "Tencent News 腾讯网",
-    "title": "“所有金条都卖光了”，金价持续暴跌，北京“大妈”抄底来了，菜百紧急提示：请理性投资",
-    "url": "https://new.qq.com/rain/a/20261123A005EN00"
+    "published": "2026-11-22 15:33:24",
+    "source": "NetEase News 网易新闻",
+    "title": "贵金属价格波动显著加剧 菜百股份发布提示",
+    "url": "https://www.163.com/dy/article/LCBM7F980534A4SC.html"
    },
    "official_line_zh": null,
    "peak_rank": 2,
