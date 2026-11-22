@@ -1,5 +1,5 @@
 {
- "count": 3,
+ "count": 5,
  "date": "2026-11-21",
  "items": [
   {
@@ -81,6 +81,60 @@
    "title_en": "After the retirement of the Master of Arts, Feng marched to the audience.",
    "title_zh": "卸任人艺院长后 冯远征现身观众席",
    "url": "https://www.baidu.com/s?wd=%E5%8D%B8%E4%BB%BB%E4%BA%BA%E8%89%BA%E9%99%A2%E9%95%BF%E5%90%8E+%E5%86%AF%E8%BF%9C%E5%BE%81%E7%8E%B0%E8%BA%AB%E8%A7%82%E4%BC%97%E5%B8%AD"
+  },
+  {
+   "day": "2026-11-21",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:21 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:25 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 21, 10:50 PM ET",
+   "first_missing_iso": "2026-11-21T22:50:00-05:00",
+   "first_seen_et": "Nov 21, 10:10 PM ET",
+   "key": "baidu|全网求接“好莱坞锦鲤”的事业运|2026-11-21T22:50:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 21, 10:45 PM ET",
+   "minutes_on_list": 35,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 10,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-8b6f3068fa78",
+   "title_en": "All over the Internet for Hollywood Wall.",
+   "title_zh": "全网求接“好莱坞锦鲤”的事业运",
+   "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E6%B1%82%E6%8E%A5%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E9%94%A6%E9%B2%A4%E2%80%9D%E7%9A%84%E4%BA%8B%E4%B8%9A%E8%BF%90"
+  },
+  {
+   "day": "2026-11-21",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #6 → #6 → #7 → #7 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 21, 11:55 PM ET",
+   "first_missing_iso": "2026-11-21T23:55:00-05:00",
+   "first_seen_et": "Nov 21, 10:03 PM ET",
+   "key": "toutiao|南京警方8300余名警力护航南马|2026-11-21T23:55:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 21, 11:50 PM ET",
+   "minutes_on_list": 107,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 5,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-7c4ff8d84bfd",
+   "title_en": "Over 8,300 Nanking police escorts the South Horse.",
+   "title_zh": "南京警方8300余名警力护航南马",
+   "url": "https://www.toutiao.com/trending/7710784179680657971/"
   }
  ]
 }
