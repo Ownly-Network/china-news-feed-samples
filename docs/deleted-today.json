@@ -1,16 +1,16 @@
 {
- "generated_at_et": "2026-11-23 12:55 ET",
+ "generated_at_et": "2026-11-23 14:05 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 5,
  "cut": {
-  "flagged": 123,
+  "flagged": 122,
   "came back once before": 1,
   "gone under 60 min": 0,
   "not in the top 10 when it left": 51,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 32,
+  "on the list a normal length of time": 31,
   "inside the list's normal rotation": 0,
   "still on another hot list": 14,
   "left with other flagged topics (batch drop)": 10,
@@ -57,10 +57,10 @@
    "minutes_on_list": 135,
    "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E5%9C%B0%E9%93%81%E7%A5%A8%E4%BB%B7",
    "official_line": {
-    "source": "Global Times Chinese / Huanqiu 环球网",
+    "source": "CCTV News 央视新闻 (news.cctv.com)",
     "title": "上海轨道交通12月1日起实施新票价 配套优惠同步调整",
-    "url": "https://china.huanqiu.com/article/4U90vbkyIKO",
-    "published": "2026-11-23 17:04:09"
+    "url": "https://news.cctv.com/2026/11/24/ARTIuPMU5Dx9EBBOs6OV1QI3261124.shtml",
+    "published": "2026-11-24 02:06:03"
    },
    "official_line_zh": null,
    "evidence": [
