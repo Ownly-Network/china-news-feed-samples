@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-22 19:34 ET",
+ "generated_at_et": "2026-11-22 21:28 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 14,
+ "count": 13,
  "cut": {
-  "flagged": 74,
+  "flagged": 79,
   "came back once before": 0,
-  "gone under 60 min": 8,
-  "not in the top 10 when it left": 26,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 31,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 17,
+  "on the list a normal length of time": 22,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 4,
+  "still on another hot list": 4,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 1,
   "topic still on the list": 1,
   "same story as a kept item": 0,
-  "kept": 14
+  "kept": 13
  },
  "items": [
   {
@@ -56,13 +56,8 @@
    "first_missing_et": "Nov 22, 8:10 AM ET",
    "minutes_on_list": 148,
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%80%E6%9C%89%E9%87%91%E6%9D%A1%E9%83%BD%E5%8D%96%E5%85%89%E4%BA%86%E2%80%9D",
-   "official_line": {
-    "source": "Shanghai Observer 上观新闻 (Jiefang Daily)",
-    "title": "抢疯！“所有金条都卖光了”！黄金暴跌，有人一次性下单85万元，也有人亏惨",
-    "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1218426&sid=11",
-    "published": "2026-11-23"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #9 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:13 AM ET",
@@ -132,19 +127,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #21 → #7 → #5 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:05 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:21 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sin Chew Daily 星洲日报",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QR3h1alIwbnRLZkg5MVdjOUIxU0h5cEJxQXpTem9vRzY0ZDNjU08teDhVd1labEhqUVNBYS03c1J5OEFyaDhsNWV4NzZyM0dSZG5fNW5HZ2hnTDBIUFZuNGRoVG85ak0?oc=5",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 联合早报 zaobao.sg",
-     "url": "https://t.me/zaobaosg/57229",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:21 AM ET"
    ]
   },
   {
@@ -304,33 +287,6 @@
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #26 → #24 → #24 → #23 → #21 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:28 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:33 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "郎平获国际排联最高荣誉",
-   "title_en": "Ryong Ping has won the highest honor in international ranks.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 9,
-   "first_seen_et": "Nov 21, 10:45 PM ET",
-   "last_seen_et": "Nov 22, 12:05 AM ET",
-   "first_missing_et": "Nov 22, 12:10 AM ET",
-   "minutes_on_list": 80,
-   "url": "https://www.baidu.com/s?wd=%E9%83%8E%E5%B9%B3%E8%8E%B7%E5%9B%BD%E9%99%85%E6%8E%92%E8%81%94%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "祝贺郎平获国际排联最高荣誉——“排球勋章”",
-    "url": "https://new.qq.com/rain/a/20261123V03PNI00",
-    "published": "2026-11-23 07:32:18"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #24 → #24 → #24 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET"
    ]
   },
   {

@@ -66,19 +66,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #21 → #7 → #5 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:05 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:21 AM ET",
-    {
-     "published": null,
-     "source": "Sin Chew Daily 星洲日报",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QR3h1alIwbnRLZkg5MVdjOUIxU0h5cEJxQXpTem9vRzY0ZDNjU08teDhVd1labEhqUVNBYS03c1J5OEFyaDhsNWV4NzZyM0dSZG5fNW5HZ2hnTDBIUFZuNGRoVG85ak0?oc=5"
-    },
-    {
-     "published": null,
-     "source": "Telegram: 联合早报 zaobao.sg",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://t.me/zaobaosg/57229"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 8:21 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 22, 1:35 AM ET",
@@ -311,13 +299,8 @@
    "last_seen_et": "Nov 22, 8:03 AM ET",
    "minutes_on_list": 148,
    "notable": true,
-   "official_line": {
-    "published": "2026-11-23",
-    "source": "Shanghai Observer 上观新闻 (Jiefang Daily)",
-    "title": "抢疯！“所有金条都卖光了”！黄金暴跌，有人一次性下单85万元，也有人亏惨",
-    "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1218426&sid=11"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "peak_rank": 2,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
