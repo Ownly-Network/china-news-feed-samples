@@ -7,19 +7,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #9, last ranks #24 → #24 → #24 → #9 → #9 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET",
-    {
-     "published": null,
-     "source": "8world News 8视界",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.8world.com/singapore/president-tharman-national-awards-investiture-3348331"
-    },
-    {
-     "published": null,
-     "source": "8world News 8视界",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.8world.com/movies-shows/golden-horse-awards-3348396"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 7:26 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 22, 12:10 AM ET",
@@ -32,10 +20,10 @@
    "minutes_on_list": 80,
    "notable": false,
    "official_line": {
-    "published": "2026-11-22T08:25:48Z",
-    "source": "People's Daily+ 人民网+ app",
-    "title": "郎平获国际排联最高荣誉“排球勋章”",
-    "url": "https://app.people.cn/h5/detail/normal/7103813806179328"
+    "published": "2026-11-23 07:32:18",
+    "source": "Tencent News 腾讯网",
+    "title": "祝贺郎平获国际排联最高荣誉——“排球勋章”",
+    "url": "https://new.qq.com/rain/a/20261123V03PNI00"
    },
    "official_line_zh": null,
    "peak_rank": 9,
@@ -323,8 +311,13 @@
    "last_seen_et": "Nov 22, 8:03 AM ET",
    "minutes_on_list": 148,
    "notable": true,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-23",
+    "source": "Shanghai Observer 上观新闻 (Jiefang Daily)",
+    "title": "抢疯！“所有金条都卖光了”！黄金暴跌，有人一次性下单85万元，也有人亏惨",
+    "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1218426&sid=11"
+   },
+   "official_line_zh": null,
    "peak_rank": 2,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
