@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-23 10:34 ET",
+ "generated_at_et": "2026-11-23 11:43 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 5,
  "cut": {
-  "flagged": 110,
-  "came back once before": 0,
-  "gone under 60 min": 9,
-  "not in the top 10 when it left": 46,
+  "flagged": 123,
+  "came back once before": 1,
+  "gone under 60 min": 8,
+  "not in the top 10 when it left": 47,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 27,
+  "on the list a normal length of time": 32,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 2,
+  "still on another hot list": 11,
   "left with other flagged topics (batch drop)": 10,
-  "retitled": 5,
-  "topic still on the list": 4,
-  "same story as a kept item": 1,
-  "kept": 6
+  "retitled": 6,
+  "topic still on the list": 3,
+  "same story as a kept item": 0,
+  "kept": 5
  },
  "items": [
   {
@@ -106,28 +106,6 @@
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
-   "title_zh": "宋凯：中国要踢技术足球而非功利足球",
-   "title_en": "Song Kai: China wants to play technical football, not kosher football.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 23, 1:40 AM ET",
-   "last_seen_et": "Nov 23, 2:25 AM ET",
-   "first_missing_et": "Nov 23, 2:30 AM ET",
-   "minutes_on_list": 45,
-   "url": "https://www.toutiao.com/trending/7711194787545694227/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #36 → #23 → #9 → #10 → #6 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:10 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:17 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
    "title_zh": "明晚将上演月掩昴星团",
    "title_en": "Tomorrow night will be the moon's cover group.",
    "label": "Dropped off",
@@ -161,13 +139,8 @@
    "first_missing_et": "Nov 23, 6:45 AM ET",
    "minutes_on_list": 145,
    "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C%E5%85%A5%E5%B1%80%E8%8A%AF%E7%89%87%E8%B5%9B%E9%81%93",
-   "official_line": {
-    "source": "Sina News 新浪新闻",
-    "title": "中国女首富，入局芯片",
-    "url": "https://news.sina.com.cn/o/2026-11-23/doc-iniztmue0638584.shtml",
-    "published": "2026-11-23"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #7 → #7 → #7 → #12 → #9",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:29 AM ET",
