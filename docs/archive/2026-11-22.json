@@ -359,8 +359,13 @@
    "last_seen_et": "Nov 22, 8:30 PM ET",
    "minutes_on_list": 65,
    "notable": true,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-23 21:51:38",
+    "source": "Tencent News 腾讯网",
+    "title": "金价银价，双双上涨",
+    "url": "https://new.qq.com/rain/a/20261123A0FE8U00"
+   },
+   "official_line_zh": null,
    "peak_rank": 1,
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",

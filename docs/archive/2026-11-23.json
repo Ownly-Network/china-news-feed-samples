@@ -1,5 +1,5 @@
 {
- "count": 2,
+ "count": 3,
  "date": "2026-11-23",
  "items": [
   {
@@ -32,7 +32,9 @@
   {
    "day": "2026-11-23",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #7 → #7 → #7 → #12 → #9"
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #7 → #7 → #7 → #12 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:29 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:33 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 23, 6:45 AM ET",
@@ -58,6 +60,50 @@
    "title_en": "The China Female Head into the Chips.",
    "title_zh": "中国女首富入局芯片赛道",
    "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C%E5%85%A5%E5%B1%80%E8%8A%AF%E7%89%87%E8%B5%9B%E9%81%93"
+  },
+  {
+   "day": "2026-11-23",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:33 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 9:03 AM ET",
+    {
+     "published": "2026-11-23",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%B6%A8%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D2%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D2%26cate%3D5001%26q%3D%25E4%25B8%258A%25E6%25B5%25B7%25E5%259C%25B0%25E9%2593%2581%25E6%25B6%25A8%25E4%25BB%25B7%26flag%3D1%26lcate%3D5001%26pos%3D1%26stream_entry_id%3D31%26display_time%3D1795430482%26pre_seqid%3D17954304828960584079153&launchid=10000360-page_H5"
+    },
+    {
+     "published": "2026-11-23",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%B6%A8%E4%BB%B7&t=31&band_rank=4&Refer=top"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 23, 7:35 AM ET",
+   "first_missing_iso": "2026-11-23T07:35:00-05:00",
+   "first_seen_et": "Nov 23, 5:15 AM ET",
+   "key": "baidu|上海调整地铁票价|2026-11-23T07:35:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 23, 7:30 AM ET",
+   "minutes_on_list": 135,
+   "notable": true,
+   "official_line": {
+    "published": "2026-11-23 17:04:09",
+    "source": "Global Times Chinese / Huanqiu 环球网",
+    "title": "上海轨道交通12月1日起实施新票价 配套优惠同步调整",
+    "url": "https://china.huanqiu.com/article/4U90vbkyIKO"
+   },
+   "official_line_zh": null,
+   "peak_rank": 2,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-95fa42307ca4",
+   "title_en": "Shanghai adjusts the subway fare",
+   "title_zh": "上海调整地铁票价",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E5%9C%B0%E9%93%81%E7%A5%A8%E4%BB%B7"
   }
  ]
 }
