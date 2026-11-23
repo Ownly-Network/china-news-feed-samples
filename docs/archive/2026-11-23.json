@@ -1,11 +1,13 @@
 {
- "count": 1,
+ "count": 2,
  "date": "2026-11-23",
  "items": [
   {
    "day": "2026-11-23",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #3 → #3 → #3 → #3 → #3"
+    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #3 → #3 → #3 → #3 → #3",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:09 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:10 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 23, 2:10 AM ET",
@@ -23,9 +25,39 @@
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "slug": "toutiao-e3dff9e717d2",
-   "title_en": "",
+   "title_en": "The rise in service consumption has led to the expansion of services",
    "title_zh": "服务消费升温带动服务业提质扩容",
    "url": "https://www.toutiao.com/article/7710960421867389449"
+  },
+  {
+   "day": "2026-11-23",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #7 → #7 → #7 → #12 → #9"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 23, 6:45 AM ET",
+   "first_missing_iso": "2026-11-23T06:45:00-05:00",
+   "first_seen_et": "Nov 23, 4:15 AM ET",
+   "key": "baidu|中国女首富入局芯片赛道|2026-11-23T06:45:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 23, 6:40 AM ET",
+   "minutes_on_list": 145,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-23",
+    "source": "Sina News 新浪新闻",
+    "title": "中国女首富，入局芯片",
+    "url": "https://news.sina.com.cn/o/2026-11-23/doc-iniztmue0638584.shtml"
+   },
+   "official_line_zh": null,
+   "peak_rank": 7,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-e53f462bb319",
+   "title_en": "The China Female Head into the Chips.",
+   "title_zh": "中国女首富入局芯片赛道",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C%E5%85%A5%E5%B1%80%E8%8A%AF%E7%89%87%E8%B5%9B%E9%81%93"
   }
  ]
 }

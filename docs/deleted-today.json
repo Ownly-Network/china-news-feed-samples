@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-23 07:20 ET",
+ "generated_at_et": "2026-11-23 08:25 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 3,
  "cut": {
-  "flagged": 96,
+  "flagged": 100,
   "came back once before": 0,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 46,
+  "gone under 60 min": 7,
+  "not in the top 10 when it left": 45,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 22,
+  "on the list a normal length of time": 25,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 5,
+  "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 9,
-  "retitled": 1,
+  "retitled": 2,
   "topic still on the list": 3,
   "same story as a kept item": 0,
-  "kept": 4
+  "kept": 3
  },
  "items": [
   {
@@ -43,60 +43,10 @@
    ]
   },
   {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "国创动画作品发布会",
-   "title_en": "The launch of the National Animation.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 22, 7:19 AM ET",
-   "last_seen_et": "Nov 22, 8:03 AM ET",
-   "first_missing_et": "Nov 22, 8:24 AM ET",
-   "minutes_on_list": 44,
-   "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%88%9B%E5%8A%A8%E7%94%BB%E4%BD%9C%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:14 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:35 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "“所有金条都卖光了”",
-   "title_en": "\"All the gold bars are sold out.\"",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 22, 5:35 AM ET",
-   "last_seen_et": "Nov 22, 8:03 AM ET",
-   "first_missing_et": "Nov 22, 8:10 AM ET",
-   "minutes_on_list": 148,
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%80%E6%9C%89%E9%87%91%E6%9D%A1%E9%83%BD%E5%8D%96%E5%85%89%E4%BA%86%E2%80%9D",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #9 → #2 → #2 → #2 → #2 → #2",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:13 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:35 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/property/gold-bars-sell-out/",
-     "published": null
-    }
-   ]
-  },
-  {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "服务消费升温带动服务业提质扩容",
-   "title_en": "",
+   "title_en": "The rise in service consumption has led to the expansion of services",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -109,7 +59,34 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #3 → #3 → #3 → #3 → #3"
+    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #3 → #3 → #3 → #3 → #3",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:09 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:10 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "中国女首富入局芯片赛道",
+   "title_en": "The China Female Head into the Chips.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 23, 4:15 AM ET",
+   "last_seen_et": "Nov 23, 6:40 AM ET",
+   "first_missing_et": "Nov 23, 6:45 AM ET",
+   "minutes_on_list": 145,
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C%E5%85%A5%E5%B1%80%E8%8A%AF%E7%89%87%E8%B5%9B%E9%81%93",
+   "official_line": {
+    "source": "Sina News 新浪新闻",
+    "title": "中国女首富，入局芯片",
+    "url": "https://news.sina.com.cn/o/2026-11-23/doc-iniztmue0638584.shtml",
+    "published": "2026-11-23"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #7 → #7 → #7 → #12 → #9"
    ]
   }
  ]
