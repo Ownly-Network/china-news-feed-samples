@@ -1,0 +1,31 @@
+{
+ "count": 1,
+ "date": "2026-11-23",
+ "items": [
+  {
+   "day": "2026-11-23",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #3 → #3 → #3 → #3 → #3"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 23, 2:10 AM ET",
+   "first_missing_iso": "2026-11-23T02:10:00-05:00",
+   "first_seen_et": "Nov 23, 12:00 AM ET",
+   "key": "toutiao|服务消费升温带动服务业提质扩容|2026-11-23T02:10:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 23, 2:05 AM ET",
+   "minutes_on_list": 125,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 3,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-e3dff9e717d2",
+   "title_en": "",
+   "title_zh": "服务消费升温带动服务业提质扩容",
+   "url": "https://www.toutiao.com/article/7710960421867389449"
+  }
+ ]
+}

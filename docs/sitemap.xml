@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://ownly-network.github.io/china-news-feed-samples/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://ownly-network.github.io/china-news-feed-samples/</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/privacy.html</loc></url>
-<url><loc>https://ownly-network.github.io/china-news-feed-samples/archive/index.html</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://ownly-network.github.io/china-news-feed-samples/archive/index.html</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/archive/2026-10-18.html</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/archive/2026-10-19.html</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/archive/2026-10-20.html</loc><lastmod>2026-10-20</lastmod></url>
@@ -39,6 +39,7 @@
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/archive/2026-11-20.html</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/archive/2026-11-21.html</loc><lastmod>2026-11-21</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/archive/2026-11-22.html</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://ownly-network.github.io/china-news-feed-samples/archive/2026-11-23.html</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/vanished/2026-10-18/zhihu-88589734f41c.html</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/vanished/2026-10-18/bilibili-0107fabc8622.html</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/vanished/2026-10-18/zhihu-bd6a2051503d.html</loc><lastmod>2026-10-18</lastmod></url>
@@ -191,4 +192,6 @@
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/vanished/2026-11-21/toutiao-2bfeb5c21557.html</loc><lastmod>2026-11-21</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/vanished/2026-11-22/baidu-1a40ecb5583d.html</loc><lastmod>2026-11-22</lastmod></url>
 <url><loc>https://ownly-network.github.io/china-news-feed-samples/vanished/2026-11-22/bilibili-acec7cfa7cb6.html</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://ownly-network.github.io/china-news-feed-samples/vanished/2026-11-22/toutiao-3a2df29ec85c.html</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://ownly-network.github.io/china-news-feed-samples/vanished/2026-11-23/toutiao-e3dff9e717d2.html</loc><lastmod>2026-11-23</lastmod></url>
 </urlset>

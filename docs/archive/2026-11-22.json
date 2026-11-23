@@ -1,5 +1,5 @@
 {
- "count": 12,
+ "count": 13,
  "date": "2026-11-22",
  "items": [
   {
@@ -287,7 +287,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #9 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:13 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:35 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:35 AM ET",
+    {
+     "published": null,
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.chineseherald.co.nz/news/property/gold-bars-sell-out/"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 22, 8:10 AM ET",
@@ -335,6 +341,33 @@
    "title_en": "The launch of the National Animation.",
    "title_zh": "国创动画作品发布会",
    "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%88%9B%E5%8A%A8%E7%94%BB%E4%BD%9C%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A"
+  },
+  {
+   "day": "2026-11-22",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:34 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 10:08 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 22, 8:35 PM ET",
+   "first_missing_iso": "2026-11-22T20:35:00-05:00",
+   "first_seen_et": "Nov 22, 7:25 PM ET",
+   "key": "toutiao|金银价格双双上涨|2026-11-22T20:35:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 22, 8:30 PM ET",
+   "minutes_on_list": 65,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-3a2df29ec85c",
+   "title_en": "The price of gold and silver has risen.",
+   "title_zh": "金银价格双双上涨",
+   "url": "https://www.toutiao.com/trending/7711135802386186802/"
   }
  ]
 }
