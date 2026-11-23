@@ -1,5 +1,5 @@
 {
- "count": 3,
+ "count": 5,
  "date": "2026-11-23",
  "items": [
   {
@@ -28,6 +28,33 @@
    "title_en": "The rise in service consumption has led to the expansion of services",
    "title_zh": "服务消费升温带动服务业提质扩容",
    "url": "https://www.toutiao.com/article/7710960421867389449"
+  },
+  {
+   "day": "2026-11-23",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #36 → #23 → #9 → #10 → #6 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:10 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:17 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 23, 2:30 AM ET",
+   "first_missing_iso": "2026-11-23T02:30:00-05:00",
+   "first_seen_et": "Nov 23, 1:40 AM ET",
+   "key": "toutiao|宋凯：中国要踢技术足球而非功利足球|2026-11-23T02:30:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 23, 2:25 AM ET",
+   "minutes_on_list": 45,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 6,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-d1f4081130f5",
+   "title_en": "Song Kai: China wants to play technical football, not kosher football.",
+   "title_zh": "宋凯：中国要踢技术足球而非功利足球",
+   "url": "https://www.toutiao.com/trending/7711194787545694227/"
   },
   {
    "day": "2026-11-23",
@@ -104,6 +131,33 @@
    "title_en": "Shanghai adjusts the subway fare",
    "title_zh": "上海调整地铁票价",
    "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E5%9C%B0%E9%93%81%E7%A5%A8%E4%BB%B7"
+  },
+  {
+   "day": "2026-11-23",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #42 → #41 → #16 → #19 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 9:04 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 9:32 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 23, 8:30 AM ET",
+   "first_missing_iso": "2026-11-23T08:30:00-05:00",
+   "first_seen_et": "Nov 23, 6:50 AM ET",
+   "key": "toutiao|明晚将上演月掩昴星团|2026-11-23T08:30:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 23, 8:26 AM ET",
+   "minutes_on_list": 96,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-361b9fb4090b",
+   "title_en": "Tomorrow night will be the moon's cover group.",
+   "title_zh": "明晚将上演月掩昴星团",
+   "url": "https://www.toutiao.com/trending/7711299589063888422/"
   }
  ]
 }

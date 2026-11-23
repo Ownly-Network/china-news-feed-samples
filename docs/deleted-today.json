@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-23 09:29 ET",
+ "generated_at_et": "2026-11-23 10:34 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 6,
  "cut": {
-  "flagged": 106,
+  "flagged": 110,
   "came back once before": 0,
-  "gone under 60 min": 7,
-  "not in the top 10 when it left": 48,
+  "gone under 60 min": 9,
+  "not in the top 10 when it left": 46,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 25,
+  "on the list a normal length of time": 27,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 4,
+  "still on another hot list": 2,
   "left with other flagged topics (batch drop)": 10,
-  "retitled": 4,
+  "retitled": 5,
   "topic still on the list": 4,
-  "same story as a kept item": 0,
-  "kept": 4
+  "same story as a kept item": 1,
+  "kept": 6
  },
  "items": [
   {
@@ -34,13 +34,8 @@
    "first_missing_et": "Nov 22, 8:35 PM ET",
    "minutes_on_list": 65,
    "url": "https://www.toutiao.com/trending/7711135802386186802/",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "金价银价，双双上涨",
-    "url": "https://new.qq.com/rain/a/20261123A0FE8U00",
-    "published": "2026-11-23 21:51:38"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:34 PM ET",
@@ -106,6 +101,50 @@
     "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #3 → #3 → #3 → #3 → #3",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:09 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:10 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "宋凯：中国要踢技术足球而非功利足球",
+   "title_en": "Song Kai: China wants to play technical football, not kosher football.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 23, 1:40 AM ET",
+   "last_seen_et": "Nov 23, 2:25 AM ET",
+   "first_missing_et": "Nov 23, 2:30 AM ET",
+   "minutes_on_list": 45,
+   "url": "https://www.toutiao.com/trending/7711194787545694227/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #36 → #23 → #9 → #10 → #6 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:10 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:17 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "明晚将上演月掩昴星团",
+   "title_en": "Tomorrow night will be the moon's cover group.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 23, 6:50 AM ET",
+   "last_seen_et": "Nov 23, 8:26 AM ET",
+   "first_missing_et": "Nov 23, 8:30 AM ET",
+   "minutes_on_list": 96,
+   "url": "https://www.toutiao.com/trending/7711299589063888422/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #42 → #41 → #16 → #19 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 9:04 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 9:32 AM ET"
    ]
   },
   {
