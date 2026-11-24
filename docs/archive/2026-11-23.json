@@ -1,5 +1,5 @@
 {
- "count": 5,
+ "count": 6,
  "date": "2026-11-23",
  "items": [
   {
@@ -141,6 +141,33 @@
    "title_en": "Tomorrow night will be the moon's cover group.",
    "title_zh": "明晚将上演月掩昴星团",
    "url": "https://www.toutiao.com/trending/7711299589063888422/"
+  },
+  {
+   "day": "2026-11-23",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #15 → #10 → #9 → #10 → #10 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 10:06 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 10:25 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 23, 9:15 PM ET",
+   "first_missing_iso": "2026-11-23T21:15:00-05:00",
+   "first_seen_et": "Nov 23, 7:28 PM ET",
+   "key": "toutiao|乌袭击俄炼油厂 俄袭击乌电力设施|2026-11-23T21:15:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 23, 9:10 PM ET",
+   "minutes_on_list": 102,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 9,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-bc011abeb6aa",
+   "title_en": "U.S. attacks on oil refineries and U.S. attacks on U.S. power installations",
+   "title_zh": "乌袭击俄炼油厂 俄袭击乌电力设施",
+   "url": "https://www.toutiao.com/trending/7710775757668237321/"
   }
  ]
 }

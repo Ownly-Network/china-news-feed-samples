@@ -1,72 +1,57 @@
 {
- "generated_at_et": "2026-11-23 21:28 ET",
+ "generated_at_et": "2026-11-24 08:21 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 6,
  "cut": {
-  "flagged": 131,
-  "came back once before": 2,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 59,
+  "flagged": 130,
+  "came back once before": 3,
+  "gone under 60 min": 0,
+  "not in the top 10 when it left": 51,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 27,
+  "on the list a normal length of time": 34,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 17,
-  "left with other flagged topics (batch drop)": 6,
-  "retitled": 5,
-  "topic still on the list": 5,
+  "still on another hot list": 15,
+  "left with other flagged topics (batch drop)": 10,
+  "retitled": 2,
+  "topic still on the list": 9,
   "same story as a kept item": 0,
-  "kept": 4
+  "kept": 6
  },
  "items": [
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "上海调整地铁票价",
-   "title_en": "Shanghai adjusts the subway fare",
+   "title_zh": "大爷抵着脖子不放小伙喊心脏疼倒地",
+   "title_en": "He's got a heart attack on his neck",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 23, 5:15 AM ET",
-   "last_seen_et": "Nov 23, 7:30 AM ET",
-   "first_missing_et": "Nov 23, 7:35 AM ET",
-   "minutes_on_list": 135,
-   "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E5%9C%B0%E9%93%81%E7%A5%A8%E4%BB%B7",
-   "official_line": {
-    "source": "CCTV News 央视新闻 (news.cctv.com)",
-    "title": "上海轨道交通12月1日起实施新票价 配套优惠同步调整",
-    "url": "https://news.cctv.com/2026/11/24/ARTIuPMU5Dx9EBBOs6OV1QI3261124.shtml",
-    "published": "2026-11-24 02:06:03"
-   },
-   "official_line_zh": null,
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:33 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 9:03 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "服务消费升温带动服务业提质扩容",
-   "title_en": "The rise in service consumption has led to the expansion of services",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 3,
-   "first_seen_et": "Nov 23, 12:00 AM ET",
-   "last_seen_et": "Nov 23, 2:05 AM ET",
-   "first_missing_et": "Nov 23, 2:10 AM ET",
-   "minutes_on_list": 125,
-   "url": "https://www.toutiao.com/article/7710960421867389449",
+   "peak_rank": 6,
+   "first_seen_et": "Nov 24, 1:00 AM ET",
+   "last_seen_et": "Nov 24, 1:50 AM ET",
+   "first_missing_et": "Nov 24, 1:55 AM ET",
+   "minutes_on_list": 50,
+   "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E6%8A%B5%E7%9D%80%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%96%8A%E5%BF%83%E8%84%8F%E7%96%BC%E5%80%92%E5%9C%B0",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #3, last ranks #3 → #3 → #3 → #3 → #3 → #3",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:09 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:10 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #10 → #7 → #7 → #6 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 7:18 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 7:22 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E7%88%B7%E6%8A%B5%E7%9D%80%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%96%8A%E5%BF%83%E8%84%8F%E7%96%BC%E5%80%92%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D8%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523%25E5%25A4%25A7%25E7%2588%25B7%25E6%258A%25B5%25E7%259D%2580%25E8%2584%2596%25E5%25AD%2590%25E4%25B8%258D%25E6%2594%25BE%25E5%25B0%258F%25E4%25BC%2599%25E5%2596%258A%25E5%25BF%2583%25E8%2584%258F%25E7%2596%25BC%25E5%2580%2592%25E5%259C%25B0%2523%26dgr%3D0%26band_rank%3D8%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26pos%3D9%26display_time%3D1795503499%26pre_seqid%3D179550349986901528514104&launchid=10000360-page_H5",
+     "published": "2026-11-24"
+    },
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%88%B7%E6%8A%B5%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%80%92%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
+     "published": "2026-11-24"
+    }
    ]
   },
   {
@@ -94,23 +79,95 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "中国女首富入局芯片赛道",
-   "title_en": "The China Female Head into the Chips.",
+   "title_zh": "好莱坞：电影没得拍 不如投AI",
+   "title_en": "Hollywood: No movie. Let's vote for AI.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 23, 4:15 AM ET",
-   "last_seen_et": "Nov 23, 6:40 AM ET",
-   "first_missing_et": "Nov 23, 6:45 AM ET",
-   "minutes_on_list": 145,
-   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C%E5%85%A5%E5%B1%80%E8%8A%AF%E7%89%87%E8%B5%9B%E9%81%93",
+   "peak_rank": 8,
+   "first_seen_et": "Nov 24, 3:05 AM ET",
+   "last_seen_et": "Nov 24, 5:05 AM ET",
+   "first_missing_et": "Nov 24, 5:10 AM ET",
+   "minutes_on_list": 120,
+   "url": "https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%EF%BC%9A%E7%94%B5%E5%BD%B1%E6%B2%A1%E5%BE%97%E6%8B%8D+%E4%B8%8D%E5%A6%82%E6%8A%95AI",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #8 → #7 → #7 → #7 → #12 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:29 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 8:33 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%86%85%E5%A8%B1%E5%85%A8%E5%A5%B3%E6%8B%8D%E7%83%82%E4%BA%86%E9%83%BD%E4%B8%8D%E5%A6%82%E4%B8%80%E9%83%A8AI%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D10%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523%25E5%2586%2585%25E5%25A8%25B1%25E5%2585%25A8%25E5%25A5%25B3%25E6%258B%258D%25E7%2583%2582%25E4%25BA%2586%25E9%2583%25BD%25E4%25B8%258D%25E5%25A6%2582%25E4%25B8%2580%25E9%2583%25A8AI%2523%26dgr%3D0%26band_rank%3D10%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26pos%3D11%26display_time%3D1795503499%26pre_seqid%3D179550349986901528514104&launchid=10000360-page_H5",
+     "published": "2026-11-24"
+    },
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23%E5%86%85%E5%A8%B1%E5%85%A8%E5%A5%B3%E6%8B%8D%E7%83%82%E4%BA%86%E9%83%BD%E4%B8%8D%E5%A6%82%E4%B8%80%E9%83%A8AI%23&t=31&band_rank=8&Refer=top",
+     "published": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "platform": "zhihu",
+   "platform_name": "Zhihu 知乎",
+   "title_zh": "为什么那么多网友会觉得南方比北方冷？",
+   "title_en": "Why would so many netizens feel colder south than north?",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Nov 24, 3:25 AM ET",
+   "last_seen_et": "Nov 24, 4:45 AM ET",
+   "first_missing_et": "Nov 24, 4:50 AM ET",
+   "minutes_on_list": 80,
+   "url": "https://www.zhihu.com/question/435345839",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #10 → #10 → #10 → #10 → #10 → #10"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "乌袭击俄炼油厂 俄袭击乌电力设施",
+   "title_en": "U.S. attacks on oil refineries and U.S. attacks on U.S. power installations",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Nov 23, 7:28 PM ET",
+   "last_seen_et": "Nov 23, 9:10 PM ET",
+   "first_missing_et": "Nov 23, 9:15 PM ET",
+   "minutes_on_list": 102,
+   "url": "https://www.toutiao.com/trending/7710775757668237321/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #15 → #10 → #9 → #10 → #10 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 10:06 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 10:25 PM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "闪耀U17世界杯的赵松源来自清华附中",
+   "title_en": "Zhao Matsun from Qinghua, who shines the U17 World Cup",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 10,
+   "first_seen_et": "Nov 24, 6:00 AM ET",
+   "last_seen_et": "Nov 24, 7:00 AM ET",
+   "first_missing_et": "Nov 24, 7:05 AM ET",
+   "minutes_on_list": 60,
+   "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%80%80U17%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E8%B5%B5%E6%9D%BE%E6%BA%90%E6%9D%A5%E8%87%AA%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10"
    ]
   }
  ]
