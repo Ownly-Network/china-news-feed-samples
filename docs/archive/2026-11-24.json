@@ -10,12 +10,6 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 7:22 AM ET",
     {
      "published": "2026-11-24",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E7%88%B7%E6%8A%B5%E7%9D%80%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%96%8A%E5%BF%83%E8%84%8F%E7%96%BC%E5%80%92%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D8%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523%25E5%25A4%25A7%25E7%2588%25B7%25E6%258A%25B5%25E7%259D%2580%25E8%2584%2596%25E5%25AD%2590%25E4%25B8%258D%25E6%2594%25BE%25E5%25B0%258F%25E4%25BC%2599%25E5%2596%258A%25E5%25BF%2583%25E8%2584%258F%25E7%2596%25BC%25E5%2580%2592%25E5%259C%25B0%2523%26dgr%3D0%26band_rank%3D8%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26pos%3D9%26display_time%3D1795503499%26pre_seqid%3D179550349986901528514104&launchid=10000360-page_H5"
-    },
-    {
-     "published": "2026-11-24",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "url": "https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%88%B7%E6%8A%B5%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%80%92%E5%9C%B0%23&t=31&band_rank=9&Refer=top"
@@ -74,12 +68,6 @@
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:24 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:28 AM ET",
-    {
-     "published": "2026-11-24",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%86%85%E5%A8%B1%E5%85%A8%E5%A5%B3%E6%8B%8D%E7%83%82%E4%BA%86%E9%83%BD%E4%B8%8D%E5%A6%82%E4%B8%80%E9%83%A8AI%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D10%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523%25E5%2586%2585%25E5%25A8%25B1%25E5%2585%25A8%25E5%25A5%25B3%25E6%258B%258D%25E7%2583%2582%25E4%25BA%2586%25E9%2583%25BD%25E4%25B8%258D%25E5%25A6%2582%25E4%25B8%2580%25E9%2583%25A8AI%2523%26dgr%3D0%26band_rank%3D10%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26pos%3D11%26display_time%3D1795503499%26pre_seqid%3D179550349986901528514104&launchid=10000360-page_H5"
-    },
     {
      "published": "2026-11-24",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
