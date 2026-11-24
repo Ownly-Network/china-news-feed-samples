@@ -1,47 +1,25 @@
 {
- "generated_at_et": "2026-11-23 19:27 ET",
+ "generated_at_et": "2026-11-23 21:28 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 4,
  "cut": {
-  "flagged": 126,
+  "flagged": 131,
   "came back once before": 2,
-  "gone under 60 min": 12,
-  "not in the top 10 when it left": 48,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 59,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 26,
+  "on the list a normal length of time": 27,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 12,
-  "left with other flagged topics (batch drop)": 10,
-  "retitled": 6,
+  "still on another hot list": 17,
+  "left with other flagged topics (batch drop)": 6,
+  "retitled": 5,
   "topic still on the list": 5,
   "same story as a kept item": 0,
-  "kept": 5
+  "kept": 4
  },
  "items": [
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "金银价格双双上涨",
-   "title_en": "The price of gold and silver has risen.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 22, 7:25 PM ET",
-   "last_seen_et": "Nov 22, 8:30 PM ET",
-   "first_missing_et": "Nov 22, 8:35 PM ET",
-   "minutes_on_list": 65,
-   "url": "https://www.toutiao.com/trending/7711135802386186802/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 9:34 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 22, 10:08 PM ET"
-   ]
-  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
