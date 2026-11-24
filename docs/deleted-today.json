@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-24 14:31 ET",
+ "generated_at_et": "2026-11-24 15:41 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -12,10 +12,10 @@
   "slid down before leaving": 0,
   "on the list a normal length of time": 29,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 9,
+  "still on another hot list": 10,
   "left with other flagged topics (batch drop)": 10,
   "retitled": 2,
-  "topic still on the list": 5,
+  "topic still on the list": 4,
   "same story as a kept item": 0,
   "kept": 5
  },
@@ -39,13 +39,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #6, last ranks #10 → #10 → #7 → #7 → #6 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 7:18 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 7:22 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%88%B7%E6%8A%B5%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%80%92%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
-     "published": "2026-11-24"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 7:22 AM ET"
    ]
   },
   {
@@ -67,13 +61,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:24 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:28 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "url": "https://s.weibo.com//weibo?q=%23%E5%86%85%E5%A8%B1%E5%85%A8%E5%A5%B3%E6%8B%8D%E7%83%82%E4%BA%86%E9%83%BD%E4%B8%8D%E5%A6%82%E4%B8%80%E9%83%A8AI%23&t=31&band_rank=8&Refer=top",
-     "published": "2026-11-24"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:28 AM ET"
    ]
   },
   {
@@ -134,8 +122,13 @@
    "first_missing_et": "Nov 24, 7:05 AM ET",
    "minutes_on_list": 60,
    "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%80%80U17%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E8%B5%B5%E6%9D%BE%E6%BA%90%E6%9D%A5%E8%87%AA%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "U17国少2-2摩洛哥 U17足球世界杯，赵松源梅开二度助力U17国少2-2战平摩洛哥",
+    "url": "https://new.qq.com/rain/a/20261125V02SWR00",
+    "published": "2026-11-25 04:12:42"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:51 AM ET",
