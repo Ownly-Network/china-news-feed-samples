@@ -44,7 +44,9 @@
   {
    "day": "2026-11-24",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #10 → #10 → #10 → #10 → #10 → #10"
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 24, 8:24 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 24, 8:24 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 24, 4:50 AM ET",
@@ -70,6 +72,8 @@
    "day": "2026-11-24",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:24 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:28 AM ET",
     {
      "published": "2026-11-24",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
@@ -106,7 +110,9 @@
   {
    "day": "2026-11-24",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10"
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:51 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 9:10 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 24, 7:05 AM ET",

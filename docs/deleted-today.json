@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-24 08:21 ET",
+ "generated_at_et": "2026-11-24 09:28 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 5,
  "cut": {
-  "flagged": 130,
+  "flagged": 133,
   "came back once before": 3,
-  "gone under 60 min": 0,
-  "not in the top 10 when it left": 51,
+  "gone under 60 min": 6,
+  "not in the top 10 when it left": 49,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 34,
+  "on the list a normal length of time": 32,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 15,
-  "left with other flagged topics (batch drop)": 10,
-  "retitled": 2,
-  "topic still on the list": 9,
+  "still on another hot list": 13,
+  "left with other flagged topics (batch drop)": 12,
+  "retitled": 3,
+  "topic still on the list": 10,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 5
  },
  "items": [
   {
@@ -55,28 +55,6 @@
    ]
   },
   {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "明晚将上演月掩昴星团",
-   "title_en": "Tomorrow night will be the moon's cover group.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 23, 6:50 AM ET",
-   "last_seen_et": "Nov 23, 8:26 AM ET",
-   "first_missing_et": "Nov 23, 8:30 AM ET",
-   "minutes_on_list": 96,
-   "url": "https://www.toutiao.com/trending/7711299589063888422/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #42 → #41 → #16 → #19 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 9:04 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 23, 9:32 AM ET"
-   ]
-  },
-  {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "好莱坞：电影没得拍 不如投AI",
@@ -94,6 +72,8 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:24 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:28 AM ET",
     {
      "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
      "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
@@ -125,7 +105,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #10 → #10 → #10 → #10 → #10 → #10"
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; link check inconclusive at Nov 24, 8:24 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; link check inconclusive at Nov 24, 8:24 AM ET"
    ]
   },
   {
@@ -167,7 +149,9 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10"
+    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:51 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 9:10 AM ET"
    ]
   }
  ]
