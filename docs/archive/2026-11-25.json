@@ -1,5 +1,5 @@
 {
- "count": 8,
+ "count": 9,
  "date": "2026-11-25",
  "items": [
   {
@@ -231,6 +231,33 @@
    "title_en": "The sun rain warms up the reality of the country's birth.",
    "title_zh": "“太阳雨”让国产现偶有了温暖现实",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%AA%E9%98%B3%E9%9B%A8%E2%80%9D%E8%AE%A9%E5%9B%BD%E4%BA%A7%E7%8E%B0%E5%81%B6%E6%9C%89%E4%BA%86%E6%B8%A9%E6%9A%96%E7%8E%B0%E5%AE%9E"
+  },
+  {
+   "day": "2026-11-25",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 12:14 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 1:06 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 25, 12:00 PM ET",
+   "first_missing_iso": "2026-11-25T12:00:00-05:00",
+   "first_seen_et": "Nov 25, 10:09 AM ET",
+   "key": "toutiao|国际油价突然直线拉升|2026-11-25T12:00:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 25, 11:55 AM ET",
+   "minutes_on_list": 106,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-21623b1bc898",
+   "title_en": "The international oil prices suddenly rose in a straight line.",
+   "title_zh": "国际油价突然直线拉升",
+   "url": "https://www.toutiao.com/trending/7712100648452588041/"
   }
  ]
 }

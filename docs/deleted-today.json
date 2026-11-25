@@ -1,25 +1,47 @@
 {
- "generated_at_et": "2026-11-25 11:36 ET",
+ "generated_at_et": "2026-11-25 14:32 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 6,
+ "count": 7,
  "cut": {
   "flagged": 78,
   "came back once before": 1,
   "gone under 60 min": 1,
-  "not in the top 10 when it left": 38,
+  "not in the top 10 when it left": 36,
   "slid down before leaving": 0,
   "on the list a normal length of time": 20,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 6,
+  "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 2,
   "retitled": 2,
   "topic still on the list": 2,
   "same story as a kept item": 0,
-  "kept": 6
+  "kept": 7
  },
  "items": [
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "国际油价突然直线拉升",
+   "title_en": "The international oil prices suddenly rose in a straight line.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 25, 10:09 AM ET",
+   "last_seen_et": "Nov 25, 11:55 AM ET",
+   "first_missing_et": "Nov 25, 12:00 PM ET",
+   "minutes_on_list": 106,
+   "url": "https://www.toutiao.com/trending/7712100648452588041/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 12:14 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 1:06 PM ET"
+   ]
+  },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
