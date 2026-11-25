@@ -1,16 +1,16 @@
 {
- "generated_at_et": "2026-11-25 10:29 ET",
+ "generated_at_et": "2026-11-25 11:36 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 6,
  "cut": {
-  "flagged": 77,
+  "flagged": 78,
   "came back once before": 1,
-  "gone under 60 min": 4,
-  "not in the top 10 when it left": 36,
+  "gone under 60 min": 1,
+  "not in the top 10 when it left": 38,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 18,
+  "on the list a normal length of time": 20,
   "inside the list's normal rotation": 0,
   "still on another hot list": 6,
   "left with other flagged topics (batch drop)": 2,
@@ -111,8 +111,13 @@
    "first_missing_et": "Nov 25, 3:10 AM ET",
    "minutes_on_list": 145,
    "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%BA%E7%8B%AC%E5%90%9E133%E4%B8%87%E9%81%97%E4%BA%A7%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E5%A7%90%E5%A7%90",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "弟弟去世留133万遗产 另一弟弟为独吞遗产翻脸不认姐姐",
+    "url": "https://www.163.com/dy/article/LCJH3MAD05129QAF.html",
+    "published": "2026-11-25 17:27:34"
+   },
+   "official_line_zh": null,
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:02 AM ET",

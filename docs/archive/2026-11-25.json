@@ -84,8 +84,13 @@
    "last_seen_et": "Nov 25, 3:05 AM ET",
    "minutes_on_list": 145,
    "notable": false,
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "official_line": {
+    "published": "2026-11-25 17:27:34",
+    "source": "NetEase News 网易新闻",
+    "title": "弟弟去世留133万遗产 另一弟弟为独吞遗产翻脸不认姐姐",
+    "url": "https://www.163.com/dy/article/LCJH3MAD05129QAF.html"
+   },
+   "official_line_zh": null,
    "peak_rank": 4,
    "platform": "baidu",
    "platform_name": "Baidu 百度",
