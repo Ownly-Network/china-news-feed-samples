@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-25 14:32 ET",
+ "generated_at_et": "2026-11-25 15:44 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
@@ -7,10 +7,10 @@
  "cut": {
   "flagged": 78,
   "came back once before": 1,
-  "gone under 60 min": 1,
+  "gone under 60 min": 0,
   "not in the top 10 when it left": 36,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 20,
+  "on the list a normal length of time": 21,
   "inside the list's normal rotation": 0,
   "still on another hot list": 7,
   "left with other flagged topics (batch drop)": 2,
@@ -165,7 +165,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:25 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/entertainment/goodbye-boss/",
+     "published": null
+    }
    ]
   },
   {

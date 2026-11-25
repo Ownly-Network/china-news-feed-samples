@@ -156,7 +156,13 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:25 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET"
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET",
+    {
+     "published": null,
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.chineseherald.co.nz/news/entertainment/goodbye-boss/"
+    }
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 25, 5:55 AM ET",
