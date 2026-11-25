@@ -1,30 +1,85 @@
 {
- "generated_at_et": "2026-11-25 06:38 ET",
+ "generated_at_et": "2026-11-25 09:21 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 5,
+ "count": 7,
  "cut": {
-  "flagged": 85,
+  "flagged": 77,
   "came back once before": 1,
   "gone under 60 min": 5,
-  "not in the top 10 when it left": 39,
+  "not in the top 10 when it left": 36,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 21,
+  "on the list a normal length of time": 16,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 10,
-  "left with other flagged topics (batch drop)": 4,
-  "retitled": 0,
+  "still on another hot list": 9,
+  "left with other flagged topics (batch drop)": 2,
+  "retitled": 1,
   "topic still on the list": 0,
   "same story as a kept item": 0,
-  "kept": 5
+  "kept": 7
  },
  "items": [
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "湖北高考文科状元自述相亲4次都失败",
+   "title_en": "Hubei Koventian has failed four times.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 25, 1:10 AM ET",
+   "last_seen_et": "Nov 25, 2:00 AM ET",
+   "first_missing_et": "Nov 25, 2:05 AM ET",
+   "minutes_on_list": 50,
+   "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E8%80%83%E6%96%87%E7%A7%91%E7%8A%B6%E5%85%83%E8%87%AA%E8%BF%B0%E7%9B%B8%E4%BA%B24%E6%AC%A1%E9%83%BD%E5%A4%B1%E8%B4%A5",
+   "official_line": {
+    "source": "NetEase News 网易新闻",
+    "title": "40岁高考文科状元4次相亲全失败：收入比不上送外卖的",
+    "url": "https://www.163.com/dy/article/LCJ7ROE5051492LM.html",
+    "published": "2026-11-25 15:01:32"
+   },
+   "official_line_zh": null,
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 7:22 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 7:23 AM ET",
+    {
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
+     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B9%96%E5%8C%97%E6%96%87%E7%A7%91%E7%8A%B6%E5%85%83%E8%87%AA%E8%BF%B0%E7%9B%B8%E4%BA%B2%E5%9B%9B%E6%AC%A1%E5%A4%B1%E8%B4%A5&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E6%25B9%2596%25E5%258C%2597%25E6%2596%2587%25E7%25A7%2591%25E7%258A%25B6%25E5%2585%2583%25E8%2587%25AA%25E8%25BF%25B0%25E7%259B%25B8%25E4%25BA%25B2%25E5%259B%259B%25E6%25AC%25A1%25E5%25A4%25B1%25E8%25B4%25A5%26band_rank%3D13%26filter_type%3Drealtimehot%26realpos%3D13%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D14%26flag%3D0%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1795575867%26pre_seqid%3D17955758672800291122627&launchid=10000360-page_H5",
+     "published": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "猝死女教师最后朋友圈称被焦虑填满",
+   "title_en": "The last friend circle of the sudden-death teacher was filled with anxiety.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 4,
+   "first_seen_et": "Nov 25, 5:35 AM ET",
+   "last_seen_et": "Nov 25, 6:25 AM ET",
+   "first_missing_et": "Nov 25, 6:30 AM ET",
+   "minutes_on_list": 50,
+   "url": "https://www.toutiao.com/trending/7711231918372749331/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #8 → #6 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:42 AM ET"
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
    "title_zh": "陪诊暗藏灰色交易",
-   "title_en": "",
+   "title_en": "The company hides the grey deal.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -37,14 +92,16 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #5 → #5"
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #5 → #5",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:20 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:24 AM ET"
    ]
   },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
    "title_zh": "弟弟为独吞133万遗产翻脸不认姐姐",
-   "title_en": "",
+   "title_en": "My brother is disapprove of her sister for taking 1.3 million fortunes alone.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
@@ -57,71 +114,81 @@
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "金价跌破3540美元 原因何在",
-   "title_en": "",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 6,
-   "first_seen_et": "Nov 25, 2:55 AM ET",
-   "last_seen_et": "Nov 25, 3:40 AM ET",
-   "first_missing_et": "Nov 25, 3:45 AM ET",
-   "minutes_on_list": 45,
-   "url": "https://www.toutiao.com/trending/7712000744869596713/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #6, last ranks #9 → #9 → #9 → #6 → #6 → #9"
+    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:02 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:20 AM ET"
    ]
   },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "张纪中妻子自曝领证时才得知丈夫年龄",
-   "title_en": "Zhang Qi's wife only learned about her husband's age when she was exposed to the evidence.",
+   "title_zh": "《再见老板》要来了？网友疯狂提名",
+   "title_en": "See you later, boss. We're here.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 24, 5:25 AM ET",
-   "last_seen_et": "Nov 24, 7:40 AM ET",
-   "first_missing_et": "Nov 24, 7:45 AM ET",
-   "minutes_on_list": 135,
-   "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%BA%AA%E4%B8%AD%E5%A6%BB%E5%AD%90%E8%87%AA%E6%9B%9D%E9%A2%86%E8%AF%81%E6%97%B6%E6%89%8D%E5%BE%97%E7%9F%A5%E4%B8%88%E5%A4%AB%E5%B9%B4%E9%BE%84",
+   "peak_rank": 8,
+   "first_seen_et": "Nov 25, 4:10 AM ET",
+   "last_seen_et": "Nov 25, 5:50 AM ET",
+   "first_missing_et": "Nov 25, 5:55 AM ET",
+   "minutes_on_list": 100,
+   "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E3%80%8B%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F%E7%BD%91%E5%8F%8B%E7%96%AF%E7%8B%82%E6%8F%90%E5%90%8D",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 9:04 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 9:14 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:25 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NZ Chinese Herald 新西兰中文先驱报",
+     "url": "https://www.chineseherald.co.nz/news/entertainment/goodbye-boss/",
+     "published": null
+    }
    ]
   },
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "闪耀U17世界杯的赵松源来自清华附中",
-   "title_en": "Zhao Matsun from Qinghua, who shines the U17 World Cup",
+   "title_zh": "“太阳雨”让国产现偶有了温暖现实",
+   "title_en": "The sun rain warms up the reality of the country's birth.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 9,
+   "first_seen_et": "Nov 25, 7:05 AM ET",
+   "last_seen_et": "Nov 25, 8:05 AM ET",
+   "first_missing_et": "Nov 25, 8:08 AM ET",
+   "minutes_on_list": 60,
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%AA%E9%98%B3%E9%9B%A8%E2%80%9D%E8%AE%A9%E5%9B%BD%E4%BA%A7%E7%8E%B0%E5%81%B6%E6%9C%89%E4%BA%86%E6%B8%A9%E6%9A%96%E7%8E%B0%E5%AE%9E",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #9, last ranks #21 → #21 → #9 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:46 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 9:10 AM ET"
+   ]
+  },
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "创业板指跌超4% 超4900只个股下跌",
+   "title_en": "The entrepreneurship board dropped over 4%, over 4,900 shares.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
    "peak_rank": 10,
-   "first_seen_et": "Nov 24, 6:00 AM ET",
-   "last_seen_et": "Nov 24, 7:00 AM ET",
-   "first_missing_et": "Nov 24, 7:05 AM ET",
-   "minutes_on_list": 60,
-   "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%80%80U17%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E8%B5%B5%E6%9D%BE%E6%BA%90%E6%9D%A5%E8%87%AA%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD",
+   "first_seen_et": "Nov 25, 2:20 AM ET",
+   "last_seen_et": "Nov 25, 2:50 AM ET",
+   "first_missing_et": "Nov 25, 2:55 AM ET",
+   "minutes_on_list": 30,
+   "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%854%25+%E8%B6%854900%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8B%E8%B7%8C",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 8:51 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 24, 9:10 AM ET"
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 7:23 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:03 AM ET"
    ]
   }
  ]
