@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-26 08:09 ET",
+ "generated_at_et": "2026-11-26 09:24 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 5,
  "cut": {
-  "flagged": 63,
-  "came back once before": 0,
+  "flagged": 65,
+  "came back once before": 2,
   "gone under 60 min": 3,
   "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 15,
+  "on the list a normal length of time": 14,
   "inside the list's normal rotation": 0,
   "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 6,
   "retitled": 1,
   "topic still on the list": 3,
   "same story as a kept item": 1,
-  "kept": 4
+  "kept": 5
  },
  "items": [
   {
@@ -44,12 +44,6 @@
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Epoch Times Chinese 大纪元",
      "url": "https://www.epochtimes.com/b5/26/11/25/n14895208.htm",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Epoch Times Chinese 大纪元",
-     "url": "https://www.epochtimes.com/b5/26/11/25/n14895156.htm",
      "published": null
     },
     {
@@ -178,6 +172,28 @@
     "Dropped off while hot 热度高时突然消失: peak #7, last ranks #9 → #9 → #7 → #7 → #7 → #7",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:14 AM ET",
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:15 AM ET"
+   ]
+  },
+  {
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "title_zh": "人民的贞子为何引发共鸣",
+   "title_en": "Why did the people's Sadako resonate?",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 8,
+   "first_seen_et": "Nov 26, 6:41 AM ET",
+   "last_seen_et": "Nov 26, 7:23 AM ET",
+   "first_missing_et": "Nov 26, 7:37 AM ET",
+   "minutes_on_list": 42,
+   "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E7%9A%84%E8%B4%9E%E5%AD%90%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%85%B1%E9%B8%A3",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 8:17 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 8:47 AM ET"
    ]
   }
  ]

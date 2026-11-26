@@ -1,5 +1,5 @@
 {
- "count": 2,
+ "count": 3,
  "date": "2026-11-26",
  "items": [
   {
@@ -40,12 +40,6 @@
      "source": "Epoch Times Chinese 大纪元",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.epochtimes.com/b5/26/11/25/n14895208.htm"
-    },
-    {
-     "published": null,
-     "source": "Epoch Times Chinese 大纪元",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.epochtimes.com/b5/26/11/25/n14895156.htm"
     },
     {
      "published": null,
@@ -127,6 +121,33 @@
    "title_en": "Chen Gining showed up five days ago.",
    "title_zh": "陈吉宁落马5天前曾现身",
    "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC5%E5%A4%A9%E5%89%8D%E6%9B%BE%E7%8E%B0%E8%BA%AB"
+  },
+  {
+   "day": "2026-11-26",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #9 → #9 → #9",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 8:17 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 8:47 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 26, 7:37 AM ET",
+   "first_missing_iso": "2026-11-26T07:37:00-05:00",
+   "first_seen_et": "Nov 26, 6:41 AM ET",
+   "key": "bilibili|人民的贞子为何引发共鸣|2026-11-26T07:37:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 26, 7:23 AM ET",
+   "minutes_on_list": 42,
+   "notable": false,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 8,
+   "platform": "bilibili",
+   "platform_name": "Bilibili 哔哩哔哩",
+   "slug": "bilibili-94ccb57b5a9c",
+   "title_en": "Why did the people's Sadako resonate?",
+   "title_zh": "人民的贞子为何引发共鸣",
+   "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E7%9A%84%E8%B4%9E%E5%AD%90%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%85%B1%E9%B8%A3"
   }
  ]
 }
