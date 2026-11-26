@@ -37,12 +37,6 @@
     "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:24 AM ET",
     {
      "published": null,
-     "source": "Epoch Times Chinese 大纪元",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.epochtimes.com/b5/26/11/25/n14895208.htm"
-    },
-    {
-     "published": null,
      "source": "Sound of Hope 希望之声",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.soundofhope.org/post/950970"
@@ -52,6 +46,18 @@
      "source": "Sound of Hope 希望之声",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.soundofhope.org/post/950841"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 陳破空縱論天下 Chen Pokong",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/CfDwqlYhUgY"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 新唐人 NTD Chinese",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/py7F8qzQX-w"
     },
     {
      "published": null,
@@ -73,12 +79,6 @@
     },
     {
      "published": null,
-     "source": "Telegram: 新唐人電視台 NTD Chinese",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://t.me/NTDChinese/87554"
-    },
-    {
-     "published": null,
      "source": "The News Lens 關鍵評論網",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.thenewslens.com/article/271332"
@@ -87,13 +87,7 @@
      "published": null,
      "source": "Lianhe Zaobao 联合早报",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-10"
-    },
-    {
-     "published": null,
-     "source": "YouTube: 新唐人 NTD Chinese",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.youtube.com/watch?v=nHgWkDk854g"
+     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-12"
     },
     {
      "published": null,
@@ -109,9 +103,39 @@
     },
     {
      "published": null,
+     "source": "YouTube: 王志安 Wang Zhi'an",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/hxEElpTHPJs"
+    },
+    {
+     "published": null,
      "source": "DW Chinese 德国之声",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf"
+    },
+    {
+     "published": null,
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/NTDChinese/87554"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 新唐人 NTD Chinese",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/watch?v=nHgWkDk854g"
+    },
+    {
+     "published": null,
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/NTDChinese/87583"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 王剑每日观察 Wang Jian",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/shorts/nun-CbAYfi4"
     }
    ],
    "evidence_strength": "standard",
