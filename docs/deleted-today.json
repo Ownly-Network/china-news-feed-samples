@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-11-26 06:40 ET",
+ "generated_at_et": "2026-11-26 08:09 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 4,
  "cut": {
-  "flagged": 67,
+  "flagged": 63,
   "came back once before": 0,
-  "gone under 60 min": 5,
-  "not in the top 10 when it left": 28,
+  "gone under 60 min": 3,
+  "not in the top 10 when it left": 27,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 17,
+  "on the list a normal length of time": 15,
   "inside the list's normal rotation": 0,
   "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 5,
+  "left with other flagged topics (batch drop)": 6,
   "retitled": 1,
   "topic still on the list": 3,
   "same story as a kept item": 1,
@@ -38,6 +38,8 @@
    "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:19 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:24 AM ET",
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "Epoch Times Chinese 大纪元",
@@ -100,14 +102,14 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/11/26/a104153857.html",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-9",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-8",
+     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
+     "url": "https://www.youtube.com/watch?v=BLHFlybtsxU",
      "published": null
     }
    ]
@@ -170,15 +172,12 @@
    "first_missing_et": "Nov 26, 1:45 AM ET",
    "minutes_on_list": 155,
    "url": "https://www.baidu.com/s?wd=%E8%BF%98%E6%88%91%E8%92%8B%E6%AC%A3%E8%84%B8%E9%A2%8A%E8%82%89",
-   "official_line": {
-    "source": "Tencent News 腾讯网",
-    "title": "瘦到两颊凹陷！“还我蒋欣脸颊肉”，43岁蒋欣被劝别再减肥",
-    "url": "https://new.qq.com/rain/a/20261126A0CZN500",
-    "published": "2026-11-26 17:25:18"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #9 → #9 → #7 → #7 → #7 → #7"
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #9 → #9 → #7 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:14 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:15 AM ET"
    ]
   }
  ]
