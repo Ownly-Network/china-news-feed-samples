@@ -1,16 +1,16 @@
 {
- "generated_at_et": "2026-11-26 09:24 ET",
+ "generated_at_et": "2026-11-26 10:27 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 5,
  "cut": {
-  "flagged": 65,
-  "came back once before": 2,
+  "flagged": 63,
+  "came back once before": 1,
   "gone under 60 min": 3,
-  "not in the top 10 when it left": 27,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 14,
+  "on the list a normal length of time": 12,
   "inside the list's normal rotation": 0,
   "still on another hot list": 3,
   "left with other flagged topics (batch drop)": 6,
@@ -90,20 +90,32 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/11/26/a104153753.html",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-10",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-9",
+     "source": "YouTube: 新唐人 NTD Chinese",
+     "url": "https://www.youtube.com/watch?v=nHgWkDk854g",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
      "url": "https://www.youtube.com/watch?v=BLHFlybtsxU",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 新唐人 NTD Chinese",
+     "url": "https://www.youtube.com/shorts/tOYHFe85hjA",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "DW Chinese 德国之声",
+     "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf",
      "published": null
     }
    ]
