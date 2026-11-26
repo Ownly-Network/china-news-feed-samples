@@ -1,19 +1,19 @@
 {
- "generated_at_et": "2026-11-25 15:44 ET",
+ "generated_at_et": "2026-11-25 19:37 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 7,
  "cut": {
-  "flagged": 78,
-  "came back once before": 1,
-  "gone under 60 min": 0,
+  "flagged": 83,
+  "came back once before": 0,
+  "gone under 60 min": 6,
   "not in the top 10 when it left": 36,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 21,
+  "on the list a normal length of time": 22,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 7,
-  "left with other flagged topics (batch drop)": 2,
+  "still on another hot list": 5,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 2,
   "topic still on the list": 2,
   "same story as a kept item": 0,
@@ -56,23 +56,12 @@
    "first_missing_et": "Nov 25, 2:05 AM ET",
    "minutes_on_list": 50,
    "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E8%80%83%E6%96%87%E7%A7%91%E7%8A%B6%E5%85%83%E8%87%AA%E8%BF%B0%E7%9B%B8%E4%BA%B24%E6%AC%A1%E9%83%BD%E5%A4%B1%E8%B4%A5",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "40岁高考文科状元4次相亲全失败：收入比不上送外卖的",
-    "url": "https://www.163.com/dy/article/LCJ7ROE5051492LM.html",
-    "published": "2026-11-25 15:01:32"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 7:22 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 7:23 AM ET",
-    {
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, bhwa233)",
-     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B9%96%E5%8C%97%E6%96%87%E7%A7%91%E7%8A%B6%E5%85%83%E8%87%AA%E8%BF%B0%E7%9B%B8%E4%BA%B2%E5%9B%9B%E6%AC%A1%E5%A4%B1%E8%B4%A5&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E6%25B9%2596%25E5%258C%2597%25E6%2596%2587%25E7%25A7%2591%25E7%258A%25B6%25E5%2585%2583%25E8%2587%25AA%25E8%25BF%25B0%25E7%259B%25B8%25E4%25BA%25B2%25E5%259B%259B%25E6%25AC%25A1%25E5%25A4%25B1%25E8%25B4%25A5%26band_rank%3D13%26filter_type%3Drealtimehot%26realpos%3D13%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D14%26flag%3D0%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1795575867%26pre_seqid%3D17955758672800291122627&launchid=10000360-page_H5",
-     "published": "2026-11-25"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 7:23 AM ET"
    ]
   },
   {
@@ -133,13 +122,8 @@
    "first_missing_et": "Nov 25, 3:10 AM ET",
    "minutes_on_list": 145,
    "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%BA%E7%8B%AC%E5%90%9E133%E4%B8%87%E9%81%97%E4%BA%A7%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E5%A7%90%E5%A7%90",
-   "official_line": {
-    "source": "NetEase News 网易新闻",
-    "title": "弟弟去世留133万遗产 另一弟弟为独吞遗产翻脸不认姐姐",
-    "url": "https://www.163.com/dy/article/LCJH3MAD05129QAF.html",
-    "published": "2026-11-25 17:27:34"
-   },
-   "official_line_zh": null,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:02 AM ET",
@@ -165,13 +149,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:25 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET",
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NZ Chinese Herald 新西兰中文先驱报",
-     "url": "https://www.chineseherald.co.nz/news/entertainment/goodbye-boss/",
-     "published": null
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET"
    ]
   },
   {
