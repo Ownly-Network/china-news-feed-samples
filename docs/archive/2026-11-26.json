@@ -1,0 +1,133 @@
+{
+ "count": 2,
+ "date": "2026-11-26",
+ "items": [
+  {
+   "day": "2026-11-26",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #9 → #9 → #7 → #7 → #7 → #7"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 26, 1:45 AM ET",
+   "first_missing_iso": "2026-11-26T01:45:00-05:00",
+   "first_seen_et": "Nov 25, 11:05 PM ET",
+   "key": "baidu|还我蒋欣脸颊肉|2026-11-26T01:45:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 26, 1:40 AM ET",
+   "minutes_on_list": 155,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-26 17:25:18",
+    "source": "Tencent News 腾讯网",
+    "title": "瘦到两颊凹陷！“还我蒋欣脸颊肉”，43岁蒋欣被劝别再减肥",
+    "url": "https://new.qq.com/rain/a/20261126A0CZN500"
+   },
+   "official_line_zh": null,
+   "peak_rank": 7,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-5d2e030d7d17",
+   "title_en": "Give me back Chiang Xin's cheek.",
+   "title_zh": "还我蒋欣脸颊肉",
+   "url": "https://www.baidu.com/s?wd=%E8%BF%98%E6%88%91%E8%92%8B%E6%AC%A3%E8%84%B8%E9%A2%8A%E8%82%89"
+  },
+  {
+   "day": "2026-11-26",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    {
+     "published": null,
+     "source": "Epoch Times Chinese 大纪元",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.epochtimes.com/b5/26/11/25/n14895208.htm"
+    },
+    {
+     "published": null,
+     "source": "Epoch Times Chinese 大纪元",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.epochtimes.com/b5/26/11/25/n14895156.htm"
+    },
+    {
+     "published": null,
+     "source": "Sound of Hope 希望之声",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.soundofhope.org/post/950970"
+    },
+    {
+     "published": null,
+     "source": "Sound of Hope 希望之声",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.soundofhope.org/post/950841"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/watch?v=nFMuPzOwi_E"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 靖遠開講 唐靖遠 Tang Jingyuan",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/watch?v=rU_chqgNn6U"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 王志安 Wang Zhi'an",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/watch?v=Qo68I0Jo69c"
+    },
+    {
+     "published": null,
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://t.me/NTDChinese/87554"
+    },
+    {
+     "published": null,
+     "source": "The News Lens 關鍵評論網",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.thenewslens.com/article/271332"
+    },
+    {
+     "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/11/26/a104153753.html"
+    },
+    {
+     "published": null,
+     "source": "NTD 新唐人電視台",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.ntdtv.com/b5/2026/11/26/a104153857.html"
+    },
+    {
+     "published": null,
+     "source": "Lianhe Zaobao 联合早报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-8"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 26, 2:45 AM ET",
+   "first_missing_iso": "2026-11-26T02:45:00-05:00",
+   "first_seen_et": "Nov 26, 1:20 AM ET",
+   "key": "baidu|陈吉宁落马5天前曾现身|2026-11-26T02:45:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 26, 2:40 AM ET",
+   "minutes_on_list": 80,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 1,
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "slug": "baidu-167af9c19ef0",
+   "title_en": "Chen Gining showed up five days ago.",
+   "title_zh": "陈吉宁落马5天前曾现身",
+   "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC5%E5%A4%A9%E5%89%8D%E6%9B%BE%E7%8E%B0%E8%BA%AB"
+  }
+ ]
+}

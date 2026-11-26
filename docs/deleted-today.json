@@ -1,25 +1,139 @@
 {
- "generated_at_et": "2026-11-25 19:37 ET",
+ "generated_at_et": "2026-11-26 06:40 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 7,
+ "count": 4,
  "cut": {
-  "flagged": 83,
+  "flagged": 67,
   "came back once before": 0,
-  "gone under 60 min": 6,
-  "not in the top 10 when it left": 36,
+  "gone under 60 min": 5,
+  "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 22,
+  "on the list a normal length of time": 17,
   "inside the list's normal rotation": 0,
-  "still on another hot list": 5,
-  "left with other flagged topics (batch drop)": 3,
-  "retitled": 2,
-  "topic still on the list": 2,
-  "same story as a kept item": 0,
-  "kept": 7
+  "still on another hot list": 3,
+  "left with other flagged topics (batch drop)": 5,
+  "retitled": 1,
+  "topic still on the list": 3,
+  "same story as a kept item": 1,
+  "kept": 4
  },
  "items": [
+  {
+   "platform": "baidu",
+   "platform_name": "Baidu 百度",
+   "title_zh": "陈吉宁落马5天前曾现身",
+   "title_en": "Chen Gining showed up five days ago.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 26, 1:20 AM ET",
+   "last_seen_et": "Nov 26, 2:40 AM ET",
+   "first_missing_et": "Nov 26, 2:45 AM ET",
+   "minutes_on_list": 80,
+   "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC5%E5%A4%A9%E5%89%8D%E6%9B%BE%E7%8E%B0%E8%BA%AB",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Epoch Times Chinese 大纪元",
+     "url": "https://www.epochtimes.com/b5/26/11/25/n14895208.htm",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Epoch Times Chinese 大纪元",
+     "url": "https://www.epochtimes.com/b5/26/11/25/n14895156.htm",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sound of Hope 希望之声",
+     "url": "https://www.soundofhope.org/post/950970",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Sound of Hope 希望之声",
+     "url": "https://www.soundofhope.org/post/950841",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
+     "url": "https://www.youtube.com/watch?v=nFMuPzOwi_E",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 靖遠開講 唐靖遠 Tang Jingyuan",
+     "url": "https://www.youtube.com/watch?v=rU_chqgNn6U",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 王志安 Wang Zhi'an",
+     "url": "https://www.youtube.com/watch?v=Qo68I0Jo69c",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Telegram: 新唐人電視台 NTD Chinese",
+     "url": "https://t.me/NTDChinese/87554",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "The News Lens 關鍵評論網",
+     "url": "https://www.thenewslens.com/article/271332",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NTD 新唐人電視台",
+     "url": "https://www.ntdtv.com/b5/2026/11/26/a104153753.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "NTD 新唐人電視台",
+     "url": "https://www.ntdtv.com/b5/2026/11/26/a104153857.html",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-8",
+     "published": null
+    }
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "美股：道指抹去千点跌幅翻红",
+   "title_en": "U.S. stock: The dowd finger is wiped out by a thousand points.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 1,
+   "first_seen_et": "Nov 25, 6:15 PM ET",
+   "last_seen_et": "Nov 25, 7:30 PM ET",
+   "first_missing_et": "Nov 25, 7:35 PM ET",
+   "minutes_on_list": 75,
+   "url": "https://www.toutiao.com/trending/7712248536632397362/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #2 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:30 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 9:36 PM ET"
+   ]
+  },
   {
    "platform": "toutiao",
    "platform_name": "Toutiao 今日头条",
@@ -45,133 +159,26 @@
   {
    "platform": "baidu",
    "platform_name": "Baidu 百度",
-   "title_zh": "湖北高考文科状元自述相亲4次都失败",
-   "title_en": "Hubei Koventian has failed four times.",
+   "title_zh": "还我蒋欣脸颊肉",
+   "title_en": "Give me back Chiang Xin's cheek.",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 2,
-   "first_seen_et": "Nov 25, 1:10 AM ET",
-   "last_seen_et": "Nov 25, 2:00 AM ET",
-   "first_missing_et": "Nov 25, 2:05 AM ET",
-   "minutes_on_list": 50,
-   "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E8%80%83%E6%96%87%E7%A7%91%E7%8A%B6%E5%85%83%E8%87%AA%E8%BF%B0%E7%9B%B8%E4%BA%B24%E6%AC%A1%E9%83%BD%E5%A4%B1%E8%B4%A5",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "peak_rank": 7,
+   "first_seen_et": "Nov 25, 11:05 PM ET",
+   "last_seen_et": "Nov 26, 1:40 AM ET",
+   "first_missing_et": "Nov 26, 1:45 AM ET",
+   "minutes_on_list": 155,
+   "url": "https://www.baidu.com/s?wd=%E8%BF%98%E6%88%91%E8%92%8B%E6%AC%A3%E8%84%B8%E9%A2%8A%E8%82%89",
+   "official_line": {
+    "source": "Tencent News 腾讯网",
+    "title": "瘦到两颊凹陷！“还我蒋欣脸颊肉”，43岁蒋欣被劝别再减肥",
+    "url": "https://new.qq.com/rain/a/20261126A0CZN500",
+    "published": "2026-11-26 17:25:18"
+   },
+   "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 7:22 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 7:23 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "猝死女教师最后朋友圈称被焦虑填满",
-   "title_en": "The last friend circle of the sudden-death teacher was filled with anxiety.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 25, 5:35 AM ET",
-   "last_seen_et": "Nov 25, 6:25 AM ET",
-   "first_missing_et": "Nov 25, 6:30 AM ET",
-   "minutes_on_list": 50,
-   "url": "https://www.toutiao.com/trending/7711231918372749331/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #8 → #6 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:42 AM ET"
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "陪诊暗藏灰色交易",
-   "title_en": "The company hides the grey deal.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 25, 3:25 AM ET",
-   "last_seen_et": "Nov 25, 4:20 AM ET",
-   "first_missing_et": "Nov 25, 4:25 AM ET",
-   "minutes_on_list": 55,
-   "url": "https://www.toutiao.com/trending/7711858642337251849/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #5 → #5 → #5 → #5 → #5 → #5",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:20 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:24 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "弟弟为独吞133万遗产翻脸不认姐姐",
-   "title_en": "My brother is disapprove of her sister for taking 1.3 million fortunes alone.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 4,
-   "first_seen_et": "Nov 25, 12:40 AM ET",
-   "last_seen_et": "Nov 25, 3:05 AM ET",
-   "first_missing_et": "Nov 25, 3:10 AM ET",
-   "minutes_on_list": 145,
-   "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%BA%E7%8B%AC%E5%90%9E133%E4%B8%87%E9%81%97%E4%BA%A7%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E5%A7%90%E5%A7%90",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #4, last ranks #4 → #4 → #4 → #4 → #4 → #4",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:02 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:20 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "《再见老板》要来了？网友疯狂提名",
-   "title_en": "See you later, boss. We're here.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 8,
-   "first_seen_et": "Nov 25, 4:10 AM ET",
-   "last_seen_et": "Nov 25, 5:50 AM ET",
-   "first_missing_et": "Nov 25, 5:55 AM ET",
-   "minutes_on_list": 100,
-   "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E3%80%8B%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F%E7%BD%91%E5%8F%8B%E7%96%AF%E7%8B%82%E6%8F%90%E5%90%8D",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #8 → #8 → #8 → #8 → #8",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:25 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:38 AM ET"
-   ]
-  },
-  {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "创业板指跌超4% 超4900只个股下跌",
-   "title_en": "The entrepreneurship board dropped over 4%, over 4,900 shares.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 10,
-   "first_seen_et": "Nov 25, 2:20 AM ET",
-   "last_seen_et": "Nov 25, 2:50 AM ET",
-   "first_missing_et": "Nov 25, 2:55 AM ET",
-   "minutes_on_list": 30,
-   "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%854%25+%E8%B6%854900%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8B%E8%B7%8C",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #10, last ranks #10 → #10 → #10 → #10 → #10 → #10",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 7:23 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:03 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #9 → #9 → #7 → #7 → #7 → #7"
    ]
   }
  ]

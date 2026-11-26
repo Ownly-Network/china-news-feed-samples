@@ -1,5 +1,5 @@
 {
- "count": 9,
+ "count": 10,
  "date": "2026-11-25",
  "items": [
   {
@@ -242,6 +242,33 @@
    "title_en": "The international oil prices suddenly rose in a straight line.",
    "title_zh": "国际油价突然直线拉升",
    "url": "https://www.toutiao.com/trending/7712100648452588041/"
+  },
+  {
+   "day": "2026-11-25",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #2 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:30 PM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 9:36 PM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 25, 7:35 PM ET",
+   "first_missing_iso": "2026-11-25T19:35:00-05:00",
+   "first_seen_et": "Nov 25, 6:15 PM ET",
+   "key": "toutiao|美股：道指抹去千点跌幅翻红|2026-11-25T19:35:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 25, 7:30 PM ET",
+   "minutes_on_list": 75,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 1,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-197b67897161",
+   "title_en": "U.S. stock: The dowd finger is wiped out by a thousand points.",
+   "title_zh": "美股：道指抹去千点跌幅翻红",
+   "url": "https://www.toutiao.com/trending/7712248536632397362/"
   }
  ]
 }
