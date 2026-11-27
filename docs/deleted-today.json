@@ -1,13 +1,13 @@
 {
- "generated_at_et": "2026-11-26 14:27 ET",
+ "generated_at_et": "2026-11-26 18:14 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
  "count": 4,
  "cut": {
-  "flagged": 61,
+  "flagged": 62,
   "came back once before": 1,
-  "gone under 60 min": 1,
+  "gone under 60 min": 2,
   "not in the top 10 when it left": 28,
   "slid down before leaving": 0,
   "on the list a normal length of time": 14,
@@ -60,8 +60,32 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
+     "url": "https://www.youtube.com/watch?v=BLHFlybtsxU",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 新唐人 NTD Chinese",
+     "url": "https://www.youtube.com/shorts/tOYHFe85hjA",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "YouTube: 新唐人 NTD Chinese",
      "url": "https://www.youtube.com/shorts/py7F8qzQX-w",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "DW Chinese 德国之声",
+     "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/news/china/story20261127-10064791",
      "published": null
     },
     {
@@ -84,26 +108,8 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "The News Lens 關鍵評論網",
-     "url": "https://www.thenewslens.com/article/271332",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-12",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
-     "url": "https://www.youtube.com/watch?v=BLHFlybtsxU",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 新唐人 NTD Chinese",
-     "url": "https://www.youtube.com/shorts/tOYHFe85hjA",
+     "source": "NTD 新唐人電視台",
+     "url": "https://www.ntdtv.com/b5/2026/11/26/a104154040.html",
      "published": null
     },
     {
@@ -114,8 +120,14 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "DW Chinese 德国之声",
-     "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf",
+     "source": "YouTube: 蔡慎坤說 Cai Shenkun",
+     "url": "https://www.youtube.com/watch?v=WbIUDiEnLfU",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 靖遠開講 唐靖遠 Tang Jingyuan",
+     "url": "https://www.youtube.com/watch?v=TXEbjsM496o",
      "published": null
     },
     {
