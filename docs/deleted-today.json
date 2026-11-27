@@ -1,23 +1,23 @@
 {
- "generated_at_et": "2026-11-26 18:14 ET",
+ "generated_at_et": "2026-11-26 20:14 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 4,
+ "count": 3,
  "cut": {
-  "flagged": 62,
+  "flagged": 61,
   "came back once before": 1,
   "gone under 60 min": 2,
-  "not in the top 10 when it left": 28,
+  "not in the top 10 when it left": 30,
   "slid down before leaving": 0,
   "on the list a normal length of time": 14,
   "inside the list's normal rotation": 0,
   "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 5,
+  "left with other flagged topics (batch drop)": 4,
   "retitled": 1,
   "topic still on the list": 3,
-  "same story as a kept item": 1,
-  "kept": 4
+  "same story as a kept item": 0,
+  "kept": 3
  },
  "items": [
   {
@@ -60,12 +60,6 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
-     "url": "https://www.youtube.com/watch?v=BLHFlybtsxU",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
      "source": "YouTube: 新唐人 NTD Chinese",
      "url": "https://www.youtube.com/shorts/tOYHFe85hjA",
      "published": null
@@ -78,14 +72,8 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "DW Chinese 德国之声",
-     "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/news/china/story20261127-10064791",
+     "source": "Mingjing News 明鏡網",
+     "url": "https://www.youtube.com/watch",
      "published": null
     },
     {
@@ -108,8 +96,14 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "NTD 新唐人電視台",
-     "url": "https://www.ntdtv.com/b5/2026/11/26/a104154040.html",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-12",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
+     "url": "https://www.youtube.com/watch?v=BLHFlybtsxU",
      "published": null
     },
     {
@@ -120,14 +114,26 @@
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 蔡慎坤說 Cai Shenkun",
-     "url": "https://www.youtube.com/watch?v=WbIUDiEnLfU",
+     "source": "DW Chinese 德国之声",
+     "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf",
      "published": null
     },
     {
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 靖遠開講 唐靖遠 Tang Jingyuan",
-     "url": "https://www.youtube.com/watch?v=TXEbjsM496o",
+     "source": "YouTube: 新唐人 NTD Chinese",
+     "url": "https://www.youtube.com/watch?v=hw0mqNy2zoI",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "RFI Chinese 法广",
+     "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261126-%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC-%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%A7%E6%94%BF%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%94%BF%E6%B2%BB%E5%BF%A0%E8%AF%9A%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B",
+     "published": null
+    },
+    {
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "source": "Lianhe Zaobao 联合早报",
+     "url": "https://www.zaobao.com.sg/news/china/story20261127-10064791?ref=today-news-section-card-6",
      "published": null
     },
     {
@@ -148,28 +154,6 @@
      "url": "https://t.me/NTDChinese/87583",
      "published": null
     }
-   ]
-  },
-  {
-   "platform": "toutiao",
-   "platform_name": "Toutiao 今日头条",
-   "title_zh": "美股：道指抹去千点跌幅翻红",
-   "title_en": "U.S. stock: The dowd finger is wiped out by a thousand points.",
-   "label": "Dropped off",
-   "label_zh": "已下榜",
-   "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 25, 6:15 PM ET",
-   "last_seen_et": "Nov 25, 7:30 PM ET",
-   "first_missing_et": "Nov 25, 7:35 PM ET",
-   "minutes_on_list": 75,
-   "url": "https://www.toutiao.com/trending/7712248536632397362/",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
-   "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #2 → #2 → #2 → #2 → #2 → #2",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 8:30 PM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 25, 9:36 PM ET"
    ]
   },
   {

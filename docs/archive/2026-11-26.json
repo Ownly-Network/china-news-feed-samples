@@ -55,12 +55,6 @@
     },
     {
      "published": null,
-     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.youtube.com/watch?v=BLHFlybtsxU"
-    },
-    {
-     "published": null,
      "source": "YouTube: 新唐人 NTD Chinese",
      "type": "Still covered elsewhere 其他来源仍有报道",
      "url": "https://www.youtube.com/shorts/tOYHFe85hjA"
@@ -73,15 +67,9 @@
     },
     {
      "published": null,
-     "source": "DW Chinese 德国之声",
+     "source": "Mingjing News 明鏡網",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf"
-    },
-    {
-     "published": null,
-     "source": "Lianhe Zaobao 联合早报",
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.zaobao.com.sg/news/china/story20261127-10064791"
+     "url": "https://www.youtube.com/watch"
     },
     {
      "published": null,
@@ -103,9 +91,15 @@
     },
     {
      "published": null,
-     "source": "NTD 新唐人電視台",
+     "source": "Lianhe Zaobao 联合早报",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.ntdtv.com/b5/2026/11/26/a104154040.html"
+     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-12"
+    },
+    {
+     "published": null,
+     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.youtube.com/watch?v=BLHFlybtsxU"
     },
     {
      "published": null,
@@ -115,15 +109,27 @@
     },
     {
      "published": null,
-     "source": "YouTube: 蔡慎坤說 Cai Shenkun",
+     "source": "DW Chinese 德国之声",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.youtube.com/watch?v=WbIUDiEnLfU"
+     "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf"
     },
     {
      "published": null,
-     "source": "YouTube: 靖遠開講 唐靖遠 Tang Jingyuan",
+     "source": "YouTube: 新唐人 NTD Chinese",
      "type": "Still covered elsewhere 其他来源仍有报道",
-     "url": "https://www.youtube.com/watch?v=TXEbjsM496o"
+     "url": "https://www.youtube.com/watch?v=hw0mqNy2zoI"
+    },
+    {
+     "published": null,
+     "source": "RFI Chinese 法广",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261126-%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC-%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%A7%E6%94%BF%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%94%BF%E6%B2%BB%E5%BF%A0%E8%AF%9A%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B"
+    },
+    {
+     "published": null,
+     "source": "Lianhe Zaobao 联合早报",
+     "type": "Still covered elsewhere 其他来源仍有报道",
+     "url": "https://www.zaobao.com.sg/news/china/story20261127-10064791?ref=today-news-section-card-6"
     },
     {
      "published": null,
