@@ -34,19 +34,7 @@
    "evidence": [
     "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #4",
     "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:10 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:20 AM ET",
-    {
-     "published": "2026-11-27",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E5%85%A8%E9%9D%A2%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top"
-    },
-    {
-     "published": "2026-11-27",
-     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
-     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
-     "url": "https://s.weibo.com//weibo?q=%23A%E8%82%A1%E5%8F%88%E7%88%86%E5%8F%91%23&t=31&band_rank=17&Refer=top"
-    }
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:20 AM ET"
    ],
    "evidence_strength": "standard",
    "first_missing_et": "Nov 27, 2:15 AM ET",
