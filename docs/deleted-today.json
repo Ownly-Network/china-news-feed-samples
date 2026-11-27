@@ -1,203 +1,127 @@
 {
- "generated_at_et": "2026-11-26 20:14 ET",
+ "generated_at_et": "2026-11-27 08:24 ET",
  "window_hours": 24,
  "label": "dropped off (likely censored when there is hard evidence)",
  "note": "Left a hot list from the top 10 without sliding, early for that list, still gone 1 h later. A signal, not proof. Items with hard evidence are labeled Likely censored; the rest Dropped off.",
- "count": 3,
+ "count": 4,
  "cut": {
-  "flagged": 61,
-  "came back once before": 1,
-  "gone under 60 min": 2,
-  "not in the top 10 when it left": 30,
+  "flagged": 76,
+  "came back once before": 2,
+  "gone under 60 min": 4,
+  "not in the top 10 when it left": 34,
   "slid down before leaving": 0,
-  "on the list a normal length of time": 14,
+  "on the list a normal length of time": 21,
   "inside the list's normal rotation": 0,
   "still on another hot list": 3,
-  "left with other flagged topics (batch drop)": 4,
+  "left with other flagged topics (batch drop)": 3,
   "retitled": 1,
-  "topic still on the list": 3,
+  "topic still on the list": 4,
   "same story as a kept item": 0,
-  "kept": 3
+  "kept": 4
  },
  "items": [
   {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "陈吉宁落马5天前曾现身",
-   "title_en": "Chen Gining showed up five days ago.",
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "机构：A股明年或迎春天",
+   "title_en": "Agency: Unit A next year or spring",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 1,
-   "first_seen_et": "Nov 26, 1:20 AM ET",
-   "last_seen_et": "Nov 26, 2:40 AM ET",
-   "first_missing_et": "Nov 26, 2:45 AM ET",
-   "minutes_on_list": 80,
-   "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC5%E5%A4%A9%E5%89%8D%E6%9B%BE%E7%8E%B0%E8%BA%AB",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 27, 2:05 AM ET",
+   "last_seen_et": "Nov 27, 2:50 AM ET",
+   "first_missing_et": "Nov 27, 2:55 AM ET",
+   "minutes_on_list": 45,
+   "url": "https://www.toutiao.com/trending/7712680341081899547/",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #1, last ranks #1 → #1 → #1 → #1 → #1 → #1",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:19 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:24 AM ET",
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:20 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:29 AM ET"
+   ]
+  },
+  {
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "A股午后爆发",
+   "title_en": "The A unit broke out after noon.",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "evidence_strength": "standard",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 27, 12:55 AM ET",
+   "last_seen_et": "Nov 27, 2:10 AM ET",
+   "first_missing_et": "Nov 27, 2:15 AM ET",
+   "minutes_on_list": 75,
+   "url": "https://www.toutiao.com/trending/7712319974953680950/",
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:10 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:20 AM ET",
     {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sound of Hope 希望之声",
-     "url": "https://www.soundofhope.org/post/950970",
-     "published": null
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E5%85%A8%E9%9D%A2%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
+     "published": "2026-11-27"
     },
     {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Sound of Hope 希望之声",
-     "url": "https://www.soundofhope.org/post/950841",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 陳破空縱論天下 Chen Pokong",
-     "url": "https://www.youtube.com/shorts/CfDwqlYhUgY",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 新唐人 NTD Chinese",
-     "url": "https://www.youtube.com/shorts/tOYHFe85hjA",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 新唐人 NTD Chinese",
-     "url": "https://www.youtube.com/shorts/py7F8qzQX-w",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Mingjing News 明鏡網",
-     "url": "https://www.youtube.com/watch",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
-     "url": "https://www.youtube.com/watch?v=nFMuPzOwi_E",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 靖遠開講 唐靖遠 Tang Jingyuan",
-     "url": "https://www.youtube.com/watch?v=rU_chqgNn6U",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 王志安 Wang Zhi'an",
-     "url": "https://www.youtube.com/watch?v=Qo68I0Jo69c",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/news/singapore/story20261126-10060091?ref=today-news-section-card-12",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 新聞看點 李沐陽 Li Muyang",
-     "url": "https://www.youtube.com/watch?v=BLHFlybtsxU",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 王志安 Wang Zhi'an",
-     "url": "https://www.youtube.com/shorts/hxEElpTHPJs",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "DW Chinese 德国之声",
-     "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 新唐人 NTD Chinese",
-     "url": "https://www.youtube.com/watch?v=hw0mqNy2zoI",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "RFI Chinese 法广",
-     "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261126-%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC-%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%A7%E6%94%BF%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%94%BF%E6%B2%BB%E5%BF%A0%E8%AF%9A%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Lianhe Zaobao 联合早报",
-     "url": "https://www.zaobao.com.sg/news/china/story20261127-10064791?ref=today-news-section-card-6",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 新唐人電視台 NTD Chinese",
-     "url": "https://t.me/NTDChinese/87554",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "YouTube: 新唐人 NTD Chinese",
-     "url": "https://www.youtube.com/watch?v=nHgWkDk854g",
-     "published": null
-    },
-    {
-     "type": "Still covered elsewhere 其他来源仍有报道",
-     "source": "Telegram: 新唐人電視台 NTD Chinese",
-     "url": "https://t.me/NTDChinese/87583",
-     "published": null
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "url": "https://s.weibo.com//weibo?q=%23A%E8%82%A1%E5%8F%88%E7%88%86%E5%8F%91%23&t=31&band_rank=17&Refer=top",
+     "published": "2026-11-27"
     }
    ]
   },
   {
-   "platform": "baidu",
-   "platform_name": "Baidu 百度",
-   "title_zh": "还我蒋欣脸颊肉",
-   "title_en": "Give me back Chiang Xin's cheek.",
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "油价下跌谁最受伤",
+   "title_en": "Who's the most hurt when oil prices fall?",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 7,
-   "first_seen_et": "Nov 25, 11:05 PM ET",
-   "last_seen_et": "Nov 26, 1:40 AM ET",
-   "first_missing_et": "Nov 26, 1:45 AM ET",
-   "minutes_on_list": 155,
-   "url": "https://www.baidu.com/s?wd=%E8%BF%98%E6%88%91%E8%92%8B%E6%AC%A3%E8%84%B8%E9%A2%8A%E8%82%89",
+   "peak_rank": 2,
+   "first_seen_et": "Nov 27, 1:10 AM ET",
+   "last_seen_et": "Nov 27, 1:45 AM ET",
+   "first_missing_et": "Nov 27, 1:50 AM ET",
+   "minutes_on_list": 35,
+   "url": "https://www.toutiao.com/trending/7712706489739120154/",
    "official_line": "No official comment found",
    "official_line_zh": "未找到官方回应",
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #7, last ranks #9 → #9 → #7 → #7 → #7 → #7",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:14 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 7:15 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #20 → #20 → #4 → #4 → #4 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:09 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:20 AM ET"
    ]
   },
   {
-   "platform": "bilibili",
-   "platform_name": "Bilibili 哔哩哔哩",
-   "title_zh": "人民的贞子为何引发共鸣",
-   "title_en": "Why did the people's Sadako resonate?",
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "title_zh": "立陶宛2天内对台表态连升三级",
+   "title_en": "Lithuania's declaration to stage three in 2 days",
    "label": "Dropped off",
    "label_zh": "已下榜",
    "evidence_strength": "standard",
-   "peak_rank": 8,
-   "first_seen_et": "Nov 26, 6:41 AM ET",
-   "last_seen_et": "Nov 26, 7:23 AM ET",
-   "first_missing_et": "Nov 26, 7:37 AM ET",
-   "minutes_on_list": 42,
-   "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E7%9A%84%E8%B4%9E%E5%AD%90%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%85%B1%E9%B8%A3",
-   "official_line": "No official comment found",
-   "official_line_zh": "未找到官方回应",
+   "peak_rank": 5,
+   "first_seen_et": "Nov 27, 5:20 AM ET",
+   "last_seen_et": "Nov 27, 6:00 AM ET",
+   "first_missing_et": "Nov 27, 6:05 AM ET",
+   "minutes_on_list": 40,
+   "url": "https://www.toutiao.com/trending/7711688340478672938/",
+   "official_line": {
+    "source": "Phoenix 凤凰网",
+    "title": "两天内，立陶宛对台表态连升三级",
+    "url": "https://news.ifeng.com/c/8yOZindNANy",
+    "published": "2026-11-27 15:37:00"
+   },
+   "official_line_zh": null,
    "evidence": [
-    "Dropped off while hot 热度高时突然消失: peak #8, last ranks #8 → #9 → #9 → #9",
-    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 8:17 AM ET",
-    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 26, 8:47 AM ET"
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #6 → #6 → #6 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 8:06 AM ET"
    ]
   }
  ]

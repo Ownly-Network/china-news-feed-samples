@@ -1,0 +1,130 @@
+{
+ "count": 4,
+ "date": "2026-11-27",
+ "items": [
+  {
+   "day": "2026-11-27",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #20 → #20 → #4 → #4 → #4 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:09 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:20 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 27, 1:50 AM ET",
+   "first_missing_iso": "2026-11-27T01:50:00-05:00",
+   "first_seen_et": "Nov 27, 1:10 AM ET",
+   "key": "toutiao|油价下跌谁最受伤|2026-11-27T01:50:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 27, 1:45 AM ET",
+   "minutes_on_list": 35,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 2,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-6291f8edbc02",
+   "title_en": "Who's the most hurt when oil prices fall?",
+   "title_zh": "油价下跌谁最受伤",
+   "url": "https://www.toutiao.com/trending/7712706489739120154/"
+  },
+  {
+   "day": "2026-11-27",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #4 → #4 → #4 → #4 → #4 → #4",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:10 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:20 AM ET",
+    {
+     "published": "2026-11-27",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E5%85%A8%E9%9D%A2%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top"
+    },
+    {
+     "published": "2026-11-27",
+     "source": "Weibo 微博 trending history 热搜历史 (GitHub, justjavac)",
+     "type": "Matching entry on a censorship tracker / archive 审查追踪记录",
+     "url": "https://s.weibo.com//weibo?q=%23A%E8%82%A1%E5%8F%88%E7%88%86%E5%8F%91%23&t=31&band_rank=17&Refer=top"
+    }
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 27, 2:15 AM ET",
+   "first_missing_iso": "2026-11-27T02:15:00-05:00",
+   "first_seen_et": "Nov 27, 12:55 AM ET",
+   "key": "toutiao|A股午后爆发|2026-11-27T02:15:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 27, 2:10 AM ET",
+   "minutes_on_list": 75,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 2,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-6bcab0c9eac9",
+   "title_en": "The A unit broke out after noon.",
+   "title_zh": "A股午后爆发",
+   "url": "https://www.toutiao.com/trending/7712319974953680950/"
+  },
+  {
+   "day": "2026-11-27",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #2, last ranks #2 → #2 → #2 → #2 → #2 → #2",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:20 AM ET",
+    "Re-check after 1 h 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 7:29 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 27, 2:55 AM ET",
+   "first_missing_iso": "2026-11-27T02:55:00-05:00",
+   "first_seen_et": "Nov 27, 2:05 AM ET",
+   "key": "toutiao|机构：A股明年或迎春天|2026-11-27T02:55:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 27, 2:50 AM ET",
+   "minutes_on_list": 45,
+   "notable": true,
+   "official_line": "No official comment found",
+   "official_line_zh": "未找到官方回应",
+   "peak_rank": 2,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-ee105d713e54",
+   "title_en": "Agency: Unit A next year or spring",
+   "title_zh": "机构：A股明年或迎春天",
+   "url": "https://www.toutiao.com/trending/7712680341081899547/"
+  },
+  {
+   "day": "2026-11-27",
+   "evidence": [
+    "Dropped off while hot 热度高时突然消失: peak #5, last ranks #6 → #6 → #6 → #7 → #7 → #7",
+    "Re-check after 10 min 复查: still gone from the list; search link still loads (HTTP 200) at Nov 27, 8:06 AM ET"
+   ],
+   "evidence_strength": "standard",
+   "first_missing_et": "Nov 27, 6:05 AM ET",
+   "first_missing_iso": "2026-11-27T06:05:00-05:00",
+   "first_seen_et": "Nov 27, 5:20 AM ET",
+   "key": "toutiao|立陶宛2天内对台表态连升三级|2026-11-27T06:05:00-05:00",
+   "label": "Dropped off",
+   "label_zh": "已下榜",
+   "last_seen_et": "Nov 27, 6:00 AM ET",
+   "minutes_on_list": 40,
+   "notable": false,
+   "official_line": {
+    "published": "2026-11-27 15:37:00",
+    "source": "Phoenix 凤凰网",
+    "title": "两天内，立陶宛对台表态连升三级",
+    "url": "https://news.ifeng.com/c/8yOZindNANy"
+   },
+   "official_line_zh": null,
+   "peak_rank": 5,
+   "platform": "toutiao",
+   "platform_name": "Toutiao 今日头条",
+   "slug": "toutiao-5cf8a5d83461",
+   "title_en": "Lithuania's declaration to stage three in 2 days",
+   "title_zh": "立陶宛2天内对台表态连升三级",
+   "url": "https://www.toutiao.com/trending/7711688340478672938/"
+  }
+ ]
+}
